@@ -3,7 +3,7 @@
 Traducere neoficială, făcută de fani, a textului din **Assassin's Creed Shadows** (jocul de bază, versiunea 1.1.13):
 meniuri, misiuni și obiective, iteme și abilități, codex, scrisori și subtitrări. Vocea rămâne cea originală.
 
-**Descarcă mod-ul:** Nexus Mods: NEXUS_URL
+**Descarcă mod-ul:** Nexus Mods: https://www.nexusmods.com/assassinscreedshadows/mods/279
 
 Acest repository e locul unde **oricine poate corecta traducerea**: o replică ciudată, un termen tradus greșit,
 o formulare care nu sună românește. Corecturile acceptate intră în următoarea versiune a mod-ului.
@@ -16,6 +16,12 @@ o formulare care nu sună românește. Corecturile acceptate intră în următoa
 
 Dezinstalare: ștergi `DataPC_boot_patch_03.forge`. Mod-ul nu e compatibil cu alte moduri care folosesc tot
 `DataPC_boot_patch_03.forge`. După un update al jocului, s-ar putea să fie nevoie de o versiune nouă a mod-ului.
+
+## Claws of Awaji și alte jocuri
+
+Expansiunea **Claws of Awaji** nu e inclusă: are fișierele ei separate, iar eu nu o am. Dacă vrei s-o traduc, mi-o
+poți face cadou pe [Steam](https://steamcommunity.com/profiles/76561199120542317). La fel, dacă vrei alt joc tradus în
+română, scrie-mi pe Nexus în comentarii. Nu e obligatoriu: traducerile rămân gratuite.
 
 ## Cum ajuți
 
