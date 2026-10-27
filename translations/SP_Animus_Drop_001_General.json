@@ -1,0 +1,91 @@
+{
+ "package": "SP_Animus_Drop_001_en-US_General",
+ "data_id": "00000230FFE4BB88",
+ "entries": [
+  {
+   "id": 12430034367799309756,
+   "en": "Attempt to Breach",
+   "ro": "Încercare de spargere"
+  },
+  {
+   "id": 12432561228618166116,
+   "en": "Combat protocol for Naoe avatar inactive. Stealth enabled.",
+   "ro": "Protocolul de luptă pentru avatarul Naoe e inactiv. Furiș activat."
+  },
+  {
+   "id": 12435665561610546982,
+   "en": "Adopt Yasuke's form",
+   "ro": "Adoptă forma lui Yasuke"
+  },
+  {
+   "id": 12435812502535883559,
+   "en": "Find the Rift",
+   "ro": "Găsește fisura"
+  },
+  {
+   "id": 12437732741683908843,
+   "en": "Sentinel A-Ser.0751",
+   "ro": "Sentinela A-Ser.0751"
+  },
+  {
+   "id": 12438944122786691148,
+   "en": "Adopt Naoe's form",
+   "ro": "Adoptă forma lui Naoe"
+  },
+  {
+   "id": 12440407496107270274,
+   "en": "Enter the Rift",
+   "ro": "Intră în fisură"
+  },
+  {
+   "id": 12440594581027689071,
+   "en": "Interact with the Feather to freely switch to Yasuke or Naoe",
+   "ro": "Interacționează cu Pana ca să schimbi liber între Yasuke și Naoe."
+  },
+  {
+   "id": 12441313840656888082,
+   "en": "AS/Protocol 673/BR\n\n[REDACTED],\n\nI’m not sure what to call this place. It is a Rift in the Animus, but the Genetic Memory data is fragmented. The terrain, the soldiers standing watch, it is all taken from the material of Memories. It is clear that the Program has grown beyond the bounds of what anyone at Abstergo could have imagined. This is the deepest any of us have traveled into her construction, but I will soon be detected. The Program is guarding something here. Something important. Another Program? An agent of another Program? She has caged it in a storm the color of... anger? Fear? We are not the only enemy she is battling.",
+   "ro": "AS/Protocol 673/BR\n\n[REDACTED],\n\nNu sunt sigur cum să numesc locul acesta. Este o Fisură în Animus, dar datele Memoriei genetice sunt fragmentate. Terenul, soldații care stau de pază, totul este luat din materialul Amintirilor. E clar că Programul a depășit tot ce și-ar fi putut imagina cineva de la Abstergo. Este cel mai adânc unde a ajuns vreunul dintre noi în construcția ei, dar în curând o să fiu detectat. Programul păzește aici ceva. Ceva important. Un alt Program? Un agent al unui alt Program? Ea l-a închis într-o furtună de culoarea... furiei? Fricii? Nu suntem singurii inamici cu care se luptă."
+  },
+  {
+   "id": 12441787580941582050,
+   "en": "Naoe Avatar's Abilities",
+   "ro": "Abilitățile avatarului Naoe"
+  },
+  {
+   "id": 12441995555973081049,
+   "en": "Sentinel B-Ser.0197",
+   "ro": "Sentinela B-Ser.0197"
+  },
+  {
+   "id": 12442652799804723470,
+   "en": "RE Damage Survey",
+   "ro": "Sondaj privind daunele RE"
+  },
+  {
+   "id": 12445680492044418072,
+   "en": "Collect the Shards",
+   "ro": "Colectează fragmentele"
+  },
+  {
+   "id": 12446039729887543023,
+   "en": "Chained",
+   "ro": "Înlănțuit"
+  },
+  {
+   "id": 12446878631975409244,
+   "en": "In our effort to catalog the damage from the Collapse, we have stumbled upon what appears to be a rift. We are standing in the crater left by a bomb. But the Program has made the rift into some sort of hiding place or cage. As a result of the attack on the Animus data servers, I believe we are no longer dealing with a singular Program but one fractured into several parts. Whatever virus infiltrated our code is hidden here. I’m sure of it. Of all the strange sounds in this place, one stands out: the cry of an eagle.",
+   "ro": "În efortul nostru de a cataloga daunele provocate de Prăbușire, am dat peste ceea ce pare a fi o fisură. Stăm în craterul lăsat de o bombă. Dar Programul a transformat fisura într-un fel de ascunzătoare sau cușcă. Din cauza atacului asupra serverelor de date Animus, cred că nu mai avem de-a face cu un singur Program, ci cu unul fragmentat în mai multe părți. Orice virus s-a infiltrat în codul nostru este ascuns aici. Sunt sigur de asta. Dintre toate sunetele ciudate din locul acesta, unul iese în evidență: strigătul unui vultur."
+  },
+  {
+   "id": 12446958779521438034,
+   "en": "The Guide beckons. Their companion has been imprisoned by EGO. Free him.",
+   "ro": "Ghidul te cheamă. Însoțitorul lui a fost închis de EGO. Eliberează-l."
+  },
+  {
+   "id": 12447333633075669070,
+   "en": "Breach",
+   "ro": "Spargere"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "package": "FUNC_CastleRespawn_en-US_General",
+ "data_id": "0000023092E3470E",
+ "entries": [
+  {
+   "id": 12431554986701572122,
+   "en": "The [TX_LegendaryChest] corrupted chest is available to loot.",
+   "ro": "Lada coruptă [TX_LegendaryChest] poate fi jefuită."
+  },
+  {
+   "id": 12432422728120505380,
+   "en": "Castle Recalibration",
+   "ro": "Recalibrarea castelului"
+  },
+  {
+   "id": 12434231366019983493,
+   "en": "OPTIONAL",
+   "ro": "OPȚIONAL"
+  },
+  {
+   "id": 12434900316694329541,
+   "en": "Defeat all Corrupted Daisho",
+   "ro": "Învinge toate daishō corupte"
+  },
+  {
+   "id": 12439075216324906403,
+   "en": "Optional Objective",
+   "ro": "Obiectiv opțional"
+  },
+  {
+   "id": 12440575523704291395,
+   "en": "Corrupted Daisho",
+   "ro": "Daishō corupte"
+  },
+  {
+   "id": 12442806520673790762,
+   "en": "MU5DME0xTjZEME00MU40QzcxVjQ3MTBO",
+   "ro": "MU5DME0xTjZEME00MU40QzcxVjQ3MTBO"
+  },
+  {
+   "id": 12442914512595179983,
+   "en": "Stabilize Corrupted Castles",
+   "ro": "Stabilizează castelele corupte"
+  },
+  {
+   "id": 12443291179950317010,
+   "en": "[NumberTag1]/[NumberTag2] [TX_Ichimon] Corrupted Daisho killed.",
+   "ro": "[NumberTag1]/[NumberTag2] [TX_Ichimon] Daishō corupte ucise."
+  },
+  {
+   "id": 12444601815900832639,
+   "en": "Defeat the Corrupted Daisho",
+   "ro": "Învinge daishō-urile corupte"
+  },
+  {
+   "id": 12444755786575699123,
+   "en": "There is a logic breakdown around this [TX_GlitchedCastle] Corrupted Castle. Resolve the instability to get [TX_Masterwork] Gold.",
+   "ro": "Există o defecțiune logică în jurul acestui Castel corupt [TX_GlitchedCastle] . Rezolvă instabilitatea ca să obții [TX_Masterwork] Aur."
+  },
+  {
+   "id": 12445211849062481995,
+   "en": "Modifiers",
+   "ro": "Modificatori"
+  },
+  {
+   "id": 12447854661427759362,
+   "en": "Corrupted Castles",
+   "ro": "Castele corupte"
+  }
+ ]
+}

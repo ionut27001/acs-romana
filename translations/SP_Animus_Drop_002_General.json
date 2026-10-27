@@ -1,0 +1,31 @@
+{
+ "package": "SP_Animus_Drop_002_en-US_General",
+ "data_id": "00000230FFE4BBAA",
+ "entries": [
+  {
+   "id": 12434225214295785834,
+   "en": "Follow the Eagle into the Rift in search of the Guide.",
+   "ro": "Urmărește Vulturul prin Fisură, ca să-l găsești pe Ghid."
+  },
+  {
+   "id": 12436698948211862343,
+   "en": "Avatar functionality has been corrupted. Cleanse corruption source or exit area.",
+   "ro": "Funcționalitatea avatarului e coruptă. Purifică sursa corupției sau părăsește zona."
+  },
+  {
+   "id": 12439546295787288981,
+   "en": "Lost and Found",
+   "ro": "Pierdut și găsit"
+  },
+  {
+   "id": 12446875265506255744,
+   "en": "Use the Eagle's feathers to cleanse the corruption",
+   "ro": "Folosește penele Vulturului ca să purifici corupția"
+  },
+  {
+   "id": 12447003072058182982,
+   "en": "Avatar Corruption",
+   "ro": "Corupția avatarului"
+  }
+ ]
+}

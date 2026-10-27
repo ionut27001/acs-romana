@@ -1,0 +1,11 @@
+{
+ "package": "FUNC_LevelCapForge_en-US_General",
+ "data_id": "000002396C76A1C0",
+ "entries": [
+  {
+   "id": 12440381841629824296,
+   "en": "Weapons, Armor, and Trinkets can be upgraded to [BOLD_BEGIN]level {NumberTag}[BOLD_END].",
+   "ro": "Armele, Armurile și Mărunțișurile pot fi îmbunătățite până la [BOLD_BEGIN]nivelul {NumberTag}[BOLD_END]."
+  }
+ ]
+}

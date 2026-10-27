@@ -1,0 +1,156 @@
+{
+ "package": "MTX_LiveProject06_en-US_General",
+ "data_id": "0000023B24CB4275",
+ "entries": [
+  {
+   "id": 12430110399373704890,
+   "en": "Memento Licere",
+   "ro": "Memento Licere"
+  },
+  {
+   "id": 12431407397475111154,
+   "en": "The perfect tool to take prizes and plunder.",
+   "ro": "Unealta perfectă ca să strângi pradă și să jefuiești."
+  },
+  {
+   "id": 12431810894567372896,
+   "en": "Momentum Power",
+   "ro": "Puterea impulsului"
+  },
+  {
+   "id": 12432045344913994418,
+   "en": "+{NumberTag}% damage with Melee for {NumberTag2} seconds on hit with Ranged Attacks",
+   "ro": "+{NumberTag}% daune cu armele corp la corp timp de {NumberTag2} secunde după lovirea cu atacuri la distanță"
+  },
+  {
+   "id": 12433530232701862061,
+   "en": "Pirate King Hat",
+   "ro": "Pălăria regelui piraților"
+  },
+  {
+   "id": 12434207735017525819,
+   "en": "After Teppo Tempo, press [CT_AlternateAttack] to chain up to {NumberTag} additional shots",
+   "ro": "După Teppō Ritmul, apasă [CT_AlternateAttack] ca să înlănțui până la {NumberTag} lovituri suplimentare"
+  },
+  {
+   "id": 12435444887085394953,
+   "en": "Become the king of the high seas and usher in a new Golden Age.",
+   "ro": "Devino regele mărilor și deschide o nouă Epocă de Aur."
+  },
+  {
+   "id": 12435452344092403110,
+   "en": "This blade may not make you any friends, but at least you won't have any enemies either.",
+   "ro": "Lama asta poate că nu-ți face prieteni, dar măcar n-o să ai nici dușmani."
+  },
+  {
+   "id": 12436329029434304784,
+   "en": "+{NumberTag}% damage on Close Range enemies with Ranged weapons",
+   "ro": "+{NumberTag}% daune asupra inamicilor aflați aproape, cu arme la distanță"
+  },
+  {
+   "id": 12438109146707899459,
+   "en": "Pickpocket enemies on Takedown",
+   "ro": "Jefuiește buzunarele inamicilor la eliminare"
+  },
+  {
+   "id": 12438117984289241069,
+   "en": "Sticky Hands",
+   "ro": "Mâini lipicioase"
+  },
+  {
+   "id": 12438816592565371355,
+   "en": "Dangerous Proximity",
+   "ro": "Apropiere periculoasă"
+  },
+  {
+   "id": 12438898514164496680,
+   "en": "Pickpocket enemies on Grab",
+   "ro": "Jefuiește buzunarele inamicilor la apucare"
+  },
+  {
+   "id": 12440035698485842066,
+   "en": "Hitting an unaware enemy with a shuriken puts them to sleep",
+   "ro": "Lovirea unui inamic neatent cu un shuriken îl face să adoarmă"
+  },
+  {
+   "id": 12440227704792877045,
+   "en": "Edward Kenway's Hood",
+   "ro": "Gluga lui Edward Kenway"
+  },
+  {
+   "id": 12440350493833785835,
+   "en": "Pirate King Blunderbuss",
+   "ro": "Archebuza regelui piraților"
+  },
+  {
+   "id": 12441344470412499288,
+   "en": "Kenway Cutlass",
+   "ro": "Sabia Kenway"
+  },
+  {
+   "id": 12442185243565341463,
+   "en": "Become a legendary pirate captain in style.",
+   "ro": "Devino un căpitan de pirați legendar, cu stil."
+  },
+  {
+   "id": 12442547227819657702,
+   "en": "Pirate King Outfit",
+   "ro": "Ținuta regelui piraților"
+  },
+  {
+   "id": 12442616992123464911,
+   "en": "Counterattacks knock down enemies",
+   "ro": "Contraatacurile doboară inamicii"
+  },
+  {
+   "id": 12443213081218377997,
+   "en": "Improvised Blowpipe",
+   "ro": "Suflătoare improvizată"
+  },
+  {
+   "id": 12443517101789598935,
+   "en": "There is irony in a robber that gets robbed in return.",
+   "ro": "Există o ironie într-un hoț care e jefuit la rândul lui."
+  },
+  {
+   "id": 12444183688209106611,
+   "en": "+{NumberTag}% of an Adrenaline Chunk on Ground Attack",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină la Atacul la sol"
+  },
+  {
+   "id": 12444923843196572183,
+   "en": "Teppo Kata",
+   "ro": "Kata teppō"
+  },
+  {
+   "id": 12445152828997275528,
+   "en": "Sweeping Attack",
+   "ro": "Atac circular"
+  },
+  {
+   "id": 12445406857622994871,
+   "en": "Edward Kenway's Robes",
+   "ro": "Veșmintele lui Edward Kenway"
+  },
+  {
+   "id": 12445472148681810623,
+   "en": "Tales of the Jackdaw",
+   "ro": "Povești de pe Jackdaw"
+  },
+  {
+   "id": 12445923756284084684,
+   "en": "Raise your hood and let the wind fill your sails.",
+   "ro": "Trage gluga pe cap și lasă vântul să-ți umfle pânzele."
+  },
+  {
+   "id": 12446542874448844190,
+   "en": "Energizing Strike",
+   "ro": "Lovitură revigorantă"
+  },
+  {
+   "id": 12447805106804942407,
+   "en": "Memento Licere",
+   "ro": "Memento Licere"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "package": "SP_Animus_Drop_003_en-US_General",
+ "data_id": "00000235D1142153",
+ "entries": [
+  {
+   "id": 12433680063696118039,
+   "en": "Aim with [CT_Aim] and use [CT_BowFire] to throw a Chinese Grenade",
+   "ro": "Ochește cu [CT_Aim] și folosește [CT_BowFire] ca să arunci o Grenadă chinezească"
+  },
+  {
+   "id": 12433808668247886924,
+   "en": "Combat protocols for Naoe Avatar inactive. Stealth enabled.",
+   "ro": "Protocoalele de luptă ale avatarului Naoe sunt inactive. Furiș activat."
+  },
+  {
+   "id": 12436225727070117798,
+   "en": "The Eagle can reach high places that you cannot. Use [CT_MovementForward] to assemble the anchor memories.",
+   "ro": "Vulturul poate ajunge în locuri înalte, unde tu nu poți. Folosește [CT_MovementForward] ca să asamblezi amintirile-ancoră."
+  },
+  {
+   "id": 12437128369780249052,
+   "en": "The Guide needs help with what may be their final stand against Ego.",
+   "ro": "Ghidul are nevoie de ajutor pentru ce ar putea fi ultima lui împotrivire față de Ego."
+  },
+  {
+   "id": 12440708136283898231,
+   "en": "Black Flag",
+   "ro": "Black Flag"
+  },
+  {
+   "id": 12442339419642975282,
+   "en": "Hover",
+   "ro": "Plutește"
+  },
+  {
+   "id": 12442524463037507449,
+   "en": "Move in the opposite direction",
+   "ro": "Mergi în direcția opusă"
+  },
+  {
+   "id": 12442912103445987877,
+   "en": "Movement",
+   "ro": "Mișcare"
+  },
+  {
+   "id": 12443409895232393996,
+   "en": "This time-displaced flag defies history and may ignite your desire to defy empires.",
+   "ro": "Steagul ăsta, scos din timpul lui, contrazice istoria și ți-ar putea aprinde dorința de a te împotrivi imperiilor."
+  },
+  {
+   "id": 12445130564763134567,
+   "en": "Horizon",
+   "ro": "Orizont"
+  },
+  {
+   "id": 12446268428873118476,
+   "en": "Boost",
+   "ro": "Accelerare"
+  },
+  {
+   "id": 12447128418618588496,
+   "en": "Override",
+   "ro": "Suprascrie"
+  },
+  {
+   "id": 12447247374034210430,
+   "en": "Exit",
+   "ro": "Ieșire"
+  }
+ ]
+}

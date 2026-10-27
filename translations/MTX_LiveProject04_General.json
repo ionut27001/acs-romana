@@ -1,0 +1,106 @@
+{
+ "package": "MTX_LiveProject04_en-US_General",
+ "data_id": "00000233D7D641E9",
+ "entries": [
+  {
+   "id": 12430173900862463603,
+   "en": "Do not fear the darkness, but welcome its embrace.",
+   "ro": "Nu te teme de întuneric, ci primește-i îmbrățișarea."
+  },
+  {
+   "id": 12430228854042079557,
+   "en": "Charm of Firenze",
+   "ro": "Talismanul Florenței"
+  },
+  {
+   "id": 12431857106919295700,
+   "en": "Press [CT_AlternateAttack] to remove 1 Health Segment in area after Rush Assassinate",
+   "ro": "Apasă [CT_AlternateAttack] ca să elimini 1 segment de sănătate în zona de după Asasinat rapid"
+  },
+  {
+   "id": 12432033832977868545,
+   "en": "Echoes of the Fallen",
+   "ro": "Ecourile celor căzuți"
+  },
+  {
+   "id": 12432999959913218815,
+   "en": "With enemies ever in pursuit, you'd better be sharp.",
+   "ro": "Cu inamicii mereu pe urmele tale, mai bine ești atent."
+  },
+  {
+   "id": 12434379172554594844,
+   "en": "This cat possesses surprisingly spectacular parkour skills.",
+   "ro": "Pisica asta are abilități de parkour surprinzător de spectaculoase."
+  },
+  {
+   "id": 12434903131512931376,
+   "en": "Grace of the Auditore",
+   "ro": "Harul Auditorilor"
+  },
+  {
+   "id": 12434966632458782362,
+   "en": "Olive",
+   "ro": "Măsliniu"
+  },
+  {
+   "id": 12435957525933922886,
+   "en": "Renaissance Robes",
+   "ro": "Veșminte renascentiste"
+  },
+  {
+   "id": 12437174808277431850,
+   "en": "Meticulous Boon",
+   "ro": "Binecuvântare meticuloasă"
+  },
+  {
+   "id": 12437747222041803639,
+   "en": "Rooftop Cat",
+   "ro": "Pisica de pe acoperiș"
+  },
+  {
+   "id": 12438371737430907953,
+   "en": "Eagle Head",
+   "ro": "Capul de vultur"
+  },
+  {
+   "id": 12440892850608763808,
+   "en": "Renaissance Hood",
+   "ro": "Glugă renascentistă"
+  },
+  {
+   "id": 12441508166403411562,
+   "en": "These robes are tailored with noble precision, and protected by legacy.",
+   "ro": "Aceste veșminte sunt croite cu precizie nobilă și protejate de moștenire."
+  },
+  {
+   "id": 12441550451377216901,
+   "en": "Remove 1 Health Segment on next hit after Perfect Deflect",
+   "ro": "Elimină 1 segment de sănătate la următoarea lovitură după ce parezi perfect"
+  },
+  {
+   "id": 12441731165992089560,
+   "en": "+{NumberTag}% of an Adrenaline Chunk when killing an enemy using a tool",
+   "ro": "+{NumberTag}% dintr-o bucată de adrenalină la uciderea unui inamic cu un instrument"
+  },
+  {
+   "id": 12442706572585071573,
+   "en": "If you hear scurrying paws moving from roof to roof, this justice-seeking cat is on the hunt.",
+   "ro": "Dacă auzi lăbuțe grăbite sărind de pe un acoperiș pe altul, înseamnă că pisica asta justițiară e pe vânătoare."
+  },
+  {
+   "id": 12442903460878932067,
+   "en": "Press [CT_Attack] or [CT_AlternateAttack] to activate Hidden Hand after a kill with Posture attacks",
+   "ro": "Apasă [CT_Attack] sau [CT_AlternateAttack] ca să activezi Mâna ascunsă după o ucidere cu atacuri de Postură"
+  },
+  {
+   "id": 12443620307514451395,
+   "en": "Sanctuary",
+   "ro": "Sanctuar"
+  },
+  {
+   "id": 12443846677305847781,
+   "en": "Altair's Blade",
+   "ro": "Lama lui Altaïr"
+  }
+ ]
+}

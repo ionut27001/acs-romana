@@ -1,0 +1,56 @@
+{
+ "package": "MTX_CHA_AttackOnTitan_en-US_General",
+ "data_id": "00000240DC6F44D8",
+ "entries": [
+  {
+   "id": 12433075774533235618,
+   "en": "Ration grants {NumberTag}% Health on hit instead of healing",
+   "ro": "Rația oferă {NumberTag}% Sănătate la lovitură, în loc să vindece"
+  },
+  {
+   "id": 12433692531965259453,
+   "en": "Always Critical against Vulnerable",
+   "ro": "Lovitură critică mereu împotriva celor vulnerabili"
+  },
+  {
+   "id": 12436170638767997550,
+   "en": "Increased Impact with Bull Rush",
+   "ro": "Impact sporit cu asaltul taurului"
+  },
+  {
+   "id": 12438768837105060164,
+   "en": "Collision Damage",
+   "ro": "Daune de coliziune"
+  },
+  {
+   "id": 12439769460582748772,
+   "en": "+{NumberTag}% damage on enemy collisions",
+   "ro": "+{NumberTag}% daune la ciocnirea cu inamicii"
+  },
+  {
+   "id": 12442207440228601529,
+   "en": "+{NumberTag}% Critical Chance against Vulnerable enemies but ends Vulnerable",
+   "ro": "+{NumberTag}% Șansă de lovitură critică împotriva inamicilor Vulnerabili, dar încheie starea Vulnerabil"
+  },
+  {
+   "id": 12444258963171008979,
+   "en": "Weakpoint attacks have {NumberTag1}% chance to remove {NumberTag2} Health Segment",
+   "ro": "Atacurile asupra punctelor slabe au {NumberTag1}% șansă să elimine {NumberTag2} segment de Sănătate"
+  },
+  {
+   "id": 12445813898024443885,
+   "en": "Assassination with Weakpoint",
+   "ro": "Asasinat la punctul slab"
+  },
+  {
+   "id": 12446115776015834652,
+   "en": "Improved Bull Rush",
+   "ro": "Atac cu umărul îmbunătățit"
+  },
+  {
+   "id": 12447898172226153338,
+   "en": "Ration Health on Hit",
+   "ro": "Recuperează viață la lovitură"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "package": "MTX_LiveProject03_en-US_General",
+ "data_id": "00000231000DDFDE",
+ "entries": [
+  {
+   "id": 12430923057209932420,
+   "en": "Posture Attacks have a {NumberTag}% chance to hit twice",
+   "ro": "Atacurile de postură au o șansă de {NumberTag}% să lovească de două ori"
+  },
+  {
+   "id": 12431439491104207034,
+   "en": "Disruptive Momentum",
+   "ro": "Impuls perturbator"
+  },
+  {
+   "id": 12431594512010929644,
+   "en": "Mark of Control Helmet",
+   "ro": "Coiful semnului controlului"
+  },
+  {
+   "id": 12432100485844804960,
+   "en": "This armor set has been touched by the controlling influence of Ego.",
+   "ro": "Acest set de armură a fost influențat de controlul lui Ego."
+  },
+  {
+   "id": 12433785894540419798,
+   "en": "Mnemosyne",
+   "ro": "Mnemosyne"
+  },
+  {
+   "id": 12434440636444477932,
+   "en": "Mark of Control Kanabo",
+   "ro": "Kanabō al semnului controlului"
+  },
+  {
+   "id": 12435039085178476243,
+   "en": "Mark of Control Armor",
+   "ro": "Armura Semnului Controlului"
+  },
+  {
+   "id": 12435933454547525153,
+   "en": "Posture Echoes",
+   "ro": "Ecourile posturii"
+  },
+  {
+   "id": 12437396226561072532,
+   "en": "Phase Protection",
+   "ro": "Protecție de fază"
+  },
+  {
+   "id": 12440241712231524519,
+   "en": "Talisman of Control",
+   "ro": "Talismanul controlului"
+  },
+  {
+   "id": 12440319480286305462,
+   "en": "+{NumberTag}% damage against Animus Anomalies",
+   "ro": "+{NumberTag}% daune împotriva anomaliilor Animus"
+  },
+  {
+   "id": 12440323390464474042,
+   "en": "+{NumberTag}% chance to disrupt enemies with Forward Momentum",
+   "ro": "+{NumberTag}% șansă de a dezechilibra inamicii cu Impuls înainte"
+  },
+  {
+   "id": 12443709922028126131,
+   "en": "This puppy is emanating light from deep within the hidden spaces of the Animus.",
+   "ro": "Cățelul ăsta emană lumină din adâncul spațiilor ascunse ale Animusului."
+  },
+  {
+   "id": 12444463414842206417,
+   "en": "Anomalous Damage",
+   "ro": "Daune anomale"
+  },
+  {
+   "id": 12445807057884472296,
+   "en": "Received hits have a +{NumberTag}% chance to phase through",
+   "ro": "Loviturile primite au +{NumberTag}% șansă să treacă prin tine fără efect"
+  },
+  {
+   "id": 12447530649453929702,
+   "en": "Cerulean Akita Puppy",
+   "ro": "Cățeluș Akita cerulean"
+  },
+  {
+   "id": 12447862334336747053,
+   "en": "This Kanabo has been touched by the controlling influence of Ego.",
+   "ro": "Acest kanabō a fost influențat de controlul lui Ego."
+  }
+ ]
+}

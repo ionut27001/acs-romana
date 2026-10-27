@@ -1,0 +1,41 @@
+{
+ "package": "FUNC_GoldenBo_en-US_General",
+ "data_id": "000002494AD24839",
+ "entries": [
+  {
+   "id": 12436028272177566050,
+   "en": "Its golden sheen reflects the sun directly into the enemy's eye.",
+   "ro": "Strălucirea lui aurie reflectă soarele direct în ochiul inamicului."
+  },
+  {
+   "id": 12439495552540957544,
+   "en": "Golden Bo",
+   "ro": "Bō auriu"
+  },
+  {
+   "id": 12441698091694065361,
+   "en": "Golden Bo Decoration",
+   "ro": "Decorațiune pentru bō auriu"
+  },
+  {
+   "id": 12444528920652753146,
+   "en": "Abilities cost {NumberTag} Mon instead of Adrenaline",
+   "ro": "Abilitățile costă {NumberTag} Mon în loc de Adrenalină"
+  },
+  {
+   "id": 12445197285717223815,
+   "en": "Golden Bo Staff",
+   "ro": "Baston bō auriu"
+  },
+  {
+   "id": 12447125219188535854,
+   "en": "Adrenagold",
+   "ro": "Adrenagold"
+  },
+  {
+   "id": 12447871627886139115,
+   "en": "Complete all MOD quests",
+   "ro": "Finalizează toate misiunile MOD"
+  }
+ ]
+}

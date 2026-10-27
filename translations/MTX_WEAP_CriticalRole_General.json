@@ -1,0 +1,106 @@
+{
+ "package": "MTX_WEAP_CriticalRole_en-US_General",
+ "data_id": "000002344276732E",
+ "entries": [
+  {
+   "id": 12430759948534784744,
+   "en": "Whisper",
+   "ro": "Șoaptă"
+  },
+  {
+   "id": 12431052116816740758,
+   "en": "Critical Role",
+   "ro": "Critical Role"
+  },
+  {
+   "id": 12431076423399280062,
+   "en": "Heart of Glass",
+   "ro": "Inima de sticlă"
+  },
+  {
+   "id": 12431647257201140037,
+   "en": "Do battle like your favorite nerdy voice actors with these Critical Role inspired weapons.",
+   "ro": "Luptă ca actorii de voce tocilari preferați cu aceste arme inspirate din Critical Role."
+  },
+  {
+   "id": 12431927337108697703,
+   "en": "Chaos Rage",
+   "ro": "Furia haosului"
+  },
+  {
+   "id": 12432170809409667145,
+   "en": "Empty_String",
+   "ro": "Șir gol"
+  },
+  {
+   "id": 12434531219914444112,
+   "en": "Critical Role Weapon Pack",
+   "ro": "Pachetul de arme Critical Role"
+  },
+  {
+   "id": 12438633727728896208,
+   "en": "Like its craftsman, this teppo shoulders (wink) a bad omen, and, when the time comes, it's heard loud and clear.",
+   "ro": "Ca și meșterul său, teppō-ul acesta poartă (clipește) un semn rău și, când vine momentul, se aude clar și tare."
+  },
+  {
+   "id": 12439152893193003853,
+   "en": "From the nightmare of a leviathan, this sword looks as if it could swallow the very steel of its foes.",
+   "ro": "Din coșmarul unui leviatan, această sabie pare că ar putea înghiți chiar oțelul dușmanilor săi."
+  },
+  {
+   "id": 12439662892084787080,
+   "en": "Bad News",
+   "ro": "Vești proaste"
+  },
+  {
+   "id": 12439872083840086885,
+   "en": "Chaos radiates from this glass-headed club, bearing a strange artifact (and a rude inscription) on its handle.",
+   "ro": "Haosul emană din acest kanabō cu cap de sticlă, purtând un artefact ciudat (și o inscripție nepoliticoasă) pe mâner."
+  },
+  {
+   "id": 12440361815412898155,
+   "en": "Relic of an ethereal calamity, the feathers on the hilt tells of its forebearers.",
+   "ro": "Relicvă a unei calamități eterice, penele de la mâner vorbesc despre strămoșii săi."
+  },
+  {
+   "id": 12441669036881559053,
+   "en": "Uk'otoa's Curse",
+   "ro": "Blestemul lui Uk'otoa"
+  },
+  {
+   "id": 12444824186940830861,
+   "en": "Dagger Dagger Dagger",
+   "ro": "Pumnal, pumnal, pumnal"
+  },
+  {
+   "id": 12446066733374295134,
+   "en": "Misfire",
+   "ro": "Defecțiune"
+  },
+  {
+   "id": 12446710237827811159,
+   "en": "Using Battle Cry triggers a chaotic rage",
+   "ro": "Folosirea Strigătului de luptă declanșează o furie haotică"
+  },
+  {
+   "id": 12447034025731273700,
+   "en": "+{NumberTag}% Critical Chance and restore +{NumberTag2}% Health on kill",
+   "ro": "+{NumberTag}% șansă de lovitură critică și restabilește +{NumberTag2}% sănătate la ucidere"
+  },
+  {
+   "id": 12447297459884380249,
+   "en": "Sword of Fathoms",
+   "ro": "Sabia adâncurilor"
+  },
+  {
+   "id": 12447355331526507800,
+   "en": "Shadow Piercer throws 3 Tanto which deals {NumberTag}% damage",
+   "ro": "Străpungătorul umbrelor aruncă 3 tantō, care provoacă {NumberTag}% daune"
+  },
+  {
+   "id": 12447459148876035717,
+   "en": "+{NumberTag}% Damage, but {NumberTag2}% chance to Misfire",
+   "ro": "+{NumberTag}% Daune, dar {NumberTag2}% șansă de Defecțiune"
+  }
+ ]
+}

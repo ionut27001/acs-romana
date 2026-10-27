@@ -1,0 +1,286 @@
+{
+ "package": "MTX_Hanabi_en-US_General",
+ "data_id": "0000021C7D29DFC4",
+ "entries": [
+  {
+   "id": 12430322668151116824,
+   "en": "An explosive outfit inspired by the traditional art of fireworks.",
+   "ro": "Un costum exploziv, inspirat de arta tradițională a artificiilor."
+  },
+  {
+   "id": 12430914282784749624,
+   "en": "Shuriken inflict Daze in a radius of {NumberTag} meters",
+   "ro": "Shuriken provoacă Amețeală într-o rază de {NumberTag} metri"
+  },
+  {
+   "id": 12431266740873767931,
+   "en": "Dazing Arrows",
+   "ro": "Săgeți amețitoare"
+  },
+  {
+   "id": 12431880678524433660,
+   "en": "Starburst Amigasa",
+   "ro": "Amigasa stelară"
+  },
+  {
+   "id": 12432332694380608435,
+   "en": "+{NumberTag}% damage and radius for Hanabi explosions",
+   "ro": "+{NumberTag}% daune și rază pentru exploziile Hanabi"
+  },
+  {
+   "id": 12432335816630544203,
+   "en": "+{NumberTag}% Daze radius for Hanabi effects",
+   "ro": "+{NumberTag}% rază de Amețeală pentru efectele Hanabi"
+  },
+  {
+   "id": 12432681639438356498,
+   "en": "Screaming Rocket Quiver",
+   "ro": "Tolbă cu rachete țipătoare"
+  },
+  {
+   "id": 12432782685411009305,
+   "en": "Sky Flower Insignia",
+   "ro": "Insigna Floare de cer"
+  },
+  {
+   "id": 12432899910106085351,
+   "en": "Kunai explode in a radius of {NumberTag} meters",
+   "ro": "Kunai explodează într-o rază de {NumberTag} metri"
+  },
+  {
+   "id": 12433436797861618570,
+   "en": "Yasuke Hanabi Pack",
+   "ro": "Pachetul Hanabi al lui Yasuke"
+  },
+  {
+   "id": 12433450574738271084,
+   "en": "Enact explosive mayhem with this fireworks-themed outfit.",
+   "ro": "Stârnește haos exploziv cu costumul ăsta cu temă de artificii."
+  },
+  {
+   "id": 12433831251116091435,
+   "en": "Hanabi Weapon Pack",
+   "ro": "Pachetul de arme Hanabi"
+  },
+  {
+   "id": 12433939641575207261,
+   "en": "+{NumberTag}% Daze radius for Hanabi effects",
+   "ro": "+{NumberTag}% rază de Amețeală pentru efectele Hanabi"
+  },
+  {
+   "id": 12434071170203020285,
+   "en": "Hanabi Daze Radius",
+   "ro": "Raza de amețeală Hanabi"
+  },
+  {
+   "id": 12434172552755812223,
+   "en": "Explosive Arrows",
+   "ro": "Săgeți explozive"
+  },
+  {
+   "id": 12434267333429045443,
+   "en": "Firecracker Gear Set",
+   "ro": "Set de echipament Petardă"
+  },
+  {
+   "id": 12434271202249380564,
+   "en": "Regular arrows inflict Daze with a radius of {NumberTag} meters",
+   "ro": "Săgețile obișnuite provoacă Amețeală într-o rază de {NumberTag} metri"
+  },
+  {
+   "id": 12434452288085246081,
+   "en": "Explosive Shuriken",
+   "ro": "Shuriken explosiv"
+  },
+  {
+   "id": 12434845607044687812,
+   "en": "Improved Hanabi Explosions",
+   "ro": "Explozii Hanabi îmbunătățite"
+  },
+  {
+   "id": 12434863830699474578,
+   "en": "Ward off evil spirits with this explosive pack inspired by the art of fireworks.",
+   "ro": "Alungă spiritele rele cu acest pachet exploziv, inspirat din arta focurilor de artificii."
+  },
+  {
+   "id": 12435213167957198931,
+   "en": "Explosive Kunai",
+   "ro": "Kunai explosiv"
+  },
+  {
+   "id": 12435453761749841726,
+   "en": "Create a Daze area of effect with Alternate Attacks",
+   "ro": "Creează o zonă de Amețeală cu Atacuri alternative"
+  },
+  {
+   "id": 12435612995879716861,
+   "en": "Shuriken explode in a radius of {NumberTag} meters",
+   "ro": "Shuriken explodează într-o rază de {NumberTag} metri"
+  },
+  {
+   "id": 12435892756644173938,
+   "en": "Explosive Shuriken",
+   "ro": "Shuriken explosiv"
+  },
+  {
+   "id": 12435992714451341433,
+   "en": "Dazzling Aura Counterweight",
+   "ro": "Contragreutatea aurei strălucitoare"
+  },
+  {
+   "id": 12436052177244082813,
+   "en": "Hanabi Dual Pack",
+   "ro": "Pachetul dublu Hanabi"
+  },
+  {
+   "id": 12436239465724028431,
+   "en": "Kunai inflict Daze in a radius of {NumberTag} meters",
+   "ro": "Kunai provoacă Amețeală într-o rază de {NumberTag} metri"
+  },
+  {
+   "id": 12438334389082698432,
+   "en": "Screaming Rocket Bow",
+   "ro": "Arc cu rachete țipătoare"
+  },
+  {
+   "id": 12438448156734227944,
+   "en": "Persistent Heavy Attacks",
+   "ro": "Atacuri puternice persistente"
+  },
+  {
+   "id": 12438725749294931316,
+   "en": "Dazing Kunai",
+   "ro": "Kunai amețitor"
+  },
+  {
+   "id": 12438936899498083523,
+   "en": "Firecracker Amigasa",
+   "ro": "Amigasa Petardă"
+  },
+  {
+   "id": 12440215823712410713,
+   "en": "Dazing Alternate Attacks",
+   "ro": "Atacuri alternative amețitoare"
+  },
+  {
+   "id": 12440753205366768961,
+   "en": "Dazzling Aura",
+   "ro": "Aura strălucitoare"
+  },
+  {
+   "id": 12440802409110091325,
+   "en": "Scatter your foes and light up the sky with these weapons that burst with explosive intent.",
+   "ro": "Împrăștie-ți dușmanii și luminează cerul cu aceste arme pline de exploziv."
+  },
+  {
+   "id": 12440973059910661739,
+   "en": "A splendorous weapon inspired by the traditional art of fireworks.",
+   "ro": "O armă strălucitoare, inspirată din arta tradițională a artificiilor."
+  },
+  {
+   "id": 12441525602844399686,
+   "en": "Hanabi",
+   "ro": "Hanabi"
+  },
+  {
+   "id": 12441780238456062809,
+   "en": "Regular arrows explode with a radius of {NumberTag} meters",
+   "ro": "Săgețile obișnuite explodează într-o rază de {NumberTag} metri"
+  },
+  {
+   "id": 12442376868483757027,
+   "en": "Dazzling Aura Blade",
+   "ro": "Lama aurei strălucitoare"
+  },
+  {
+   "id": 12442543235976972853,
+   "en": "Fire Flower Kitsune",
+   "ro": "Kitsune Floare de foc"
+  },
+  {
+   "id": 12443312787901960854,
+   "en": "Dazzling Aura Handle",
+   "ro": "Mânerul aurei strălucitoare"
+  },
+  {
+   "id": 12443623276093926284,
+   "en": "This mischievous creature lives for the sound of cacophonous explosions.",
+   "ro": "Această creatură șmecheră trăiește pentru zgomotul exploziilor."
+  },
+  {
+   "id": 12443632731975811082,
+   "en": "Starburst Gear Set ",
+   "ro": "Set de echipament stelar "
+  },
+  {
+   "id": 12443921234760731926,
+   "en": "Naoe Hanabi Pack",
+   "ro": "Pachetul Hanabi al Naoei"
+  },
+  {
+   "id": 12444273213803680327,
+   "en": "Dazzling Aura Chain",
+   "ro": "Lanțul aurei strălucitoare"
+  },
+  {
+   "id": 12444417874891011530,
+   "en": "Hanabi Damage and Radius",
+   "ro": "Daune și rază Hanabi"
+  },
+  {
+   "id": 12444680091251440413,
+   "en": "Create an area of effect with Heavy Attacks",
+   "ro": "Creează o zonă de efect cu Atacuri grele"
+  },
+  {
+   "id": 12445534535590704184,
+   "en": "Screaming Rocket",
+   "ro": "Rachetă țipătoare"
+  },
+  {
+   "id": 12445799365027668445,
+   "en": "Burst into splendor with this fireworks-themed outfit.",
+   "ro": "Strălucește cu acest costum cu temă de artificii."
+  },
+  {
+   "id": 12445867630283294793,
+   "en": "Ammo on Kill at Full Health",
+   "ro": "Muniție la eliminare cu Sănătate completă"
+  },
+  {
+   "id": 12445953768703847344,
+   "en": "+{NumberTag}% damage and radius for Hanabi explosions",
+   "ro": "+{NumberTag}% daune și rază pentru exploziile Hanabi"
+  },
+  {
+   "id": 12445975392887014492,
+   "en": "Damage Reduction While Aiming",
+   "ro": "Reducerea daunelor la țintire"
+  },
+  {
+   "id": 12446396950114544129,
+   "en": "Improved Hanabi Radius",
+   "ro": "Raza Hanabi îmbunătățită"
+  },
+  {
+   "id": 12446953886799222382,
+   "en": "Firecracker Robes",
+   "ro": "Robe Petardă"
+  },
+  {
+   "id": 12447304261745533784,
+   "en": "Starburst Robes",
+   "ro": "Robe stelare"
+  },
+  {
+   "id": 12447889549937750579,
+   "en": "{NumberTag}% Damage Reduction while aiming",
+   "ro": "{NumberTag}% reducere a daunelor la țintire"
+  },
+  {
+   "id": 12447925337490813122,
+   "en": "{NumberTag}% chance to refill random ammo on kill at Full Health",
+   "ro": "{NumberTag}% șansă să reumple muniție aleatorie la eliminare, cu Sănătate completă"
+  }
+ ]
+}

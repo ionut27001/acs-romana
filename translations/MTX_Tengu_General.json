@@ -1,0 +1,266 @@
+{
+ "package": "MTX_Tengu_en-US_General",
+ "data_id": "0000021C83BA8C57",
+ "entries": [
+  {
+   "id": 12430309266678392607,
+   "en": "Dark Woods Kusarigama",
+   "ro": "Kusarigama din Pădurea Întunecată"
+  },
+  {
+   "id": 12430636960588311512,
+   "en": "Dark Woods Kusarigama Handle",
+   "ro": "Mânerul kusarigamei din Pădurea Întunecată"
+  },
+  {
+   "id": 12430677343769884927,
+   "en": "Larger Impact on Hit",
+   "ro": "Impact mai mare la lovitură"
+  },
+  {
+   "id": 12431670992462632705,
+   "en": "Beaks and talons await those who threaten the woods.",
+   "ro": "Ciocurile și ghearele îi așteaptă pe cei care amenință pădurea."
+  },
+  {
+   "id": 12432091391194640626,
+   "en": "Deep in the forest, even the darkness has eyes.",
+   "ro": "Adânc în pădure, chiar și întunericul are ochi."
+  },
+  {
+   "id": 12433072400078176481,
+   "en": "Kabuto of the Summit Spirit",
+   "ro": "Kabuto al Spiritului Culmilor"
+  },
+  {
+   "id": 12433192346069343008,
+   "en": "Dark Woods Kusarigama Chain",
+   "ro": "Lanțul kusarigamei din Pădurea Întunecată"
+  },
+  {
+   "id": 12433236661300676704,
+   "en": "Auto Smoke Bomb on Outnumbered Kill",
+   "ro": "Bombă cu fum automată la uciderea unui inamic când ești în inferioritate numerică"
+  },
+  {
+   "id": 12433446460682884622,
+   "en": "Crow Head Robes of the Summit Spirit",
+   "ro": "Veșminte cu cap de corb ale Spiritului de pe culmi"
+  },
+  {
+   "id": 12433479350514308551,
+   "en": "Spirit of the Wilds",
+   "ro": "Spiritul sălbăticiei"
+  },
+  {
+   "id": 12433582211210031190,
+   "en": "Refund Adrenaline with Smoke Bombs",
+   "ro": "Recuperează adrenalină cu bombele fumigene"
+  },
+  {
+   "id": 12433978564857652372,
+   "en": "Tengu are fickle masters of the martial arts.",
+   "ro": "Tengu sunt maeștri capricioși ai artelor marțiale."
+  },
+  {
+   "id": 12434411488515192937,
+   "en": "Embody the forests and mountains with this pack inspired by the Tengu, divine nature spirits of Shinto.",
+   "ro": "Întrupează pădurile și munții cu acest echipament inspirat de Tengu, spiritele naturii divine din Shinto."
+  },
+  {
+   "id": 12434773762308192597,
+   "en": "Naoe Tengu Pack",
+   "ro": "Pachetul Tengu al lui Naoe"
+  },
+  {
+   "id": 12434781203059310345,
+   "en": "Become one with nature as a guardian of the forest.",
+   "ro": "Devino una cu natura, ca paznic al pădurii."
+  },
+  {
+   "id": 12434924004002419392,
+   "en": "+{NumberTag}% damage for {NumberTag2} seconds after healing",
+   "ro": "+{NumberTag}% daune timp de {NumberTag2} secunde după vindecare"
+  },
+  {
+   "id": 12435275004970855439,
+   "en": "Passive Heal with Smoke Bombs ",
+   "ro": "Vindecare pasivă cu bombele fumigene "
+  },
+  {
+   "id": 12435697377093885159,
+   "en": "Tengu Dual Pack",
+   "ro": "Pachetul dublu Tengu"
+  },
+  {
+   "id": 12435766902799227694,
+   "en": "Beaked Hood of the Sylvan Spirit",
+   "ro": "Glugă cu cioc a Spiritului silvan"
+  },
+  {
+   "id": 12435828485719497126,
+   "en": "+{NumberTag}% Critical Chance per {NumberTag2}% Health missing",
+   "ro": "+{NumberTag}% șansă de lovitură critică pentru fiecare {NumberTag2}% din Sănătate pierdută"
+  },
+  {
+   "id": 12435946015440166953,
+   "en": "Keeper of the Forest Gear Set",
+   "ro": "Set de echipament: Păzitorul pădurii"
+  },
+  {
+   "id": 12436552925762761387,
+   "en": "+{NumberTag}% damage for {NumberTag2} seconds after healing ",
+   "ro": "+{NumberTag}% daune timp de {NumberTag2} secunde după vindecare "
+  },
+  {
+   "id": 12436619279306966148,
+   "en": "Mountain Demon Kanabo Pommel",
+   "ro": "Măciulia kanabō-ului Demonului Muntelui"
+  },
+  {
+   "id": 12437213589731983676,
+   "en": "Crow Spirit Talisman",
+   "ro": "Talismanul spiritului corbului"
+  },
+  {
+   "id": 12437721138148262570,
+   "en": "With demonic, crow-like attributes, these weapons are suitable for nature protectors.",
+   "ro": "Cu atribute demonice, asemănătoare corbilor, aceste arme sunt potrivite pentru protectorii naturii."
+  },
+  {
+   "id": 12440238383350018162,
+   "en": "Health from Excess Adrenaline",
+   "ro": "Sănătate din adrenalina în exces"
+  },
+  {
+   "id": 12440835112553638630,
+   "en": "It is said that the gods send crows to guide those who are lost.",
+   "ro": "Se spune că zeii trimit corbi să îi ghideze pe cei pierduți."
+  },
+  {
+   "id": 12440958504807871255,
+   "en": "Mountain Demon Kanabo Head",
+   "ro": "Capul kanabō-ului Demonului Muntelui"
+  },
+  {
+   "id": 12440982181659864818,
+   "en": "Heal over time while inside a Smoke Bomb's radius",
+   "ro": "Vindecă treptat cât timp te afli în raza unei Bombe cu fum"
+  },
+  {
+   "id": 12441048908412344930,
+   "en": "Tengu Weapon Pack",
+   "ro": "Pachetul de arme Tengu"
+  },
+  {
+   "id": 12441078299997663761,
+   "en": "Yasuke Tengu Pack",
+   "ro": "Pachetul Tengu al lui Yasuke"
+  },
+  {
+   "id": 12441197089582785994,
+   "en": "Tengu",
+   "ro": "Tengu"
+  },
+  {
+   "id": 12441294829554171553,
+   "en": "+{NumberTag}% of an Adrenaline Chunk after using an Ability inside a Smoke Bomb's radius",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină după folosirea unei Abilități în raza unei Bombe cu fum"
+  },
+  {
+   "id": 12441443345502834720,
+   "en": "Temporary Damage After Healing",
+   "ro": "Daune temporare după vindecare"
+  },
+  {
+   "id": 12441835547046347522,
+   "en": "Feathered Robes of the Sylvan Spirit",
+   "ro": "Robe din pene ale Spiritului silvan"
+  },
+  {
+   "id": 12441871685417244717,
+   "en": "Embody the protector of the mountains, overseeing the highest peaks and lowest valleys.",
+   "ro": "Întruchipează protectorul munților, care veghează de la cele mai înalte vârfuri până la cele mai joase văi."
+  },
+  {
+   "id": 12441929919042295898,
+   "en": "Dark Woods Kusarigama Counterweight",
+   "ro": "Contragreutatea kusarigamei din Pădurea Întunecată"
+  },
+  {
+   "id": 12441959115618498975,
+   "en": "Restore {NumberTag}% Health on hit when Adrenaline is full",
+   "ro": "Restabilește {NumberTag}% sănătate la lovitură când Adrenalina este completă"
+  },
+  {
+   "id": 12442097542865688827,
+   "en": "Trigger Smoke Bomb on kills while outnumbered",
+   "ro": "Declanșează o Bombă cu fum la uciderile făcute când ești în inferioritate numerică"
+  },
+  {
+   "id": 12442360896320502865,
+   "en": "Evoke the will of the Tengu with these otherwordly weapons.",
+   "ro": "Invocă voința Tengu cu aceste arme de altă lume."
+  },
+  {
+   "id": 12442766687763504307,
+   "en": "Brief are the tales of those who anger the spirit of the mountain.",
+   "ro": "Nu prea sunt povești lungi despre cei care stârnesc mânia spiritului muntelui."
+  },
+  {
+   "id": 12443325699089582086,
+   "en": "Critical Chance when Health Lost",
+   "ro": "Șansă critică la pierderea sănătății"
+  },
+  {
+   "id": 12443705294246766010,
+   "en": "Embody the forests and mountains with this pack inspired by the Tengu, divine nature spirits of Shinto.",
+   "ro": "Întrupează pădurile și munții cu acest echipament inspirat de Tengu, spiritele naturii divine din Shinto."
+  },
+  {
+   "id": 12444023646722282031,
+   "en": "Attacks have a {NumberTag}% chance to create an area of effect per Adrenaline Chunk filled",
+   "ro": "Atacurile au o șansă de {NumberTag}% să creeze o zonă de efect pentru fiecare Bucată de adrenalină umplută"
+  },
+  {
+   "id": 12444894244942982987,
+   "en": "Power enough to shake the bones of the earth.",
+   "ro": "Putere suficientă cât să zguduie oasele pământului."
+  },
+  {
+   "id": 12444981101265508495,
+   "en": "Temporary Damage After Healing",
+   "ro": "Daune temporare după vindecare"
+  },
+  {
+   "id": 12446619867673081685,
+   "en": "Protector of the Mountain Gear Set",
+   "ro": "Set de echipament: Protectorul muntelui"
+  },
+  {
+   "id": 12446729080091451272,
+   "en": "Mountain Demon Kanabo Shaft",
+   "ro": "Coada kanabō-ului Demonului Muntelui"
+  },
+  {
+   "id": 12446779996980230670,
+   "en": "Mountain Demon Kanabo",
+   "ro": "Kanabō Demonul Muntelui"
+  },
+  {
+   "id": 12447034728556060829,
+   "en": "Dark Woods Kusarigama Blade",
+   "ro": "Lama kusarigamei din Pădurea Întunecată"
+  },
+  {
+   "id": 12447070736920094945,
+   "en": "Seek harmony with nature astride the noble Spirit of the Wilds.",
+   "ro": "Caută armonia cu natura călare pe nobilul Spirit al sălbăticiei."
+  },
+  {
+   "id": 12447925431118406296,
+   "en": "Mischief is a powerful tool when deployed with care.",
+   "ro": "Șiretlicul este un instrument puternic atunci când e folosit cu grijă."
+  }
+ ]
+}

@@ -1,0 +1,266 @@
+{
+ "package": "MTX_Yamaoka_en-US_General",
+ "data_id": "0000021C83BA8F21",
+ "entries": [
+  {
+   "id": 12429993710672464262,
+   "en": "Daze at Low Health",
+   "ro": "Amețeală la sănătate scăzută"
+  },
+  {
+   "id": 12430539346785329210,
+   "en": "Heal over time while in a stalking zone",
+   "ro": "Vindecă treptat cât timp ești într-o zonă de pândă"
+  },
+  {
+   "id": 12430803136838811351,
+   "en": "Shattered Tanto",
+   "ro": "Tantō sfărâmat"
+  },
+  {
+   "id": 12430884846360198863,
+   "en": "Blood Orb",
+   "ro": "Sfera de sânge"
+  },
+  {
+   "id": 12431154006930068363,
+   "en": "Years of murder have fused flesh and armor, creating unique and nightmarish attire.",
+   "ro": "Anii de crime au lipit carnea de armură, creând o ținută unică și de coșmar."
+  },
+  {
+   "id": 12431844088230718167,
+   "en": "Maurice",
+   "ro": "Maurice"
+  },
+  {
+   "id": 12431989398020772753,
+   "en": "Oni's Rage",
+   "ro": "Furia oni-ului"
+  },
+  {
+   "id": 12432311052467044649,
+   "en": "The result of a failed attempt to ease a spirit's burden.",
+   "ro": "Rezultatul unei încercări eșuate de a ușura povara unui spirit."
+  },
+  {
+   "id": 12432599983761181609,
+   "en": "Health While Stalking",
+   "ro": "Sănătate în timp ce te furișezi"
+  },
+  {
+   "id": 12432731143205664671,
+   "en": "Damage Reduction While Moving",
+   "ro": "Reducerea daunelor în timpul deplasării"
+  },
+  {
+   "id": 12432799295508527006,
+   "en": "Spread {NumberTag}% Bleed Buildup on kill",
+   "ro": "Răspândește {NumberTag}% acumulare de sângerare la ucidere"
+  },
+  {
+   "id": 12433114962517864874,
+   "en": "Dead by Daylight Weapon Pack",
+   "ro": "Pachetul de arme Dead by Daylight"
+  },
+  {
+   "id": 12433295931443738122,
+   "en": "Dead by Daylight",
+   "ro": "Dead by Daylight"
+  },
+  {
+   "id": 12433322513694487700,
+   "en": "Damage Reduction While Moving",
+   "ro": "Reducerea daunelor în timpul deplasării"
+  },
+  {
+   "id": 12433440515256519361,
+   "en": "+{NumberTag}% Critical Chance for {NumberTag2} seconds after Armor Break",
+   "ro": "+{NumberTag}% șansă de lovitură critică timp de {NumberTag2} secunde după Spargerea armurii"
+  },
+  {
+   "id": 12433496677021408864,
+   "en": "Oni Kanabo Head",
+   "ro": "Capul kanabō-ului Oni"
+  },
+  {
+   "id": 12433498987830732464,
+   "en": "Shattered Tanto Blade",
+   "ro": "Lama tantō-ului sfărâmat"
+  },
+  {
+   "id": 12434296305764526277,
+   "en": "Gown of the Spirit",
+   "ro": "Veșmântul spiritului"
+  },
+  {
+   "id": 12434344450333954942,
+   "en": "Shattered Tanto Guard",
+   "ro": "Garda tantō-ului sfărâmat"
+  },
+  {
+   "id": 12434772704330447781,
+   "en": "Give in to an overwhelming thirst for blood by donning this cursed Oni outfit.",
+   "ro": "Cedează unei sete de sânge copleșitoare, îmbrăcând ținuta blestemată de oni."
+  },
+  {
+   "id": 12434910675409321379,
+   "en": "Incarnate two terrible lurkers of the Realms and instill terror in your prey with this Dead by Daylight-inspired pack",
+   "ro": "Transformă-te în doi lurkeri cumpliți ai Tărâmurilor și sperie-ți prada cu pachetul inspirat din Dead by Daylight"
+  },
+  {
+   "id": 12436207233473270317,
+   "en": "{NumberTag1}% damage reduction while moving",
+   "ro": "Reducere a daunelor cu {NumberTag1}% în timpul deplasării"
+  },
+  {
+   "id": 12436574096474252573,
+   "en": "Oni Kanabo Pommel",
+   "ro": "Măciulia kanabō-ului Oni"
+  },
+  {
+   "id": 12437198878131290394,
+   "en": "Oni Kanabo Shaft",
+   "ro": "Coada kanabō-ului Oni"
+  },
+  {
+   "id": 12437216306077485332,
+   "en": "This sinister talisman holds the essences of numerous victims.",
+   "ro": "Acest talisman sinistru conține esențele multor victime."
+  },
+  {
+   "id": 12437944814437269534,
+   "en": "Bleed area on kill",
+   "ro": "Sângerare în zonă la ucidere"
+  },
+  {
+   "id": 12438789536791552556,
+   "en": "Critical Chance after Armor Break",
+   "ro": "Șansă critică după spargerea armurii"
+  },
+  {
+   "id": 12438898504842623734,
+   "en": "Pale Spirit Gear Set",
+   "ro": "Set de echipament al spiritului palid"
+  },
+  {
+   "id": 12439144292923634036,
+   "en": "Cursed Oni Gear Set",
+   "ro": "Set de echipament al oni-ului blestemat"
+  },
+  {
+   "id": 12439175719017039570,
+   "en": "These weapons were turned towards family. Now they thirst for ever more blood and violence.",
+   "ro": "Aceste arme au fost întoarse împotriva familiei. Acum cer tot mai mult sânge și violență."
+  },
+  {
+   "id": 12439599888485642477,
+   "en": "Healing Near Death",
+   "ro": "Vindecare aproape de moarte"
+  },
+  {
+   "id": 12439726306022361927,
+   "en": "Not alive. Not really dead. This horse is proof that something exists beyond the veil, and it is not benevolent.",
+   "ro": "Nici vie, nici chiar moartă. Calul ăsta e dovada că dincolo de văl există ceva, și nu e deloc binevoitor."
+  },
+  {
+   "id": 12440037624211287622,
+   "en": "Shattered Tanto Handle",
+   "ro": "Mânerul tantō-ului sfărâmat"
+  },
+  {
+   "id": 12440228341848653846,
+   "en": "Critical Chance after Bleed",
+   "ro": "Șansă critică după sângerare"
+  },
+  {
+   "id": 12440336997002978835,
+   "en": "Oni's Flesh",
+   "ro": "Carnea oni-ului"
+  },
+  {
+   "id": 12440504273052456054,
+   "en": "Some spirits wander the land forever in search of vengeance. Join their ranks and enact hideous revenge on your foes.",
+   "ro": "Unele spirite rătăcesc veșnic pe pământ, în căutare de răzbunare. Alătură-te lor și pedepsește-ți dușmanii cumplit."
+  },
+  {
+   "id": 12441942238694013978,
+   "en": "These weapons were turned towards family. Now they thirst for ever more blood and violence.",
+   "ro": "Aceste arme au fost întoarse împotriva familiei. Acum cer tot mai mult sânge și violență."
+  },
+  {
+   "id": 12442120477739078484,
+   "en": "Ethereal Cloth",
+   "ro": "Țesătură eterică"
+  },
+  {
+   "id": 12442160314977038283,
+   "en": "Naoe Dead by Daylight Pack",
+   "ro": "Pachetul Naoe Dead by Daylight"
+  },
+  {
+   "id": 12442922354983525599,
+   "en": "This weapon exudes a dreadful aura and heralds nothing but blood and violence.",
+   "ro": "Arma asta are o aură cumplită și nu aduce decât sânge și violență."
+  },
+  {
+   "id": 12443663682586347374,
+   "en": "Torn and tattered, the sanctity of this gown has long since faded away.",
+   "ro": "Ruptă și zdrențuită, rochia și-a pierdut demult sfințenia."
+  },
+  {
+   "id": 12444537725209893367,
+   "en": "Shattered Tanto Scabbard",
+   "ro": "Teaca tantō-ului sfărâmat"
+  },
+  {
+   "id": 12445154385466684689,
+   "en": "Oni's Gaze",
+   "ro": "Privirea oni-ului"
+  },
+  {
+   "id": 12445187608724867829,
+   "en": "Restore {NumberTag}% Health when Health is below {NumberTag2}%",
+   "ro": "Restabilește {NumberTag}% Sănătate când Sănătatea scade sub {NumberTag2}%"
+  },
+  {
+   "id": 12445520791366857543,
+   "en": "+{NumberTag}% Critical Chance for {NumberTag2} seconds after applying Bleed",
+   "ro": "+{NumberTag}% șansă de lovitură critică timp de {NumberTag2} secunde după ce aplici sângerarea"
+  },
+  {
+   "id": 12445822671196861041,
+   "en": "Those who value their lives flee at the sight of its fearsome gaze.",
+   "ro": "Cine ține la viață fuge imediat ce îi vede privirea înfricoșătoare."
+  },
+  {
+   "id": 12446272500404838875,
+   "en": "Dead by Daylight Dual Pack",
+   "ro": "Pachetul dublu Dead by Daylight"
+  },
+  {
+   "id": 12446393967278207708,
+   "en": "Inflict {NumberTag}% Daze Buildup when Health is critical",
+   "ro": "Când Sănătatea e critică, provoacă {NumberTag}% acumulare de amețeală"
+  },
+  {
+   "id": 12447326523062159835,
+   "en": "Yasuke Dead by Daylight Pack",
+   "ro": "Pachetul Yasuke Dead by Daylight"
+  },
+  {
+   "id": 12447329078609020955,
+   "en": "Incarnate two terrible lurkers of the Realms and instill terror in your prey with this Dead by Daylight-inspired pack.",
+   "ro": "Transformă-te în doi lurkeri cumpliți ai Tărâmurilor și sperie-ți prada cu acest pachet inspirat din Dead by Daylight."
+  },
+  {
+   "id": 12447481905779735436,
+   "en": "The result of a failed attempt to ease a spirit's burden.",
+   "ro": "Rezultatul unei încercări eșuate de a ușura povara unui spirit."
+  },
+  {
+   "id": 12447913415480743262,
+   "en": "+{NumberTag}% Damage Reduction while moving",
+   "ro": "+{NumberTag}% reducere a daunelor în timpul deplasării"
+  }
+ ]
+}

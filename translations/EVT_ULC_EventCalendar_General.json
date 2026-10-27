@@ -1,0 +1,36 @@
+{
+ "package": "EVT_ULC_EventCalendar_en-US_General",
+ "data_id": "0000023D638FC1AD",
+ "entries": [
+  {
+   "id": 12429939664555716568,
+   "en": "Trigger Bleed Affliction on hit with Bull Rush",
+   "ro": "Declanșează Suferința de sângerare la lovitură cu Atacul de taur"
+  },
+  {
+   "id": 12430718808054116798,
+   "en": "{NumberTag}% chance to regain Tool on use",
+   "ro": "{NumberTag}% șansă de a recupera Unealta la utilizare"
+  },
+  {
+   "id": 12431892950233406408,
+   "en": "Antler Headbutt",
+   "ro": "Lovitură cu corn de cerb"
+  },
+  {
+   "id": 12433433719455457319,
+   "en": "{NumberTag}% chance to gain a Valuable on kill",
+   "ro": "{NumberTag}% șansă de a obține un obiect prețios la ucidere"
+  },
+  {
+   "id": 12434904258881379375,
+   "en": "Toolbox Gift",
+   "ro": "Cadoul cutiei de unelte"
+  },
+  {
+   "id": 12443999388213130816,
+   "en": "Festive Bounty",
+   "ro": "Recompensa festivă"
+  }
+ ]
+}

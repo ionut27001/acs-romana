@@ -1,0 +1,376 @@
+{
+ "package": "TU5_Mandatory_en-US_General",
+ "data_id": "00000230FFE4B9DF",
+ "entries": [
+  {
+   "id": 12429997833374706857,
+   "en": "Hand Sign",
+   "ro": "Semn cu mâna"
+  },
+  {
+   "id": 12430150929502465158,
+   "en": "Disgust",
+   "ro": "Dezgust"
+  },
+  {
+   "id": 12430152849261569245,
+   "en": "Sit 2",
+   "ro": "Stai jos 2"
+  },
+  {
+   "id": 12430282212486720502,
+   "en": "Teppo 4",
+   "ro": "Teppō 4"
+  },
+  {
+   "id": 12430374544252768311,
+   "en": "Angry",
+   "ro": "Furios"
+  },
+  {
+   "id": 12431132413282297533,
+   "en": "Katana 2",
+   "ro": "Katana 2"
+  },
+  {
+   "id": 12431206536477761412,
+   "en": "Naginata 1",
+   "ro": "Naginata 1"
+  },
+  {
+   "id": 12431226015051205562,
+   "en": "Adjusts the luminance value of a [BOLD_BEGIN]white[BOLD_END] sticker.",
+   "ro": "Ajustează valoarea luminanței unui autocolant [BOLD_BEGIN]alb[BOLD_END] ."
+  },
+  {
+   "id": 12432071958913516251,
+   "en": "Camera Speed",
+   "ro": "Viteza camerei"
+  },
+  {
+   "id": 12432095520594460553,
+   "en": "Adjusts the hue value of a [BOLD_BEGIN]white[BOLD_END] sticker.",
+   "ro": "Ajustează valoarea nuanței unui autocolant [BOLD_BEGIN]alb[BOLD_END] ."
+  },
+  {
+   "id": 12432155034087443259,
+   "en": "Bow 1",
+   "ro": "Arc 1"
+  },
+  {
+   "id": 12433363990267132500,
+   "en": "Tanto 4",
+   "ro": "Tantō 4"
+  },
+  {
+   "id": 12433443198573972417,
+   "en": "Naginata 3",
+   "ro": "Naginata 3"
+  },
+  {
+   "id": 12433551260354738795,
+   "en": "Teppo 3",
+   "ro": "Teppō 3"
+  },
+  {
+   "id": 12433603884344167400,
+   "en": "Teppo [NumberTag]",
+   "ro": "Teppō [NumberTag]"
+  },
+  {
+   "id": 12433694773990671682,
+   "en": "Afraid 2",
+   "ro": "Speriat 2"
+  },
+  {
+   "id": 12433874249134291026,
+   "en": "Ashamed",
+   "ro": "Rușinat"
+  },
+  {
+   "id": 12433893129277016936,
+   "en": "Show UI",
+   "ro": "Afișează interfața"
+  },
+  {
+   "id": 12434265424252847337,
+   "en": "Teppo 2",
+   "ro": "Teppō 2"
+  },
+  {
+   "id": 12434392668263584344,
+   "en": "Sticker Luminance",
+   "ro": "Luminozitate autocolant"
+  },
+  {
+   "id": 12434833653465140007,
+   "en": "Adjusts the time of day in the world. [BOLD_BEGIN]This parameter will be reverted when closing Photo Mode.[BOLD_END]",
+   "ro": "Ajustează ora zilei în lume. [BOLD_BEGIN]Parametrul se resetează la închiderea Modului foto.[BOLD_END]"
+  },
+  {
+   "id": 12435045263398775786,
+   "en": "Katana [NumberTag]",
+   "ro": "Katana [NumberTag]"
+  },
+  {
+   "id": 12435443777132922919,
+   "en": "Naginata 4",
+   "ro": "Naginata 4"
+  },
+  {
+   "id": 12436293345290995959,
+   "en": "Adjusts the saturation value of a [BOLD_BEGIN]white[BOLD_END] sticker.",
+   "ro": "Ajustează valoarea saturației unui autocolant [BOLD_BEGIN]alb[BOLD_END] ."
+  },
+  {
+   "id": 12436572427292054796,
+   "en": "Bow 2",
+   "ro": "Arc 2"
+  },
+  {
+   "id": 12436681793266264864,
+   "en": "Portrait",
+   "ro": "Portret"
+  },
+  {
+   "id": 12437440831178605625,
+   "en": "Arm Cross 1",
+   "ro": "Brațe încrucișate 1"
+  },
+  {
+   "id": 12437532335547580126,
+   "en": "Tanto 1",
+   "ro": "Tantō 1"
+  },
+  {
+   "id": 12437620475217765622,
+   "en": "Arm Cross",
+   "ro": "Brațe încrucișate"
+  },
+  {
+   "id": 12437653889001390996,
+   "en": "Show or hide lateral black curtains in the photo. [BOLD_BEGIN]When activated, your photo will only be saved locally and not uploaded online.[BOLD_END]",
+   "ro": "Arată sau ascunde perdelele negre din laterale ale fotografiei. [BOLD_BEGIN]Dacă e activată, fotografia ta se salvează doar local și nu se încarcă online.[BOLD_END]"
+  },
+  {
+   "id": 12437713500437104747,
+   "en": "Kusarigama [NumberTag]",
+   "ro": "Kusarigama [NumberTag]"
+  },
+  {
+   "id": 12437756243577865588,
+   "en": "Kanabo 3",
+   "ro": "Kanabō 3"
+  },
+  {
+   "id": 12437901734678193321,
+   "en": "Sit 1",
+   "ro": "Șezând 1"
+  },
+  {
+   "id": 12438001707652050149,
+   "en": "Offensive",
+   "ro": "Ofensiv"
+  },
+  {
+   "id": 12438053547600477411,
+   "en": "Happy 3",
+   "ro": "Fericit 3"
+  },
+  {
+   "id": 12438145246420046882,
+   "en": "Afraid 1",
+   "ro": "Speriat 1"
+  },
+  {
+   "id": 12438576724070808124,
+   "en": "[BOLD_BEGIN]Enable/disable your character's headgear. This parameter will be reverted when closing Photo Mode.[BOLD_END]",
+   "ro": "[BOLD_BEGIN]Activează sau dezactivează echipamentul pentru cap al personajului tău. Parametrul se resetează când închizi Modul foto.[BOLD_END]"
+  },
+  {
+   "id": 12438790342423232518,
+   "en": "Cinematic",
+   "ro": "Cinematic"
+  },
+  {
+   "id": 12439148066664569137,
+   "en": "Naginata 2",
+   "ro": "Naginata 2"
+  },
+  {
+   "id": 12439276674744006246,
+   "en": "Kanabo [NumberTag]",
+   "ro": "Kanabō [NumberTag]"
+  },
+  {
+   "id": 12439510382907046508,
+   "en": "Casual",
+   "ro": "Casual"
+  },
+  {
+   "id": 12440366489996749595,
+   "en": "Sad",
+   "ro": "Trist"
+  },
+  {
+   "id": 12440379523237096908,
+   "en": "Reset Parameter",
+   "ro": "Resetează parametrul"
+  },
+  {
+   "id": 12440533478303570130,
+   "en": "Arm Cross 2",
+   "ro": "Brațe încrucișate 2"
+  },
+  {
+   "id": 12440562318642183225,
+   "en": "Knee Down",
+   "ro": "Genunchi la pământ"
+  },
+  {
+   "id": 12441562070631584928,
+   "en": "Kusarigama 1",
+   "ro": "Kusarigama 1"
+  },
+  {
+   "id": 12442255158488041154,
+   "en": "Katana 5",
+   "ro": "Katana 5"
+  },
+  {
+   "id": 12442434978755473113,
+   "en": "Teppo 1",
+   "ro": "Teppō 1"
+  },
+  {
+   "id": 12442876842098206826,
+   "en": "Battle 2",
+   "ro": "Luptă 2"
+  },
+  {
+   "id": 12442995285632903927,
+   "en": "Kanabo 4",
+   "ro": "Kanabō 4"
+  },
+  {
+   "id": 12443267456727290491,
+   "en": "Katana 1",
+   "ro": "Katana 1"
+  },
+  {
+   "id": 12443309700226210228,
+   "en": "Relax [NumberTag]",
+   "ro": "Relaxare [NumberTag]"
+  },
+  {
+   "id": 12443465061743043288,
+   "en": "Katana 4",
+   "ro": "Katana 4"
+  },
+  {
+   "id": 12443603983435697615,
+   "en": "Surprised 1",
+   "ro": "Surprins 1"
+  },
+  {
+   "id": 12443632719851315305,
+   "en": "Tanto 3",
+   "ro": "Tantō 3"
+  },
+  {
+   "id": 12443881454438563428,
+   "en": "Katana 6",
+   "ro": "Katana 6"
+  },
+  {
+   "id": 12444276669455484850,
+   "en": "Surprised 2",
+   "ro": "Surprins 2"
+  },
+  {
+   "id": 12444549995912628654,
+   "en": "Naginata 5",
+   "ro": "Naginata 5"
+  },
+  {
+   "id": 12444601242683800981,
+   "en": "x[NumberTag]",
+   "ro": "x[NumberTag]"
+  },
+  {
+   "id": 12444799039980111474,
+   "en": "Naginata [NumberTag]",
+   "ro": "Naginata [NumberTag]"
+  },
+  {
+   "id": 12445035451743070682,
+   "en": "Tanto [NumberTag]",
+   "ro": "Tantō [NumberTag]"
+  },
+  {
+   "id": 12445092520944852853,
+   "en": "Bow [NumberTag]",
+   "ro": "Arc [NumberTag]"
+  },
+  {
+   "id": 12445106344828783806,
+   "en": "Battle 1",
+   "ro": "Luptă 1"
+  },
+  {
+   "id": 12445447200990954527,
+   "en": "Kanabo 2",
+   "ro": "Kanabō 2"
+  },
+  {
+   "id": 12446247028469001625,
+   "en": "Happy 1",
+   "ro": "Fericit 1"
+  },
+  {
+   "id": 12446460449997481700,
+   "en": "Kanabo 1",
+   "ro": "Kanabō 1"
+  },
+  {
+   "id": 12446542444592038515,
+   "en": "Tanto 5",
+   "ro": "Tantō 5"
+  },
+  {
+   "id": 12446984794852731865,
+   "en": "Tool [NumberTag]",
+   "ro": "Unealtă [NumberTag]"
+  },
+  {
+   "id": 12447039842913440138,
+   "en": "Sticker Hue",
+   "ro": "Nuanță autocolant"
+  },
+  {
+   "id": 12447110215530665451,
+   "en": "Determines the speed of the camera. This will affect move, rotate, crane up, and crane down actions.",
+   "ro": "Stabilește viteza camerei. Asta influențează mișcarea, rotirea, ridicarea și coborârea camerei."
+  },
+  {
+   "id": 12447199024037929696,
+   "en": "Happy 2",
+   "ro": "Fericit 2"
+  },
+  {
+   "id": 12447269969806152892,
+   "en": "Katana 3",
+   "ro": "Katana 3"
+  },
+  {
+   "id": 12447826377554917757,
+   "en": "Tanto 2",
+   "ro": "Tantō 2"
+  },
+  {
+   "id": 12447915628467572174,
+   "en": "Sticker Saturation",
+   "ro": "Saturație autocolant"
+  }
+ ]
+}

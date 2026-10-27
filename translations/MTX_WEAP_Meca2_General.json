@@ -1,0 +1,86 @@
+{
+ "package": "MTX_WEAP_Meca2_en-US_General",
+ "data_id": "0000024460A50FD9",
+ "entries": [
+  {
+   "id": 12432046432288543227,
+   "en": "Universal rules and variables cease to exist with a weapon of this force.",
+   "ro": "Regulile universale și variabilele încetează să mai existe în fața unei arme de asemenea putere."
+  },
+  {
+   "id": 12432678349302344497,
+   "en": "Sheathed Posture attacks release an energy slash",
+   "ro": "Atacurile din Postură cu lama în teacă eliberează o tăietură de energie"
+  },
+  {
+   "id": 12434250777636623000,
+   "en": "Piercing targets with precision, its course cannot be redirected.",
+   "ro": "Străpunge ținta cu precizie, iar traiectoria sa nu poate fi schimbată."
+  },
+  {
+   "id": 12435614590173459288,
+   "en": "Land attacks so swift they seem to slip through ripples in space.",
+   "ro": "Atacuri la sol atât de rapide, încât par să alunece prin cutele spațiului."
+  },
+  {
+   "id": 12435740484436481036,
+   "en": "Light attacks generate energy that is released on Heavy attacks",
+   "ro": "Atacurile ușoare generează energie, care se eliberează la atacurile grele."
+  },
+  {
+   "id": 12436433908638373620,
+   "en": "Warm blade, cold demeanor.",
+   "ro": "Lamă caldă, fire rece."
+  },
+  {
+   "id": 12437403659699648925,
+   "en": "Empowered Unsheathing",
+   "ro": "Scoatere din teacă întărită"
+  },
+  {
+   "id": 12438996209067653378,
+   "en": "Radiant Trail",
+   "ro": "Urmă strălucitoare"
+  },
+  {
+   "id": 12439200822510307302,
+   "en": "Light attacks release an energy projectile",
+   "ro": "Atacurile ușoare lansează un proiectil de energie"
+  },
+  {
+   "id": 12439334755000755293,
+   "en": "Energy Snap",
+   "ro": "Smucitură energetică"
+  },
+  {
+   "id": 12440218621074656545,
+   "en": "Wormhole Hook",
+   "ro": "Cârligul găurii de vierme"
+  },
+  {
+   "id": 12443281600218396466,
+   "en": "Singularity Bolt",
+   "ro": "Săgeata singularității"
+  },
+  {
+   "id": 12443859584822407568,
+   "en": "Vectorial Dent",
+   "ro": "Adâncitura vectorială"
+  },
+  {
+   "id": 12444077071999001434,
+   "en": "Phase Disruptor",
+   "ro": "Perturbatorul de fază"
+  },
+  {
+   "id": 12445307996476114236,
+   "en": "Overcharged Burst",
+   "ro": "Explozie supraîncărcată"
+  },
+  {
+   "id": 12447350433924931314,
+   "en": "Deal energy damage to nearby enemies while holding Heavy Posture",
+   "ro": "Provoacă daune de energie inamicilor din apropiere cât timp ții apăsată Postura grea"
+  }
+ ]
+}

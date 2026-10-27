@@ -1,0 +1,3496 @@
+{
+ "package": "SP_Stooges_en-US_Subtitles",
+ "data_id": "0000023017B573AA",
+ "entries": [
+  {
+   "id": 12429946096523578471,
+   "en": "Hm. The ornament stopped.",
+   "ro": "Hm. Ornamentul s-a oprit."
+  },
+  {
+   "id": 12429946185003143593,
+   "en": "BUDDHIST MONK",
+   "ro": "CĂLUGĂR BUDIST"
+  },
+  {
+   "id": 12429954771088013181,
+   "en": "Never been better.",
+   "ro": "N-am fost niciodată mai bine."
+  },
+  {
+   "id": 12429970205540590584,
+   "en": "They're trouble, Yasuke.",
+   "ro": "Sunt o belea, Yasuke."
+  },
+  {
+   "id": 12430070594856703941,
+   "en": "Wrong. Very wrong.",
+   "ro": "Greșit. Foarte greșit."
+  },
+  {
+   "id": 12430100965012260073,
+   "en": "These objects are blunt. Brutal. Who used them?",
+   "ro": "Obiectele astea nu taie, doar lovesc. Brutale. Cine le-a folosit?"
+  },
+  {
+   "id": 12430114366059181393,
+   "en": "Here we go.",
+   "ro": "Hai că începem."
+  },
+  {
+   "id": 12430142205234375783,
+   "en": "That is the lesson I want to learn next!",
+   "ro": "Asta e următoarea lecție pe care vreau s-o învăț!"
+  },
+  {
+   "id": 12430153192644182592,
+   "en": "The ornament feels alive!",
+   "ro": "Ornamentul pare viu!"
+  },
+  {
+   "id": 12430155814414623846,
+   "en": "Then give me a good one for a change!",
+   "ro": "Atunci dă-mi una bună, pentru o dată!"
+  },
+  {
+   "id": 12430226950964373184,
+   "en": "According to the glyphs on the door, this is the second last to light up. One more to find.",
+   "ro": "După glifele de pe ușă, asta e penultima care se aprinde. Mai trebuie găsită una."
+  },
+  {
+   "id": 12430229291327188430,
+   "en": "He always wakes up just before I roll him into the river.",
+   "ro": "Se trezește mereu chiar înainte să-l arunc în râu."
+  },
+  {
+   "id": 12430247938594419055,
+   "en": "You weren't my target. And if you remember, I walked away. It was never settled.",
+   "ro": "Nu tu erai ținta mea. Și, dacă îți amintești, am plecat. Nu s-a lămurit niciodată."
+  },
+  {
+   "id": 12430249383153059522,
+   "en": "This has to be the spot.",
+   "ro": "Trebuie să fie locul ăsta."
+  },
+  {
+   "id": 12430286927775819556,
+   "en": "I am close to another glowing glyph. I can feel it.",
+   "ro": "Sunt aproape de un alt glif strălucitor. Îl simt."
+  },
+  {
+   "id": 12430339636221101571,
+   "en": "Check his sleeves for mon?",
+   "ro": "Să-i verific mânecile după mon?"
+  },
+  {
+   "id": 12430343847829078822,
+   "en": "Hold still!",
+   "ro": "Stai pe loc!"
+  },
+  {
+   "id": 12430391433446582628,
+   "en": "Wow. What is this?",
+   "ro": "Vai. Ce e asta?"
+  },
+  {
+   "id": 12430422497296634090,
+   "en": "They better not make me live to regret this.",
+   "ro": "Sper să nu ajung să regret asta."
+  },
+  {
+   "id": 12430429898543012501,
+   "en": "All right. We need to make this more challenging.",
+   "ro": "Bine. Trebuie să-l facem mai greu."
+  },
+  {
+   "id": 12430448983372274940,
+   "en": "Kinu the horse. If he is still for sale, perhaps we will reunite you.",
+   "ro": "Kinu, calul. Dacă mai e de vânzare, poate te reunim cu el."
+  },
+  {
+   "id": 12430460781230340364,
+   "en": "I lost the glyph's signal.",
+   "ro": "Am pierdut semnalul glifului."
+  },
+  {
+   "id": 12430467709929688375,
+   "en": "Is that supposed to scare me?",
+   "ro": "Asta trebuie să mă sperie?"
+  },
+  {
+   "id": 12430578226348908930,
+   "en": "The death of a friend is always difficult. Human or animal.",
+   "ro": "Moartea unui prieten e mereu grea. Om sau animal."
+  },
+  {
+   "id": 12430586792837664773,
+   "en": "[[screams]]",
+   "ro": "[[screams]]"
+  },
+  {
+   "id": 12430589846453304872,
+   "en": "Sorry, Kinu.",
+   "ro": "Îmi pare rău, Kinu."
+  },
+  {
+   "id": 12430616526599632772,
+   "en": "More riddles? Great.",
+   "ro": "Mai multe ghicitori? Minunat."
+  },
+  {
+   "id": 12430665938241774921,
+   "en": "You're not bad at this fighting thing.",
+   "ro": "Nu te descurci rău la luptă."
+  },
+  {
+   "id": 12430667691985917323,
+   "en": "Brace your stomach.",
+   "ro": "Încordează-ți stomacul."
+  },
+  {
+   "id": 12430691831206584652,
+   "en": "Kane, you patrol around. Let's see if Yasuke can sneak up on you.",
+   "ro": "Kane, tu patrulezi pe-aici. Să vedem dacă Yasuke reușește să se strecoare pe lângă tine."
+  },
+  {
+   "id": 12430709777978583496,
+   "en": "I want to ask you something, Kinu.",
+   "ro": "Vreau să te întreb ceva, Kinu."
+  },
+  {
+   "id": 12430805904303905737,
+   "en": "When did you become such a sap?",
+   "ro": "De când ai devenit așa un sentimental?"
+  },
+  {
+   "id": 12430822806094333918,
+   "en": "Thank you, Kinu. You're sweet.",
+   "ro": "Mulțumesc, Kinu. Ești tare drăguț."
+  },
+  {
+   "id": 12430826735624770121,
+   "en": "Wrong way I guess.",
+   "ro": "Cred că am luat-o pe drumul greșit."
+  },
+  {
+   "id": 12430836445774183651,
+   "en": "Yasukane. What a tribute!",
+   "ro": "Yasukane. Ce omagiu!"
+  },
+  {
+   "id": 12430861885916054508,
+   "en": "You sure you want to try again?",
+   "ro": "Chiar vrei să mai încerci?"
+  },
+  {
+   "id": 12430887003268475247,
+   "en": "But if I believe in any rule, it's finders keepers.",
+   "ro": "Dar dacă cred într-o regulă, e asta: ce găsești, rămâne al tău."
+  },
+  {
+   "id": 12430896949991784877,
+   "en": "I didn't just see you, sir, don't worry. La la la, I saw nothing!",
+   "ro": "Nu v-am văzut, domnule, nu vă faceți griji. La la la, n-am văzut nimic!"
+  },
+  {
+   "id": 12430908269734264818,
+   "en": "Whoo! I'm a scarecrow! Watch out, stupid birds!",
+   "ro": "Uau! Sunt o sperietoare! Ferește-te, păsări proaste!"
+  },
+  {
+   "id": 12430913026580227497,
+   "en": "Luis Frois told me of the Greeks. He would love to see this.",
+   "ro": "Luis Frois mi-a povestit despre greci. Ar fi încântat să vadă asta."
+  },
+  {
+   "id": 12430923318644770728,
+   "en": "Finally. A drink!",
+   "ro": "În sfârșit. O băutură!"
+  },
+  {
+   "id": 12430934679766503148,
+   "en": "The goal is to lift them off the ground. Send Kinu flying!",
+   "ro": "Scopul e să-i ridici de la pământ. Trimite-l pe Kinu zburând!"
+  },
+  {
+   "id": 12430972069994154297,
+   "en": "Gorgeous horses you have here, sir. Magnificent.",
+   "ro": "Ce cai frumoși aveți aici, domnule. Magnifici."
+  },
+  {
+   "id": 12430996176652842382,
+   "en": "[beat]Are you listening?",
+   "ro": "[beat]Ești atent?"
+  },
+  {
+   "id": 12431010403636023738,
+   "en": "Hey, hey! Enough!",
+   "ro": "Hei, hei! Destul!"
+  },
+  {
+   "id": 12431055114117973107,
+   "en": "Waaaaahhhhh!",
+   "ro": "Aaaaaahhhhh!"
+  },
+  {
+   "id": 12431078245575972553,
+   "en": "How about now? Are you ready to train us?",
+   "ro": "Ce zici acum? Ești gata să ne antrenezi?"
+  },
+  {
+   "id": 12431079763660547954,
+   "en": "Not so hard!",
+   "ro": "Nu atât de tare!"
+  },
+  {
+   "id": 12431087969114969973,
+   "en": "The ornament's leading me closer.",
+   "ro": "Ornamentul mă duce tot mai aproape."
+  },
+  {
+   "id": 12431092827572485745,
+   "en": "Time to settle it then. With a duel! Crush her like a beetle, sir.",
+   "ro": "Atunci să rezolvăm asta. Cu un duel! Zdrobește-o ca pe un gândac, domnule."
+  },
+  {
+   "id": 12431097023823794964,
+   "en": "Yes he did.",
+   "ro": "Da, chiar a făcut-o."
+  },
+  {
+   "id": 12431124964564730848,
+   "en": "You wouldn't know style if it bit you on the ass.",
+   "ro": "Nu ai ști ce e stilul nici dacă te-ar mușca în fund."
+  },
+  {
+   "id": 12431127756706010095,
+   "en": "Can I practice on you later, Kane?",
+   "ro": "Pot să exersez pe tine mai târziu, Kane?"
+  },
+  {
+   "id": 12431133149468178029,
+   "en": "I offered help to you back then, and you didn't take it. You're lost causes.",
+   "ro": "Ți-am oferit ajutorul atunci, și nu l-ai luat. Sunteți niște cazuri pierdute."
+  },
+  {
+   "id": 12431189272708795919,
+   "en": "I am. I just agree with him.",
+   "ro": "Sunt. Doar sunt de acord cu el."
+  },
+  {
+   "id": 12431212831762468123,
+   "en": "That is... quite the image. Thank you, Kane.",
+   "ro": "Asta e... o imagine și jumătate. Mulțumesc, Kane."
+  },
+  {
+   "id": 12431242810296664556,
+   "en": "What? Does Kinu have an imaginary girlfriend now?",
+   "ro": "Ce? Kinu are acum o iubită imaginară?"
+  },
+  {
+   "id": 12431267613725550049,
+   "en": "With pleasure.",
+   "ro": "Cu plăcere."
+  },
+  {
+   "id": 12431302290571893741,
+   "en": "You lost with such grace, great samurai! That's how you do it. I want to be just like you.",
+   "ro": "Ai pierdut cu atâta eleganță, mare samurai! Așa se face. Vreau să fiu exact ca tine."
+  },
+  {
+   "id": 12431419349173513022,
+   "en": "Kinu and Kane will need a good rest. We will train more tomorrow.",
+   "ro": "Kinu și Kane au nevoie de o odihnă bună. Mâine o să mai antrenăm."
+  },
+  {
+   "id": 12431423861319191704,
+   "en": "Where did these come from? They definitely weren't made here.",
+   "ro": "De unde au apărut astea? Sigur nu au fost făcute aici."
+  },
+  {
+   "id": 12431486221324668358,
+   "en": "Naoe was here, but it is time to take a look for myself.",
+   "ro": "Naoe a fost aici, dar e timpul să mă uit și eu."
+  },
+  {
+   "id": 12431515232810210044,
+   "en": "Good. There'll be plenty of ass-kicking when we put you on the battlefield.",
+   "ro": "Bine. O să fie destulă bătaie când vă ducem pe câmpul de luptă."
+  },
+  {
+   "id": 12431517227717520279,
+   "en": "Yes, and I stopped you. [beat]I did grab your blade hand.",
+   "ro": "Da, și te-am oprit. [beat]Chiar ți-am prins mâna cu lama."
+  },
+  {
+   "id": 12431524511263150229,
+   "en": "[[laughs]] And I know I could never steal you away from Kinu.",
+   "ro": "[[laughs]] Și știu că n-aș putea niciodată să te fur de lângă Kinu."
+  },
+  {
+   "id": 12431574610683087246,
+   "en": "Yatta!",
+   "ro": "Ura!"
+  },
+  {
+   "id": 12431701505109854940,
+   "en": "A duel, huh?",
+   "ro": "Un duel, deci?"
+  },
+  {
+   "id": 12431710600553062567,
+   "en": "We'll be here.",
+   "ro": "O să fim aici."
+  },
+  {
+   "id": 12431745576186972722,
+   "en": "Of course you did. [beat, alarmed]Ah! A bear!",
+   "ro": "Sigur că ai. [beat, alarmed]Ah! Un urs!"
+  },
+  {
+   "id": 12431757560517425765,
+   "en": "I'll slap both of your faces clean if you don't go fish it out.",
+   "ro": "Vă trag eu câte-o palmă la amândoi dacă nu vă duceți să-l scoateți de-acolo."
+  },
+  {
+   "id": 12431802242437326579,
+   "en": "KANE",
+   "ro": "KANE"
+  },
+  {
+   "id": 12431846145724078153,
+   "en": "Maybe I am moving away from where I need to be.",
+   "ro": "Poate că mă îndepărtez de locul în care ar trebui să fiu."
+  },
+  {
+   "id": 12431855050953127278,
+   "en": "[[chokes]]",
+   "ro": "[[chokes]]"
+  },
+  {
+   "id": 12431887230431904854,
+   "en": "Even in loss, I still think you are the strongest. And most lovely.",
+   "ro": "Chiar și când pierzi, tot cred că ești cel mai puternic. Și cel mai frumos."
+  },
+  {
+   "id": 12431910873810373713,
+   "en": "What won't get old?",
+   "ro": "Ce nu se demodează?"
+  },
+  {
+   "id": 12431913839663489579,
+   "en": "Then train us to be great like Yasuke – I mean, like you!",
+   "ro": "Atunci antrenează-ne să ajungem la fel de buni ca Yasuke – adică, ca tine!"
+  },
+  {
+   "id": 12431925626655353402,
+   "en": "Kinu the horse, huh? If he's still for sale, maybe we'll recruit him.",
+   "ro": "Kinu calul, deci? Dacă mai e de vânzare, poate îl recrutăm."
+  },
+  {
+   "id": 12431932238318148684,
+   "en": "Don't you mean Naoe?",
+   "ro": "Nu vrei să spui Naoe?"
+  },
+  {
+   "id": 12431942235180174802,
+   "en": "What is it?",
+   "ro": "Ce e?"
+  },
+  {
+   "id": 12431946164395483827,
+   "en": "[[huffs]] You were supposed to be taking notes!",
+   "ro": "[[huffs]] Trebuia să iei notițe!"
+  },
+  {
+   "id": 12431948689608923886,
+   "en": "There.",
+   "ro": "Acolo!"
+  },
+  {
+   "id": 12431972050863148951,
+   "en": "Just as testy as she was in the old days.",
+   "ro": "Tot la fel de nervoasă ca pe vremuri."
+  },
+  {
+   "id": 12431979576172537634,
+   "en": "Yes, miss Tomiko.",
+   "ro": "Da, domnișoară Tomiko."
+  },
+  {
+   "id": 12431993292979177043,
+   "en": "[[huffs]]",
+   "ro": "[[huffs]]"
+  },
+  {
+   "id": 12432060888722395340,
+   "en": "The less harm we do, the better.",
+   "ro": "Cu cât facem mai puțin rău, cu atât mai bine."
+  },
+  {
+   "id": 12432061413947223522,
+   "en": "Look at this tanto! Amazing. [beat, pleased]It's coming with me.",
+   "ro": "Uite tantō-ul ăsta! Minunat. [beat, pleased]Vine cu mine."
+  },
+  {
+   "id": 12432071260707729493,
+   "en": "I have not slept in two days.",
+   "ro": "N-am dormit de două zile."
+  },
+  {
+   "id": 12432083815349150680,
+   "en": "There is a glyph nearby. My ornament is reacting.",
+   "ro": "E un glif pe aproape. Ornamentul meu reacționează."
+  },
+  {
+   "id": 12432118792285183564,
+   "en": "KANE and KINU",
+   "ro": "KANE și KINU"
+  },
+  {
+   "id": 12432185666882644411,
+   "en": "Kinu the horse you say? Perhaps our stable holds more for you two than manure.",
+   "ro": "Kinu, calul, zici? Poate grajdul nostru are ceva mai bun pentru voi doi decât balegă."
+  },
+  {
+   "id": 12432190878667973125,
+   "en": "There must be another glyph close by. I feel the ornament reacting.",
+   "ro": "Trebuie să mai fie un glif pe aproape. Simt cum reacționează ornamentul."
+  },
+  {
+   "id": 12432197257156153948,
+   "en": "Not you!",
+   "ro": "Nu tu!"
+  },
+  {
+   "id": 12432206618513841078,
+   "en": "So something about the ornament and this spot lights up a glyph. It is a mystery.",
+   "ro": "Deci ceva între ornament și locul ăsta aprinde un glif. E un mister."
+  },
+  {
+   "id": 12432210837659758754,
+   "en": "That's six glyphs in total. We're getting somewhere.",
+   "ro": "Sunt șase glife în total. Începem să ajungem undeva."
+  },
+  {
+   "id": 12432221698112703036,
+   "en": "In case this Hideout thing goes belly up, I have a plan.",
+   "ro": "Pentru cazul în care treaba cu Ascunzătoarea se duce de râpă, am un plan."
+  },
+  {
+   "id": 12432238999370104156,
+   "en": "I cannot be far now.",
+   "ro": "Nu mai pot fi departe acum."
+  },
+  {
+   "id": 12432251954574498046,
+   "en": "It is getting less reactive.",
+   "ro": "Reacționează tot mai puțin."
+  },
+  {
+   "id": 12432258231560653386,
+   "en": "I must defend your honor!",
+   "ro": "Trebuie să-ți apăr onoarea!"
+  },
+  {
+   "id": 12432297068243981638,
+   "en": "Don't worry about me. Worry about your bruised ass tomorrow.",
+   "ro": "Nu-ți face griji pentru mine. Mai bine fă griji pentru fundul tău vânătat de mâine."
+  },
+  {
+   "id": 12432303563893275774,
+   "en": "Stop talking and I'll tell you, birdbrain.",
+   "ro": "Oprește-te din vorbit și îți spun, cap de pasăre."
+  },
+  {
+   "id": 12432307211414351210,
+   "en": "Then it better be put to good use.",
+   "ro": "Atunci mai bine să fie folosit cum trebuie."
+  },
+  {
+   "id": 12432307309850986055,
+   "en": "Have some of our riddle scrolls.",
+   "ro": "Luați și din sulurile noastre cu ghicitori."
+  },
+  {
+   "id": 12432308055328415485,
+   "en": "Did you do that? Make it glow?",
+   "ro": "Tu ai făcut asta? L-ai făcut să strălucească?"
+  },
+  {
+   "id": 12432314441704472054,
+   "en": "Oof!",
+   "ro": "Auch!"
+  },
+  {
+   "id": 12432317382408467475,
+   "en": "For you.",
+   "ro": "Pentru tine."
+  },
+  {
+   "id": 12432329970836001778,
+   "en": "Good. Then you will be ready when we call you on the battlefield.",
+   "ro": "Bine. Atunci o să fii pregătit când te chemăm pe câmpul de luptă."
+  },
+  {
+   "id": 12432377808557323681,
+   "en": "Please don't embarrass me in front of miss Naoe.",
+   "ro": "Te rog, nu mă face de rușine în fața domnișoarei Naoe."
+  },
+  {
+   "id": 12432382569329231368,
+   "en": "Well. No glyph here.",
+   "ro": "Păi. Aici nu e niciun glif."
+  },
+  {
+   "id": 12432389906316421189,
+   "en": "Oh! [beat]He's not so bad.",
+   "ro": "Oh! [beat]Nu e chiar atât de rău."
+  },
+  {
+   "id": 12432415487167765792,
+   "en": "The craftsmanship. Naoe could use this.",
+   "ro": "Meșteșugul. Naoe ar putea folosi asta."
+  },
+  {
+   "id": 12432419974884392473,
+   "en": "To perform in front of you... it is an honor.",
+   "ro": "Să joc în fața ta... e o onoare."
+  },
+  {
+   "id": 12432458527922419138,
+   "en": "There must be another glyph close by. I feel the ornament reacting.",
+   "ro": "Trebuie să mai fie un glif pe aproape. Simt cum reacționează ornamentul."
+  },
+  {
+   "id": 12432479552107527197,
+   "en": "You guys don't look so good.",
+   "ro": "Voi nu arătați prea bine."
+  },
+  {
+   "id": 12432529884280485053,
+   "en": "Beating you. [[laughs]]",
+   "ro": "Bătându-vă. [[laughs]]"
+  },
+  {
+   "id": 12432542584484048849,
+   "en": "Manure?",
+   "ro": "Gunoi de cal?"
+  },
+  {
+   "id": 12432562149177588320,
+   "en": "Not barrels of sake, Kane. Naoe will practice kicking you into them.",
+   "ro": "Nu butoaie cu sake, Kane. Naoe o să exerseze să te arunce în ele cu piciorul."
+  },
+  {
+   "id": 12432584064293581489,
+   "en": "The ornament. It calls to a nearby glyph.",
+   "ro": "Ornamentul. Atrage glifa din apropiere."
+  },
+  {
+   "id": 12432598677311444852,
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "id": 12432656375116204065,
+   "en": "There. A second glyph is lit.",
+   "ro": "Acolo. Al doilea glif s-a aprins."
+  },
+  {
+   "id": 12432683929978983514,
+   "en": "Speaking of the Hideout... I wonder if Naoe would be interested in another duel.",
+   "ro": "Vorbind de Ascunzătoare... mă întreb dacă Naoe ar fi interesată de un alt duel."
+  },
+  {
+   "id": 12432788700888971783,
+   "en": "I can't be far now.",
+   "ro": "Nu mai pot fi departe."
+  },
+  {
+   "id": 12432871129349262992,
+   "en": "Uh, no. Not that question.",
+   "ro": "Ei, nu. Nu întrebarea aia."
+  },
+  {
+   "id": 12432881791522477385,
+   "en": "Making good progress.",
+   "ro": "Progresăm bine."
+  },
+  {
+   "id": 12432897617151979202,
+   "en": "Cruel fate cut our time with him short. [beat]I will never forget the great beast.",
+   "ro": "Soarta crudă ne-a scurtat timpul cu el. [beat]Nu o să uit niciodată bestia aceea uriașă."
+  },
+  {
+   "id": 12432919426593962188,
+   "en": "I am a changed man, shinobi. Truly.",
+   "ro": "Sunt un om schimbat, shinobi. Chiar așa."
+  },
+  {
+   "id": 12433036106593353900,
+   "en": "Ready to lose?",
+   "ro": "Gata să pierzi?"
+  },
+  {
+   "id": 12433099451199817891,
+   "en": "The ornament is growing louder.",
+   "ro": "Ornamentul se aude tot mai tare."
+  },
+  {
+   "id": 12433128667337358248,
+   "en": "Then wake me up!",
+   "ro": "Atunci trezește-mă!"
+  },
+  {
+   "id": 12433138068258349428,
+   "en": "We will come back tomorrow. But I think no amount of sleep will make them warriors.",
+   "ro": "Revenim mâine. Dar cred că niciun pic de somn nu o să-i facă războinici."
+  },
+  {
+   "id": 12433145818349816614,
+   "en": "Hmm. The ornament is... glowing?",
+   "ro": "Hm. Ornamentul... strălucește?"
+  },
+  {
+   "id": 12433161524002871180,
+   "en": "If only there was a way to show my reverence. My devotion. [beat]I know!",
+   "ro": "Dacă aș putea arăta cumva cât de mult îl respect. Devotamentul meu. [beat]Am o idee!"
+  },
+  {
+   "id": 12433192698306294359,
+   "en": "There's a glyph nearby. My ornament's reacting to it.",
+   "ro": "E un glif pe aproape. Ornamentul meu reacționează la el."
+  },
+  {
+   "id": 12433206232221077029,
+   "en": "Your name! I will take your name.",
+   "ro": "Numele tău! Îl iau eu."
+  },
+  {
+   "id": 12433229803936855352,
+   "en": "Let us begin.",
+   "ro": "Să începem."
+  },
+  {
+   "id": 12433257407298235533,
+   "en": "Come on. Let's duel.",
+   "ro": "Hai. Să ne batem în duel."
+  },
+  {
+   "id": 12433257800077185514,
+   "en": "Up for a friendly duel?",
+   "ro": "Vrei un duel prietenesc?"
+  },
+  {
+   "id": 12433312674100141620,
+   "en": "It will be. I can't feel a thing in here! Yasukane's already tested it by kicking my ass across the yard.",
+   "ro": "Va fi. Nu simt nimic aici! Yasukane l-a testat deja, trântindu-mă prin toată curtea."
+  },
+  {
+   "id": 12433315575405627669,
+   "en": "The glyph should light up right around here.",
+   "ro": "Glifa ar trebui să se aprindă chiar aici."
+  },
+  {
+   "id": 12433317038483109889,
+   "en": "Don't worry, I talked it over with the horses. They agreed to part with today's rations.",
+   "ro": "Nu-ți face griji, am vorbit cu caii. Au fost de acord să renunțe la rația de azi."
+  },
+  {
+   "id": 12433384285431607229,
+   "en": "That is... surprisingly profound.",
+   "ro": "Asta e... surprinzător de profund."
+  },
+  {
+   "id": 12433429296617977582,
+   "en": "All right. The glyph is here.",
+   "ro": "Bine. Glifa e aici."
+  },
+  {
+   "id": 12433434312535222280,
+   "en": "There. A second glyph is lit.",
+   "ro": "Acolo. Al doilea glif s-a aprins."
+  },
+  {
+   "id": 12433455185445277488,
+   "en": "You've got it.",
+   "ro": "Ai prins ideea."
+  },
+  {
+   "id": 12433456849323315456,
+   "en": "One harmless match.",
+   "ro": "Un singur meci inofensiv."
+  },
+  {
+   "id": 12433481517984251331,
+   "en": "It's a new day. Hope Kinu and Kane's bruises have healed.",
+   "ro": "E o zi nouă. Sper că vânătăile lui Kinu și Kane s-au vindecat."
+  },
+  {
+   "id": 12433481832077219099,
+   "en": "Now you have done it.",
+   "ro": "Acum ai dat-o în bară."
+  },
+  {
+   "id": 12433516990384266761,
+   "en": "Naoe might like this for the Hideout. I will have Kinu and Kane pick it up.",
+   "ro": "Naoe ar putea să-i placă asta pentru Ascunzătoare. Îi trimit pe Kinu și Kane s-o ia."
+  },
+  {
+   "id": 12433557788427409897,
+   "en": "The light on the ornament. It fades.",
+   "ro": "Lumina de pe ornament. Se stinge."
+  },
+  {
+   "id": 12433606148594216844,
+   "en": "Told you I'd be your biggest fan, sir.",
+   "ro": "Ți-am spus că o să fiu cel mai mare admirator al tău, stăpâne."
+  },
+  {
+   "id": 12433638141837589491,
+   "en": "All right. Time to bring out the barrels.",
+   "ro": "Bine. E momentul să aducem butoaiele."
+  },
+  {
+   "id": 12433649473688068204,
+   "en": "The great war against... horse manure!",
+   "ro": "Marele război împotriva... bălegarului de cal!"
+  },
+  {
+   "id": 12433696894238224224,
+   "en": "If you need more practice on me, I'm here. I'm a human training dummy.",
+   "ro": "Dacă mai ai nevoie să exersezi pe mine, sunt aici. Sunt un manechin de antrenament uman."
+  },
+  {
+   "id": 12433708379500306914,
+   "en": "One step closer to opening the strange door.",
+   "ro": "Încă un pas spre deschiderea ușii ciudate."
+  },
+  {
+   "id": 12433722961293569760,
+   "en": "Good! Now he'll just take a little nap.",
+   "ro": "Bine! Acum o să mai tragă un pui de somn."
+  },
+  {
+   "id": 12433736554385708266,
+   "en": "Good teaching, sensei. I admit there were times I could have used restraint on my enemies.",
+   "ro": "Bună lecție, sensei. Recunosc că au fost momente când ar fi trebuit să fiu mai reținut cu inamicii."
+  },
+  {
+   "id": 12433746456782245999,
+   "en": "Interesting ornamental work. I saw objects like these on my travels.",
+   "ro": "Ornamente interesante, ca ăstea. Am mai văzut obiecte ca astea în călătoriile mele."
+  },
+  {
+   "id": 12433760725403236208,
+   "en": "I-it was Yasukane's fault!",
+   "ro": "C-a fost vina lui Yasukane!"
+  },
+  {
+   "id": 12433781853837602789,
+   "en": "Well. No glyph here.",
+   "ro": "Păi. Aici nu e niciun glif."
+  },
+  {
+   "id": 12433792537197803664,
+   "en": "I wonder what Yasuke the legendary has in store for me.",
+   "ro": "Mă întreb ce pregătește Yasuke cel legendar pentru mine."
+  },
+  {
+   "id": 12433810730782730816,
+   "en": "Square your hips. Ground yourself. Draw power from the earth.",
+   "ro": "Aliniază-ți șoldurile. Stai ferm pe picioare. Trage putere din pământ."
+  },
+  {
+   "id": 12433831892154594536,
+   "en": "I am far from the glyph now.",
+   "ro": "Sunt departe de glif acum."
+  },
+  {
+   "id": 12433887365043400756,
+   "en": "I'll tell Kinu and Kane getting the statue back to the Hideout is part of their training.",
+   "ro": "Le spun lui Kinu și Kane că a duce statuia înapoi la Ascunzătoare e parte din antrenamentul lor."
+  },
+  {
+   "id": 12433921122157317811,
+   "en": "Oh, he's not dead. I gambled the money away. Couldn't afford him.",
+   "ro": "Oh, nu e mort. Mi-am pierdut banii la jocuri. Nu mi-l puteam permite."
+  },
+  {
+   "id": 12433933951615691078,
+   "en": "I think these are weeds, but...",
+   "ro": "Cred că astea sunt buruieni, dar..."
+  },
+  {
+   "id": 12433959804224280412,
+   "en": "Making good progress.",
+   "ro": "Progresăm bine."
+  },
+  {
+   "id": 12433995681140627507,
+   "en": "But it should be.",
+   "ro": "Dar ar trebui să fie."
+  },
+  {
+   "id": 12434003344174951367,
+   "en": "You'd better be ready today!",
+   "ro": "Mai bine fii pregătit azi!"
+  },
+  {
+   "id": 12434093725832864639,
+   "en": "Wrong way I guess.",
+   "ro": "Cred că am luat-o pe drumul greșit."
+  },
+  {
+   "id": 12434101362542072830,
+   "en": "It is the only possible explanation for your victory.",
+   "ro": "E singura explicație posibilă pentru victoria ta."
+  },
+  {
+   "id": 12434104056739477506,
+   "en": "Very loud argument.",
+   "ro": "Ce ceartă zgomotoasă."
+  },
+  {
+   "id": 12434126626468472565,
+   "en": "What is this? I know I heard her, but... am I going mad?",
+   "ro": "Ce-i asta? Știu că am auzit-o, dar... înnebunesc?"
+  },
+  {
+   "id": 12434138681860517463,
+   "en": "Let's fight. You and me.",
+   "ro": "Hai să luptăm. Tu cu mine."
+  },
+  {
+   "id": 12434138868240669486,
+   "en": "One of the roofs is leaking. Can you tell Monta?",
+   "ro": "Unul dintre acoperișuri curge. Îi poți spune lui Monta?"
+  },
+  {
+   "id": 12434147532721089049,
+   "en": "Then wake me up!",
+   "ro": "Atunci trezește-mă!"
+  },
+  {
+   "id": 12434159283440070205,
+   "en": "The ornament's not as strong now. I'm not going the right way.",
+   "ro": "Ornamentul nu mai e la fel de puternic. Nu merg pe drumul bun."
+  },
+  {
+   "id": 12434179145889112148,
+   "en": "[[yawns]]",
+   "ro": "[[yawns]]"
+  },
+  {
+   "id": 12434221729563765348,
+   "en": "I enjoyed that.",
+   "ro": "Mi-a plăcut."
+  },
+  {
+   "id": 12434356961903497306,
+   "en": "Here we go.",
+   "ro": "Hai că începem."
+  },
+  {
+   "id": 12434361267177241093,
+   "en": "The ornament leads me closer.",
+   "ro": "Ornamentul mă duce mai aproape."
+  },
+  {
+   "id": 12434370869276572580,
+   "en": "Naoe was here, but it is time to take a look for myself.",
+   "ro": "Naoe a fost aici, dar e timpul să mă uit și eu."
+  },
+  {
+   "id": 12434414854273689404,
+   "en": "Maybe I am moving away from where I need to be.",
+   "ro": "Poate că mă îndepărtez de locul în care ar trebui să fiu."
+  },
+  {
+   "id": 12434418465908590556,
+   "en": "Imagine this person is alone, with their back to you. What do you do?",
+   "ro": "Imaginează-ți că persoana asta e singură, cu spatele la tine. Ce faci?"
+  },
+  {
+   "id": 12434420684309388675,
+   "en": "Yeah, the only mark was on your ass after she kicked it.",
+   "ro": "Da, singura vânătaie a fost pe fund, după ce ea te-a lovit acolo."
+  },
+  {
+   "id": 12434443406971194477,
+   "en": "That is... surprisingly profound.",
+   "ro": "Asta e... surprinzător de profund."
+  },
+  {
+   "id": 12434452133591393319,
+   "en": "Sure, I've been kicked out of sake breweries before. But that was ridiculous!",
+   "ro": "Sigur, am fost dat afară și din fabrici de sake înainte. Dar asta a fost penibil!"
+  },
+  {
+   "id": 12434482984602221881,
+   "en": "Uh, no. Not that question.",
+   "ro": "Ei, nu. Nu întrebarea aia."
+  },
+  {
+   "id": 12434498498562237545,
+   "en": "Hm. The ornament stopped.",
+   "ro": "Hm. Ornamentul s-a oprit."
+  },
+  {
+   "id": 12434563892977650016,
+   "en": "[[gasps]] This is it. Yes. One hundred times, yes!",
+   "ro": "[[gasps]] Asta e. Da. De o sută de ori, da!"
+  },
+  {
+   "id": 12434570212182478048,
+   "en": "And if they are trouble, Tomiko will whip them into shape.",
+   "ro": "Și dacă sunt probleme, Tomiko o să-i pună pe linie."
+  },
+  {
+   "id": 12434579344267604579,
+   "en": "[running and cheering ono]",
+   "ro": "[running and cheering ono]"
+  },
+  {
+   "id": 12434674695417251376,
+   "en": "You won't be disappointed, miss Naoe. Meet us here tomorrow. I need to lie down. Immediately.",
+   "ro": "Nu o să fii dezamăgită, Naoe. Ne vedem aici mâine. Trebuie să mă întind. Imediat."
+  },
+  {
+   "id": 12434684585414871558,
+   "en": "It's getting less reactive.",
+   "ro": "Reacționează din ce în ce mai puțin."
+  },
+  {
+   "id": 12434698444993924677,
+   "en": "Show us what you have prepared.",
+   "ro": "Arată-ne ce ai pregătit."
+  },
+  {
+   "id": 12434737886412134831,
+   "en": "We'll master it too before you know it.",
+   "ro": "O să stăpânim și asta înainte să-ți dai seama."
+  },
+  {
+   "id": 12434777801348716074,
+   "en": "Hmm. The ornament is... glowing?",
+   "ro": "Hm. Ornamentul... strălucește?"
+  },
+  {
+   "id": 12434785069071603591,
+   "en": "Allow me and Kinu to show you what we will bring to your illustrious team.",
+   "ro": "Lasă-mă pe mine și pe Kinu să vă arătăm ce aducem în echipa voastră de elită."
+  },
+  {
+   "id": 12434791778899446994,
+   "en": "What?",
+   "ro": "Ce?"
+  },
+  {
+   "id": 12434811678839583741,
+   "en": "Ow!",
+   "ro": "Au!"
+  },
+  {
+   "id": 12434812650798148634,
+   "en": "[[chokes]]",
+   "ro": "[[chokes]]"
+  },
+  {
+   "id": 12434821366080387799,
+   "en": "Let's see what you've got.",
+   "ro": "Să vedem ce ai."
+  },
+  {
+   "id": 12434866418613978565,
+   "en": "The ornament is growing louder.",
+   "ro": "Ornamentul se aude tot mai tare."
+  },
+  {
+   "id": 12434991703995532374,
+   "en": "Oh, me next! Use me, miss Naoe, use me.",
+   "ro": "Oh, eu următorul! Folosește-mă, Naoe, folosește-mă."
+  },
+  {
+   "id": 12435024207733581231,
+   "en": "We're ready to train if you're ready to teach.",
+   "ro": "Suntem gata să ne antrenăm, dacă tu ești gata să ne înveți."
+  },
+  {
+   "id": 12435030274346076850,
+   "en": "I will try to be gentle.",
+   "ro": "O să încerc să fiu blând."
+  },
+  {
+   "id": 12435042800936280052,
+   "en": "When I'm ready.",
+   "ro": "Când sunt gata."
+  },
+  {
+   "id": 12435058415758910294,
+   "en": "Don't start.",
+   "ro": "Nu începe."
+  },
+  {
+   "id": 12435070520920061847,
+   "en": "I am close to another glowing glyph. I can feel it.",
+   "ro": "Sunt aproape de un alt glif strălucitor. Îl simt."
+  },
+  {
+   "id": 12435089910949763115,
+   "en": "Easy does it.",
+   "ro": "Cu grijă, încet."
+  },
+  {
+   "id": 12435106899761390609,
+   "en": "This is a waste of time. They have nothing to offer us.",
+   "ro": "E pierdere de timp. Nu au nimic de oferit."
+  },
+  {
+   "id": 12435116237031029582,
+   "en": "I'm sure you're right. That must have taught you everything.",
+   "ro": "Sunt sigur că ai dreptate. Asta trebuie că te-a învățat totul."
+  },
+  {
+   "id": 12435122212750610430,
+   "en": "We've been on the run for months! Our sandals are thinner than dried kelp! You must have a camp. We can help you!",
+   "ro": "Suntem pe fugă de luni de zile! Sandalele noastre sunt mai subțiri decât alga uscată! Trebuie să ai o tabără. Te putem ajuta!"
+  },
+  {
+   "id": 12435130988223432871,
+   "en": "I will return soon.",
+   "ro": "Mă întorc curând."
+  },
+  {
+   "id": 12435180801493252566,
+   "en": "He will get a splinter from that one.",
+   "ro": "O să se aleagă cu o așchie de la ăla."
+  },
+  {
+   "id": 12435252782048503340,
+   "en": "[[grunts]]",
+   "ro": "[[grunts]]"
+  },
+  {
+   "id": 12435257092545472712,
+   "en": "What the...",
+   "ro": "Ce naiba..."
+  },
+  {
+   "id": 12435261542062831335,
+   "en": "This is it, Kinu. You wanna stop sleeping on rocks? Get away from the macaques?",
+   "ro": "Asta e, Kinu. Vrei să nu mai dormim pe pietre? Să scăpăm de macacii ăia?"
+  },
+  {
+   "id": 12435297897687011922,
+   "en": "Yasuke was here, but it's time to take a look for myself.",
+   "ro": "Yasuke a fost aici, dar e momentul să mă uit cu ochii mei."
+  },
+  {
+   "id": 12435318530168058216,
+   "en": "Farewell, seeker.",
+   "ro": "Drum bun, căutătorule."
+  },
+  {
+   "id": 12435327215098905967,
+   "en": "Good. They better stay away if they know what's good for them.",
+   "ro": "Bine. Mai bine stau departe, dacă știu ce e bine pentru ei."
+  },
+  {
+   "id": 12435337284133911394,
+   "en": "I remember now. You're those two trespassers I scared out of Iga.",
+   "ro": "Acum îmi amintesc. Voi doi sunteți intrușii pe care i-am alungat din Iga."
+  },
+  {
+   "id": 12435430080585021826,
+   "en": "Where did you find the time – and the hay – to make this?",
+   "ro": "Unde ați găsit timpul – și fânul – ca să faceți asta?"
+  },
+  {
+   "id": 12435431405202442321,
+   "en": "It is my greatest test of patience.",
+   "ro": "E cel mai mare test al răbdării mele."
+  },
+  {
+   "id": 12435445451201138439,
+   "en": "Sure!",
+   "ro": "Sigur!"
+  },
+  {
+   "id": 12435476203114462140,
+   "en": "[[yawns]] I'll go take a nap unless you need something.",
+   "ro": "[[yawns]] Mă duc să trag un pui de somn, dacă nu ai nevoie de nimic."
+  },
+  {
+   "id": 12435496378989871210,
+   "en": "I know that loss too. Death is hard to overcome.",
+   "ro": "Și eu știu ce e pierderea asta. Moartea e greu de trecut peste."
+  },
+  {
+   "id": 12435512687350923904,
+   "en": "What secrets hide behind this door? Finding more glyphs will open it.",
+   "ro": "Ce secrete se ascund în spatele ușii? O deschidem dacă găsim mai multe glife."
+  },
+  {
+   "id": 12435546230060887096,
+   "en": "Thank you. They're some of our worthiest allies.",
+   "ro": "Mulțumesc. Sunt dintre cei mai valoroși aliați ai noștri."
+  },
+  {
+   "id": 12435554649975445825,
+   "en": "Oh. Is that what happened last time I beat you?",
+   "ro": "Oh. Asta s-a întâmplat și data trecută când te-am bătut?"
+  },
+  {
+   "id": 12435577554358122290,
+   "en": "Uh, no. [beat]Guess that means you forgive me for all those bruises.",
+   "ro": "Ăă, nu. [beat]Înseamnă că mă ierți pentru toate vânătăile alea."
+  },
+  {
+   "id": 12435581046762065042,
+   "en": "We took some Igan millet and meat because we were starving. We could have died!",
+   "ro": "Am luat niște mei și carne din Igan, că muream de foame. Puteam să murim!"
+  },
+  {
+   "id": 12435662598436061546,
+   "en": "Naoe might like this for the Hideout. I will have Kinu and Kane pick it up.",
+   "ro": "Naoe ar putea să-i placă asta pentru Ascunzătoare. Îi trimit pe Kinu și Kane s-o ia."
+  },
+  {
+   "id": 12435686314125424854,
+   "en": "Sure he has! Just the other day he said I was as attractive as I am smart.",
+   "ro": "Sigur că da! Chiar zilele trecute a spus că sunt la fel de atrăgătoare cât sunt de deșteaptă."
+  },
+  {
+   "id": 12435745462918113732,
+   "en": "I should be right by the glyph now.",
+   "ro": "Ar trebui să fiu chiar lângă glif acum."
+  },
+  {
+   "id": 12435750541999291232,
+   "en": "There is no crime against stupidity.",
+   "ro": "Nu e nicio crimă împotriva prostiei."
+  },
+  {
+   "id": 12435801305906395711,
+   "en": "More than halfway there. What are you hiding?",
+   "ro": "Mai mult de jumătate din drum. Ce ascunzi?"
+  },
+  {
+   "id": 12435806611987612836,
+   "en": "[[scoffs]] Say that again and we'll have to duel for real.",
+   "ro": "[[scoffs]] Mai spune o dată și o să trebuiască să ne batem în duel, pe bune."
+  },
+  {
+   "id": 12435814219300232881,
+   "en": "What the...",
+   "ro": "Ce naiba..."
+  },
+  {
+   "id": 12435839606815911448,
+   "en": "She's talking about you, numbskull.",
+   "ro": "Vorbește despre tine, cap de lemn."
+  },
+  {
+   "id": 12435845395998659388,
+   "en": "We'll start again tomorrow. But no amount of sleep's gonna help these two.",
+   "ro": "Începem din nou mâine. Dar nici cât ai dormi nu-i ajută pe ăștia doi."
+  },
+  {
+   "id": 12435869727612591154,
+   "en": "But the Hideout will be livelier. [beat, thinking]Maybe I'll go there and ask Yasuke for another duel.",
+   "ro": "Dar Ascunzătoarea o să fie mai animată. [beat, thinking]Poate mă duc acolo și-i cer lui Yasuke un alt duel."
+  },
+  {
+   "id": 12435877430436318521,
+   "en": "One of the two idiots stepped right in my tea bush. Crushed all the leaves!",
+   "ro": "Unul dintre cei doi idioți a călcat chiar în tufa mea de ceai. A zdrobit toate frunzele!"
+  },
+  {
+   "id": 12435907370057578116,
+   "en": "I don't let it bother me when he's in a bad mood. There's a war outside. For Yasukane, there's one on the inside, too.",
+   "ro": "Nu mă deranjează când e în toane proaste. Afară e război. Pentru Yasukane, e unul și înăuntru."
+  },
+  {
+   "id": 12435974344839868006,
+   "en": "There is a glyph nearby. My ornament is reacting.",
+   "ro": "E un glif pe aproape. Ornamentul meu reacționează."
+  },
+  {
+   "id": 12435990519829131210,
+   "en": "Not only does it keep enemies from your vital core, but kick hard enough, and they will take flight.",
+   "ro": "Nu doar că ține inamicii departe de miezul vital, ci, dacă lovești destul de tare, o iau la fugă."
+  },
+  {
+   "id": 12436006115309342486,
+   "en": "KINU",
+   "ro": "KINU"
+  },
+  {
+   "id": 12436006889173314991,
+   "en": "I'm thinking it.",
+   "ro": "Mă gândesc la asta."
+  },
+  {
+   "id": 12436025216169076866,
+   "en": "So something about the ornament and this spot lights up a glyph. It is a mystery.",
+   "ro": "Deci ceva între ornament și locul ăsta aprinde un glif. E un mister."
+  },
+  {
+   "id": 12436059584097862290,
+   "en": "The ornament feels alive!",
+   "ro": "Ornamentul pare viu!"
+  },
+  {
+   "id": 12436127795298180093,
+   "en": "You honor me, Kane. [beat]Sort of.",
+   "ro": "Mă onorezi, Kane. [beat]Cam așa."
+  },
+  {
+   "id": 12436167556058623745,
+   "en": "The ornament is losing power. Perhaps I am getting farther away.",
+   "ro": "Ornamentul își pierde puterea. Poate mă îndepărtez."
+  },
+  {
+   "id": 12436170038756751665,
+   "en": "Funny.",
+   "ro": "Amuzant."
+  },
+  {
+   "id": 12436176719320884135,
+   "en": "I'm going to sleep standing up. Think it'll help?",
+   "ro": "O să dorm în picioare. Crezi că ajută?"
+  },
+  {
+   "id": 12436186574081960391,
+   "en": "Maybe I'm moving away from where I need to be.",
+   "ro": "Poate mă îndepărtez de locul unde ar trebui să fiu."
+  },
+  {
+   "id": 12436190999526319936,
+   "en": "Wrong way I guess.",
+   "ro": "Cred că am luat-o pe drumul greșit."
+  },
+  {
+   "id": 12436205565140229257,
+   "en": "Shut up and give them to us. We'll see what we can do.",
+   "ro": "Taci și dă-ne-le. Vedem ce putem face."
+  },
+  {
+   "id": 12436226063503924977,
+   "en": "I cannot wait to see.",
+   "ro": "Abia aștept să văd."
+  },
+  {
+   "id": 12436242396682797244,
+   "en": "All right. Let's say you want to kill someone. But they're not bad, they're just really annoying.",
+   "ro": "Bine. Să zicem că vrei să ucizi pe cineva. Dar nu sunt răi, doar tare enervanți."
+  },
+  {
+   "id": 12436252746221544126,
+   "en": "Show me what you can do, famous shadow of Iga.",
+   "ro": "Arată-mi ce poți, celebra umbră din Iga."
+  },
+  {
+   "id": 12436257628622649200,
+   "en": "And you have shit on your sandal.",
+   "ro": "Și ai rahat pe sandală."
+  },
+  {
+   "id": 12436282170247690747,
+   "en": "I'll keep stretching my calves.",
+   "ro": "Continui să-mi întind gambele."
+  },
+  {
+   "id": 12436304567930467215,
+   "en": "I don't think it will ever get old.",
+   "ro": "Nu cred că o să se învechească vreodată."
+  },
+  {
+   "id": 12436309326369720982,
+   "en": "The point is we're regular old treasure hunters now! And we think the jackpot is behind this door.",
+   "ro": "Ideea e că acum suntem și noi niște vânători de comori obișnuiți! Și credem că premiul cel mare e după ușa asta."
+  },
+  {
+   "id": 12436317895554727291,
+   "en": "Naoe! You should apologize. If he can still walk back up here.",
+   "ro": "Naoe! Ar trebui să-i ceri scuze. Dacă mai poate urca până aici."
+  },
+  {
+   "id": 12436331962418363432,
+   "en": "I guess we'll go tell those two dunces the good news.",
+   "ro": "Cred că ne ducem să le spunem vestea cea bună celor doi proști."
+  },
+  {
+   "id": 12436371290108089497,
+   "en": "Its name was Kinu? Look up from the pile of manure next time you're at the stable.",
+   "ro": "Numele ei era Kinu? Ridică privirea din grămada de bălegar data viitoare când ești la grajd."
+  },
+  {
+   "id": 12436399028554743645,
+   "en": "All right. The glyph is here.",
+   "ro": "Bine. Glifa e aici."
+  },
+  {
+   "id": 12436461298734410588,
+   "en": "Now to see what's behind the big strange door.",
+   "ro": "Acum să vedem ce e în spatele ușii mari și ciudate."
+  },
+  {
+   "id": 12436511419375608431,
+   "en": "Oh yeah, a trade! Our riddle scrolls for a home.",
+   "ro": "Ah, da, un schimb! Pergamentele noastre cu ghicitori pentru o casă."
+  },
+  {
+   "id": 12436526407927203113,
+   "en": "Good point. [beat, @NAOE]Want to show them how it is done?",
+   "ro": "Bună remarcă. [beat, @NAOE]Vrei să le arăți cum se face?"
+  },
+  {
+   "id": 12436542668680377924,
+   "en": "I'll let them sleep off some of the pain. Before I inflict more tomorrow.",
+   "ro": "Îi las să-și mai potolească durerea. Că mâine le mai dau eu."
+  },
+  {
+   "id": 12436559901781809448,
+   "en": "[ono]",
+   "ro": "[ono]"
+  },
+  {
+   "id": 12436580251201543104,
+   "en": "You got him!",
+   "ro": "L-ai prins!"
+  },
+  {
+   "id": 12436594698025918101,
+   "en": "We humbly await your return.",
+   "ro": "Așteptăm smeriți întoarcerea ta."
+  },
+  {
+   "id": 12436619488009041063,
+   "en": "No, I think six rocks ago it was this rock.",
+   "ro": "Nu, cred că acum șase pietre era asta."
+  },
+  {
+   "id": 12436624138309741191,
+   "en": "Another glyph. I wonder who wrote the riddles?",
+   "ro": "Încă un glif. Mă întreb cine a scris ghicitorile?"
+  },
+  {
+   "id": 12436651618286316556,
+   "en": "We did.",
+   "ro": "Noi."
+  },
+  {
+   "id": 12436664436520004449,
+   "en": "We're ready to train if you're ready to teach.",
+   "ro": "Suntem gata să ne antrenăm, dacă tu ești gata să ne înveți."
+  },
+  {
+   "id": 12436696988466447725,
+   "en": "You weren't...",
+   "ro": "Tu nu erai..."
+  },
+  {
+   "id": 12436713671070740997,
+   "en": "[[chokes]]",
+   "ro": "[[chokes]]"
+  },
+  {
+   "id": 12436737287225577165,
+   "en": "Time for a rematch.",
+   "ro": "E timpul pentru revanșă."
+  },
+  {
+   "id": 12436756499233890308,
+   "en": "Have you seen Junjiro? He wanted to show me a drawing but got distracted by a frog.",
+   "ro": "L-ai văzut pe Junjiro? Voia să-mi arate un desen, dar s-a distras cu o broască."
+  },
+  {
+   "id": 12436778418286972730,
+   "en": "We were just limbering up. I'm very flexible, sir. Like a wet noodle!",
+   "ro": "Doar ne încălzeam. Sunt foarte flexibil, domnule. Ca un tăiței moale!"
+  },
+  {
+   "id": 12436799507166722358,
+   "en": "There should be.",
+   "ro": "Ar trebui să fie."
+  },
+  {
+   "id": 12436805235522491027,
+   "en": "I don't think, samurai. I know.",
+   "ro": "Nu cred, samurai. Știu."
+  },
+  {
+   "id": 12436813248612925630,
+   "en": "Don't worry about me, sir. Kane's made me sleep in a barrel before.",
+   "ro": "Nu-ți face griji pentru mine, domnule. Kane m-a pus și pe mine să dorm într-un butoi înainte."
+  },
+  {
+   "id": 12436821832579783743,
+   "en": "[[grunts]]",
+   "ro": "[[grunts]]"
+  },
+  {
+   "id": 12436843057654673239,
+   "en": "We know Tomiko could use a hand. She hates mucking the horse stalls.",
+   "ro": "Știm că Tomiko ar avea nevoie de o mână de ajutor. Nu-i place să curețe boxele cailor."
+  },
+  {
+   "id": 12436850078180156375,
+   "en": "I am!",
+   "ro": "Sunt!"
+  },
+  {
+   "id": 12436972960528120296,
+   "en": "Hey! She kicked yours too!",
+   "ro": "Hei! Pe a ta te-a lovit și pe a lui!"
+  },
+  {
+   "id": 12436979089269354734,
+   "en": "[[laughs]] I like your confidence. However misguided.",
+   "ro": "[[laughs]] Îmi place încrederea ta. Oricât de greșită ar fi."
+  },
+  {
+   "id": 12436993346031246211,
+   "en": "Good one!",
+   "ro": "Bravo!"
+  },
+  {
+   "id": 12436993911661641274,
+   "en": "Sometimes.",
+   "ro": "Uneori."
+  },
+  {
+   "id": 12437035629728639862,
+   "en": "Yasuke would love this naginata. He has nothing like it.",
+   "ro": "Lui Yasuke i-ar plăcea naginata asta. Nu are nimic asemănător."
+  },
+  {
+   "id": 12437052185087329163,
+   "en": "We'll start again tomorrow. Though I'm not sure sleep will help their technique.",
+   "ro": "Mâine o luăm de la capăt. Deși nu cred că somnul le ajută tehnica."
+  },
+  {
+   "id": 12437075320225706127,
+   "en": "I nearly fell asleep at the pond. [beat, wry]Does that count as meditation?",
+   "ro": "Aproape că am adormit lângă iaz. [beat, wry]Asta se consideră meditație?"
+  },
+  {
+   "id": 12437112476625652585,
+   "en": "I told him we should have asked for it first.",
+   "ro": "I-am spus că ar fi trebuit să-l cerem întâi."
+  },
+  {
+   "id": 12437143632664460193,
+   "en": "Aaaahhhhhh!",
+   "ro": "Aaaahhhhhh!"
+  },
+  {
+   "id": 12437227042928872049,
+   "en": "Trust me, it really wasn't your kind of treasure. [beat]Now. The test.",
+   "ro": "Crede-mă, nu ți-ar fi plăcut comoara asta. [beat]Acum. Testul."
+  },
+  {
+   "id": 12437234464317836976,
+   "en": "[swing and hit ono]",
+   "ro": "[swing and hit ono]"
+  },
+  {
+   "id": 12437253935776421978,
+   "en": "You were thieves then, and you're thieves now. Thieves and lost causes.",
+   "ro": "Atunci erați hoți, și hoți rămâneți. Hoți și cauze pierdute."
+  },
+  {
+   "id": 12437297040045820537,
+   "en": "Then I hope it is put to good use.",
+   "ro": "Atunci sper să fie folosit cum trebuie."
+  },
+  {
+   "id": 12437316396956140397,
+   "en": "Your face needs etiquette lessons.",
+   "ro": "Fața ta are nevoie de lecții de bune maniere."
+  },
+  {
+   "id": 12437319998236779934,
+   "en": "Impossible with that jabbering duo arguing day and night! In the temple. The village. At the rocks...",
+   "ro": "Imposibil, cu perechea aia de flecari care se ceartă zi și noapte! În templu. În sat. Pe stânci..."
+  },
+  {
+   "id": 12437323787102921011,
+   "en": "Give me a bit more time.",
+   "ro": "Dă-mi ceva mai mult timp."
+  },
+  {
+   "id": 12437324399568934753,
+   "en": "All right, legendary samurai. Let's duel.",
+   "ro": "Bine, samurai legendar. Hai la duel."
+  },
+  {
+   "id": 12437328242557618982,
+   "en": "The ornament is losing power. Perhaps I am getting farther away.",
+   "ro": "Ornamentul își pierde puterea. Poate mă îndepărtez."
+  },
+  {
+   "id": 12437547312620882447,
+   "en": "I guess that means you are feeling better. You are ready?",
+   "ro": "Deduc că asta înseamnă că te simți mai bine. Ești gata?"
+  },
+  {
+   "id": 12437552669695966572,
+   "en": "Now to see what is behind the big strange door.",
+   "ro": "Acum să vedem ce e în spatele ușii mari și ciudate."
+  },
+  {
+   "id": 12437556062241918377,
+   "en": "Ah! I see you! [beat]Oops.",
+   "ro": "Ah! Te-am văzut! [beat]Ups."
+  },
+  {
+   "id": 12437564956083162208,
+   "en": "Opened the door, eh? Let me guess. Me and Kinu made you rich.",
+   "ro": "Ai deschis ușa, nu? Ghicesc. Eu și Kinu te-am făcut bogat."
+  },
+  {
+   "id": 12437585592381600927,
+   "en": "We're done being treasure hunters. We want to work for you two.",
+   "ro": "Am terminat cu vânătoarea de comori. Vrem să lucrăm pentru voi doi."
+  },
+  {
+   "id": 12437592652186712895,
+   "en": "That is the lesson I want to learn next!",
+   "ro": "Asta e următoarea lecție pe care vreau s-o învăț!"
+  },
+  {
+   "id": 12437606177394376613,
+   "en": "He told me to clean my plate.",
+   "ro": "Mi-a zis să-mi golesc farfuria."
+  },
+  {
+   "id": 12437659823334017139,
+   "en": "Er, sorry about that sir. I should have tried not looking harder.",
+   "ro": "Ăă, scuze, domnule. Ar fi trebuit să nu mai caut atât de insistent."
+  },
+  {
+   "id": 12437661198446053884,
+   "en": "The ornament feels alive!",
+   "ro": "Ornamentul pare viu!"
+  },
+  {
+   "id": 12437672410189027784,
+   "en": "[[squeaks]]",
+   "ro": "[[squeaks]]"
+  },
+  {
+   "id": 12437689579903880527,
+   "en": "She wouldn't have to if she wasn't losing.",
+   "ro": "N-ar trebui dacă n-ar pierde."
+  },
+  {
+   "id": 12437738426444654526,
+   "en": "WOMAN",
+   "ro": "FEMEIE"
+  },
+  {
+   "id": 12437746698951099988,
+   "en": "When I am ready.",
+   "ro": "Când sunt gata."
+  },
+  {
+   "id": 12437748730648422002,
+   "en": "[dancing and cheering ono]",
+   "ro": "[dancing and cheering ono]"
+  },
+  {
+   "id": 12437761342971867239,
+   "en": "Thank you!",
+   "ro": "Mulțumesc!"
+  },
+  {
+   "id": 12437798590165150481,
+   "en": "Ready for a rematch?",
+   "ro": "Gata pentru revanșă?"
+  },
+  {
+   "id": 12437819210436068031,
+   "en": "It was a warning. I cried out as a warning.",
+   "ro": "A fost un avertisment. Am strigat ca să te avertizez."
+  },
+  {
+   "id": 12437820560946900207,
+   "en": "You can tell him how I won later.",
+   "ro": "Îi poți spune mai târziu cum am câștigat."
+  },
+  {
+   "id": 12437827745360770202,
+   "en": "Isn't that her? The Igan farm girl?",
+   "ro": "Nu e ea? Fata de la ferma din Igan?"
+  },
+  {
+   "id": 12437832361554838802,
+   "en": "One step closer to opening the strange door.",
+   "ro": "Încă un pas spre deschiderea ușii ciudate."
+  },
+  {
+   "id": 12437862908654259199,
+   "en": "That should be all the glyphs illuminated.",
+   "ro": "Ar trebui să fie toate glifele luminate."
+  },
+  {
+   "id": 12437878726535107976,
+   "en": "You're laying it on a bit thick.",
+   "ro": "Exagerezi puțin."
+  },
+  {
+   "id": 12437893611712844470,
+   "en": "So there is something about this ornament that illuminates these glyphs. How or why is a mystery.",
+   "ro": "Deci ornamentul ăsta are ceva care luminează glifele. Cum sau de ce, e un mister."
+  },
+  {
+   "id": 12437933018673156217,
+   "en": "I'll be a whole new man tomorrow. But Kinu, he'll be the same old fool.",
+   "ro": "Mâine o să fiu alt om. Dar Kinu rămâne același prost de mereu."
+  },
+  {
+   "id": 12438005778126361188,
+   "en": "[[gasps]] The legendary samurai! In the flesh.",
+   "ro": "[[gasps]] Samuraiul legendar! În carne și oase."
+  },
+  {
+   "id": 12438018830617182666,
+   "en": "Ha ha! I win!",
+   "ro": "Ha ha! Am câștigat!"
+  },
+  {
+   "id": 12438030388804628845,
+   "en": "Interesting ornamental work. I saw objects like these on my travels.",
+   "ro": "Ornamente interesante, ca ăstea. Am mai văzut obiecte ca astea în călătoriile mele."
+  },
+  {
+   "id": 12438071087801491444,
+   "en": "There. A second glyph is lit.",
+   "ro": "Acolo. Al doilea glif s-a aprins."
+  },
+  {
+   "id": 12438079064297434250,
+   "en": "Duel! Duel! Duel! Duel! Duel! Duel!",
+   "ro": "Duel! Duel! Duel! Duel! Duel! Duel!"
+  },
+  {
+   "id": 12438118030818438782,
+   "en": "You can do the honors, Yasuke.",
+   "ro": "Poți să faci tu onorurile, Yasuke."
+  },
+  {
+   "id": 12438134639195528132,
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "id": 12438166611028939244,
+   "en": "No thanks to you.",
+   "ro": "Nu datorită ție."
+  },
+  {
+   "id": 12438194061273796085,
+   "en": "I guess we'll go tell those two dunces the good news.",
+   "ro": "Cred că ne ducem să le spunem vestea cea bună celor doi proști."
+  },
+  {
+   "id": 12438207003376267577,
+   "en": "Has he ever said something kind to you? Once?",
+   "ro": "Ți-a spus vreodată ceva frumos? Măcar o dată?"
+  },
+  {
+   "id": 12438246355206189522,
+   "en": "At times, a strong kick will do the job.",
+   "ro": "Uneori, o lovitură bună de picior face treaba."
+  },
+  {
+   "id": 12438271951635511265,
+   "en": "I also put bugs in his food when he's mean. He hasn't noticed yet.",
+   "ro": "Pun și insecte în mâncarea lui când se poartă urât. Încă n-a observat."
+  },
+  {
+   "id": 12438273231577065749,
+   "en": "Another glyph. I wonder who wrote the riddles?",
+   "ro": "Încă un glif. Mă întreb cine a scris ghicitorile?"
+  },
+  {
+   "id": 12438280180253793535,
+   "en": "WOMAN",
+   "ro": "FEMEIE"
+  },
+  {
+   "id": 12438285267722408893,
+   "en": "It's about \"Yasukane.\" He treats you horribly.",
+   "ro": "E vorba de „Yasukane”. Te tratează îngrozitor."
+  },
+  {
+   "id": 12438297127115746284,
+   "en": "Another glyph.",
+   "ro": "Încă un glif."
+  },
+  {
+   "id": 12438331462546137155,
+   "en": "Move faster, old man!",
+   "ro": "Mișcă mai repede, moșule!"
+  },
+  {
+   "id": 12438332646721344130,
+   "en": "This naginata has been here... well, who knows how long. But its edge is sharp.",
+   "ro": "Naginata asta e aici de... ei, cine știe de cât timp. Dar tăișul e ascuțit."
+  },
+  {
+   "id": 12438341631591960631,
+   "en": "Where did you find the time – and the hay – to make this?",
+   "ro": "Unde ați găsit timpul – și fânul – ca să faceți asta?"
+  },
+  {
+   "id": 12438344002583367093,
+   "en": "[[sighs]] What's the problem?",
+   "ro": "[[sighs]] Care e problema?"
+  },
+  {
+   "id": 12438373267862944975,
+   "en": "If you wear the ornament, something happens in certain places! I don't know where, or why, but... it does!",
+   "ro": "Dacă porți ornamentul, se întâmplă ceva în anumite locuri! Nu știu unde sau de ce, dar... se întâmplă!"
+  },
+  {
+   "id": 12438398967888438747,
+   "en": "Yasuke, yes. Why the argument?",
+   "ro": "Yasuke, da. Care e motivul certei?"
+  },
+  {
+   "id": 12438399026050535858,
+   "en": "All right, ornament. Show me the way.",
+   "ro": "Bine, podoabă. Arată-mi drumul."
+  },
+  {
+   "id": 12438403706647762959,
+   "en": "[[growls]]",
+   "ro": "[[growls]]"
+  },
+  {
+   "id": 12438425958788526139,
+   "en": "Or this time you'll wet your pants.",
+   "ro": "Sau de data asta o să-ți faci pe tine."
+  },
+  {
+   "id": 12438433891795806464,
+   "en": "He thinks he's as powerful as some daimyo. No, as the emperor! Hah!",
+   "ro": "Crede că e la fel de puternic ca un daimyo. Nu, ca împăratul! Ha!"
+  },
+  {
+   "id": 12438438232155196191,
+   "en": "I should be right by the glyph now.",
+   "ro": "Ar trebui să fiu chiar lângă glif acum."
+  },
+  {
+   "id": 12438457475186866846,
+   "en": "No, stop.",
+   "ro": "Nu, oprește-te."
+  },
+  {
+   "id": 12438472824408746210,
+   "en": "If only we knew, great samurai, sir. We have nothing but these riddles, this... object, and Kinu's feeble mind.",
+   "ro": "Dacă am ști, mare samurai, domnule. Nu avem decât ghicitorile astea, obiectul ăsta... și mintea slabă a lui Kinu."
+  },
+  {
+   "id": 12438515130264478322,
+   "en": "There's mon in that!",
+   "ro": "Asta înseamnă bani!"
+  },
+  {
+   "id": 12438554463452667191,
+   "en": "Secrets behind a door. I'll need to find more glyphs to open it.",
+   "ro": "Secrete în spatele unei uși. Am nevoie de mai multe glife ca s-o deschid."
+  },
+  {
+   "id": 12438639406415476931,
+   "en": "KANE",
+   "ro": "KANE"
+  },
+  {
+   "id": 12438688203275382697,
+   "en": "Lord Nobunaga did not keep me around just to play Go.",
+   "ro": "Stăpânul Nobunaga nu m-a ținut aproape ca să joc go."
+  },
+  {
+   "id": 12438721617034900733,
+   "en": "Gorgeous horses you have here, miss. Magnificent.",
+   "ro": "Caii ăștia sunt superbi, domnișoară. Impresionanți."
+  },
+  {
+   "id": 12438725295543355218,
+   "en": "Has he ever said something kind to you? Once?",
+   "ro": "Ți-a spus vreodată ceva frumos? Măcar o dată?"
+  },
+  {
+   "id": 12438761351424730319,
+   "en": "Try again!",
+   "ro": "Încearcă din nou!"
+  },
+  {
+   "id": 12438768253152183146,
+   "en": "Buffoons. One plucked plums from my tree, then said he was thirsty.",
+   "ro": "Nătângi. Unul mi-a furat prune din pom, apoi a zis că-i e sete."
+  },
+  {
+   "id": 12438826949289863196,
+   "en": "Tell him to find a tree branch and shove -",
+   "ro": "Spune-i să ia o ramură de copac și să i-o înfigă –"
+  },
+  {
+   "id": 12438834945347273473,
+   "en": "You said it yourself! A strong kick does the job.",
+   "ro": "Tu ai spus-o! O lovitură puternică își face treaba."
+  },
+  {
+   "id": 12438888566263864128,
+   "en": "Eugh!",
+   "ro": "Ugh!"
+  },
+  {
+   "id": 12438914349331655526,
+   "en": "Hey. Did you eat my miso soup? Or was it Junjiro?",
+   "ro": "Hei. Ai mâncat supa mea de miso? Sau a fost Junjiro?"
+  },
+  {
+   "id": 12438937967290076823,
+   "en": "I want to ask you something, Kinu.",
+   "ro": "Vreau să te întreb ceva, Kinu."
+  },
+  {
+   "id": 12438951634057383714,
+   "en": "Well. No glyph here.",
+   "ro": "Păi. Aici nu e niciun glif."
+  },
+  {
+   "id": 12438959470487520783,
+   "en": "You can't sneak up on me, sir! I am unsneakable.",
+   "ro": "Nu mă poți prinde pe nepregătite, domnule! Sunt imposibil de surprins."
+  },
+  {
+   "id": 12438990033811043937,
+   "en": "Watch this!",
+   "ro": "Privește asta!"
+  },
+  {
+   "id": 12439017741009591825,
+   "en": "There must be another glyph close by. I feel the ornament reacting.",
+   "ro": "Trebuie să mai fie un glif pe aproape. Simt cum reacționează ornamentul."
+  },
+  {
+   "id": 12439029567316482779,
+   "en": "What secrets hide behind this door? Finding more glyphs will open it.",
+   "ro": "Ce secrete se ascund în spatele ușii? O deschidem dacă găsim mai multe glife."
+  },
+  {
+   "id": 12439063011979229043,
+   "en": "Don't start.",
+   "ro": "Nu începe."
+  },
+  {
+   "id": 12439075540586548532,
+   "en": "All right, ornament. Show me the way.",
+   "ro": "Bine, podoabă. Arată-mi drumul."
+  },
+  {
+   "id": 12439083761540082391,
+   "en": "Wow. What is this?",
+   "ro": "Vai. Ce e asta?"
+  },
+  {
+   "id": 12439135345021081739,
+   "en": "Eh.",
+   "ro": "Hm."
+  },
+  {
+   "id": 12439169984591165605,
+   "en": "Kinu, you're with me.",
+   "ro": "Kinu, vii cu mine."
+  },
+  {
+   "id": 12439234509750419915,
+   "en": "You know, Kinu and I once saved mon for a whole summer to buy this horse. A real beauty.",
+   "ro": "Știi, Kinu și cu mine am strâns bani o vară întreagă ca să cumpărăm calul ăsta. O frumusețe!"
+  },
+  {
+   "id": 12439249864914655890,
+   "en": "Listen to those two bicker.",
+   "ro": "Ascultă-i pe cei doi cum se ceartă."
+  },
+  {
+   "id": 12439260121561595833,
+   "en": "Will my lesson help you?",
+   "ro": "Te ajută lecția mea?"
+  },
+  {
+   "id": 12439263591528048590,
+   "en": "Yasuke!",
+   "ro": "Yasuke!"
+  },
+  {
+   "id": 12439374624005806666,
+   "en": "They could handle that.",
+   "ro": "Ei se pot descurca cu asta."
+  },
+  {
+   "id": 12439390912769844224,
+   "en": "I should be right by the glyph now.",
+   "ro": "Ar trebui să fiu chiar lângă glif acum."
+  },
+  {
+   "id": 12439391392846783350,
+   "en": "Where did you find the time – and the hay – to make this?",
+   "ro": "Unde ați găsit timpul – și fânul – ca să faceți asta?"
+  },
+  {
+   "id": 12439413166995771526,
+   "en": "That probably hurt.",
+   "ro": "Probabil a durut."
+  },
+  {
+   "id": 12439438605198500130,
+   "en": "Maybe.",
+   "ro": "Poate."
+  },
+  {
+   "id": 12439490653316673478,
+   "en": "[[gasp]]",
+   "ro": "[[gasp]]"
+  },
+  {
+   "id": 12439631739691292346,
+   "en": "I know that feeling.",
+   "ro": "Știu senzația aia."
+  },
+  {
+   "id": 12439648646701431808,
+   "en": "The ornament. It's calling to a nearby glyph.",
+   "ro": "Ornamentul. Cheamă un glif din apropiere."
+  },
+  {
+   "id": 12439703148824431485,
+   "en": "Kinu the horse you say? Perhaps our stable holds more for you than manure.",
+   "ro": "Calul Kinu, zici? Poate că grajdul nostru are pentru tine mai mult decât gunoi de cal."
+  },
+  {
+   "id": 12439703156734400247,
+   "en": "What?!",
+   "ro": "Ce?!"
+  },
+  {
+   "id": 12439716711569607927,
+   "en": "The Buddha encourages sleeping until dawn.",
+   "ro": "Buddha recomandă să dormi până în zori."
+  },
+  {
+   "id": 12439739800254650894,
+   "en": "It must be guiding me somewhere. And I think I am close.",
+   "ro": "Trebuie că mă ghidează spre ceva. Și cred că sunt aproape."
+  },
+  {
+   "id": 12439745679127455550,
+   "en": "How about now? Are you ready to train us?",
+   "ro": "Ce zici acum? Ești gata să ne antrenezi?"
+  },
+  {
+   "id": 12439790739399986862,
+   "en": "I often let the disadvantaged win. You may see that yourself today!",
+   "ro": "Adesea îi las pe cei dezavantajați să câștige. Poate vezi chiar tu azi!"
+  },
+  {
+   "id": 12439845585716245076,
+   "en": "[[scoffs]] Some treasure hunter. One who can't figure out how to open the stupid thing.",
+   "ro": "[[scoffs]] Un vânător de comori. Unul care nu-și dă seama cum să deschidă chestia aia proastă."
+  },
+  {
+   "id": 12439913127834973452,
+   "en": "And I taste something... legendary.",
+   "ro": "Și simt un gust... legendar."
+  },
+  {
+   "id": 12439917962290715112,
+   "en": "About, uh, Yasukane. He does not treat you well.",
+   "ro": "Despre, ăă, Yasukane. Nu te tratează bine."
+  },
+  {
+   "id": 12439933943943700902,
+   "en": "That explains why Junjiro always wins your games.",
+   "ro": "Asta explică de ce Junjiro câștigă mereu jocurile tale."
+  },
+  {
+   "id": 12439945948963190338,
+   "en": "KASSANDRA",
+   "ro": "KASSANDRA"
+  },
+  {
+   "id": 12440024924004750672,
+   "en": "It was a temporary setback. I'll win this time.",
+   "ro": "A fost un eșec temporar. De data asta câștig eu."
+  },
+  {
+   "id": 12440025249164094322,
+   "en": "He thinks he's better looking than me! The pretty boy thinks he's worthy of a painting! Can you believe it?",
+   "ro": "Crede că arată mai bine decât mine! Băiatul ăla frumos crede că merită un portret! Poți să crezi?"
+  },
+  {
+   "id": 12440028161250481131,
+   "en": "Is there harm in hearing them out?",
+   "ro": "Ce rău e să-i ascultăm?"
+  },
+  {
+   "id": 12440041035948452050,
+   "en": "Show us what you have prepared.",
+   "ro": "Arată-ne ce ai pregătit."
+  },
+  {
+   "id": 12440042542087549227,
+   "en": "It is a new day. Hopefully Kinu and Kane are feeling better.",
+   "ro": "E o zi nouă. Sper că Kinu și Kane se simt mai bine."
+  },
+  {
+   "id": 12440059901190258375,
+   "en": "Has he ever said something kind to you? Once?",
+   "ro": "Ți-a spus vreodată ceva frumos? Măcar o dată?"
+  },
+  {
+   "id": 12440086133438065146,
+   "en": "There.",
+   "ro": "Acolo!"
+  },
+  {
+   "id": 12440106513879708401,
+   "en": "Before any test, I need a massage.",
+   "ro": "Înainte de orice probă am nevoie de un masaj."
+  },
+  {
+   "id": 12440108256595121053,
+   "en": "Yatta!",
+   "ro": "Ura!"
+  },
+  {
+   "id": 12440220749569260143,
+   "en": "I told you, they got wet when we ran through the river!",
+   "ro": "V-am spus, s-au udat când am trecut prin râu!"
+  },
+  {
+   "id": 12440293907965602604,
+   "en": "I didn't know it was your millet, sir, I swear!",
+   "ro": "Nu știam că e meiul dumneavoastră, domnule, jur!"
+  },
+  {
+   "id": 12440301252659679518,
+   "en": "Those glyphs. What language is it?",
+   "ro": "Glifele alea. În ce limbă sunt?"
+  },
+  {
+   "id": 12440326782847430516,
+   "en": "This has to be the spot.",
+   "ro": "Trebuie să fie locul ăsta."
+  },
+  {
+   "id": 12440406676185953633,
+   "en": "The craftsmanship. Naoe could use this.",
+   "ro": "Meșteșugul. Naoe ar putea folosi asta."
+  },
+  {
+   "id": 12440434956960481611,
+   "en": "Farmers will pay a month's sum for it. So keep your mouth shut and your hands full.",
+   "ro": "Fermierii o să plătească pentru ea cât o lună de muncă. Așa că ține-ți gura închisă și mâinile pline."
+  },
+  {
+   "id": 12440496835507003798,
+   "en": "Trust me, it really wasn't your kind of treasure. [beat]Now. The test.",
+   "ro": "Crede-mă, nu ți-ar fi plăcut comoara asta. [beat]Acum. Testul."
+  },
+  {
+   "id": 12440529871605116560,
+   "en": "Woah! What a duel!",
+   "ro": "Uau! Ce duel!"
+  },
+  {
+   "id": 12440529982025145010,
+   "en": "A rest will do me good. A rest, and a new torso.",
+   "ro": "Un pic de odihnă o să-mi facă bine. Odihnă și un trunchi nou."
+  },
+  {
+   "id": 12440542615553885690,
+   "en": "Making good progress.",
+   "ro": "Progresăm bine."
+  },
+  {
+   "id": 12440544464084539318,
+   "en": "Another glyph.",
+   "ro": "Încă un glif."
+  },
+  {
+   "id": 12440558342946102027,
+   "en": "We are equally matched. [beat, considering]Although...",
+   "ro": "Suntem egali. [beat, considering]Deși..."
+  },
+  {
+   "id": 12440599529785989513,
+   "en": "Hm. The ornament stopped.",
+   "ro": "Hm. Ornamentul s-a oprit."
+  },
+  {
+   "id": 12440610034064663959,
+   "en": "No, Yasuke. He's a mountain. No one can budge him!",
+   "ro": "Nu, Yasuke. E un munte. Nimeni nu-l poate clinti!"
+  },
+  {
+   "id": 12440631430362736224,
+   "en": "Listen to those two bicker.",
+   "ro": "Ascultă-i pe cei doi cum se ceartă."
+  },
+  {
+   "id": 12440642066211725711,
+   "en": "All right, you two. Demonstration over.",
+   "ro": "Bine, voi doi. Demonstrația s-a terminat."
+  },
+  {
+   "id": 12440659419883294720,
+   "en": "Farewell, seeker.",
+   "ro": "Drum bun, căutătorule."
+  },
+  {
+   "id": 12440672362725684186,
+   "en": "The light on the ornament. It fades.",
+   "ro": "Lumina de pe ornament. Se stinge."
+  },
+  {
+   "id": 12440687887679905605,
+   "en": "I cannot wait to see.",
+   "ro": "Abia aștept să văd."
+  },
+  {
+   "id": 12440703954525075416,
+   "en": "I feel the ornament reacting. There must be another glyph nearby.",
+   "ro": "Simt că ornamentul reacționează. Trebuie să fie un alt glif prin apropiere."
+  },
+  {
+   "id": 12440749561220420806,
+   "en": "Because this moron can't – wait.",
+   "ro": "Pentru că nătângul ăsta nu poate – stai."
+  },
+  {
+   "id": 12440753353943008296,
+   "en": "Which one of you threw your dinner into the pond?",
+   "ro": "Care dintre voi și-a aruncat cina în iaz?"
+  },
+  {
+   "id": 12440787070920038832,
+   "en": "Go easy on me, eh, sir?",
+   "ro": "Ia-o mai ușor cu mine, nu, domnule?"
+  },
+  {
+   "id": 12440805023026994754,
+   "en": "That explains why Junjiro always wins your games.",
+   "ro": "Asta explică de ce Junjiro câștigă mereu jocurile tale."
+  },
+  {
+   "id": 12440854995193449518,
+   "en": "No! Please! Don't kiss her!",
+   "ro": "Nu! Te rog! Nu o săruta!"
+  },
+  {
+   "id": 12440873189469936562,
+   "en": "The glyph should light up right around here.",
+   "ro": "Glifa ar trebui să se aprindă chiar aici."
+  },
+  {
+   "id": 12440892117755779939,
+   "en": "Look at this bronze. What would Heiji think of it?",
+   "ro": "Privește bronzul ăsta. Ce ar zice Heiji despre el?"
+  },
+  {
+   "id": 12440913314085316523,
+   "en": "That should be all the glyphs illuminated.",
+   "ro": "Ar trebui să fie toate glifele luminate."
+  },
+  {
+   "id": 12440929799631506578,
+   "en": "I am feeling strong today. Watch out.",
+   "ro": "Mă simt tare azi. Ai grijă."
+  },
+  {
+   "id": 12440949849680824867,
+   "en": "Her? That girl was a kid. This is a [[gulps]] woman.",
+   "ro": "Ea? Fata aia era un copil. Asta e o [[gulps]] femeie."
+  },
+  {
+   "id": 12440969302440424938,
+   "en": "We've kicked, we've choked. What else is there?",
+   "ro": "Am dat cu piciorul, am sugrumat. Ce mai rămâne?"
+  },
+  {
+   "id": 12440992476954198751,
+   "en": "Do not say \"I told you so.\"",
+   "ro": "Nu spune «Ți-am zis eu.»"
+  },
+  {
+   "id": 12441006156367411896,
+   "en": "Yasuke, sir. Look!",
+   "ro": "Yasuke, domnule. Privește!"
+  },
+  {
+   "id": 12441033856182547191,
+   "en": "They're pretty close, Kinu. Jealous?",
+   "ro": "Sunt destul de apropiați, Kinu. Geloasă?"
+  },
+  {
+   "id": 12441046019332338274,
+   "en": "What? No! Never.",
+   "ro": "Ce? Nu! Niciodată."
+  },
+  {
+   "id": 12441091382318894552,
+   "en": "It is?",
+   "ro": "Chiar așa?"
+  },
+  {
+   "id": 12441108236610748502,
+   "en": "Luis Frois told me of the Greeks. He would love to see this.",
+   "ro": "Luis Frois mi-a povestit despre greci. Ar fi încântat să vadă asta."
+  },
+  {
+   "id": 12441143548841220915,
+   "en": "You're just a dummy, dummy!",
+   "ro": "Ești un nătâng, nătâng!"
+  },
+  {
+   "id": 12441151222516902713,
+   "en": "That is six glyphs in total. We are getting somewhere.",
+   "ro": "Sunt șase glife în total. Ne apropiem de ceva."
+  },
+  {
+   "id": 12441196475697493165,
+   "en": "[[sighs]]",
+   "ro": "[[sighs]]"
+  },
+  {
+   "id": 12441298413255344294,
+   "en": "All right. Let us start.",
+   "ro": "Bine. Hai să începem."
+  },
+  {
+   "id": 12441328942730886451,
+   "en": "You've got it.",
+   "ro": "Ai prins ideea."
+  },
+  {
+   "id": 12441332539868696258,
+   "en": "Just kidding. The birds aren't stupid.",
+   "ro": "Glumeam. Păsările nu sunt proaste."
+  },
+  {
+   "id": 12441341271831363136,
+   "en": "...on the what?",
+   "ro": "...pe ce?"
+  },
+  {
+   "id": 12441350417654972128,
+   "en": "Hey. They lit up. Something's happening!",
+   "ro": "Hei. S-au aprins. Se întâmplă ceva!"
+  },
+  {
+   "id": 12441356895345228558,
+   "en": "Should have mentioned needing a backup plan when the enemy's twice your size.",
+   "ro": "Ar fi trebuit să zici ceva despre un plan B, când inamicul e de două ori mai mare."
+  },
+  {
+   "id": 12441359777725054030,
+   "en": "We are lost causes, but that is why we need help!",
+   "ro": "Suntem pierduți, dar tocmai de aceea avem nevoie de ajutor!"
+  },
+  {
+   "id": 12441373269764541147,
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "id": 12441385442781105524,
+   "en": "Now, when your weapon is occupied, you must rely on the strength of your own body.",
+   "ro": "Acum, când arma ți-e ocupată, trebuie să te bazezi pe propriul corp."
+  },
+  {
+   "id": 12441416097143336326,
+   "en": "Tickle his neck?",
+   "ro": "Să-i gâdilăm gâtul?"
+  },
+  {
+   "id": 12441468890691377828,
+   "en": "So, there is no one here and yet I definitely heard her voice. [beat]I hope I am not going mad.",
+   "ro": "Deci nu e nimeni aici, și totuși am auzit clar vocea ei. [beat]Sper că nu înnebunesc."
+  },
+  {
+   "id": 12441474483239964965,
+   "en": "I saw the moves play out in my head all night long.",
+   "ro": "Toată noaptea mi-au tot trecut mișcările prin cap."
+  },
+  {
+   "id": 12441482458301207079,
+   "en": "Try again, Yasuke. [beat]Kinu, you get out there.",
+   "ro": "Mai încearcă, Yasuke. [beat]Kinu, tu ieși acolo."
+  },
+  {
+   "id": 12441559025977218585,
+   "en": "[small laugh]It is not that, no.",
+   "ro": "[small laugh]Nu e asta, nu."
+  },
+  {
+   "id": 12441576572646487384,
+   "en": "I feel the ornament reacting. There must be another glyph nearby.",
+   "ro": "Simt că ornamentul reacționează. Trebuie să fie un alt glif prin apropiere."
+  },
+  {
+   "id": 12441589552899285686,
+   "en": "What the...",
+   "ro": "Ce naiba..."
+  },
+  {
+   "id": 12441631183223291760,
+   "en": "But Naoe's trainees will be pleased to hear it is working.",
+   "ro": "Dar ucenicii lui Naoe vor fi bucuroși să audă că funcționează."
+  },
+  {
+   "id": 12441706038322769143,
+   "en": "Whenever you are, sir.",
+   "ro": "Când ești gata, domnule."
+  },
+  {
+   "id": 12441731687884179969,
+   "en": "[gearing up grunt][[braces]]",
+   "ro": "[gearing up grunt][[braces]]"
+  },
+  {
+   "id": 12441732822975911255,
+   "en": "This has to be the spot.",
+   "ro": "Trebuie să fie locul ăsta."
+  },
+  {
+   "id": 12441751793556458613,
+   "en": "[[grunts]]",
+   "ro": "[[grunts]]"
+  },
+  {
+   "id": 12441773145225420993,
+   "en": "[[whimpers]]",
+   "ro": "[[whimpers]]"
+  },
+  {
+   "id": 12441781643974417786,
+   "en": "Then it better be put to good use.",
+   "ro": "Atunci mai bine să fie folosit cum trebuie."
+  },
+  {
+   "id": 12441836807034443620,
+   "en": "That happens today. If... you don't mess it up.",
+   "ro": "Se întâmplă azi. Dacă... nu o încurci."
+  },
+  {
+   "id": 12441867435610138222,
+   "en": "Our allies are going to have some fun with them in the Hideout.",
+   "ro": "Aliații noștri o să se distreze cu ei în Ascunzătoare."
+  },
+  {
+   "id": 12441872756795890872,
+   "en": "Our allies are going to have some fun with them in the Hideout.",
+   "ro": "Aliații noștri o să se distreze cu ei în Ascunzătoare."
+  },
+  {
+   "id": 12441903003885824755,
+   "en": "Yatta!",
+   "ro": "Ura!"
+  },
+  {
+   "id": 12441942640780525972,
+   "en": "Fine. But only if you pass a training test. Fail it, and you're out.",
+   "ro": "Bine. Dar doar dacă treci testul de antrenament. Dacă pici, ești afară."
+  },
+  {
+   "id": 12441971827527991337,
+   "en": "[[laughs]] I could watch that all day!",
+   "ro": "[[laughs]] Aș putea privi asta toată ziua!"
+  },
+  {
+   "id": 12442007785267762591,
+   "en": "Oh? You think you will win this time? Hm?",
+   "ro": "Oho? Crezi că de data asta o să câștigi? Hm?"
+  },
+  {
+   "id": 12442016110692951902,
+   "en": "Did... did you know that you smell like hydrangeas?",
+   "ro": "Ai... ai știut că miroși a hortensii?"
+  },
+  {
+   "id": 12442045008133756355,
+   "en": "Heiji sharpened our blades. Shall we go and test them?",
+   "ro": "Heiji ne-a ascuțit lamele. Mergem să le încercăm?"
+  },
+  {
+   "id": 12442066276376626656,
+   "en": "Reporting for training, great samurai.",
+   "ro": "Mă raportez pentru antrenament, mare samurai."
+  },
+  {
+   "id": 12442068960075509319,
+   "en": "[[yawns]]",
+   "ro": "[[yawns]]"
+  },
+  {
+   "id": 12442133683628487916,
+   "en": "WOMAN",
+   "ro": "FEMEIE"
+  },
+  {
+   "id": 12442139732102737930,
+   "en": "A little. [beat, sarcastic]Let's go \"train\" them.",
+   "ro": "Puțin. [beat, sarcastic]Hai să mergem să-i „antrenăm”."
+  },
+  {
+   "id": 12442172006493552998,
+   "en": "Yeah, yeah, he let her do that.",
+   "ro": "Da, da, l-a lăsat să facă asta."
+  },
+  {
+   "id": 12442183655944904404,
+   "en": "Junjiro will be so sad he missed this.",
+   "ro": "Lui Junjiro o să-i pară tare rău că a ratat asta."
+  },
+  {
+   "id": 12442211781719644956,
+   "en": "This Kassandra... what powers does she possess?",
+   "ro": "Kassandra asta... ce puteri are?"
+  },
+  {
+   "id": 12442246099932268940,
+   "en": "And she didn't have that mark on her face.",
+   "ro": "Și nu avea semnul ăsta pe față."
+  },
+  {
+   "id": 12442252634278501440,
+   "en": "I wasn't scared.",
+   "ro": "Nu mi-a fost frică."
+  },
+  {
+   "id": 12442264856642196662,
+   "en": "Thank you... for being... gentle.",
+   "ro": "Mulțumesc... că ai fost... blând."
+  },
+  {
+   "id": 12442293900553266992,
+   "en": "I didn't know you had one!",
+   "ro": "Nu știam că ai unul!"
+  },
+  {
+   "id": 12442309767110029395,
+   "en": "That should be all the glyphs illuminated.",
+   "ro": "Ar trebui să fie toate glifele luminate."
+  },
+  {
+   "id": 12442321156049554694,
+   "en": "Ten glyphs illuminated. We're close to getting answers.",
+   "ro": "Zece glife luminate. Suntem aproape de răspunsuri."
+  },
+  {
+   "id": 12442346642791578450,
+   "en": "I guess that means you are feeling better. Are you ready?",
+   "ro": "Deduc că înseamnă că te simți mai bine. Ești gata?"
+  },
+  {
+   "id": 12442357542547849537,
+   "en": "I feel the ornament reacting. There must be another glyph nearby.",
+   "ro": "Simt că ornamentul reacționează. Trebuie să fie un alt glif prin apropiere."
+  },
+  {
+   "id": 12442362522965100068,
+   "en": "You two? In Iga, I beat you up with a stick.",
+   "ro": "Voi doi? În Iga, v-am bătut cu un băț."
+  },
+  {
+   "id": 12442401705981079952,
+   "en": "We'll find a suitable place and report to duty. Here. A scroll to show we're serious.",
+   "ro": "Găsim un loc potrivit și ne prezentăm la datorie. Uite. Un sul ca să arătăm că suntem serioși."
+  },
+  {
+   "id": 12442449204634889748,
+   "en": "Kinu the horse. If he is still for sale, perhaps we will reunite you.",
+   "ro": "Kinu, calul. Dacă mai e de vânzare, poate te reunim cu el."
+  },
+  {
+   "id": 12442456789046530513,
+   "en": "Psst. Listen up.",
+   "ro": "Pst. Ascultă."
+  },
+  {
+   "id": 12442467450590967545,
+   "en": "They have charisma?",
+   "ro": "Au charismă?"
+  },
+  {
+   "id": 12442497714317493980,
+   "en": "When we were in the swamp east of here, that ornament thing really started acting up.",
+   "ro": "Când eram în mlaștina de la est de aici, chestia aia de podoabă a început să se poarte ciudat."
+  },
+  {
+   "id": 12442510834787124493,
+   "en": "I'm pretty tough, huh?",
+   "ro": "Sunt destul de dur, nu?"
+  },
+  {
+   "id": 12442536910637803396,
+   "en": "It must be guiding me somewhere. And I think I'm close.",
+   "ro": "Trebuie că mă ghidează undeva. Și cred că sunt aproape."
+  },
+  {
+   "id": 12442549769824954819,
+   "en": "I cannot be far now.",
+   "ro": "Nu mai pot fi departe acum."
+  },
+  {
+   "id": 12442554020751894068,
+   "en": "Plus he reared and Kinu wet himself again. The merchant laughed so hard she fell off her stoop. Said she'd name the horse Kinu.",
+   "ro": "Și pe lângă asta, s-a ridicat în două picioare, iar Kinu s-a udat iar pe el. Negustoreasa a râs atât de tare, că a căzut de pe prag. A zis că o să-i pună calului numele Kinu."
+  },
+  {
+   "id": 12442584050121821793,
+   "en": "You could take her. Couldn't you, legend?",
+   "ro": "Ai putea s-o învingi. Nu-i așa, legendă?"
+  },
+  {
+   "id": 12442613127914086933,
+   "en": "I'd only turn my back to someone like you, sir.",
+   "ro": "Mi-aș întoarce spatele doar unui om ca tine, domnule."
+  },
+  {
+   "id": 12442624746932731540,
+   "en": "Hmm. The ornament is... glowing?",
+   "ro": "Hm. Ornamentul... strălucește?"
+  },
+  {
+   "id": 12442684832053389028,
+   "en": "Yasuke, the legendary samurai of legend! The winner! To possess one grain of sand on the beach of your muscles.",
+   "ro": "Yasuke, samuraiul legendar al legendelor! Câștigătorul! Să ai un singur bob de nisip de pe plaja mușchilor tăi."
+  },
+  {
+   "id": 12442696480857837161,
+   "en": "MONK",
+   "ro": "CĂLUGĂR"
+  },
+  {
+   "id": 12442742022294765112,
+   "en": "Oh. Yeah! We do!",
+   "ro": "Oh. Da! Avem!"
+  },
+  {
+   "id": 12442785119514336613,
+   "en": "Oh. [beat]He's not so bad.",
+   "ro": "Oh. [beat]Nu e chiar atât de rău."
+  },
+  {
+   "id": 12442837124017608893,
+   "en": "I wouldn't remind me of the old days if I were you.",
+   "ro": "Eu în locul tău n-aș mai pomeni de vremurile alea."
+  },
+  {
+   "id": 12442843906160132189,
+   "en": "Are you all right down there?",
+   "ro": "Ești bine acolo jos?"
+  },
+  {
+   "id": 12442847039906410048,
+   "en": "More than halfway there. What are you hiding?",
+   "ro": "Mai mult de jumătate din drum. Ce ascunzi?"
+  },
+  {
+   "id": 12442850654094375161,
+   "en": "Wow. What is this?",
+   "ro": "Vai. Ce e asta?"
+  },
+  {
+   "id": 12442863525542115084,
+   "en": "Kinu's always scraping the barrel.",
+   "ro": "Kinu mereu scormonește prin fundul butoiului."
+  },
+  {
+   "id": 12442899494422413713,
+   "en": "One step closer to opening the strange door.",
+   "ro": "Încă un pas spre deschiderea ușii ciudate."
+  },
+  {
+   "id": 12442938841580194152,
+   "en": "Spare us some treasure mon, eh? So we can get our necks back in shape at the onsen.",
+   "ro": "Lasă-ne și pe noi un pic de comoară, nu? Ca să ne îndreptăm cefele la onsen."
+  },
+  {
+   "id": 12442953607904773154,
+   "en": "I would never take your choking personally. [beat]Unless you wanted me to.",
+   "ro": "Nu aș lua niciodată personal sufocarea ta. [beat]Decât dacă ai vrea tu."
+  },
+  {
+   "id": 12443028902559627036,
+   "en": "I am the best!",
+   "ro": "Eu sunt cel mai bun!"
+  },
+  {
+   "id": 12443033464154163908,
+   "en": "I could use that lesson.",
+   "ro": "Lecția asta mi-ar prinde bine."
+  },
+  {
+   "id": 12443062554890605669,
+   "en": "[[scoffs]] I could ask you the same question.",
+   "ro": "[[scoffs]] Te-aș putea întreba același lucru."
+  },
+  {
+   "id": 12443084934828556195,
+   "en": "While you were gone, Kinu and I got to talking.",
+   "ro": "Cât ai fost plecat, eu și Kinu am stat de vorbă."
+  },
+  {
+   "id": 12443129100283369865,
+   "en": "This thing's getting louder.",
+   "ro": "Chestia asta se aude tot mai tare."
+  },
+  {
+   "id": 12443132083865878018,
+   "en": "[[laughs]]",
+   "ro": "[[laughs]]"
+  },
+  {
+   "id": 12443234041505266116,
+   "en": "Show him who's better, miss Naoe!",
+   "ro": "Arată-i cine e mai bun, domnișoară Naoe!"
+  },
+  {
+   "id": 12443245545234356672,
+   "en": "When I came for Oda Nobunaga?",
+   "ro": "Când am venit după Oda Nobunaga?"
+  },
+  {
+   "id": 12443282606221257652,
+   "en": "They'll figure it out. The door will open.",
+   "ro": "Își vor da seama ei. Ușa o să se deschidă."
+  },
+  {
+   "id": 12443295059852774448,
+   "en": "Now that is a kick! Keep it up!",
+   "ro": "Asta da lovitură! Continuă așa!"
+  },
+  {
+   "id": 12443315943911492635,
+   "en": "[[gulps]]",
+   "ro": "[[gulps]]"
+  },
+  {
+   "id": 12443324518165709032,
+   "en": "Of course! We're ready, miss.",
+   "ro": "Sigur! Suntem gata, doamnă."
+  },
+  {
+   "id": 12443330062229446225,
+   "en": "Kinu. I have a question for you.",
+   "ro": "Kinu. Am o întrebare pentru tine."
+  },
+  {
+   "id": 12443331250988391162,
+   "en": "[[pants]] Did you see us? Did you see?",
+   "ro": "[[pants]] Ne-ai văzut? Ai văzut?"
+  },
+  {
+   "id": 12443398849066552143,
+   "en": "You're asking for it right now, lunkhead.",
+   "ro": "Chiar ceri bătaie, dobitocule."
+  },
+  {
+   "id": 12443410478033217149,
+   "en": "Idiot! We pushed on it six rocks ago!",
+   "ro": "Idiotule! L-am împins acum șase pietre în urmă!"
+  },
+  {
+   "id": 12443435953458200151,
+   "en": "Don't worry, miss. I'll be in top shape tomorrow!",
+   "ro": "Nu vă faceți griji, doamnă. Mâine o să fiu în cea mai bună formă!"
+  },
+  {
+   "id": 12443448673954886573,
+   "en": "Oh. It's only Yasuke!",
+   "ro": "Ah. E doar Yasuke!"
+  },
+  {
+   "id": 12443465256799282269,
+   "en": "So that's why it's still sore!",
+   "ro": "Deci de-asta încă mă doare!"
+  },
+  {
+   "id": 12443493052072474887,
+   "en": "I can't feel my spine.",
+   "ro": "Nu mai simt coloana."
+  },
+  {
+   "id": 12443495604422355102,
+   "en": "Where?!",
+   "ro": "Unde?!"
+  },
+  {
+   "id": 12443502847733685197,
+   "en": "I often let the disadvantaged win. You may see that yourself today!",
+   "ro": "Adesea îi las pe cei dezavantajați să câștige. Poate vezi chiar tu azi!"
+  },
+  {
+   "id": 12443528253144394711,
+   "en": "That was fun!",
+   "ro": "A fost distractiv!"
+  },
+  {
+   "id": 12443547424886477356,
+   "en": "We have talked it over, and there is very important work you can do for us. Welcome to the team.",
+   "ro": "Ne-am gândit bine și avem o treabă foarte importantă pe care o poți face pentru noi. Bun venit în echipă."
+  },
+  {
+   "id": 12443581018196171930,
+   "en": "You're not bad at this fighting thing.",
+   "ro": "Nu te descurci rău la luptă."
+  },
+  {
+   "id": 12443606015058586504,
+   "en": "It's about \"Yasukane.\" He treats you horribly.",
+   "ro": "E vorba de „Yasukane”. Te tratează îngrozitor."
+  },
+  {
+   "id": 12443695237886804069,
+   "en": "[[scoffs]] Of course you can! You can also tell me a bedtime tale and put a hairpin in my hair.",
+   "ro": "[[scoffs]] Sigur că poți! Poți să-mi spui și o poveste de seară și să-mi pui un ac în păr."
+  },
+  {
+   "id": 12443702385770936753,
+   "en": "You ready to get your ass kicked?",
+   "ro": "Ești gata să primești o bătaie cât casa?"
+  },
+  {
+   "id": 12443725198184841715,
+   "en": "Hello! We could not help but hear your loud argument.",
+   "ro": "Salut! N-am putut să nu auzim cearta voastră."
+  },
+  {
+   "id": 12443742526241535543,
+   "en": "The ornament. It calls to a nearby glyph.",
+   "ro": "Ornamentul. Atrage glifa din apropiere."
+  },
+  {
+   "id": 12443760097723772223,
+   "en": "It is a new day. I hope that Kinu and Kane are feeling better.",
+   "ro": "E o zi nouă. Sper că Kinu și Kane se simt mai bine."
+  },
+  {
+   "id": 12443799628672866458,
+   "en": "Come on. Where's the fun in that?",
+   "ro": "Hai, unde e distracția în asta?"
+  },
+  {
+   "id": 12443825880257201973,
+   "en": "And down he goes. [beat]Let's keep practicing!",
+   "ro": "Și cade la pământ. [beat]Hai să continuăm exercițiul!"
+  },
+  {
+   "id": 12443885371100237066,
+   "en": "Dodge, Naoe, dodge!",
+   "ro": "Ferește-te, Naoe, ferește-te!"
+  },
+  {
+   "id": 12443921054380194129,
+   "en": "Is it time?",
+   "ro": "E momentul?"
+  },
+  {
+   "id": 12443970458264047538,
+   "en": "All right. Let us start.",
+   "ro": "Bine. Hai să începem."
+  },
+  {
+   "id": 12443985826471305732,
+   "en": "Tie his ankle to a horse cart?",
+   "ro": "Să-i legăm glezna de un car cu cai?"
+  },
+  {
+   "id": 12443986487399101309,
+   "en": "[[laughs]]",
+   "ro": "[[laughs]]"
+  },
+  {
+   "id": 12443993614468445763,
+   "en": "We did?",
+   "ro": "Noi am făcut?"
+  },
+  {
+   "id": 12444014964523809586,
+   "en": "Did not!",
+   "ro": "N-am făcut!"
+  },
+  {
+   "id": 12444020053481746185,
+   "en": "I'm close to another glowing glyph. I can feel it.",
+   "ro": "Sunt aproape de un alt glif strălucitor. Îl simt."
+  },
+  {
+   "id": 12444060716915275941,
+   "en": "Good!",
+   "ro": "Bine!"
+  },
+  {
+   "id": 12444192223453328397,
+   "en": "Here we go.",
+   "ro": "Hai că începem."
+  },
+  {
+   "id": 12444204872110454750,
+   "en": "I lost the glyph's signal.",
+   "ro": "Am pierdut semnalul glifului."
+  },
+  {
+   "id": 12444208815985190175,
+   "en": "Did you see the way that Gennojo guy looked at me? Like I was shit on his sandal.",
+   "ro": "Ai văzut cum s-a uitat tipul ăla, Gennojo, la mine? Parcă eram rahat pe sandala lui."
+  },
+  {
+   "id": 12444226707529072662,
+   "en": "Let us begin.",
+   "ro": "Să începem."
+  },
+  {
+   "id": 12444253022781381442,
+   "en": "Hold still!",
+   "ro": "Stai pe loc!"
+  },
+  {
+   "id": 12444260090600551254,
+   "en": "You flatter me, Kane.",
+   "ro": "Mă lingușești, Kane."
+  },
+  {
+   "id": 12444261246070952796,
+   "en": "This will be interesting.",
+   "ro": "Asta o să fie interesant."
+  },
+  {
+   "id": 12444269868760887827,
+   "en": "He could give you etiquette lessons?",
+   "ro": "Ar putea să-ți dea lecții de etichetă?"
+  },
+  {
+   "id": 12444272067244645334,
+   "en": "So, great and powerful leaders. Where is this hideout of yours?",
+   "ro": "Deci, conducători mari și puternici. Unde e ascunzătoarea voastră?"
+  },
+  {
+   "id": 12444289648604263272,
+   "en": "The light on the ornament. It's fading.",
+   "ro": "Lumina de pe ornament. Se stinge."
+  },
+  {
+   "id": 12444363579218528735,
+   "en": "Like a piece of beautiful theatre. A performance of strength and style!",
+   "ro": "Îmi place. O piesă de teatru frumoasă, o reprezentație de forță și stil!"
+  },
+  {
+   "id": 12444386228275811823,
+   "en": "Are you all right down there?",
+   "ro": "Ești bine acolo jos?"
+  },
+  {
+   "id": 12444400273544595701,
+   "en": "You must be a little curious about what is behind the door.",
+   "ro": "Trebuie să fii cam curioasă ce e după ușă."
+  },
+  {
+   "id": 12444445713308307680,
+   "en": "Miss Naoe! Look!",
+   "ro": "Doamnă Naoe! Uite!"
+  },
+  {
+   "id": 12444452712551677695,
+   "en": "[[gulps]] All right.",
+   "ro": "[[gulps]] Bine."
+  },
+  {
+   "id": 12444553497496074449,
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "id": 12444594224710682067,
+   "en": "Lord Nobunaga did not keep me around just to play Go.",
+   "ro": "Stăpânul Nobunaga nu m-a ținut aproape ca să joc go."
+  },
+  {
+   "id": 12444619549234256998,
+   "en": "I'll let them sleep off some of the pain. Before I inflict more tomorrow.",
+   "ro": "Îi las să-și mai potolească durerea. Că mâine le mai dau eu."
+  },
+  {
+   "id": 12444645002025718938,
+   "en": "[[laughs]] Come on. A mystery unfolds!",
+   "ro": "[[laughs]] Hai. Se desfășoară un mister!"
+  },
+  {
+   "id": 12444651738173028552,
+   "en": "So, there is no one here and yet I definitely heard her voice. [beat]I hope I am not going mad.",
+   "ro": "Deci nu e nimeni aici, și totuși am auzit clar vocea ei. [beat]Sper că nu înnebunesc."
+  },
+  {
+   "id": 12444652196206876914,
+   "en": "I poured him water. Then threw it in his face.",
+   "ro": "I-am turnat apă. Apoi i-am aruncat-o în față."
+  },
+  {
+   "id": 12444678116581655062,
+   "en": "According to the glyphs on the door, this is the second last to light up. One more to find.",
+   "ro": "După glifele de pe ușă, asta e penultima care se aprinde. Mai trebuie găsită una."
+  },
+  {
+   "id": 12444696991276390212,
+   "en": "Thank you. They are worthy allies like everyone else.",
+   "ro": "Mulțumesc. Sunt aliați demni, ca toți ceilalți."
+  },
+  {
+   "id": 12444738661367457889,
+   "en": "[[whimpers]]",
+   "ro": "[[whimpers]]"
+  },
+  {
+   "id": 12444747632242191210,
+   "en": "We're geniuses. Can we go now?",
+   "ro": "Suntem genii. Putem pleca acum?"
+  },
+  {
+   "id": 12444753766376763239,
+   "en": "Speaking of the Hideout... I wonder if Naoe would be interested in another duel.",
+   "ro": "Vorbind de Ascunzătoare... mă întreb dacă Naoe ar fi interesată de un alt duel."
+  },
+  {
+   "id": 12444759235897875006,
+   "en": "Watch this!",
+   "ro": "Privește asta!"
+  },
+  {
+   "id": 12444825168967346559,
+   "en": "Give me a bit more time.",
+   "ro": "Dă-mi ceva mai mult timp."
+  },
+  {
+   "id": 12444879795702497481,
+   "en": "[[grunts]]",
+   "ro": "[[grunts]]"
+  },
+  {
+   "id": 12444900216962814125,
+   "en": "Not so fast. I'll be back.",
+   "ro": "Nu chiar atât de repede. Mă întorc."
+  },
+  {
+   "id": 12444908102238875522,
+   "en": "We did it! We're joining the team of the greatest fighter in the world...",
+   "ro": "Am reușit! Ne alăturăm echipei celui mai mare luptător din lume..."
+  },
+  {
+   "id": 12444949163636417462,
+   "en": "Oh, I'm sure there's something I can do.",
+   "ro": "Ah, sunt sigur că pot face ceva."
+  },
+  {
+   "id": 12444963625454741888,
+   "en": "When I am ready.",
+   "ro": "Când sunt gata."
+  },
+  {
+   "id": 12445011474430777507,
+   "en": "Thank you. They are worthy allies like everyone else.",
+   "ro": "Mulțumesc. Sunt aliați demni, ca toți ceilalți."
+  },
+  {
+   "id": 12445053802861796860,
+   "en": "I've been putting aside horse manure. Day by day, I take an extra chunk. It's as valuable as gold.",
+   "ro": "Am tot pus de-o parte gunoi de cal. Zi de zi iau o bucată în plus. E la fel de prețios ca aurul."
+  },
+  {
+   "id": 12445060130906832201,
+   "en": "To perform in front of you... it is an honor.",
+   "ro": "Să joc în fața ta... e o onoare."
+  },
+  {
+   "id": 12445078913803799482,
+   "en": "[[sighs]]",
+   "ro": "[[sighs]]"
+  },
+  {
+   "id": 12445177343028235985,
+   "en": "It is getting less reactive.",
+   "ro": "Reacționează tot mai puțin."
+  },
+  {
+   "id": 12445201726958175720,
+   "en": "You're not listening to any of my ideas!",
+   "ro": "Nu asculți niciuna dintre ideile mele!"
+  },
+  {
+   "id": 12445224286955832678,
+   "en": "Try to run away without screaming?",
+   "ro": "Să încerci să fugi fără să țipi?"
+  },
+  {
+   "id": 12445245853413163249,
+   "en": "All right. Let's start.",
+   "ro": "Bine. Să începem."
+  },
+  {
+   "id": 12445247624140528300,
+   "en": "I am far from the glyph now.",
+   "ro": "Sunt departe de glif acum."
+  },
+  {
+   "id": 12445256047398981336,
+   "en": "Naoe is a shooting star! So fast, she'll slice you before you see her!",
+   "ro": "Naoe e o stea căzătoare! Atât de rapidă, că te taie înainte să apuci s-o vezi!"
+  },
+  {
+   "id": 12445266329261986628,
+   "en": "More than halfway there. What are you hiding?",
+   "ro": "Mai mult de jumătate din drum. Ce ascunzi?"
+  },
+  {
+   "id": 12445275645095531224,
+   "en": "You will be waging a great war for our hideout...",
+   "ro": "O să duci o luptă grea pentru ascunzătoarea noastră..."
+  },
+  {
+   "id": 12445305338694602492,
+   "en": "Now you have done it.",
+   "ro": "Acum ai dat-o în bară."
+  },
+  {
+   "id": 12445380195285496045,
+   "en": "[[chokes]]",
+   "ro": "[[chokes]]"
+  },
+  {
+   "id": 12445408509369576408,
+   "en": "Then we need to prepare. Come back tomorrow. When I've regained feeling in my body.",
+   "ro": "Atunci trebuie să ne pregătim. Revino mâine. Când îmi trece amorțeala din corp."
+  },
+  {
+   "id": 12445438004032210046,
+   "en": "So we're ready for the final test then!",
+   "ro": "Deci suntem gata pentru proba finală!"
+  },
+  {
+   "id": 12445492880005033647,
+   "en": "All right. The glyph is here.",
+   "ro": "Bine. Glifa e aici."
+  },
+  {
+   "id": 12445502623232216165,
+   "en": "There.",
+   "ro": "Acolo!"
+  },
+  {
+   "id": 12445513274658881707,
+   "en": "Give me a bit more time.",
+   "ro": "Dă-mi ceva mai mult timp."
+  },
+  {
+   "id": 12445515345485950424,
+   "en": "This Kassandra... she's powerful.",
+   "ro": "Kassandra asta... e puternică."
+  },
+  {
+   "id": 12445550800967315602,
+   "en": "Good aim!",
+   "ro": "Ochi bun!"
+  },
+  {
+   "id": 12445562035394165608,
+   "en": "Get to the point.",
+   "ro": "Spune-o direct."
+  },
+  {
+   "id": 12445639854864886142,
+   "en": "Definitely. I can see my enemies flying already.",
+   "ro": "Sigur. Deja îmi văd dușmanii zburând."
+  },
+  {
+   "id": 12445654560646121461,
+   "en": "I did best you that one time.",
+   "ro": "Te-am bătut o dată la asta."
+  },
+  {
+   "id": 12445674479482991927,
+   "en": "I thought they were bad, but turns out they're just stupid. And stupidity is not a crime.",
+   "ro": "Credeam că sunt răi, dar se pare că sunt doar proști. Iar prostia nu e infracțiune."
+  },
+  {
+   "id": 12445698171259520801,
+   "en": "[swing and hit ono]",
+   "ro": "[swing and hit ono]"
+  },
+  {
+   "id": 12445712775209556611,
+   "en": "Very nice. Keep your energy up!",
+   "ro": "Foarte bine. Ține-ți energia sus!"
+  },
+  {
+   "id": 12445780742978046732,
+   "en": "Oh. It's only Naoe!",
+   "ro": "Ah. E doar Naoe!"
+  },
+  {
+   "id": 12445806199964525409,
+   "en": "I can't believe we get to fight for the Kakushiba ikki.",
+   "ro": "Nu-mi vine să cred că luptăm pentru ikki-ul Kakushiba."
+  },
+  {
+   "id": 12445850239654045008,
+   "en": "Oh! So you use my own lessons against me?",
+   "ro": "Oh! Deci îmi folosești propriile lecții împotriva mea?"
+  },
+  {
+   "id": 12445868425007737718,
+   "en": "Forget that. Let us duel.",
+   "ro": "Uită de asta. Hai să ne duelăm."
+  },
+  {
+   "id": 12445880798371677910,
+   "en": "YASUKANE",
+   "ro": "YASUKANE"
+  },
+  {
+   "id": 12445899893605343141,
+   "en": "Make them fly!",
+   "ro": "Fă-i să zboare!"
+  },
+  {
+   "id": 12445938690994733434,
+   "en": "This naginata has been here... well, who knows how long. But its edge is sharp.",
+   "ro": "Naginata asta e aici de... ei, cine știe de cât timp. Dar tăișul e ascuțit."
+  },
+  {
+   "id": 12445946644642520322,
+   "en": "Good. Then you will be ready when we call you on the battlefield.",
+   "ro": "Bine. Atunci o să fii pregătit când te chemăm pe câmpul de luptă."
+  },
+  {
+   "id": 12445953783293470520,
+   "en": "Nice work, Yasuke. You didn't choke.",
+   "ro": "Treabă bună, Yasuke. Nu te-ai dat bătut."
+  },
+  {
+   "id": 12445984980957756549,
+   "en": "[[giggles]] Bye Kane!",
+   "ro": "[[giggles]] Pa, Kane!"
+  },
+  {
+   "id": 12445999040507200684,
+   "en": "Hmm. This blade sure feels like a powerful one.",
+   "ro": "Hmm. Lama asta chiar pare puternică."
+  },
+  {
+   "id": 12446030141960833888,
+   "en": "I know that loss too. Death is hard to overcome.",
+   "ro": "Și eu știu ce e pierderea asta. Moartea e greu de trecut peste."
+  },
+  {
+   "id": 12446042305663357783,
+   "en": "We do have more scrolls.",
+   "ro": "Mai avem pergamente."
+  },
+  {
+   "id": 12446051354157604783,
+   "en": "You should have pushed on that big rock.",
+   "ro": "Ar fi trebuit să împingi piatra aia mare."
+  },
+  {
+   "id": 12446083517263977885,
+   "en": "KINU",
+   "ro": "KINU"
+  },
+  {
+   "id": 12446134763187880330,
+   "en": "Don't worry about me. Worry about your bruised ass tomorrow.",
+   "ro": "Nu-ți face griji pentru mine. Mai bine fă griji pentru fundul tău vânătat de mâine."
+  },
+  {
+   "id": 12446155592650351158,
+   "en": "Oh. You will? So you would become...",
+   "ro": "Oh. Chiar vrei? Deci ai deveni..."
+  },
+  {
+   "id": 12446268785177709108,
+   "en": "Kinu! You're more beautiful than I remember!",
+   "ro": "Kinu! Ești mai frumoasă decât mi-aduc aminte!"
+  },
+  {
+   "id": 12446320645924743528,
+   "en": "Ten glyphs illuminated. We are close to getting answers.",
+   "ro": "Zece glife luminate. Suntem aproape de răspunsuri."
+  },
+  {
+   "id": 12446455776505760895,
+   "en": "I'm far from the glyph now.",
+   "ro": "Sunt departe de glif acum."
+  },
+  {
+   "id": 12446480114576635417,
+   "en": "Ten glyphs illuminated. We are close to getting answers.",
+   "ro": "Zece glife luminate. Suntem aproape de răspunsuri."
+  },
+  {
+   "id": 12446511097268487237,
+   "en": "Mm. I feel like I could wrestle a bear!",
+   "ro": "Mm. Simt că aș putea lupta cu un urs!"
+  },
+  {
+   "id": 12446597490119122303,
+   "en": "Move faster, old man!",
+   "ro": "Mișcă mai repede, moșule!"
+  },
+  {
+   "id": 12446602913776505386,
+   "en": "Your victory has proven you stronger than any storm, and more beautiful than any blossom.",
+   "ro": "Victoria ta te-a dovedit mai puternică decât orice furtună și mai frumoasă decât orice floare."
+  },
+  {
+   "id": 12446610604435121618,
+   "en": "No, I just, you just... nevermind.",
+   "ro": "Nu, eu doar, tu doar... nu contează."
+  },
+  {
+   "id": 12446617047037758446,
+   "en": "I don't trust them. They're half-wits.",
+   "ro": "Nu am încredere în ei. Sunt niște cocoși."
+  },
+  {
+   "id": 12446624954464801166,
+   "en": "[[pants]] I've never felt more alive, sir.",
+   "ro": "[[pants]] Nu m-am simțit niciodată mai viu, domnule."
+  },
+  {
+   "id": 12446654972106686007,
+   "en": "I will not hold back this time, you know.",
+   "ro": "Nu mă mai abțin data asta, să știi."
+  },
+  {
+   "id": 12446677856401503428,
+   "en": "This shield has seen many battles. Arrows, dents... are those wolf bites?",
+   "ro": "Scutul ăsta a văzut multe bătălii. Săgeți, lovituri... alea sunt urme de dinți de lup?"
+  },
+  {
+   "id": 12446707293443718728,
+   "en": "Naoe can shape mine however she wants.",
+   "ro": "Naoe îl poate modela cum vrea ea."
+  },
+  {
+   "id": 12446770275829570417,
+   "en": "MONK",
+   "ro": "CĂLUGĂR"
+  },
+  {
+   "id": 12446790683775536291,
+   "en": "Another glyph. I wonder who wrote the riddles?",
+   "ro": "Încă un glif. Mă întreb cine a scris ghicitorile?"
+  },
+  {
+   "id": 12446811425098789694,
+   "en": "Hey!",
+   "ro": "Hei!"
+  },
+  {
+   "id": 12446840690191238876,
+   "en": "Tell that to the pants you wet running away.",
+   "ro": "Spune asta pantalonilor pe care i-ai udat fugind."
+  },
+  {
+   "id": 12446864432656376285,
+   "en": "Please don't compare me to a noodle.",
+   "ro": "Te rog, nu mă mai compara cu un tăiței."
+  },
+  {
+   "id": 12446899273505425779,
+   "en": "That is six glyphs in total. We are getting somewhere.",
+   "ro": "Sunt șase glife în total. Ne apropiem de ceva."
+  },
+  {
+   "id": 12446937780757118197,
+   "en": "We offer help to those who cannot help themselves, remember?",
+   "ro": "Oferim ajutor celor care nu se pot ajuta singuri, ții minte?"
+  },
+  {
+   "id": 12447027287038204812,
+   "en": "According to the glyphs on the door, this is the second last to light up. One more to find.",
+   "ro": "După glifele de pe ușă, asta e penultima care se aprinde. Mai trebuie găsită una."
+  },
+  {
+   "id": 12447049650529057051,
+   "en": "I swear you would not be that taken by the findings. [beat]Now. Your test.",
+   "ro": "Jur că nu te-ar lua atât de mult descoperirile. [beat]Acum. Proba ta."
+  },
+  {
+   "id": 12447056711686148565,
+   "en": "That is... surprisingly profound.",
+   "ro": "Asta e... surprinzător de profund."
+  },
+  {
+   "id": 12447102234956403934,
+   "en": "This shield has seen many battles. Arrows, dents... are those wolf bites?",
+   "ro": "Scutul ăsta a văzut multe bătălii. Săgeți, lovituri... alea sunt urme de dinți de lup?"
+  },
+  {
+   "id": 12447131242087371989,
+   "en": "BUDDHIST MONK",
+   "ro": "CĂLUGĂR BUDIST"
+  },
+  {
+   "id": 12447156423988537394,
+   "en": "You flatter me, Kane.",
+   "ro": "Mă lingușești, Kane."
+  },
+  {
+   "id": 12447160377105220882,
+   "en": "As long as he is not so enthusiastic when I do it.",
+   "ro": "Atâta timp cât nu e atât de entuziasmat când o fac eu."
+  },
+  {
+   "id": 12447161666427102228,
+   "en": "I've been wanting to do that to him for years. [beat]Let me try!",
+   "ro": "De ani de zile vreau să-i fac asta. [beat]Lasă-mă pe mine!"
+  },
+  {
+   "id": 12447165049916510986,
+   "en": "No way.",
+   "ro": "Nici vorbă."
+  },
+  {
+   "id": 12447202569924056411,
+   "en": "In your brain? No. To the door? Yes!",
+   "ro": "În capul tău? Nu. Până la ușă? Da!"
+  },
+  {
+   "id": 12447242920270277213,
+   "en": "This Kassandra... what powers does she possess?",
+   "ro": "Kassandra asta... ce puteri are?"
+  },
+  {
+   "id": 12447297989720860200,
+   "en": "That's what you do. [beat]Beautiful silence.",
+   "ro": "Asta faci tu. [beat]Liniște frumoasă."
+  },
+  {
+   "id": 12447346344645784443,
+   "en": "[[grunts]]",
+   "ro": "[[grunts]]"
+  },
+  {
+   "id": 12447387030489271002,
+   "en": "Don't worry, sir. I'll be in top shape tomorrow!",
+   "ro": "Nu vă faceți griji, domnule. Mâine o să fiu în formă de zile mari!"
+  },
+  {
+   "id": 12447535871668811121,
+   "en": "I will return soon.",
+   "ro": "Mă întorc curând."
+  },
+  {
+   "id": 12447550152101519946,
+   "en": "I will wear my welts with pride!",
+   "ro": "O să-mi port vânătăile cu mândrie!"
+  },
+  {
+   "id": 12447555694514886767,
+   "en": "We were just limbering up. I'm as flexible as any shinobi. Like a wet noodle!",
+   "ro": "Doar ne încălzeam. Sunt la fel de flexibil ca orice shinobi. Flexibil ca un tăiței fiert!"
+  },
+  {
+   "id": 12447576313930612669,
+   "en": "Woah! Did you see that Naoe move?",
+   "ro": "Vai! Ai văzut mișcarea aceea a lui Naoe?"
+  },
+  {
+   "id": 12447592676403235458,
+   "en": "Amazing what a night of rest can do, eh, Kane?",
+   "ro": "Ce minune poate face o noapte de odihnă, nu-i așa, Kane?"
+  },
+  {
+   "id": 12447600686035558834,
+   "en": "I lost the glyph's signal.",
+   "ro": "Am pierdut semnalul glifului."
+  },
+  {
+   "id": 12447621509711149075,
+   "en": "It must be guiding me somewhere. And I think I am close.",
+   "ro": "Trebuie că mă ghidează spre ceva. Și cred că sunt aproape."
+  },
+  {
+   "id": 12447665880673546815,
+   "en": "Got it.",
+   "ro": "Am înțeles."
+  },
+  {
+   "id": 12447698919738720165,
+   "en": "Hey, that's a big improvement. You screamed last time we saw a weasel.",
+   "ro": "Hei, asta e un progres mare. Data trecută când am văzut o nevăstuică, ai țipat."
+  },
+  {
+   "id": 12447719309602429379,
+   "en": "Yasukane! From this moment on!",
+   "ro": "Yasukane! De acum înainte!"
+  },
+  {
+   "id": 12447721206367085972,
+   "en": "Now to see what is behind the big strange door.",
+   "ro": "Acum să vedem ce e în spatele ușii mari și ciudate."
+  },
+  {
+   "id": 12447771954638462947,
+   "en": "Is there something you can teach us, miss Naoe?",
+   "ro": "Ne poți învăța ceva, domnișoară Naoe?"
+  },
+  {
+   "id": 12447795097432378504,
+   "en": "Another glyph.",
+   "ro": "Încă un glif."
+  },
+  {
+   "id": 12447887889651528074,
+   "en": "Anything for you, miss.",
+   "ro": "Orice pentru tine, domnișoară."
+  },
+  {
+   "id": 12447890351659519090,
+   "en": "All right, ornament. Show me the way.",
+   "ro": "Bine, podoabă. Arată-mi drumul."
+  },
+  {
+   "id": 12447903211288995752,
+   "en": "The ornament leads me closer.",
+   "ro": "Ornamentul mă duce mai aproape."
+  },
+  {
+   "id": 12447904322168925546,
+   "en": "You can do better than that. Another!",
+   "ro": "Poți mai mult de atât. Încă una!"
+  },
+  {
+   "id": 12447914783020456288,
+   "en": "Tomorrow is the big test. I hope I know all the answers.",
+   "ro": "Mâine e examenul cel mare. Sper să știu toate răspunsurile."
+  },
+  {
+   "id": 12447942482086798818,
+   "en": "The glyph should light up right around here.",
+   "ro": "Glifa ar trebui să se aprindă chiar aici."
+  }
+ ]
+}

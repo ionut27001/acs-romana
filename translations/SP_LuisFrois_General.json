@@ -1,0 +1,336 @@
+{
+ "package": "SP_LuisFrois_en-US_General",
+ "data_id": "0000021C6166B52F",
+ "entries": [
+  {
+   "id": 12430766309539220937,
+   "en": "A Note on Japanese Clothing",
+   "ro": "O notă despre îmbrăcămintea japoneză"
+  },
+  {
+   "id": 12430861506186811458,
+   "en": "A Note on Dueling Scars",
+   "ro": "O notă despre cicatricile duelurilor"
+  },
+  {
+   "id": 12431032646285531923,
+   "en": "Eavesdrop on the guests",
+   "ro": "Ascultă discret oaspeții"
+  },
+  {
+   "id": 12431228509629899899,
+   "en": "She is with Luis Frois",
+   "ro": "Ea este alături de Luis Frois"
+  },
+  {
+   "id": 12432311097395585842,
+   "en": "I must be going.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "id": 12432655599842775370,
+   "en": "Join Luis Frois for a baptism ceremony in Otsu to learn more about his work as a Jesuit missionary.",
+   "ro": "Alătură-te lui Luis Frois la o ceremonie de botez din Otsu, ca să afli mai multe despre munca lui de misionar iezuit."
+  },
+  {
+   "id": 12432772948434260803,
+   "en": "[Warn Lady Satoko]",
+   "ro": "[Avertizează-o pe doamna Satoko]"
+  },
+  {
+   "id": 12432833832907617903,
+   "en": "He is northwest of Mouth of Seta",
+   "ro": "E la nord-vest de Gura Setei."
+  },
+  {
+   "id": 12432994283547513771,
+   "en": "The Baptism",
+   "ro": "Botezul"
+  },
+  {
+   "id": 12433021625700374529,
+   "en": "Talk to Luis Frois",
+   "ro": "Vorbește cu Luis Frois"
+  },
+  {
+   "id": 12433411072974773696,
+   "en": "The Japanese make their bows and arrows from bamboo cane. Their bows are much larger in size than ours.\n\nJapanese archers shout loudly when loosing their arrows, whereas our archers shoot in complete silence.",
+   "ro": "Japonezii își fac arcurile și săgețile din trestie de bambus. Arcurile lor sunt mult mai mari decât ale noastre.\n\nArcașii japonezi strigă tare când eliberează săgețile, pe când arcașii noștri trag în deplină tăcere."
+  },
+  {
+   "id": 12433413670254665048,
+   "en": "This can't be worth it.",
+   "ro": "Asta nu merită efortul."
+  },
+  {
+   "id": 12433832675780756037,
+   "en": "A Note on Japanese Clothing",
+   "ro": "O notă despre îmbrăcămintea japoneză"
+  },
+  {
+   "id": 12434038356189316869,
+   "en": "Check on Luis Frois",
+   "ro": "Verifică-l pe Luis Frois"
+  },
+  {
+   "id": 12434150486140960768,
+   "en": "The Player can ask Luis about one of the three topics he mentioned in the Preamble, or skip ahead. After each topic, the player returns here",
+   "ro": "Jucătorul îl poate întreba pe Luis despre unul dintre cele trei subiecte menționate în Preambul sau poate sări peste. După fiecare subiect, jucătorul revine aici."
+  },
+  {
+   "id": 12434204682222287327,
+   "en": "Tell me about poetry.",
+   "ro": "Spune-mi despre poezie."
+  },
+  {
+   "id": 12434431373220619455,
+   "en": "In Portugal we wear our fine clothing all year round, whereas in Japan they change their garments three times per year. \n\nIn summer, they wear a light robe called a katabira without a lining. In autumn, they shift to the aki-awase, a two-layered kimono to keep out the brisk weather, and then add stuffing for even more warmth. This is called a fuyu-kimono and is worn throughout the winter.\n\nThese extra layers and stuffing are removed in spring, and the cycle begins anew.",
+   "ro": "În Portugalia purtăm hainele fine tot anul, pe când în Japonia își schimbă veșmintele de trei ori pe an.\n\nVara poartă o haină ușoară numită katabira, fără căptușeală. Toamna trec la aki-awase, un kimono cu două straturi care ține afară vremea tăioasă, la care adaugă apoi vată, pentru și mai multă căldură. Acesta se numește fuyu-kimono și se poartă pe toată durata iernii.\n\nStraturile suplimentare și vata se scot primăvara, iar ciclul începe din nou."
+  },
+  {
+   "id": 12434600513243890081,
+   "en": "Tell me more about your writing.",
+   "ro": "Spune-mi mai multe despre scrisul tău."
+  },
+  {
+   "id": 12434938528347665683,
+   "en": "Maybe you're right.",
+   "ro": "Poate ai dreptate."
+  },
+  {
+   "id": 12436278223912817273,
+   "en": "A Note on Bows and Arrows",
+   "ro": "O notă despre arcuri și săgeți"
+  },
+  {
+   "id": 12436405908030783928,
+   "en": "Luis Frois has invited you to visit the mission. He will be happy to see you arrive.",
+   "ro": "Luis Frois te-a invitat să vizitezi misiunea. Va fi bucuros să te vadă sosind."
+  },
+  {
+   "id": 12436448084044473407,
+   "en": "They are north of Shozenji Temple",
+   "ro": "Sunt la nord de Templul Shozenji."
+  },
+  {
+   "id": 12436606090408626852,
+   "en": "Talk to Lady Satoko",
+   "ro": "Vorbește cu doamna Satoko"
+  },
+  {
+   "id": 12436685530076243042,
+   "en": "Warn Luis Frois",
+   "ro": "Avertizează-l pe Luis Frois"
+  },
+  {
+   "id": 12437170289861494229,
+   "en": "Tell me about dance.",
+   "ro": "Spune-mi despre dans."
+  },
+  {
+   "id": 12437703177536471625,
+   "en": "Tell me about child rearing.",
+   "ro": "Spune-mi despre creșterea copiilor."
+  },
+  {
+   "id": 12437762691654947232,
+   "en": "Lady Satoko is waiting near the ceremony",
+   "ro": "Doamna Satoko te așteaptă lângă ceremonie."
+  },
+  {
+   "id": 12437938666119866778,
+   "en": "They are southwest of Azuchi Castle",
+   "ro": "Sunt la sud-vest de Castelul Azuchi."
+  },
+  {
+   "id": 12438054880953094751,
+   "en": "This note about Japanese dueling scars was written by Luis Frois.",
+   "ro": "Nota asta despre cicatricile din duelurile japonezilor a fost scrisă de Luis Frois."
+  },
+  {
+   "id": 12438264541063253819,
+   "en": "You should remain vigilant.",
+   "ro": "Ar trebui să fii atent."
+  },
+  {
+   "id": 12439777144413144421,
+   "en": "The Mission",
+   "ro": "Misiunea"
+  },
+  {
+   "id": 12440438264652581305,
+   "en": "This note about Japanese seasonal garments was written by Luis Frois.",
+   "ro": "Nota asta despre veșmintele sezoniere japoneze a fost scrisă de Luis Frois."
+  },
+  {
+   "id": 12440851463309853223,
+   "en": "Luis Frois is waiting for you",
+   "ro": "Luis Frois te așteaptă."
+  },
+  {
+   "id": 12440996480252410048,
+   "en": "Tell me about child rearing.",
+   "ro": "Spune-mi despre creșterea copiilor."
+  },
+  {
+   "id": 12441012476047642344,
+   "en": "Tell me about poetry.",
+   "ro": "Spune-mi despre poezie."
+  },
+  {
+   "id": 12441761966680365455,
+   "en": "Kill the ronin",
+   "ro": "Ucide rōninul"
+  },
+  {
+   "id": 12441787974253367364,
+   "en": "[Warn Father Frois]",
+   "ro": "[Avertizează-l pe părintele Frois]"
+  },
+  {
+   "id": 12441897572904201497,
+   "en": "He is in Omi",
+   "ro": "Se află în Omi"
+  },
+  {
+   "id": 12441918863744771017,
+   "en": "Find the guests",
+   "ro": "Găsește oaspeții"
+  },
+  {
+   "id": 12442131391277800972,
+   "en": "[Play as Naoe]",
+   "ro": "[Joacă drept Naoe]"
+  },
+  {
+   "id": 12442737215688183512,
+   "en": "In Europe, we think of scars as dreadful disfigurements, but in Japan, they are worn as marks of distinction.",
+   "ro": "În Europa, cicatricile sunt văzute ca desfigurări groaznice, dar în Japonia sunt purtate ca semne de distincție."
+  },
+  {
+   "id": 12442754070514721120,
+   "en": "The Works of Luis Frois",
+   "ro": "Operele lui Luis Frois"
+  },
+  {
+   "id": 12442907924977690661,
+   "en": "They are south of Sakamoto Castle",
+   "ro": "Sunt la sud de Castelul Sakamoto."
+  },
+  {
+   "id": 12443153191514014694,
+   "en": "Talk to the monks",
+   "ro": "Vorbește cu călugării"
+  },
+  {
+   "id": 12443165337857204238,
+   "en": "The Threat",
+   "ro": "Amenințarea"
+  },
+  {
+   "id": 12443252943582510487,
+   "en": "Luis Frois",
+   "ro": "Luis Frois"
+  },
+  {
+   "id": 12443493009794151349,
+   "en": "They are in Omi",
+   "ro": "Sunt în Omi"
+  },
+  {
+   "id": 12443540435157878394,
+   "en": "The baptism party has already left town and they are in danger. Hurry after them and assist!",
+   "ro": "Grupul de botez a plecat deja din oraș, iar ei sunt în pericol. Grăbește-te după ei și ajută-i!"
+  },
+  {
+   "id": 12443997118058023531,
+   "en": "Tell me about dance.",
+   "ro": "Spune-mi despre dans."
+  },
+  {
+   "id": 12444076738699883077,
+   "en": "[Play as Yasuke]",
+   "ro": "[Joacă drept Yasuke]"
+  },
+  {
+   "id": 12444172088915474509,
+   "en": "A Note on Dueling Scars",
+   "ro": "O notă despre cicatricile duelurilor"
+  },
+  {
+   "id": 12444287796128287675,
+   "en": "Retrieve the notes",
+   "ro": "Recuperează notițele"
+  },
+  {
+   "id": 12444512417781534730,
+   "en": "Retrieve the notes",
+   "ro": "Recuperează notițele"
+  },
+  {
+   "id": 12444851145702744311,
+   "en": "Meet Luis Frois in Otsu",
+   "ro": "Întâlnește-te cu Luis Frois în Otsu"
+  },
+  {
+   "id": 12445078055992111716,
+   "en": "He is in Otsu Upper District",
+   "ro": "E în Cartierul superior Otsu."
+  },
+  {
+   "id": 12445301921952510602,
+   "en": "I must be going.",
+   "ro": "Trebuie să plec."
+  },
+  {
+   "id": 12445516766003396913,
+   "en": "The Player can learn more about Luis Frois' book or simply skip past the infohub.",
+   "ro": "Jucătorul poate afla mai multe despre cartea lui Luis Frois sau poate sări peste centrul de informații."
+  },
+  {
+   "id": 12446011844478708155,
+   "en": "A chance encounter with Luis Frois at a Jesuit Mission turns into an opportunity to help an old friend.",
+   "ro": "Pe neașteptate, dai peste Luis Frois la o Misiune iezuită, iar asta devine o ocazie să-l ajuți pe un vechi prieten."
+  },
+  {
+   "id": 12446671096306573297,
+   "en": "Father Frois's work as a Jesuit priest keeps him busy, though he can always spare time for an old friend. ",
+   "ro": "Părintele Frois are multe de făcut ca preot iezuit, dar mereu găsește timp pentru un vechi prieten. "
+  },
+  {
+   "id": 12446790120892562730,
+   "en": "Tell me more about your writing.",
+   "ro": "Spune-mi mai multe despre scrisul tău."
+  },
+  {
+   "id": 12446846175395461135,
+   "en": "This note describing Japanese bows and arrows was written by Luis Frois.",
+   "ro": "Nota asta despre arcurile și săgețile japoneze a fost scrisă de Luis Frois."
+  },
+  {
+   "id": 12446949008515133023,
+   "en": "You should be worried.",
+   "ro": "Ar trebui să fii îngrijorat."
+  },
+  {
+   "id": 12447146713865132041,
+   "en": "They are in Omi",
+   "ro": "Sunt în Omi"
+  },
+  {
+   "id": 12447449911603586223,
+   "en": "You should arm yourself.",
+   "ro": "Ar trebui să te înarmezi."
+  },
+  {
+   "id": 12447527718283912852,
+   "en": "You should be worried.",
+   "ro": "Ar trebui să fii îngrijorat."
+  },
+  {
+   "id": 12447791060006955723,
+   "en": "They are traveling by road",
+   "ro": "Călătoresc pe drum"
+  }
+ ]
+}

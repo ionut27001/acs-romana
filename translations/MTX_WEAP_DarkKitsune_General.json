@@ -1,0 +1,101 @@
+{
+ "package": "MTX_WEAP_DarkKitsune_en-US_General",
+ "data_id": "0000023336F4B7C1",
+ "entries": [
+  {
+   "id": 12432521547166780750,
+   "en": "Kitsune's Veil",
+   "ro": "Vălul kitsunei"
+  },
+  {
+   "id": 12432591577179534271,
+   "en": "Dark Kitsune Weapon Pack",
+   "ro": "Pachetul de arme Kitsune Întunecată"
+  },
+  {
+   "id": 12433606127797635611,
+   "en": "Silent Howl",
+   "ro": "Urlet tăcut"
+  },
+  {
+   "id": 12435160973863954678,
+   "en": "Far Reach increases Posture Damage by {NumberTag1}% and stacks up to {NumberTag2} times",
+   "ro": "Raza lungă crește Daunele de postură cu {NumberTag1}% și se cumulează de până la {NumberTag2} ori"
+  },
+  {
+   "id": 12435824391930744081,
+   "en": "Vanish for {NumberTag1} seconds on successful Assassination. Once every {NumberTag2} seconds",
+   "ro": "Dispari timp de {NumberTag1} secunde la un Asasinat reușit. O dată la {NumberTag2} secunde"
+  },
+  {
+   "id": 12437895525748274697,
+   "en": "If you allow yourself to get too close to its hypnotic dance, you'll get bitten.",
+   "ro": "Dacă te apropii prea mult de dansul său hipnotic, vei fi mușcat."
+  },
+  {
+   "id": 12438218190420163521,
+   "en": "While it may not growl, it thuds, and it hurts.",
+   "ro": "Deși nu mârâie, lovește surd și doare."
+  },
+  {
+   "id": 12438261283512080973,
+   "en": "Once you see its flash, it's too late.",
+   "ro": "Odată ce îi vezi strălucirea, e prea târziu."
+  },
+  {
+   "id": 12439334123147394517,
+   "en": "Dark Kitsune",
+   "ro": "Kitsune Întunecată"
+  },
+  {
+   "id": 12441153160750616893,
+   "en": "Skulk and tail weaker prey with these weapons inspired by one of Japan's most mystic night prowlers.",
+   "ro": "Pândește și urmărește prada mai slabă cu aceste arme inspirate de unul dintre cei mai misterioși hoinari ai nopții din Japonia."
+  },
+  {
+   "id": 12441659685514127453,
+   "en": "Kitsune Fang",
+   "ro": "Colțul kitsunei"
+  },
+  {
+   "id": 12442551877118276983,
+   "en": "Fox Tail",
+   "ro": "Coada vulpii"
+  },
+  {
+   "id": 12442875222244520366,
+   "en": "Its haunting whistle splits its way through the wind.",
+   "ro": "Fluierul său sfâșietor taie vântul."
+  },
+  {
+   "id": 12443432799421236029,
+   "en": "The Fox Head",
+   "ro": "Capul vulpii"
+  },
+  {
+   "id": 12444426076935032103,
+   "en": "Mythic Reach",
+   "ro": "Întindere mitică"
+  },
+  {
+   "id": 12445043873283511038,
+   "en": "Spirit Shot",
+   "ro": "Lovitură spirituală"
+  },
+  {
+   "id": 12446739952148750160,
+   "en": "Combo enders increase Posture Damage by {NumberTag1}% and stacks up to {NumberTag2} times",
+   "ro": "Finalizatorii de combinații cresc Daunele de postură cu {NumberTag1}% și se cumulează de până la {NumberTag2} ori"
+  },
+  {
+   "id": 12447132501670323306,
+   "en": "Foxfire Surge",
+   "ro": "Val de flăcări ale vulpii"
+  },
+  {
+   "id": 12447282148849949319,
+   "en": "Marksman's Shot sends 2 Foxfire spirits to nearby enemies and deals {NumberTag}% ability damage",
+   "ro": "Lovitura trăgătorului de elită trimite 2 spirite Foxfire către inamicii din apropiere și provoacă {NumberTag}% daune de abilitate"
+  }
+ ]
+}

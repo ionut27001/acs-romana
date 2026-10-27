@@ -1,0 +1,686 @@
+{
+ "package": "SP_Stooges_en-US_General",
+ "data_id": "0000023017B573A9",
+ "entries": [
+  {
+   "id": 12429990890584699981,
+   "en": "Increase Dropkick damage by {NumberTag}%",
+   "ro": "Crește daunele Loviturii în zbor cu {NumberTag}%"
+  },
+  {
+   "id": 12430605208550959107,
+   "en": "Help Kinu and Kane train for the Kakushiba ikki",
+   "ro": "Ajută-i pe Kinu și Kane să se pregătească pentru ikki-ul Kakushiba"
+  },
+  {
+   "id": 12430717079460094989,
+   "en": "Blade of Yumminess",
+   "ro": "Lama gustoasă"
+  },
+  {
+   "id": 12431108270887686481,
+   "en": "+{NumberTag}% Damage but can't use Abilities",
+   "ro": "+{NumberTag}% Daune, dar nu pot folosi Abilități"
+  },
+  {
+   "id": 12431121811499654451,
+   "en": "The drop kick can now be performed passively by pressing [CT_AlternateAttack] while sprinting",
+   "ro": "Lovitura în zbor poate fi acum făcută pasiv, apăsând [CT_AlternateAttack] în timp ce alergi."
+  },
+  {
+   "id": 12431219139496762380,
+   "en": "Glyph of the Sakura",
+   "ro": "Glifa sakura"
+  },
+  {
+   "id": 12431281948797414730,
+   "en": "Defeat Naoe",
+   "ro": "Învinge-o pe Naoe"
+  },
+  {
+   "id": 12431289681358041873,
+   "en": "I need more time.",
+   "ro": "Am nevoie de mai mult timp."
+  },
+  {
+   "id": 12431397749136777335,
+   "en": "Isu-Forged Spear",
+   "ro": "Suliță forjată de Isu"
+  },
+  {
+   "id": 12431605905542738251,
+   "en": "Beneath the watch of Akaiwa, the earth hides what a greedy eye cannot claim. Where the eagle's shadow meets the rising sun, seek stone hidden from wind and from rain.",
+   "ro": "Sub privirea lui Akaiwa, pământul ascunde ce un ochi lacom nu poate pune mâna. Acolo unde umbra vulturului întâlnește soarele care răsare, caută piatra ferită de vânt și de ploaie."
+  },
+  {
+   "id": 12431877680876503940,
+   "en": "[Play as Naoe]",
+   "ro": "[Joacă drept Naoe]"
+  },
+  {
+   "id": 12431901129679608129,
+   "en": "I'm ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "id": 12432033469148803044,
+   "en": "I'm ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "id": 12432037632028217735,
+   "en": "Headucation",
+   "ro": "Educație la cap"
+  },
+  {
+   "id": 12432068121844952997,
+   "en": "Find a mysterious weapon resembling a dagger",
+   "ro": "Găsește o armă misterioasă, care seamănă cu un pumnal"
+  },
+  {
+   "id": 12432271350045557147,
+   "en": "Yasuke has some skills to pass on to Kane and Kinu in hopes of training them.",
+   "ro": "Yasuke are câteva abilități pe care le poate da mai departe lui Kane și Kinu, ca să-i antreneze."
+  },
+  {
+   "id": 12432477552341403723,
+   "en": "Glyph of the Mists",
+   "ro": "Glifa ceții"
+  },
+  {
+   "id": 12432519800999191812,
+   "en": "Glyph of the Tide",
+   "ro": "Glifa mareei"
+  },
+  {
+   "id": 12432648486425307808,
+   "en": "Discovered in a mysterious vault, this naginata was left behind by a Greek traveler named Kassandra.",
+   "ro": "Găsită într-o boltă misterioasă, naginata asta a fost lăsată în urmă de o călătoare greacă pe nume Kassandra."
+  },
+  {
+   "id": 12432694350512779015,
+   "en": "It's Naoe's turn to help train Kinu and Kane – and she's determined to have some fun.",
+   "ro": "Acum e rândul Naoei să-i antreneze pe Kinu și Kane – și e decisă să se distreze."
+  },
+  {
+   "id": 12432730779073661914,
+   "en": "Equip the riddle scroll beacon",
+   "ro": "Echipează farul sulului cu ghicitori"
+  },
+  {
+   "id": 12432752789693223968,
+   "en": "A Puzzlement",
+   "ro": "Un mare mister"
+  },
+  {
+   "id": 12432835898319420176,
+   "en": "Dropkick now has its full effect on large enemies",
+   "ro": "Lovitura în zbor funcționează acum complet asupra inamicilor mari"
+  },
+  {
+   "id": 12432838594172905338,
+   "en": "[Leave]",
+   "ro": "[Pleacă]"
+  },
+  {
+   "id": 12432982592807217530,
+   "en": "Faster Takedown",
+   "ro": "Doborâre mai rapidă"
+  },
+  {
+   "id": 12432992728119791347,
+   "en": "Choke Kinu",
+   "ro": "Strangulează-o pe Kinu"
+  },
+  {
+   "id": 12433066658068709566,
+   "en": "Isu-Forged Blade",
+   "ro": "Lamă forjată de Isu"
+  },
+  {
+   "id": 12433197035920466214,
+   "en": "Blade of Yumminess Blade",
+   "ro": "Lama gustoasă"
+  },
+  {
+   "id": 12433230626338332901,
+   "en": "Allows Yasuke to perform a silent non-lethal takedown by pressing [CT_Grab] while out of conflict and unnoticed",
+   "ro": "Îi permite lui Yasuke să facă o doborâre silențioasă, fără să ucidă, apăsând [CT_Grab] când nu e în conflict și nu e observat."
+  },
+  {
+   "id": 12433299005131863017,
+   "en": "One does not choose to become myth like this blade – it choses them. And once it has found a new wielder, they must act like it.",
+   "ro": "Nimeni nu alege să devină legendă, ca lama asta – ea îl alege pe purtător. Și odată ce și-a găsit un nou purtător, acesta trebuie să se poarte demn de ea."
+  },
+  {
+   "id": 12433427937126858153,
+   "en": "Statue of Kassandra",
+   "ro": "Statuia Kassandrei"
+  },
+  {
+   "id": 12433654142530416299,
+   "en": "Help Kinu and Kane train for the Kakushiba ikki",
+   "ro": "Ajută-i pe Kinu și Kane să se pregătească pentru ikki-ul Kakushiba"
+  },
+  {
+   "id": 12433860952493574949,
+   "en": "[Duel as Naoe]",
+   "ro": "[Duelează-te ca Naoe]"
+  },
+  {
+   "id": 12434053866317391562,
+   "en": "This statue depicts a Greek traveler named Kassandra. A friend of hers, Barnabas, commissioned the piece. He clearly has an eye for art.",
+   "ro": "Această statuie o înfățișează pe Kassandra, o călătoare greacă. Un prieten de-al ei, Barnabas, a comandat piesa. Are clar ochi pentru artă."
+  },
+  {
+   "id": 12434090421480006832,
+   "en": "[Duel as Yasuke]",
+   "ro": "[Duelează-te ca Yasuke]"
+  },
+  {
+   "id": 12434117490855785984,
+   "en": "I'm not ready.",
+   "ro": "Nu sunt gata."
+  },
+  {
+   "id": 12434691431977487979,
+   "en": "Yasuke Wins",
+   "ro": "Yasuke câștigă"
+  },
+  {
+   "id": 12434720484329073744,
+   "en": "Kane and Kinu",
+   "ro": "Kane și Kinu"
+  },
+  {
+   "id": 12435141553101751449,
+   "en": "Glyph Door",
+   "ro": "Ușa glifei"
+  },
+  {
+   "id": 12435515975832424012,
+   "en": "[Duel with Naoe]",
+   "ro": "[Duelează-te cu Naoe]"
+  },
+  {
+   "id": 12435529084753601718,
+   "en": "Glyph of the Ship",
+   "ro": "Glifa corăbiei"
+  },
+  {
+   "id": 12435598990692964101,
+   "en": "Alerts the wearer when in proximity of hidden glyphs",
+   "ro": "Îl avertizează pe purtător când e aproape de glifele ascunse"
+  },
+  {
+   "id": 12435632803505729704,
+   "en": "I'm ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "id": 12435848460203517804,
+   "en": "Blade of Yumminess Scabbard",
+   "ro": "Teaca Lamei gustoase"
+  },
+  {
+   "id": 12436290383438697714,
+   "en": "Meet Kinu and Kane",
+   "ro": "Întâlnește-te cu Kinu și Kane"
+  },
+  {
+   "id": 12436316145237805655,
+   "en": "Headband of Super Ultra Toughness",
+   "ro": "Bandana super ultra rezistenței"
+  },
+  {
+   "id": 12436367968024104388,
+   "en": "Glyph of the Vault",
+   "ro": "Glifa bolții"
+  },
+  {
+   "id": 12436446587782118655,
+   "en": "Return to Kinu and Kane",
+   "ro": "Întoarce-te la Kinu și Kane"
+  },
+  {
+   "id": 12436518021655794745,
+   "en": "Defeat Yasuke",
+   "ro": "Învinge-l pe Yasuke"
+  },
+  {
+   "id": 12436648790759536381,
+   "en": "Ancient Hero's Power",
+   "ro": "Puterea eroului antic"
+  },
+  {
+   "id": 12436719479294519238,
+   "en": "Increase Dropkick damage by {NumberTag}%",
+   "ro": "Crește daunele Loviturii în zbor cu {NumberTag}%"
+  },
+  {
+   "id": 12436945737059658407,
+   "en": "Below the gaze of Onyu Pass, waters conceal a treasure for the fearless. Seek the pool where sunlight never goes and shadows drift deep.",
+   "ro": "Sub privirea Pasului Onyu, apele ascund o comoară pentru cei neînfricați. Caută iazul unde nu ajunge lumina soarelui și unde umbrele sunt adânci."
+  },
+  {
+   "id": 12436975119784080064,
+   "en": "Investigate the strange glyphs",
+   "ro": "Investighează glifele ciudate"
+  },
+  {
+   "id": 12437073382639210149,
+   "en": "I need more time.",
+   "ro": "Am nevoie de mai mult timp."
+  },
+  {
+   "id": 12437085249874987340,
+   "en": "Riddle Scroll Beacon",
+   "ro": "Farul sulului cu ghicitori"
+  },
+  {
+   "id": 12437237179483250323,
+   "en": "Glyph of the Waterfall",
+   "ro": "Glifa cascadei"
+  },
+  {
+   "id": 12437315566910565952,
+   "en": "Behind That Locked Door",
+   "ro": "În spatele ușii încuiate"
+  },
+  {
+   "id": 12437377646374386268,
+   "en": "+1 Adrenaline Chunk",
+   "ro": "+1 Bucată de adrenalină"
+  },
+  {
+   "id": 12437385479162434154,
+   "en": "Kane",
+   "ro": "Kane"
+  },
+  {
+   "id": 12437386790079654326,
+   "en": "The lone samurai's devotion was passed to the last Medjay, and then to a wandering misthios. Now, the legacy returns to this country, awaiting a samurai to inherit its vow: stand as one soldier against the world. The circle is complete, but someday, somewhere, the tale will begin anew when another worthy hand lifts the blade.",
+   "ro": "Devotamentul solitarului samurai a fost transmis ultimului Medjay, apoi unui misthios rătăcitor. Acum, moștenirea se întoarce în această țară și așteaptă un samurai care să-i preia jurământul: să stea ca un singur soldat împotriva lumii. Cercul s-a închis, dar cândva, undeva, povestea va începe din nou, când o altă mână demnă va ridica lama."
+  },
+  {
+   "id": 12437441363494663231,
+   "en": "Reforge the blade",
+   "ro": "Reforjează lama"
+  },
+  {
+   "id": 12438125669100058828,
+   "en": "Hold [CT_AbilityWidget] and press [CT_AbilityLeft] to kick",
+   "ro": "Ține [CT_AbilityWidget] și apasă [CT_AbilityLeft] pentru a lovi cu piciorul"
+  },
+  {
+   "id": 12438170514585385256,
+   "en": "Innate Kick",
+   "ro": "Lovitură înnăscută"
+  },
+  {
+   "id": 12438201145637830650,
+   "en": "Reforge the Blade of Yumminess",
+   "ro": "Reforjează Lama gustoasă"
+  },
+  {
+   "id": 12438217292109544883,
+   "en": "Strength of Atlantis",
+   "ro": "Forța Atlantidei"
+  },
+  {
+   "id": 12438262038367964737,
+   "en": "I'm ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "id": 12438720256382729008,
+   "en": "Parts are missing",
+   "ro": "Lipsesc piese"
+  },
+  {
+   "id": 12438801491195854881,
+   "en": "Pushback",
+   "ro": "Respingere"
+  },
+  {
+   "id": 12438866597935076191,
+   "en": "The Ippei blade and the blade of Leonidas were worlds apart – one born of a samurai's resolve, and the other from Sparta's mighty legacy. Yet by some twist of fate, the Blade of Yumminess was created and concealed among countless wares – a challenge the misthios Kassandra met with no small investment of patience and drachmae.",
+   "ro": "Lama Ippei și lama lui Leonidas erau lumi diferite – una născută din hotărârea unui samurai, cealaltă din moștenirea măreață a Spartei. Totuși, printr-un joc al destinului, Lama gustoasă a fost creată și ascunsă printre nenumărate bunuri – o provocare pe care misthiosul Kassandra a întâmpinat-o cu multă răbdare și destui bani."
+  },
+  {
+   "id": 12438924603796864500,
+   "en": "Press [CT_Grab] while undetected to perform a silent takedown",
+   "ro": "Apasă [CT_Grab] când nu ești detectat ca să faci o doborâre silențioasă"
+  },
+  {
+   "id": 12439009974623098240,
+   "en": "All of the mysterious sigils have been illuminated, and what's behind the strange door will now be revealed.",
+   "ro": "Toate sigiliile misterioase s-au aprins, iar ce e în spatele ușii ciudate o să se vadă acum."
+  },
+  {
+   "id": 12439063930983762224,
+   "en": "[Leave]",
+   "ro": "[Pleacă]"
+  },
+  {
+   "id": 12439126416816519274,
+   "en": "Talk to Kane and Kinu",
+   "ro": "Vorbește cu Kane și Kinu"
+  },
+  {
+   "id": 12439195303320486914,
+   "en": "[Duel with Yasuke]",
+   "ro": "[Duel cu Yasuke]"
+  },
+  {
+   "id": 12439220666758225462,
+   "en": "+{NumberTag}% Damage per Health Segment Removal",
+   "ro": "+{NumberTag}% Daune pentru fiecare segment de viață eliminat"
+  },
+  {
+   "id": 12439417738562580424,
+   "en": "Duel Naoe needs to be conditional behing completing SP_STO_Q040",
+   "ro": "Duelul cu Naoe trebuie condiționat de finalizarea SP_STO_Q040"
+  },
+  {
+   "id": 12439477603719231319,
+   "en": "Wisdom of Atlantis",
+   "ro": "Înțelepciunea Atlantidei"
+  },
+  {
+   "id": 12439559211470654572,
+   "en": "Two bickering men are on the brink of discovery – a discovery they think will make them rich.",
+   "ro": "Doi bărbați care se ceartă sunt aproape să descopere ceva – ceva care, cred ei, o să-i facă bogați."
+  },
+  {
+   "id": 12439571611229222234,
+   "en": "Glyph of the Stone",
+   "ro": "Glifa pietrei"
+  },
+  {
+   "id": 12439578712382958169,
+   "en": "Dropkick",
+   "ro": "Lovitură în zbor"
+  },
+  {
+   "id": 12439676944149638044,
+   "en": "Takedown enemies {NumberTag}% faster",
+   "ro": "Dobori inamicii cu {NumberTag}% mai rapid"
+  },
+  {
+   "id": 12439790196036443525,
+   "en": "Within the echoes of the simulation, the Ippei blade emerged in the hands of Bayek of Siwa, the last Medjay and founder of the Hidden Ones. Though foreign to his world, the katana's spirit echoed his own: a solitary guardian standing resolute against countless foes.",
+   "ro": "În ecourile simulării, lama Ippei a apărut în mâinile lui Bayek din Siwa, ultimul Medjay și fondatorul Ascunșilor. Deși străin lumii lui, spiritul katanei semăna cu al lui: un paznic singur, hotărât în fața a nenumărați dușmani."
+  },
+  {
+   "id": 12439834318346160774,
+   "en": "Naoe performs a jumping \"drop kick\" on her target and sends the victim flying",
+   "ro": "Naoe sare și lovește ținta cu o «lovitură în zbor», trimițând victima în aer."
+  },
+  {
+   "id": 12439901946878349506,
+   "en": "Glyph of the Sky",
+   "ro": "Glifa cerului"
+  },
+  {
+   "id": 12440065069098188253,
+   "en": "The light that guards this cave is not of this world. It's born of a flame that can't be extinguished... not easily, anyway.\nIf you've come seeking treasure, I've left some things behind. Take them, and forget about this place.\nIf you've come seeking answers, be careful. The light listens. It bends the mind, and it does not forgive. Such places were never meant for mortals. Trust me.\n\n— Your friend, Kassandra",
+   "ro": "Lumina care păzește peștera asta nu e din lumea aceasta. Se naște dintr-o flacără care nu poate fi stinsă... oricum, nu ușor.\nDacă ai venit după comori, am lăsat câteva lucruri în urmă. Ia-le și uită de locul acesta.\nDacă ai venit după răspunsuri, fii atent. Lumina ascultă. Ea îndoaie mintea și nu iartă. Astfel de locuri n-au fost făcute pentru muritori. Ai încredere în mine.\n\n— Prietena ta, Kassandra"
+  },
+  {
+   "id": 12440073923895857974,
+   "en": "Critical Kick",
+   "ro": "Lovitură critică"
+  },
+  {
+   "id": 12440215898344010859,
+   "en": "DUEL COMPLETED",
+   "ro": "DUEL FINALIZAT"
+  },
+  {
+   "id": 12440296559024420126,
+   "en": "I'm not ready.",
+   "ro": "Nu sunt gata."
+  },
+  {
+   "id": 12440314277813743052,
+   "en": "Glyph of the River",
+   "ro": "Glifa râului"
+  },
+  {
+   "id": 12440332864443633562,
+   "en": "\"Stealth\"",
+   "ro": "„Furișare”"
+  },
+  {
+   "id": 12440387782240851868,
+   "en": "Discovered in a mysterious vault, this tanto was left behind by a Greek traveler named Kassandra.",
+   "ro": "Găsit într-o boltă misterioasă, tantō-ul ăsta a fost lăsat în urmă de o călătoare greacă pe nume Kassandra."
+  },
+  {
+   "id": 12440766480874788471,
+   "en": "Glyph of Silence",
+   "ro": "Glifa tăcerii"
+  },
+  {
+   "id": 12441068641598648911,
+   "en": "Open the mysterious puzzle vault",
+   "ro": "Deschide cripta misterioasă cu enigme"
+  },
+  {
+   "id": 12441162127401706142,
+   "en": "Forged for precision and speed, the Ippei blade of the Orochi was carried not as a mere weapon, but as the living soul of a samurai's discipline. Its name, taken from \"one soldier\", is a reminder that even a lone warrior can rise for honor against the tide.",
+   "ro": "Făurită pentru precizie și viteză, lama Ippei a Orochi-lor nu era purtată doar ca o armă, ci ca sufletul viu al disciplinei unui samurai. Numele ei, de la «un soldat», amintește că și un războinic singur se poate ridica pentru onoare împotriva valului."
+  },
+  {
+   "id": 12441222909124673621,
+   "en": "Come back tomorrow",
+   "ro": "Revino mâine"
+  },
+  {
+   "id": 12441237013633975433,
+   "en": "Kick Kane and Kinu",
+   "ro": "Lovește-i cu piciorul pe Kane și Kinu"
+  },
+  {
+   "id": 12441283258102112855,
+   "en": "Glyphs",
+   "ro": "Glifuri"
+  },
+  {
+   "id": 12441882965198511050,
+   "en": "Beware, Seeker",
+   "ro": "Ai grijă, Căutătorule"
+  },
+  {
+   "id": 12441915230113385614,
+   "en": "I'm ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "id": 12443130434627127371,
+   "en": "Blade of Yumminess Wakizashi",
+   "ro": "Wakizashi al Lamei Delicioase"
+  },
+  {
+   "id": 12443170576073218505,
+   "en": "+{NumberTag}% Damage on next hit after a Takedown",
+   "ro": "+{NumberTag}% Daune la următoarea lovitură după o Doborâre"
+  },
+  {
+   "id": 12443428069295896864,
+   "en": "Teach a Dog New Kicks",
+   "ro": "Să-i înveți câinelui lovituri noi"
+  },
+  {
+   "id": 12443456320821317959,
+   "en": "Exalted",
+   "ro": "Înălțat"
+  },
+  {
+   "id": 12443551368453503158,
+   "en": "Where stars watch over Yuasa, seek beneath the pilgrim's path. Past shrine lanterns guarding dusk lies a stone neither prayed nor seen.",
+   "ro": "Acolo unde stelele veghează asupra lui Yuasa, caută sub drumul pelerinului. Dincolo de lanternele sanctuarului, în amurg, e o piatră pe care nimeni nu s-a rugat și nimeni n-a văzut-o."
+  },
+  {
+   "id": 12443613878051862560,
+   "en": "Guard of Yumminess Clue",
+   "ro": "Indiciu despre Garda Lamei Delicioase"
+  },
+  {
+   "id": 12443835770541585894,
+   "en": "Handle of Yumminess Clue",
+   "ro": "Indiciu despre Mânerul Lamei Delicioase"
+  },
+  {
+   "id": 12443873981419112571,
+   "en": "Naoe Wins",
+   "ro": "Naoe câștigă"
+  },
+  {
+   "id": 12443890650399556981,
+   "en": "Find a mysterious weapon resembling a spear",
+   "ro": "Găsește o armă misterioasă, care seamănă cu o suliță"
+  },
+  {
+   "id": 12444078353140547798,
+   "en": "It's a bad idea.",
+   "ro": "E o idee proastă."
+  },
+  {
+   "id": 12444279802959374889,
+   "en": "Choke Kane undetected",
+   "ro": "Sugrumă-l pe Kane fără a fi observat"
+  },
+  {
+   "id": 12444286931638110687,
+   "en": "Battle of the Bests",
+   "ro": "Bătălia celor mai buni"
+  },
+  {
+   "id": 12444452138662074070,
+   "en": "Blade of Yumminess Handle",
+   "ro": "Mânerul Lamei Delicioase"
+  },
+  {
+   "id": 12444671241424242660,
+   "en": "+{NumberTag}% Critical Chance on next hit after using the Dropkick Ability",
+   "ro": "+{NumberTag}% Șansă de lovitură critică la următoarea lovitură, după ce folosești abilitatea Lovitură în zbor"
+  },
+  {
+   "id": 12444694271779920883,
+   "en": "Glyph of the Watchtower",
+   "ro": "Glif al Turnului de veghe"
+  },
+  {
+   "id": 12445252733108930172,
+   "en": "Meet Kane and Kinu",
+   "ro": "Întâlnește-i pe Kane și Kinu"
+  },
+  {
+   "id": 12445278268882035896,
+   "en": "The time has come to see all the skills that Kinu and Kane have learned. Will they be invited to join the Kakushiba ikki?",
+   "ro": "E momentul să vezi tot ce au învățat Kinu și Kane. Oare vor fi primiți în ikki-ul Kakushiba?"
+  },
+  {
+   "id": 12445331254882172764,
+   "en": "[Play as Yasuke]",
+   "ro": "[Joacă drept Yasuke]"
+  },
+  {
+   "id": 12445489313524559070,
+   "en": "Glyph of the Arch",
+   "ro": "Glif al Arcadei"
+  },
+  {
+   "id": 12445749724947131087,
+   "en": "Glyph of the Lost",
+   "ro": "Glif al celor pierduți"
+  },
+  {
+   "id": 12445976657871540269,
+   "en": "Saya of Yumminess Clue",
+   "ro": "Indiciu despre teaca delicioasă"
+  },
+  {
+   "id": 12446216427159781362,
+   "en": "Follow Yasuke",
+   "ro": "Urmează-l pe Yasuke"
+  },
+  {
+   "id": 12446235342247053056,
+   "en": "Once equipped, the ornament will activate and react in proximity of nearby glyphs.",
+   "ro": "Odată echipat, ornamentul se activează și reacționează la glifele din apropiere."
+  },
+  {
+   "id": 12446265947875340188,
+   "en": "I'm ready.",
+   "ro": "Sunt gata."
+  },
+  {
+   "id": 12446310909602947055,
+   "en": "I'll hear them out. ",
+   "ro": "O să-i ascult. "
+  },
+  {
+   "id": 12446317304874916268,
+   "en": "Take position in the bush",
+   "ro": "Ia poziție în tufiș"
+  },
+  {
+   "id": 12446354451372266708,
+   "en": "Blade of Yumminess Guard",
+   "ro": "Garda Lamei Delicioase"
+  },
+  {
+   "id": 12446421032718558365,
+   "en": "Kinu",
+   "ro": "Kinu"
+  },
+  {
+   "id": 12446678680459180765,
+   "en": "Kick Kinu",
+   "ro": "Lovește-o cu piciorul pe Kinu"
+  },
+  {
+   "id": 12446766724911022621,
+   "en": "Choke Kinu undetected",
+   "ro": "Sugrumă-o pe Kinu fără a fi observat"
+  },
+  {
+   "id": 12446882864086220458,
+   "en": "Come back tomorrow",
+   "ro": "Revino mâine"
+  },
+  {
+   "id": 12446910355853553404,
+   "en": "Blade of Yumminess Clue",
+   "ro": "Indiciu despre Lama Delicioasă"
+  },
+  {
+   "id": 12446919149983604302,
+   "en": "Where knowing walls stand older than memory and glyphs shimmer with power, fate hides the way. A sequence opens a doorway for those who seek truth.",
+   "ro": "Acolo unde zidurile, mai vechi decât amintirea, știu lucruri, iar glifele strălucesc cu putere, soarta ascunde drumul. O secvență deschide o poartă pentru cei care caută adevărul."
+  },
+  {
+   "id": 12446930228175426942,
+   "en": "Riddle Scroll Beacon",
+   "ro": "Farul sulului cu ghicitori"
+  },
+  {
+   "id": 12447100215785301455,
+   "en": "Two stooges, Kinu and Kane, bicker like an old married couple and struggle to get ahead in life.",
+   "ro": "Doi ratați, Kinu și Kane, se ceartă ca un cuplu de bătrâni și se chinuie să se descurce în viață."
+  },
+  {
+   "id": 12447338768683366045,
+   "en": "Reduce all Cooldowns by {NumberTag}% after successful assassination",
+   "ro": "Reduce toți timpii de reîncărcare cu {NumberTag}% după o asasinare reușită"
+  },
+  {
+   "id": 12447823361169982910,
+   "en": "Weed of Everlasting Love",
+   "ro": "Buruiana iubirii veșnice"
+  }
+ ]
+}

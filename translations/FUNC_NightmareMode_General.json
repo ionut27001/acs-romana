@@ -1,0 +1,61 @@
+{
+ "package": "FUNC_NightmareMode_en-US_General",
+ "data_id": "0000023092E346EC",
+ "entries": [
+  {
+   "id": 12430884989415538655,
+   "en": "Moon Eater",
+   "ro": "Mâncătorul Lunii"
+  },
+  {
+   "id": 12433526046317035609,
+   "en": "This katana is imbued with dreams bent and broke. There is no escaping the endless night.",
+   "ro": "Katana asta e plină de vise îndoite și frânte. Nu există scăpare din noaptea fără sfârșit."
+  },
+  {
+   "id": 12437373402138650296,
+   "en": "Celestial Hunger",
+   "ro": "Foamea cerească"
+  },
+  {
+   "id": 12438148233953683673,
+   "en": "This mode is intended for players that seek only the most difficult experience.\n\nNaoe must remain undetected and use all her tools and tricks to silently take down enemies. Yasuke can handle smaller encounters but enemies hit harder and act more unpredictably.\n\nPlayers should prepare accordingly with upgraded equipment and optimal Perk and Mastery loadouts. Equipped gear and masteries should be chosen to create synergies and stacking effects.",
+   "ro": "Acest mod este pentru jucătorii care vor doar cea mai grea experiență.\n\nNaoe trebuie să rămână nedetectată și să folosească toate uneltele și trucurile ca să doboare tăcut inamicii. Yasuke se descurcă la întâlnirile mai mici, dar inamicii lovesc mai tare și sunt mai imprevizibili.\n\nJucătorii ar trebui să se pregătească din timp, cu echipament îmbunătățit și cu configurații bune de perk-uri și Măiestrii. Echipamentul și Măiestriile alese ar trebui să creeze sinergii și efecte cumulative."
+  },
+  {
+   "id": 12440470408131273572,
+   "en": "Nightmare",
+   "ro": "Coșmar"
+  },
+  {
+   "id": 12441488979643603864,
+   "en": "Moon Eater Blade",
+   "ro": "Lama Mâncătorului Lunii"
+  },
+  {
+   "id": 12441660610101408250,
+   "en": "Moon Eater Saya",
+   "ro": "Teaca Mâncătorului Lunii"
+  },
+  {
+   "id": 12444684647369682926,
+   "en": "Moon Eater Handle",
+   "ro": "Mânerul Mâncătorului Lunii"
+  },
+  {
+   "id": 12445468118870802979,
+   "en": "Moon Eater Guard",
+   "ro": "Garda Mâncătorului Lunii"
+  },
+  {
+   "id": 12447717929679048647,
+   "en": "+{NumberTag}% Damage, but removes all rations",
+   "ro": "+{NumberTag}% Daune, dar elimină toate rațiile"
+  },
+  {
+   "id": 12447872977714905539,
+   "en": "Some Abilities make the enemy Vulnerable, increasing the damage they take.",
+   "ro": "Unele Abilități fac inamicul Vulnerabil, crescând daunele pe care le primește."
+  }
+ ]
+}

@@ -1,0 +1,241 @@
+{
+ "package": "MTX_Amaterasu_en-US_General",
+ "data_id": "0000021C83BA8D3E",
+ "entries": [
+  {
+   "id": 12430675038337100896,
+   "en": "Embody the attributes of the Sun and Moon with this celestial collection.",
+   "ro": "Îmbracă atributele Soarelui și ale Lunii cu această colecție cerească."
+  },
+  {
+   "id": 12431514472230718721,
+   "en": "Incandescent Sun Gear Set",
+   "ro": "Set de echipament Soarele incandescent"
+  },
+  {
+   "id": 12431972248434230010,
+   "en": "Adopt the serene light of the moon.",
+   "ro": "Adoptă lumina liniștită a lunii."
+  },
+  {
+   "id": 12432786956915194003,
+   "en": "Daze After Damaged",
+   "ro": "Amețeală după ce ești lovit"
+  },
+  {
+   "id": 12433145974092097725,
+   "en": "Blocking Negates Block Reactions",
+   "ro": "Blocarea anulează reacțiile de blocaj"
+  },
+  {
+   "id": 12433172502236020468,
+   "en": "Nightfall Haze Long Katana Blade",
+   "ro": "Lama katanei lungi Ceață de noapte"
+  },
+  {
+   "id": 12433438564025831350,
+   "en": "Successive hits increase your damage reduction by [NumberTag]%, up to [NumberTag2]%",
+   "ro": "Loviturile consecutive îți cresc reducerea daunelor cu [NumberTag]%, până la [NumberTag2]%"
+  },
+  {
+   "id": 12433835948010362683,
+   "en": "Damage Reduction on Consecutive Hits",
+   "ro": "Reducerea daunelor la lovituri consecutive"
+  },
+  {
+   "id": 12433897886486487153,
+   "en": "Sunburst Halo Katana Saya",
+   "ro": "Teaca katanei Halou de soare"
+  },
+  {
+   "id": 12434865966789175119,
+   "en": "Nightfall Haze Long Katana",
+   "ro": "Katana lungă Ceață de noapte"
+  },
+  {
+   "id": 12435534035263657782,
+   "en": "Cosmic Harmony Decoration",
+   "ro": "Ornament Armonia cosmică"
+  },
+  {
+   "id": 12436125371646926588,
+   "en": "Sunburst Halo Katana Handle",
+   "ro": "Mânerul katanei Halou de soare"
+  },
+  {
+   "id": 12436665253587400823,
+   "en": "Sun & Moon Weapon Pack",
+   "ro": "Pachetul de arme Soare și Lună"
+  },
+  {
+   "id": 12436791906815031613,
+   "en": "Daze with Critical Hit",
+   "ro": "Amețește la lovitură critică"
+  },
+  {
+   "id": 12437239217783658390,
+   "en": "Impact Reduction when Damaged",
+   "ro": "Reducerea impactului la primirea de daune"
+  },
+  {
+   "id": 12437628915479712852,
+   "en": "Sunburst Katana",
+   "ro": "Katana Explozia solară"
+  },
+  {
+   "id": 12437780727369732831,
+   "en": "Incandescent Sun Robes",
+   "ro": "Veșmintele Soarelui incandescent"
+  },
+  {
+   "id": 12437946452146610482,
+   "en": "Sun & Moon Dual Pack",
+   "ro": "Pachetul dublu Soare și Lună"
+  },
+  {
+   "id": 12438125213392121126,
+   "en": "The essence of both the Sun and Moon radiate from this set of armor.",
+   "ro": "Din acest set de armură emană esența Soarelui și a Lunii."
+  },
+  {
+   "id": 12438519302131414478,
+   "en": "Sun & Moon",
+   "ro": "Soare și Lună"
+  },
+  {
+   "id": 12438788393444545219,
+   "en": "Sunburst Halo Katana Blade",
+   "ro": "Lama katanei Halou de soare"
+  },
+  {
+   "id": 12438835188900736869,
+   "en": "+{NumberTag}% Critical Chance while undamaged in combat",
+   "ro": "+{NumberTag}% Șansă de lovitură critică cât timp nu ai fost lovit în luptă"
+  },
+  {
+   "id": 12439422699598305037,
+   "en": "Allow the bursting fire of the sun or the soft glow of the moon to guide your blade.",
+   "ro": "Lasă focul puternic al soarelui sau lumina blândă a lunii să-ți ghideze lama."
+  },
+  {
+   "id": 12439540238090596481,
+   "en": "Incandescent Sun Crown",
+   "ro": "Coroana soarelui incandescent"
+  },
+  {
+   "id": 12439857854381339579,
+   "en": "Nightfall Haze Long Katana Guard",
+   "ro": "Garda katanei lungi ceață de amurg"
+  },
+  {
+   "id": 12440458106338299027,
+   "en": "Nightfall Haze Long Katana Wakizachi",
+   "ro": "Wakizachi al katanei lungi ceață de amurg"
+  },
+  {
+   "id": 12440743202955736036,
+   "en": "Create a shockwave that makes enemies vulnerable on kill",
+   "ro": "Creează o undă de șoc care face inamicii Vulnerabili când îi ucizi"
+  },
+  {
+   "id": 12441349220138714954,
+   "en": "Critical Chance While Undamaged",
+   "ro": "Șansă critică cât nu primești daune"
+  },
+  {
+   "id": 12441613265418858357,
+   "en": "Nightfall Haze Long Katana Handle",
+   "ro": "Mânerul katanei lungi ceață de amurg"
+  },
+  {
+   "id": 12442080972018563564,
+   "en": "Naoe Sun & Moon Pack",
+   "ro": "Pachetul Naoe soare și lună"
+  },
+  {
+   "id": 12442530786379555666,
+   "en": "+{NumberTag}% Damage Reduction on consecutive hits",
+   "ro": "+{NumberTag}% Reducere a daunelor la loviturile consecutive"
+  },
+  {
+   "id": 12442929095481531303,
+   "en": "Sunburst Halo Katana Guard",
+   "ro": "Garda katanei aureola soarelui"
+  },
+  {
+   "id": 12443224155533184709,
+   "en": "Impact reduction for {NumberTag} seconds when damaged",
+   "ro": "Reducere a impactului timp de {NumberTag} secunde când ești lovit"
+  },
+  {
+   "id": 12443263937781909891,
+   "en": "Moonlight Crescent Gear Set",
+   "ro": "Set de echipament Semiluna lunii"
+  },
+  {
+   "id": 12443981171143438776,
+   "en": "+{NumberTag}% Daze Buildup with Critical Hits",
+   "ro": "+{NumberTag}% Acumulare de amețeală la loviturile critice"
+  },
+  {
+   "id": 12444807481257718518,
+   "en": "Blocking drains {NumberTag1}% Adrenaline per {NumberTag2} seconds but negates block reactions",
+   "ro": "Blocajul consumă {NumberTag1}% Adrenalină la fiecare {NumberTag2} secunde, dar anulează reacțiile la blocaj"
+  },
+  {
+   "id": 12445185883127425277,
+   "en": "Yasuke Sun & Moon Pack",
+   "ro": "Pachetul Yasuke soare și lună"
+  },
+  {
+   "id": 12445341952079548351,
+   "en": "Allow the bursting fire of the sun or the soft glow of the moon to guide your blade.",
+   "ro": "Lasă focul puternic al soarelui sau lumina blândă a lunii să-ți ghideze lama."
+  },
+  {
+   "id": 12445502425925969161,
+   "en": "Damage Reduction on Successive Hits",
+   "ro": "Reducerea daunelor la loviturile succesive"
+  },
+  {
+   "id": 12446238642210732664,
+   "en": "Moonlight Crescent Mask",
+   "ro": "Masca semilunii"
+  },
+  {
+   "id": 12446956285414450316,
+   "en": "Nightfall Haze Long Katana Saya",
+   "ro": "Teaca katanei lungi ceață de amurg"
+  },
+  {
+   "id": 12446970885055728104,
+   "en": "Blinding Shockwave",
+   "ro": "Undă de șoc orbitoare"
+  },
+  {
+   "id": 12446996348865860125,
+   "en": "Embrace the incandescent fire of the sun.",
+   "ro": "Îmbrățișează focul arzător al soarelui."
+  },
+  {
+   "id": 12447142234434439396,
+   "en": "+{NumberTag}% Daze Buildup on next hit after being damaged",
+   "ro": "+{NumberTag}% Acumulare de amețeală la următoarea lovitură după ce ai fost lovit"
+  },
+  {
+   "id": 12447517931474981912,
+   "en": "Celestial Wolf Dragon",
+   "ro": "Dragonul-lup ceresc"
+  },
+  {
+   "id": 12447657014264558706,
+   "en": "Moonlight Crescent Robes",
+   "ro": "Veșmintele semilunii"
+  },
+  {
+   "id": 12447708124014570595,
+   "en": "This majestic steed flames with the color of the Sun or Moon as it wanders the land with its master.\n\nThis mount changes colors based on the day and night cycle.",
+   "ro": "Acest cal maiestuos arde în culorile Soarelui sau ale Lunii, în timp ce străbate ținutul alături de stăpân.\n\nCalul își schimbă culorile în funcție de ciclul zi-noapte."
+  }
+ ]
+}

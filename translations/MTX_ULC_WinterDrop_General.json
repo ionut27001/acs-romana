@@ -1,0 +1,46 @@
+{
+ "package": "MTX_ULC_WinterDrop_en-US_General",
+ "data_id": "00000241ED54D803",
+ "entries": [
+  {
+   "id": 12431480389599855557,
+   "en": "This blade is practically abuzz with energy.",
+   "ro": "Lama aceasta freamătă de energie."
+  },
+  {
+   "id": 12433678146845291253,
+   "en": "Switchblade Blade",
+   "ro": "Lama cuțitului cu arc"
+  },
+  {
+   "id": 12436671524996919564,
+   "en": "Switchblade Handle",
+   "ro": "Mânerul cuțitului cu arc"
+  },
+  {
+   "id": 12438080924010377343,
+   "en": "Switchblade Guard",
+   "ro": "Garda cuțitului cu arc"
+  },
+  {
+   "id": 12442835285693995944,
+   "en": "Switchblade Saya",
+   "ro": "Teaca cuțitului cu arc"
+  },
+  {
+   "id": 12444016375707208954,
+   "en": "Switchblade",
+   "ro": "Cuțit cu arc"
+  },
+  {
+   "id": 12445298855954788320,
+   "en": "Stackable +{NumberTag}% critical chance when you switch attack types",
+   "ro": "Cumulabil: +{NumberTag}% șansă de lovitură critică la schimbarea tipului de atac"
+  },
+  {
+   "id": 12446519142968602650,
+   "en": "Critical Switch",
+   "ro": "Comutator critic"
+  }
+ ]
+}

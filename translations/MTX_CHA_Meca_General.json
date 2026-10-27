@@ -1,0 +1,201 @@
+{
+ "package": "MTX_CHA_Meca_en-US_General",
+ "data_id": "0000023336F4B79F",
+ "entries": [
+  {
+   "id": 12431202703034398932,
+   "en": "Perfect dodge absorbs kinetic energy that explodes when full",
+   "ro": "Evitarea perfectă absoarbe energie cinetică, iar când se umple, explodează."
+  },
+  {
+   "id": 12431295963920630703,
+   "en": "Cyber-Enhanced Onslaught",
+   "ro": "Asalt augmentat cibernetic"
+  },
+  {
+   "id": 12433349957220568875,
+   "en": "Kinetic Absorbtion",
+   "ro": "Absorbție cinetică"
+  },
+  {
+   "id": 12433458179565503694,
+   "en": "Petallic Rim",
+   "ro": "Contur petalat"
+  },
+  {
+   "id": 12433495152982539160,
+   "en": "Far Future",
+   "ro": "Viitorul îndepărtat"
+  },
+  {
+   "id": 12434428011363096239,
+   "en": "Far Future Y4SUK3 Pack",
+   "ro": "Pachetul Viitorul îndepărtat – Y4SUK3"
+  },
+  {
+   "id": 12434463599527582819,
+   "en": "Far Future Dual Pack",
+   "ro": "Pachetul Viitorul îndepărtat – Duală"
+  },
+  {
+   "id": 12435077340437282736,
+   "en": "Hologram Shield",
+   "ro": "Scut holografic"
+  },
+  {
+   "id": 12435096899275103732,
+   "en": "Supercharged",
+   "ro": "Supraalimentat"
+  },
+  {
+   "id": 12435174285256931675,
+   "en": "AJ30 Pod",
+   "ro": "Capsula AJ30"
+  },
+  {
+   "id": 12435427314399607162,
+   "en": "Combo enders release an energy slash",
+   "ro": "Finalizările de combo eliberează o tăietură de energie"
+  },
+  {
+   "id": 12436003953250617855,
+   "en": "With this technology, are you still human? Or all-powerful machine?",
+   "ro": "Cu tehnologia asta, mai ești om? Sau ești o mașină atotputernică?"
+  },
+  {
+   "id": 12436059187310265777,
+   "en": "Mecha",
+   "ro": "Mecha"
+  },
+  {
+   "id": 12436838113689865551,
+   "en": "Android Vision",
+   "ro": "Viziunea androidului"
+  },
+  {
+   "id": 12439940622977652979,
+   "en": "Cutting Edge",
+   "ro": "Vârf tehnologic"
+  },
+  {
+   "id": 12440607681800144852,
+   "en": "Far Future Weapon Pack",
+   "ro": "Pachetul Viitorul îndepărtat – Arme"
+  },
+  {
+   "id": 12440963348527575388,
+   "en": "Far Future NEO-A Pack",
+   "ro": "Pachetul Viitorul îndepărtat – NEO-A"
+  },
+  {
+   "id": 12441020384226305404,
+   "en": "Polished metal never looked so deadly.",
+   "ro": "Metalul lustruit n-a părut niciodată atât de mortal."
+  },
+  {
+   "id": 12441036767457009750,
+   "en": "This futuristic blade is at the forefront of style and speed.",
+   "ro": "Lama asta futuristă e cea mai bună la stil și viteză."
+  },
+  {
+   "id": 12441140906097642480,
+   "en": "Burst Protocol",
+   "ro": "Protocol de explozie"
+  },
+  {
+   "id": 12441297717194183547,
+   "en": "With a bit of love and regular maintenance, Mecha guarantees to keep on running.",
+   "ro": "Cu puțină grijă și întreținere regulată, Mecha promite că merge mai departe."
+  },
+  {
+   "id": 12442033747474870714,
+   "en": "With this technology, are you still human? Or all-powerful machine?",
+   "ro": "Cu tehnologia asta, mai ești om? Sau ești o mașină atotputernică?"
+  },
+  {
+   "id": 12442176177277301340,
+   "en": "Time Blaster",
+   "ro": "Tunul temporal"
+  },
+  {
+   "id": 12442179755436753848,
+   "en": "Access revolutionary weaponry from a far-off future.",
+   "ro": "Ai acces la arme revoluționare dintr-un viitor îndepărtat."
+  },
+  {
+   "id": 12442397196560578808,
+   "en": "Its ammunition pierces the darkness of space with an astounding pew!",
+   "ro": "Muniția lui străpunge întunericul spațiului cu un piu uluitor!"
+  },
+  {
+   "id": 12442766864445790704,
+   "en": "Trigger overcharge on kill while outnumbered",
+   "ro": "Declanșează supraîncărcare la eliminare când ești depășit numeric"
+  },
+  {
+   "id": 12442899742468240578,
+   "en": "Posture attacks can be supercharged",
+   "ro": "Atacurile de postură pot fi supraalimentate"
+  },
+  {
+   "id": 12443023943380678603,
+   "en": "Overclocked",
+   "ro": "Supratactat"
+  },
+  {
+   "id": 12443088478182025266,
+   "en": "Android Casing",
+   "ro": "Carcasa androidului"
+  },
+  {
+   "id": 12443262057076159277,
+   "en": "None can defend against an iron giant.",
+   "ro": "Nimeni nu se poate apăra de un uriaș de fier."
+  },
+  {
+   "id": 12443312003992528191,
+   "en": "Far Future NEO-A Gear Set",
+   "ro": "Set de echipament Viitorul îndepărtat – NEO-A"
+  },
+  {
+   "id": 12443742424055781934,
+   "en": "Cyborg Grimace",
+   "ro": "Grimasa ciborgului"
+  },
+  {
+   "id": 12444019139186178183,
+   "en": "Energy damage triggers a chain of electricity, hitting up to 3 targets",
+   "ro": "Daunele de energie declanșează un lanț de electricitate, lovind până la 3 ținte"
+  },
+  {
+   "id": 12444929372179326205,
+   "en": "Energy shield blocks 3 attacks before exploding",
+   "ro": "Scutul de energie blochează 3 atacuri înainte să explodeze"
+  },
+  {
+   "id": 12446580871531340102,
+   "en": "Cyborg Safeguard",
+   "ro": "Protecția ciborgului"
+  },
+  {
+   "id": 12446616921331255843,
+   "en": "Hold [CT_AlternateAttack] while aiming at an enemy for 1s. Release to fire 3 homing shots",
+   "ro": "Ține apăsat [CT_AlternateAttack] cu un inamic în vizor timp de 1s. Eliberează ca să tragi 3 proiectile autoghidate"
+  },
+  {
+   "id": 12447055532646554297,
+   "en": "Far Future Y4SUK3 Gear Set",
+   "ro": "Set de echipament Viitorul îndepărtat – Y4SUK3"
+  },
+  {
+   "id": 12447472599131610760,
+   "en": "With this technology, are you still human? Or all-powerful machine?",
+   "ro": "Cu tehnologia asta, mai ești om? Sau ești o mașină atotputernică?"
+  },
+  {
+   "id": 12447881409543036734,
+   "en": "AJ30 Pod",
+   "ro": "Capsula AJ30"
+  }
+ ]
+}

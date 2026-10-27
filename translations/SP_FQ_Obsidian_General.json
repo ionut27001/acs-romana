@@ -1,0 +1,816 @@
+{
+ "package": "SP_FQ_Obsidian_en-US_General",
+ "data_id": "0000023E2FDDD2AA",
+ "entries": [
+  {
+   "id": 12429953560157994125,
+   "en": "This Templar garb pays homage to the Hathaway family’s knightly roots.",
+   "ro": "Ținuta asta de templier onorează rădăcinile cavalerești ale familiei Hathaway."
+  },
+  {
+   "id": 12430029916890907798,
+   "en": "Nirmala's Promotion",
+   "ro": "Promovarea Nirmalei"
+  },
+  {
+   "id": 12430090534416226401,
+   "en": "Highly sought after by the Black Cross, this cube is transparent with a small pinprick of blood at its center.",
+   "ro": "Foarte căutat de Crucea Neagră, acest cub e transparent, cu un mic punct de sânge în centru."
+  },
+  {
+   "id": 12430275963554777350,
+   "en": "Defeat Black Cross Order members",
+   "ro": "Învinge membrii Ordinului Crucii Negre"
+  },
+  {
+   "id": 12430325970023396050,
+   "en": "Eamon's Journal: Beijing",
+   "ro": "Jurnalul lui Eamon: Beijing"
+  },
+  {
+   "id": 12430364805275688081,
+   "en": "A Templar family heirloom passed down for generations. The last wielder of this sword was Eamon Hathaway.",
+   "ro": "O moștenire de familie a templierilor, trecută din generație în generație. Ultimul purtător al acestei săbii a fost Eamon Hathaway."
+  },
+  {
+   "id": 12430648379714788687,
+   "en": "Investigate a stranger’s arrival in Yuasa",
+   "ro": "Cercetează sosirea unui străin în Yuasa"
+  },
+  {
+   "id": 12430719945434122253,
+   "en": "+{NumberTag}% Affliction buildup after applying Bleed",
+   "ro": "+{NumberTag}% acumulare de Suferință după ce aplici Sângerarea"
+  },
+  {
+   "id": 12430725876228375852,
+   "en": "After his defeat at the hands of the Black Cross, Yasuke wore this during his brief, near-miraculous convalescence.",
+   "ro": "După ce a fost învins de Crucea Neagră, Yasuke a purtat acest obiect în timpul convalescenței sale scurte, aproape miraculoase."
+  },
+  {
+   "id": 12430754489068526659,
+   "en": "The shipwreck is in Eastern Kii",
+   "ro": "Epava e în Kii de Est"
+  },
+  {
+   "id": 12430981265890706141,
+   "en": "He is near a tea house",
+   "ro": "E lângă o ceainărie"
+  },
+  {
+   "id": 12431008532260786287,
+   "en": "Naoe and Rufino track Eamon and Nirmala to the mysterious cave in Wakasa.",
+   "ro": "Naoe și Rufino îi urmăresc pe Eamon și Nirmala până la peștera misterioasă din Wakasa."
+  },
+  {
+   "id": 12431020642597536361,
+   "en": "Black Tides",
+   "ro": "Valurile negre"
+  },
+  {
+   "id": 12431311495717570650,
+   "en": "Day 3 at Sea \nTook two passengers in Macau headed for the Japans. Fancy. Rich. They provided maps. European-made. They also have brandy. Might confiscate it. \n \nDay 27 at Sea \nChina coast still on port side. European maps unreliable in these waters. Brandy is great stuff though. \n \nDay 43 at Sea \nBoarded by pirates. Passengers killed them all! Old man is fearsome but the woman is scarier, laughing as she bled them dry. \n \nDay 57 at Sea. \nI hear them whispering at night. They speak of impossible things. Out of grog. Out of Brandy. All I have are nightmares of that woman killing pirates.  \n \nDay 62 at Sea \nThe Japans finally in sight. Passengers eager to disembark. I’m eager to get rid of them.  Approaching at high tide tomorrow. \n \nDay 63 at Sea \nTerrible maps! Hit an unmarked reef. Taking on water. Abandoning ship. I’m going to go get drunk now.  ",
+   "ro": "Ziua 3 pe mare\nAm luat doi pasageri în Macao, care se îndreptau spre Japonia. Fițoși. Bogați. Mi-au dat hărți. Făcute în Europa. Au și coniac. Poate îl confisc.\n \nZiua 27 pe mare\nCoasta Chinei încă pe babord. Hărțile europene nu sunt de încredere în apele astea. Coniacul e totuși foarte bun.\n \nZiua 43 pe mare\nNe-au atacat pirații. Pasagerii i-au omorât pe toți! Bătrânul e înfricoșător, dar femeia e și mai groaznică, râzând în timp ce îi storcea de sânge.\n \nZiua 57 pe mare.\nÎi aud noaptea șoptind. Vorbesc despre lucruri imposibile. Am rămas fără rom. Am rămas fără coniac. Tot ce am sunt coșmaruri cu femeia aceea care ucide pirați.\n \nZiua 62 pe mare\nJaponia se vede în sfârșit. Pasagerii abia așteaptă să coboare. Și eu abia aștept să scap de ei. Apropiem mâine, la maree înaltă.\n \nZiua 63 pe mare\nHărți groaznice! Am lovit un recif nemarcat. Apă în corabie. Părăsim nava. Acum mă duc să mă îmbăt.  "
+  },
+  {
+   "id": 12431365088067937932,
+   "en": "This uncanny drawing of Yasuke was used by the Black Cross to identify him as their target.",
+   "ro": "Acest desen ciudat al lui Yasuke a fost folosit de Crucea Neagră ca să-l identifice drept ținta lor."
+  },
+  {
+   "id": 12431884557183890767,
+   "en": "Bleed bursts when Bleed Affliction ends",
+   "ro": "Sângerarea explodează când se termină Suferința de sângerare"
+  },
+  {
+   "id": 12431910361300053337,
+   "en": "This uncanny drawing of Naoe was used by the Black Cross to identify her as their target.",
+   "ro": "Acest desen ciudat al Naoei a fost folosit de Crucea Neagră ca s-o identifice drept ținta lor."
+  },
+  {
+   "id": 12431935403919264193,
+   "en": "Retrieve the chest",
+   "ro": "Recuperează lada"
+  },
+  {
+   "id": 12431978822527135961,
+   "en": "Nirmala, once a member of the Templar Order, earned the special rank of Black Cross and hunted Naoe and Yasuke. Now defeated, she will lie forever in a hidden tomb with Isu connections.",
+   "ro": "Nirmala, cândva membră a Ordinului Templier, a câștigat rangul special de Cruce Neagră și i-a vânat pe Naoe și Yasuke. Acum învinsă, o să se odihnească pentru totdeauna într-un mormânt ascuns, legat de Isu."
+  },
+  {
+   "id": 12432014803883145031,
+   "en": "Chain Bleed",
+   "ro": "Sângerare în lanț"
+  },
+  {
+   "id": 12432079716405249306,
+   "en": "Play as Naoe",
+   "ro": "Joacă-te ca Naoe"
+  },
+  {
+   "id": 12432541453776120467,
+   "en": "Glitches in the Animus cause temporary disturbances and require investigation.",
+   "ro": "Defecțiunile din Animus duc la probleme temporare și trebuie investigate."
+  },
+  {
+   "id": 12432579846780571807,
+   "en": "Learn more about your enemies",
+   "ro": "Află mai multe despre dușmanii tăi"
+  },
+  {
+   "id": 12432582862344575259,
+   "en": "Target: Diogo",
+   "ro": "Țintă: Diogo"
+  },
+  {
+   "id": 12432893173577786164,
+   "en": "Recovery Kosode",
+   "ro": "Kosode de recuperare"
+  },
+  {
+   "id": 12432899448754855612,
+   "en": "Hathaway Family Sword",
+   "ro": "Sabia familiei Hathaway"
+  },
+  {
+   "id": 12432980163170726081,
+   "en": "Unknown Black Cross Map",
+   "ro": "Harta necunoscută a Crucii Negre"
+  },
+  {
+   "id": 12432996637630597431,
+   "en": "Defeat Black Cross Order members",
+   "ro": "Învinge membrii Ordinului Crucii Negre"
+  },
+  {
+   "id": 12433030940781884927,
+   "en": "Eamon, once a member of the Templar Order, earned the special rank of Black Cross and hunted Naoe and Yasuke. Even in defeat, he believed his last act secured progress for the future of the Order.",
+   "ro": "Eamon, cândva membru al Ordinului Templier, a câștigat rangul special de Cruce Neagră și i-a vânat pe Naoe și Yasuke. Chiar și învins, a crezut că ultima lui faptă a asigurat progresul Ordinului."
+  },
+  {
+   "id": 12433160138414741845,
+   "en": "Find Heiji",
+   "ro": "Găsește-l pe Heiji"
+  },
+  {
+   "id": 12433178840797669304,
+   "en": "Eliminate masked threats",
+   "ro": "Elimină amenințările mascate"
+  },
+  {
+   "id": 12433194254386012914,
+   "en": "You are a Templar.",
+   "ro": "Ești un templier."
+  },
+  {
+   "id": 12433222409783413926,
+   "en": "Examine",
+   "ro": "Examinează"
+  },
+  {
+   "id": 12433467206767610776,
+   "en": "Play as Yasuke.",
+   "ro": "Joacă drept Yasuke."
+  },
+  {
+   "id": 12433536087798292929,
+   "en": "Play as Yasuke",
+   "ro": "Joacă drept Yasuke"
+  },
+  {
+   "id": 12433717398988404062,
+   "en": "Brutal-er Assassination",
+   "ro": "Asasinat mai brutal"
+  },
+  {
+   "id": 12433776580142225754,
+   "en": "Naoe and Yasuke are looking for a ship captain connected to the Black Cross.",
+   "ro": "Naoe și Yasuke caută un căpitan de navă legat de Crucea Neagră."
+  },
+  {
+   "id": 12433820392117160133,
+   "en": "You are a Pirate.",
+   "ro": "Ești pirat."
+  },
+  {
+   "id": 12434137187762116226,
+   "en": "Puzzling!",
+   "ro": "Enigmatic!"
+  },
+  {
+   "id": 12434851151199071256,
+   "en": "Captain Yang's Log",
+   "ro": "Jurnalul căpitanului Yang"
+  },
+  {
+   "id": 12434871572547040819,
+   "en": "November 13, 1578\n\nInfiltrated the Beijing Synod called by Shao Jun. The Chinese Mentor is a frail old thing, yet her mind remains as sharp as ever. Alas, we could not get close enough to kill her. In attendance was a scholar who believed a precursor temple exists on Japan’s main island. He offered as proof his hand-drawn reproductions of mysterious symbols and glyphs.\n \nI acquired the illustrations while Nirmala disposed of the scholar with great enthusiasm. Could this be the Observatory? I will make my way there in due course. Perhaps I can finally put Kassandra’s nonsense behind me. ",
+   "ro": "13 noiembrie 1578\n\nM-am infiltrat în sinodul de la Beijing convocat de Shao Jun. Mentorul chinez este o bătrână fragilă, dar mintea ei rămâne la fel de ascuțită ca întotdeauna. Din păcate, nu am reușit să ne apropiem suficient ca s-o ucidem. Printre participanți era un savant care credea că există un templu precursor pe insula principală a Japoniei. Ca dovadă, a adus reproduceri desenate de mână ale unor simboluri și glife misterioase.\n\nAm pus mâna pe ilustrații, în timp ce Nirmala s-a ocupat de savant cu mult entuziasm. Oare ăsta să fie Observatorul? O să-mi fac drum până acolo la momentul potrivit. Poate reușesc în sfârșit să las în urmă prostiile Kassandrei. "
+  },
+  {
+   "id": 12434900703870772611,
+   "en": "Talk to the Drunken Captain",
+   "ro": "Vorbește cu căpitanul beat"
+  },
+  {
+   "id": 12434901687344082042,
+   "en": "March 4th, 1552 \n \nThe Inner Sanctum has bestowed upon me a great honour, the exalted rank of Templar Black Cross.  \n\nMy father remained as stoic as ever when he presented me with the Hathaway family sword. When he put it into my hands, he made me promise to fulfill a mission he could not: to find a mysterious precursor site known as The Observatory.  \n\nI will not fail him. I shall embody the Order’s ideals in words and deeds. I shall uncover the secrets of Those Who Came Before for the sake of all our peaceful tomorrows.  \n\nMay the Father of Understanding guide me. ",
+   "ro": "4 martie 1552\n \nSanctuarul Interior mi-a acordat o mare onoare: rangul înalt de Templier Cruce Neagră.\n\nTatăl meu a rămas la fel de stoic când mi-a înmânat sabia familiei Hathaway. Când mi-a pus-o în mâini, m-a făcut să promit că o să duc la capăt o misiune pe care el nu a putut-o împlini: să găsesc un sit precursor misterios, cunoscut drept Observatorul.\n\nNu o să-l dezamăgesc. O să încarn idealurile Ordinului prin vorbe și fapte. O să descopăr secretele Celor Care Au Venit Înaintea Noastră, ca zilele de mâine să fie pașnice pentru toți.\n\nSă mă călăuzească Tatăl Înțelegerii. "
+  },
+  {
+   "id": 12435031642331195840,
+   "en": "Details for Charterparty:\n\nPassage for two and their property from Macao to islands of Nihon. Indeterminate time to later be agreed upon between by passengers.\nDeposit of 800 wen has been dispensed to captain and crew. More will be paid on journey's completion.\nIf agreement of discretion is broken, contact is null and void.\n\nSigned, E.H.",
+   "ro": "Detalii pentru contractul de navlosire:\n\nLoc pentru doi pasageri și bagajele lor, de la Macao la insulele Nihon. Momentul va fi stabilit mai târziu, de comun acord cu pasagerii.\nCăpitanului și echipajului i s-a plătit un avans de 800 de wen. Restul se plătește la sfârșitul călătoriei.\nDacă se încalcă acordul de discreție, contractul nu mai e valabil.\n\nSemnat, E.H."
+  },
+  {
+   "id": 12435061228979394051,
+   "en": "March 4th, 1552 \n \nThe Inner Sanctum has bestowed upon me a great honour, the exalted rank of Templar Black Cross.  \n\nMy father remained as stoic as ever when he presented me with the Hathaway family sword. When he put it into my hands, he made me promise to fulfill a mission he could not: to find a mysterious precursor site known as The Observatory.  \n\nI will not fail him. I shall embody the Order’s ideals in words and deeds. I shall uncover the secrets of Those Who Came Before for the sake of all our peaceful tomorrows.  \n\nMay the Father of Understanding guide me. ",
+   "ro": "4 martie 1552\n \nSanctuarul Interior mi-a acordat o mare onoare: rangul înalt de Templier Cruce Neagră.\n\nTatăl meu a rămas la fel de stoic când mi-a înmânat sabia familiei Hathaway. Când mi-a pus-o în mâini, m-a făcut să promit că o să duc la capăt o misiune pe care el nu a putut-o împlini: să găsesc un sit precursor misterios, cunoscut drept Observatorul.\n\nNu o să-l dezamăgesc. O să încarn idealurile Ordinului prin vorbe și fapte. O să descopăr secretele Celor Care Au Venit Înaintea Noastră, ca zilele de mâine să fie pașnice pentru toți.\n\nSă mă călăuzească Tatăl Înțelegerii. "
+  },
+  {
+   "id": 12435210248131085532,
+   "en": "Locate the secret entrance",
+   "ro": "Găsește intrarea secretă"
+  },
+  {
+   "id": 12435430827381952146,
+   "en": "Trigger Battle Cry on Brutal Assassinate",
+   "ro": "Declanșează strigătul de luptă la asasinat brutal"
+  },
+  {
+   "id": 12435480622438349801,
+   "en": "Sketched Glyphs",
+   "ro": "Glifele schițate"
+  },
+  {
+   "id": 12435491960572996539,
+   "en": "I remain grateful for your dedication and enthusiasm in your search for the Observatory and I regret that I must redirect your efforts towards a matter of some urgency.  \n \nOur operations in the Japans continue to suffer at the hands of an individual known as “Diogo.” He, and all who aid him, must be eliminated so that we may continue to protect humanity from itself.\n\nMay the Father of Understanding guide you. \n– M.",
+   "ro": "Îți mulțumesc pentru dedicarea și entuziasmul cu care cauți Observatorul, dar trebuie să îți îndrept eforturile spre o problemă urgentă.\n\nOperațiunile noastre din Japonia continuă să aibă de suferit din cauza unui individ pe nume „Diogo”. El și toți cei care îl ajută trebuie eliminați, ca să putem continua să protejăm omenirea de ea însăși.\n\nSă te călăuzească Tatăl Înțelegerii.\n– M."
+  },
+  {
+   "id": 12435506311219539603,
+   "en": "What Armor?",
+   "ro": "Ce armură?"
+  },
+  {
+   "id": 12435531782152652294,
+   "en": "Nirmala",
+   "ro": "Nirmala"
+  },
+  {
+   "id": 12435551259249916408,
+   "en": "Colorful and intricate, the pattern was made using Javanese batik dyeing techniques.",
+   "ro": "Colorat și complicat, modelul a fost făcut prin tehnica javaneză de vopsire batik."
+  },
+  {
+   "id": 12435590654975121469,
+   "en": "It's in eastern Kii",
+   "ro": "Este în estul provinciei Kii"
+  },
+  {
+   "id": 12435621932108846131,
+   "en": "Play as Naoe.",
+   "ro": "Joacă-te ca Naoe."
+  },
+  {
+   "id": 12435652281449233770,
+   "en": "The Black Cross",
+   "ro": "Crucea Neagră"
+  },
+  {
+   "id": 12435684512687179182,
+   "en": "Defeat Black Cross Order members",
+   "ro": "Învinge membrii Ordinului Crucii Negre"
+  },
+  {
+   "id": 12435796104730658241,
+   "en": "Kill Nirmala",
+   "ro": "Ucide-o pe Nirmala"
+  },
+  {
+   "id": 12435892461523675998,
+   "en": "Captain Yang spilled the Secrets of the Black Cross before being silenced by a masked killer.",
+   "ro": "Căpitanul Yang a spus secretele Crucii Negre, înainte să-l reducă la tăcere un ucigaș mascat."
+  },
+  {
+   "id": 12435943506335975037,
+   "en": "Examine",
+   "ro": "Examinează"
+  },
+  {
+   "id": 12436041351261443633,
+   "en": "This paper showcases a number of sketched glyphs – likely drawn by the Black Cross themselves. Clearly they are being studied and sought out.",
+   "ro": "Hârtia asta arată mai multe glife schițate, probabil desenate chiar de Crucea Neagră. E clar că sunt studiate și căutate."
+  },
+  {
+   "id": 12436257215243184477,
+   "en": "Templar",
+   "ro": "Templier"
+  },
+  {
+   "id": 12436472381665568615,
+   "en": "This deadly blade was once wielded by Nirmala, the equally deadly Black Cross.",
+   "ro": "Lama asta letală a fost purtată cândva de Nirmala, cealaltă Cruce Neagră, la fel de letală."
+  },
+  {
+   "id": 12436605303243990170,
+   "en": "Yasuke",
+   "ro": "Yasuke"
+  },
+  {
+   "id": 12436889791055272574,
+   "en": "Thanks to Captain Yang, this unknown man shipwrecked off the coast of Kii.",
+   "ro": "Datorită căpitanului Yang, necunoscutul ăsta a naufragiat pe coasta provinciei Kii."
+  },
+  {
+   "id": 12437226422950928652,
+   "en": "Play as Yasuke",
+   "ro": "Joacă drept Yasuke"
+  },
+  {
+   "id": 12437597552399537180,
+   "en": "Black Cross",
+   "ro": "Crucea Neagră"
+  },
+  {
+   "id": 12437605816970740555,
+   "en": "Reach the Black Cross",
+   "ro": "Ajunge la Crucea Neagră"
+  },
+  {
+   "id": 12437827008371429532,
+   "en": "Continue Yasuke's personal journey",
+   "ro": "Continuă călătoria personală a lui Yasuke"
+  },
+  {
+   "id": 12437827750575417572,
+   "en": "Defend against the Black Cross",
+   "ro": "Apără-te de Crucea Neagră"
+  },
+  {
+   "id": 12437912904119218572,
+   "en": "Play as Naoe.",
+   "ro": "Joacă-te ca Naoe."
+  },
+  {
+   "id": 12437922080229896506,
+   "en": "Locate the Masked Killer",
+   "ro": "Găsește-l pe ucigașul mascat"
+  },
+  {
+   "id": 12438051330845523068,
+   "en": "Investigate the Hideout",
+   "ro": "Cercetează ascunzătoarea"
+  },
+  {
+   "id": 12438103513291182637,
+   "en": "You are a Templar.",
+   "ro": "Ești un templier."
+  },
+  {
+   "id": 12438163343730322624,
+   "en": "Sir Hathaway, \n\nI confess to being skeptical when you took that young orphan under your wing. How delightful it is to be proven wrong. The Inner Sanctum hereby grants Nirmala the rank of Black Cross. \n\nPlease continue to train her as you see fit so that she may bring Order and Understanding to an increasingly chaotic world. I look forward to watching Nirmala’s progress in the future. I hope you are as proud of your acolyte as I am of you.\n \nMay the Father of Understanding guide you both.\n~M.",
+   "ro": "Domnule Hathaway,\n\nRecunosc că am fost sceptic când ai luat sub aripa ta tânăra aia orfană. Și ce bine că am greșit. Sanctuarul Interior îi acordă Nirmalei rangul de Cruce Neagră.\n\nTe rog să continui s-o antrenezi cum crezi de cuviință, ca să aducă Ordin și înțelegere unei lumi tot mai haotice. Abia aștept să văd cum progresează. Sper să fii la fel de mândru de ucenica ta cum sunt eu de tine.\n\nSă vă călăuzească Tatăl Înțelegerii pe amândoi.\n~M."
+  },
+  {
+   "id": 12438203434432053683,
+   "en": "Mysterious map in hand, Naoe and Yasuke continue to track down their formidable Templar foes.",
+   "ro": "Cu harta misterioasă în mână, Naoe și Yasuke continuă să-i caute pe temibilii lor dușmani templieri."
+  },
+  {
+   "id": 12438220560575788816,
+   "en": "To uncover this looming presence, continue Naoe and Yasuke's main journeys.",
+   "ro": "Ca să dezvălui această prezență amenințătoare, continuă misiunile principale ale lui Naoe și Yasuke."
+  },
+  {
+   "id": 12438234105529247839,
+   "en": "Thank you for playing!",
+   "ro": "Mulțumim că ai jucat!"
+  },
+  {
+   "id": 12438344590101793543,
+   "en": "Investigate the wreckage",
+   "ro": "Cercetează epava"
+  },
+  {
+   "id": 12438358119107528192,
+   "en": "Defend against the Black Cross",
+   "ro": "Apără-te de Crucea Neagră"
+  },
+  {
+   "id": 12438385175429141061,
+   "en": "Defeat Black Cross Order members",
+   "ro": "Învinge membrii Ordinului Crucii Negre"
+  },
+  {
+   "id": 12438443194648409744,
+   "en": "Captain Yang",
+   "ro": "Căpitanul Yang"
+  },
+  {
+   "id": 12438574391738976665,
+   "en": "The Templars are looking for an object.",
+   "ro": "Templierii caută un obiect."
+  },
+  {
+   "id": 12438782279484041638,
+   "en": "The Templars have dispatched The Black Cross to Japan, but they may be hunting for more than Yasuke and Naoe.",
+   "ro": "Templierii au trimis Crucea Neagră în Japonia, dar s-ar putea să vâneze mai mult decât pe Yasuke și pe Naoe."
+  },
+  {
+   "id": 12438807681753109329,
+   "en": "Buried Secrets",
+   "ro": "Secrete îngropate"
+  },
+  {
+   "id": 12438978045006714907,
+   "en": "A Coming Threat",
+   "ro": "O amenințare care se apropie"
+  },
+  {
+   "id": 12439003437542195145,
+   "en": "You are bad at reading maps",
+   "ro": "Nu te pricepi deloc să citești hărțile."
+  },
+  {
+   "id": 12439099694867861204,
+   "en": "An excerpt of Captain Yang's Log:\n\nDay 43 at Sea \nBoarded by pirates. Passengers killed them all! Old man is fearsome but the woman is scarier, laughing as she bled them dry. \n \nDay 57 at Sea. \nI hear them whispering at night. They speak of impossible things. Out of grog. Out of Brandy. All I have are nightmares of that woman killing pirates.  \n \nDay 62 at Sea \nThe Japans finally in sight. Passengers eager to disembark. I’m eager to get rid of them.  Approaching at high tide tomorrow.",
+   "ro": "Un fragment din Jurnalul căpitanului Yang:\n\nZiua 43 pe mare\nAbordați de pirați. Pasagerii i-au omorât pe toți! Bătrânul e înfricoșător, dar femeia e și mai sinistră, râde în timp ce îi storc de sânge.\n\nZiua 57 pe mare.\nAud șoptele lor noaptea. Vorbesc despre lucruri imposibile. Am rămas fără rom. Fără coniac. Tot ce am sunt coșmaruri cu femeia aceea care ucide pirați.\n\nZiua 62 pe mare\nJaponia în sfârșit în zare. Pasagerii sunt nerăbdători să debarce. Și eu sunt nerăbdător să scap de ei. Ancorăm mâine, la maree înaltă."
+  },
+  {
+   "id": 12439144155092476009,
+   "en": "The Templars are looking for a place.",
+   "ro": "Templierii caută un loc."
+  },
+  {
+   "id": 12439248340299454149,
+   "en": "June 8th, 1555\n\nEvery attempt to locate the Observatory or a Piece of Eden, ends with me standing empty-handed, surrounded by evidence of Kassandra’s presence. It happened on the Isle of Skye and the Ionian Isles. Now in Marrakech. \n\nYet something is different. The Scottish cave contained a pedestal, where a Piece of Eden once rested, long since removed. The vault in Marrakesh contained an Isu axe, devoid of power. I cannot shake the feeling that the axe was placed here recently, perhaps to placate the avarice of lesser men. \n\nCould Kassandra still be alive? The idea seems to be laughable. And yet…",
+   "ro": "8 iunie 1555\n\nFiecare încercare de a localiza Observatorul sau o Bucată din Eden se termină cu mine în mâini goale, înconjurat de dovezi ale prezenței Kassandrei. S-a întâmplat pe Insula Skye și pe Insulele Ionice. Acum, în Marrakech.\n\nTotuși, ceva e diferit. Peștera din Scoția avea un soclu, pe care odinioară stătea o Bucată din Eden, demult luată de acolo. Seiful din Marrakesh conținea un topor Isu, fără putere. Nu pot scutura sentimentul că toporul a fost pus aici de curând, poate ca să potolească lăcomia unor oameni mărunți.\n\nOare Kassandra mai trăiește? Ideea pare ridicolă. Și totuși..."
+  },
+  {
+   "id": 12439316242406766367,
+   "en": "Defeat Black Cross Order members",
+   "ro": "Învinge membrii Ordinului Crucii Negre"
+  },
+  {
+   "id": 12439430688947893401,
+   "en": "It lies east of the Iseji Trails",
+   "ro": "E la est de Traseele Iseji."
+  },
+  {
+   "id": 12439647155454332637,
+   "en": "Sir Hathaway, \n\nI confess to being skeptical when you took that young orphan under your wing. How delightful it is to be proven wrong. The Inner Sanctum hereby grants Nirmala the rank of Black Cross. \n\nPlease continue to train her as you see fit so that she may bring Order and Understanding to an increasingly chaotic world. I look forward to watching Nirmala’s progress in the future. I hope you are as proud of your acolyte as I am of you.\n \nMay the Father of Understanding guide you both.\n~M.",
+   "ro": "Domnule Hathaway,\n\nRecunosc că am fost sceptic când ai luat sub aripa ta tânăra aia orfană. Și ce bine că am greșit. Sanctuarul Interior îi acordă Nirmalei rangul de Cruce Neagră.\n\nTe rog să continui s-o antrenezi cum crezi de cuviință, ca să aducă Ordin și înțelegere unei lumi tot mai haotice. Abia aștept să văd cum progresează. Sper să fii la fel de mândru de ucenica ta cum sunt eu de tine.\n\nSă vă călăuzească Tatăl Înțelegerii pe amândoi.\n~M."
+  },
+  {
+   "id": 12439690565303410782,
+   "en": "He is in Western Kii",
+   "ro": "Este în vestul provinciei Kii"
+  },
+  {
+   "id": 12439756435050355622,
+   "en": "+{NumberTag}% damage but reduce attack speed by {NumberTag2}%",
+   "ro": "+{NumberTag}% daune, dar scade viteza de atac cu {NumberTag2}%"
+  },
+  {
+   "id": 12440049935001552949,
+   "en": "Investigate the far south of Wakasa",
+   "ro": "Explorează capătul de sud al provinciei Wakasa"
+  },
+  {
+   "id": 12440428796209877111,
+   "en": "A Disturbance in Kii",
+   "ro": "O tulburare în Kii"
+  },
+  {
+   "id": 12440940389769182746,
+   "en": "Help Rufino",
+   "ro": "Ajută-l pe Rufino"
+  },
+  {
+   "id": 12441104479121714175,
+   "en": "Crusader Tunic",
+   "ro": "Tunica cruciatului"
+  },
+  {
+   "id": 12441359655989923169,
+   "en": "Crusader Helm",
+   "ro": "Coiful cruciatului"
+  },
+  {
+   "id": 12441364086679749453,
+   "en": "Daze Vulnerability",
+   "ro": "Vulnerabilitate la amețeală"
+  },
+  {
+   "id": 12441474570913130766,
+   "en": "This unique key opens a mysterious chest belonging to the Black Cross.",
+   "ro": "Această cheie unică deschide un cufăr misterios al Crucii Negre."
+  },
+  {
+   "id": 12441525100861493410,
+   "en": "Yasuke's mother",
+   "ro": "Mama lui Yasuke"
+  },
+  {
+   "id": 12441537399745850871,
+   "en": "Eamon is an elite Templar operative known as “The Black Cross.” He may have a motive beyond hunting Naoe and Yasuke.",
+   "ro": "Eamon este un agent de elită al templierilor, cunoscut drept „Crucea Neagră”. Ar putea avea și alte motive, nu doar să-i vâneze pe Naoe și Yasuke."
+  },
+  {
+   "id": 12441688705185605469,
+   "en": "An unruly drunk is causing a commotion.",
+   "ro": "Un bețiv nesuferit face scandal."
+  },
+  {
+   "id": 12441867711809673212,
+   "en": "Nirmala’s Headwrap",
+   "ro": "Baticul Nirmalei"
+  },
+  {
+   "id": 12441881670164433430,
+   "en": "Daze Affliction makes enemy vulnerable",
+   "ro": "Amețeala face inamicul vulnerabil"
+  },
+  {
+   "id": 12441906099341923446,
+   "en": "He is in South-Eastern Yuasa",
+   "ro": "Este în sud-estul Yuasei"
+  },
+  {
+   "id": 12441996906009030024,
+   "en": "The Templars are looking for a place.",
+   "ro": "Templierii caută un loc."
+  },
+  {
+   "id": 12442029264894905215,
+   "en": "Kill Eamon",
+   "ro": "Ucide-l pe Eamon"
+  },
+  {
+   "id": 12442223226918078575,
+   "en": "Meanwhile...",
+   "ro": "Între timp..."
+  },
+  {
+   "id": 12442481826397057622,
+   "en": "This owner of a small sake house in Kii has had enough of her drunk customer.",
+   "ro": "Proprietara unei mici case de sake din Kii s-a săturat de clientul ei beat."
+  },
+  {
+   "id": 12442502818512428683,
+   "en": "June 8th, 1555\n\nEvery attempt to locate the Observatory or a Piece of Eden, ends with me standing empty-handed, surrounded by evidence of Kassandra’s presence. It happened on the Isle of Skye and the Ionian Isles. Now in Marrakech. \n\nYet something is different. The Scottish cave contained a pedestal, where a Piece of Eden once rested, long since removed. The vault in Marrakesh contained an Isu axe, devoid of power. I cannot shake the feeling that the axe was placed here recently, perhaps to placate the avarice of lesser men. \n\nCould Kassandra still be alive? The idea seems to be laughable. And yet…",
+   "ro": "8 iunie 1555\n\nFiecare încercare de a localiza Observatorul sau o Bucată din Eden se termină cu mine în mâini goale, înconjurat de dovezi ale prezenței Kassandrei. S-a întâmplat pe Insula Skye și pe Insulele Ionice. Acum, în Marrakech.\n\nTotuși, ceva e diferit. Peștera din Scoția avea un soclu, pe care odinioară stătea o Bucată din Eden, demult luată de acolo. Seiful din Marrakesh conținea un topor Isu, fără putere. Nu pot scutura sentimentul că toporul a fost pus aici de curând, poate ca să potolească lăcomia unor oameni mărunți.\n\nOare Kassandra mai trăiește? Ideea pare ridicolă. Și totuși..."
+  },
+  {
+   "id": 12442505450862345793,
+   "en": "It's located along the beach",
+   "ro": "E de-a lungul plajei"
+  },
+  {
+   "id": 12442549352461107230,
+   "en": "Defeat Black Cross Order members",
+   "ro": "Învinge membrii Ordinului Crucii Negre"
+  },
+  {
+   "id": 12442592748242639861,
+   "en": "You wrecked because you were drunk",
+   "ro": "Ai naufragiat pentru că erai beat."
+  },
+  {
+   "id": 12442596153597966816,
+   "en": "Nirmala, a member of the Templar Order, has earned the special rank of Black Cross and hunts Naoe and Yasuke.",
+   "ro": "Nirmala, membră a Ordinului Templier, a câștigat rangul special de Cruce Neagră și îi vânează pe Naoe și Yasuke."
+  },
+  {
+   "id": 12442732128082651343,
+   "en": "Play as Naoe",
+   "ro": "Joacă-te ca Naoe"
+  },
+  {
+   "id": 12442989867011526954,
+   "en": "Eamon's Journal: Marrakech",
+   "ro": "Jurnalul lui Eamon: Marrakech"
+  },
+  {
+   "id": 12442998570053323479,
+   "en": "I remain grateful for your dedication and enthusiasm in your search for the Observatory and I regret that I must redirect your efforts towards a matter of some urgency.\n\nOur operations in the Japans continue to suffer at the hands of an individual known as “Diogo.” He, and all who aid him, must be eliminated so that we may continue to protect humanity from itself.\n\nMay the Father of Understanding guide you. \n– M.",
+   "ro": "Îți rămân recunoscător pentru dedicarea și entuziasmul cu care cauți Observatorul, dar regret că trebuie să-ți îndrept eforturile către o problemă urgentă.\n\nOperațiunile noastre în Japonia continuă să aibă de suferit din cauza unui individ cunoscut drept „Diogo”. El și toți cei care îl ajută trebuie eliminați, ca să putem continua să protejăm omenirea de ea însăși.\n\nSă te ghideze Tatăl Înțelegerii.\n– M."
+  },
+  {
+   "id": 12443395443851248339,
+   "en": "The Black Cross may have other allies helping him with his mysterious mission.",
+   "ro": "Crucea Neagră ar putea avea alți aliați care îl ajută în misiunea lui misterioasă."
+  },
+  {
+   "id": 12443413554400767542,
+   "en": "This contract details the journey by sea that was led by Captain Yang.",
+   "ro": "Acest contract descrie călătoria pe mare condusă de căpitanul Yang."
+  },
+  {
+   "id": 12443514439131932895,
+   "en": "Even when broken, it still contains all of its power",
+   "ro": "Chiar și ruptă, își păstrează toată puterea."
+  },
+  {
+   "id": 12444155420372714875,
+   "en": "Eamon's Journal: My Mission",
+   "ro": "Jurnalul lui Eamon: Misiunea mea"
+  },
+  {
+   "id": 12444338389191916359,
+   "en": "Complete the Rifts",
+   "ro": "Finalizează breșele"
+  },
+  {
+   "id": 12444435029697526473,
+   "en": "Innkeeper",
+   "ro": "Hangiul"
+  },
+  {
+   "id": 12444465783910656820,
+   "en": "Heavy Swing",
+   "ro": "Lovitură puternică"
+  },
+  {
+   "id": 12444652366323368902,
+   "en": "European Key",
+   "ro": "Cheia europeană"
+  },
+  {
+   "id": 12444703449451506533,
+   "en": "With the mysterious cube secured, Naoe and Yasuke look to what their futures may hold – together and apart.",
+   "ro": "Cu cubul misterios în siguranță, Naoe și Yasuke se gândesc la ce le rezervă viitorul – împreună și despărțiți."
+  },
+  {
+   "id": 12444779408662274014,
+   "en": "You wrecked because you were drunk",
+   "ro": "Ai naufragiat pentru că erai beat."
+  },
+  {
+   "id": 12444780023084278703,
+   "en": "Animus Rifts",
+   "ro": "Breșele Animus"
+  },
+  {
+   "id": 12445361972184292959,
+   "en": "Find the purpose of the discovery",
+   "ro": "Află rostul descoperirii"
+  },
+  {
+   "id": 12445431246982780171,
+   "en": "Eamon Hathaway",
+   "ro": "Eamon Hathaway"
+  },
+  {
+   "id": 12445491674767968191,
+   "en": "Shattered Beacon",
+   "ro": "Far spart"
+  },
+  {
+   "id": 12445504382409871352,
+   "en": "Talk to the innkeeper",
+   "ro": "Vorbește cu hangiul"
+  },
+  {
+   "id": 12445610790564983807,
+   "en": "The Templars are looking for an object.",
+   "ro": "Templierii caută un obiect."
+  },
+  {
+   "id": 12445613769321302565,
+   "en": "Double-Crossed",
+   "ro": "Dublu trădat"
+  },
+  {
+   "id": 12445755854344216510,
+   "en": "Friends come from all over. An old acquaintance of Tomiko is in need of assistance.",
+   "ro": "Prieteni vin din toate colțurile. Un vechi cunoscut al Tomikoi are nevoie de ajutor."
+  },
+  {
+   "id": 12445819032462581247,
+   "en": "Glass Cube",
+   "ro": "Cubul de sticlă"
+  },
+  {
+   "id": 12445850562825046807,
+   "en": "You are bad at reading maps",
+   "ro": "Nu te pricepi deloc să citești hărțile."
+  },
+  {
+   "id": 12445861172356978348,
+   "en": "Nirmala’s Robes",
+   "ro": "Veșmintele Nirmalei"
+  },
+  {
+   "id": 12445924498299579467,
+   "en": "Hana",
+   "ro": "Hana"
+  },
+  {
+   "id": 12445982581537841177,
+   "en": "Crimson Explosion",
+   "ro": "Explozie purpurie"
+  },
+  {
+   "id": 12446159166017833949,
+   "en": "Queen Cobra",
+   "ro": "Regina cobră"
+  },
+  {
+   "id": 12446261362702723038,
+   "en": "Once belonging to the Black Cross, this map was kept locked away. It leads to an unknown location of interest.",
+   "ro": "Harta era a Crucii Negre și fusese ținută sub cheie. Duce spre un loc necunoscut, care merită cercetat."
+  },
+  {
+   "id": 12446332418886540957,
+   "en": "Charter Contract",
+   "ro": "Contractul de charter"
+  },
+  {
+   "id": 12446358587446189985,
+   "en": "Hold [CT_ParkourDown] and then press [CT_ParkourUp] to grab the ledge while falling",
+   "ro": "Ține apăsat [CT_ParkourDown] , apoi apasă [CT_ParkourUp] ca să te agăți de margine în timpul căderii"
+  },
+  {
+   "id": 12446429514510552468,
+   "en": "Target: Naoe",
+   "ro": "Țintă: Naoe"
+  },
+  {
+   "id": 12446456092472914977,
+   "en": "A statue is nearby",
+   "ro": "O statuie e în apropiere"
+  },
+  {
+   "id": 12446570461010024222,
+   "en": "Naoe",
+   "ro": "Naoe"
+  },
+  {
+   "id": 12446584707062100190,
+   "en": "A puzzling discovery has been made that requires investigation.",
+   "ro": "S-a făcut o descoperire ciudată, care trebuie cercetată."
+  },
+  {
+   "id": 12446612243735672223,
+   "en": "{NumberTag}% Armor Piercing on afflicted enemies",
+   "ro": "{NumberTag}% Străpungerea armurii inamicilor afectați"
+  },
+  {
+   "id": 12446814396811201738,
+   "en": "Your New Mission",
+   "ro": "Noua ta misiune"
+  },
+  {
+   "id": 12446932233334945207,
+   "en": "Tsuyoshi",
+   "ro": "Tsuyoshi"
+  },
+  {
+   "id": 12446932509420111837,
+   "en": "Even with Eamon and Nirmala felled, Naoe and Yasuke realize that the war against the Templars will never end.",
+   "ro": "Chiar cu Eamon și Nirmala uciși, Naoe și Yasuke își dau seama că războiul împotriva Templierilor nu o să se sfârșească niciodată."
+  },
+  {
+   "id": 12446980376872196130,
+   "en": "You are a Pirate.",
+   "ro": "Ești pirat."
+  },
+  {
+   "id": 12446991293046923597,
+   "en": "The Black Cross",
+   "ro": "Crucea Neagră"
+  },
+  {
+   "id": 12447034633944098760,
+   "en": "Follow the blood trail",
+   "ro": "Urmează urma de sânge"
+  },
+  {
+   "id": 12447236239708516320,
+   "en": "A Familiar Face",
+   "ro": "Un chip cunoscut"
+  },
+  {
+   "id": 12447437092225683474,
+   "en": "Subdue Captain Yang",
+   "ro": "Învinge-l pe căpitanul Yang"
+  },
+  {
+   "id": 12447472996588332682,
+   "en": "Naoe and Yasuke must investigate Captain Yang's shipwreck for any clues that lead to the Black Cross.",
+   "ro": "Naoe și Yasuke trebuie să cerceteze epava căpitanului Yang și să caute orice indiciu care duce la Crucea Neagră."
+  },
+  {
+   "id": 12447510816691932985,
+   "en": "November 13, 1578\n\nInfiltrated the Beijing Synod called by Shao Jun. The Chinese Mentor is a frail old thing, yet her mind remains as sharp as ever. Alas, we could not get close enough to kill her. In attendance was a scholar who believed a precursor temple exists on Japan’s main island. He offered as proof his hand-drawn reproductions of mysterious symbols and glyphs.\n \nI acquired the illustrations while Nirmala disposed of the scholar with great enthusiasm. Could this be the Observatory? I will make my way there in due course. Perhaps I can finally put Kassandra’s nonsense behind me. ",
+   "ro": "13 noiembrie 1578\n\nM-am infiltrat în sinodul de la Beijing convocat de Shao Jun. Mentorul chinez este o bătrână fragilă, dar mintea ei rămâne la fel de ascuțită ca întotdeauna. Din păcate, nu am reușit să ne apropiem suficient ca s-o ucidem. Printre participanți era un savant care credea că există un templu precursor pe insula principală a Japoniei. Ca dovadă, a adus reproduceri desenate de mână ale unor simboluri și glife misterioase.\n\nAm pus mâna pe ilustrații, în timp ce Nirmala s-a ocupat de savant cu mult entuziasm. Oare ăsta să fie Observatorul? O să-mi fac drum până acolo la momentul potrivit. Poate reușesc în sfârșit să las în urmă prostiile Kassandrei. "
+  },
+  {
+   "id": 12447517782075780225,
+   "en": "Play as Yasuke.",
+   "ro": "Joacă drept Yasuke."
+  }
+ ]
+}

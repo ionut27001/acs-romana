@@ -1,0 +1,26 @@
+{
+ "package": "FUNC_TimeOfDay_en-US_General",
+ "data_id": "00000239C55996C2",
+ "entries": [
+  {
+   "id": 12434147824515398345,
+   "en": "You can now advance the time of day.\nYou can do so by using [CT_ToD].",
+   "ro": "Acum poți avansa ora din zi.\nFolosește [CT_ToD] ca să o faci."
+  },
+  {
+   "id": 12435326722671641138,
+   "en": "You can now advance the time of day.\nUpgrade your Nando to level 2 to unlock.",
+   "ro": "Acum poți avansa ora din zi.\nÎmbunătățește Nando până la nivelul 2 ca să deblochezi opțiunea."
+  },
+  {
+   "id": 12440899704863935646,
+   "en": "Time of day is currently locked",
+   "ro": "Ora din zi e blocată momentan"
+  },
+  {
+   "id": 12441387433994437907,
+   "en": "Advance Time",
+   "ro": "Avansează timpul"
+  }
+ ]
+}

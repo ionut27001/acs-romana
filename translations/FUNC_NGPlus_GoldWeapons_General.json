@@ -1,0 +1,251 @@
+{
+ "package": "FUNC_NGPlus_GoldWeapons_en-US_General",
+ "data_id": "0000023F672EC03B",
+ "entries": [
+  {
+   "id": 12429959222388810216,
+   "en": "Shinobi's Gold Blade",
+   "ro": "Sabia de aur a shinobiului"
+  },
+  {
+   "id": 12430304615966603878,
+   "en": "It would bring in good mon, but no one becomes a shinobi for the pay.",
+   "ro": "Ar aduce mulți mon, dar nimeni nu devine shinobi pentru bani."
+  },
+  {
+   "id": 12430468411653511103,
+   "en": "Golden Message",
+   "ro": "Mesaj auriu"
+  },
+  {
+   "id": 12430761276300173414,
+   "en": "+{NumberTag1}% Critical Damage in exchange for {NumberTag2} mon on Critical Strikes",
+   "ro": "+{NumberTag1}% Daune critice în schimbul a {NumberTag2} mon la Loviturile critice"
+  },
+  {
+   "id": 12431008459691837614,
+   "en": "Golden Reach Blade",
+   "ro": "Lama Întinderii de Aur"
+  },
+  {
+   "id": 12432123360902659124,
+   "en": "Golden Chamber",
+   "ro": "Camera de aur"
+  },
+  {
+   "id": 12432196968195695888,
+   "en": "Complete all Kuji-kiri activities",
+   "ro": "Finalizează toate activitățile Kuji-kiri"
+  },
+  {
+   "id": 12432527844338342923,
+   "en": "Complete all Sumi-e activities",
+   "ro": "Finalizează toate activitățile Sumi-e"
+  },
+  {
+   "id": 12432914452004879183,
+   "en": "Rations auto-refund on use in exchange for {NumberTag} mon",
+   "ro": "Rațiile se rambursează automat la utilizare în schimbul a {NumberTag} mon"
+  },
+  {
+   "id": 12434007193905257679,
+   "en": "Golden Death Chain",
+   "ro": "Lanțul morții de aur"
+  },
+  {
+   "id": 12434085910336925846,
+   "en": "Complete all Kata activities",
+   "ro": "Finalizează toate activitățile Kata"
+  },
+  {
+   "id": 12434153212213115599,
+   "en": "Golden Daybreak Club",
+   "ro": "Kanabō Zorii de Aur"
+  },
+  {
+   "id": 12434309070883353869,
+   "en": "Reach Level 100",
+   "ro": "Atinge nivelul 100"
+  },
+  {
+   "id": 12434628371440545302,
+   "en": "First Aid Finance",
+   "ro": "Finanțare de prim ajutor"
+  },
+  {
+   "id": 12434868171293102446,
+   "en": "Golden Death Blade",
+   "ro": "Lama morții de aur"
+  },
+  {
+   "id": 12434877523323972078,
+   "en": "No Delay, Just Pay",
+   "ro": "Fără întârziere, doar plată"
+  },
+  {
+   "id": 12434883754516866445,
+   "en": "You may reach for gold, but it will never reach for you in return.",
+   "ro": "Poți întinde mâna după aur, dar el nu o să-ți întindă niciodată mâna."
+  },
+  {
+   "id": 12435396414889086316,
+   "en": "Golden Death Counterweight",
+   "ro": "Contragreutatea morții de aur"
+  },
+  {
+   "id": 12435927361292488000,
+   "en": "Bullets auto-refund on use in exchange for {NumberTag} mon",
+   "ro": "Gloanțele se rambursează automat la utilizare în schimbul a {NumberTag} mon"
+  },
+  {
+   "id": 12437431233924347178,
+   "en": "Golden Death Handle",
+   "ro": "Mânerul morții de aur"
+  },
+  {
+   "id": 12438203640093200377,
+   "en": "Deadly Dividend",
+   "ro": "Dividend mortal"
+  },
+  {
+   "id": 12438952115452886995,
+   "en": "Golden Breath",
+   "ro": "Suflul de aur"
+  },
+  {
+   "id": 12439091497582853944,
+   "en": "Golden Daybreak Pommel",
+   "ro": "Măciulia Zorii de Aur"
+  },
+  {
+   "id": 12439215177435859088,
+   "en": "Complete all Horse Archery activities",
+   "ro": "Finalizează toate activitățile de tir cu arcul călare"
+  },
+  {
+   "id": 12439611131505654367,
+   "en": "Golden Message Teppo",
+   "ro": "Teppō al Mesajului de Aur"
+  },
+  {
+   "id": 12440164211825766535,
+   "en": "Reach Hideout level 13",
+   "ro": "Ajunge la nivelul 13 al ascunzătorii"
+  },
+  {
+   "id": 12440520256898598965,
+   "en": "Golden Breath Bow",
+   "ro": "Arcul Suflul de Aur"
+  },
+  {
+   "id": 12440614755185537500,
+   "en": "Golden Message Ammo Pouch",
+   "ro": "Săculețul de muniție al Mesajului de Aur"
+  },
+  {
+   "id": 12441007014899646755,
+   "en": "Golden Reach",
+   "ro": "Întinderea de Aur"
+  },
+  {
+   "id": 12441943634843746178,
+   "en": "Is any death truly golden?",
+   "ro": "Există vreo moarte cu adevărat de aur?"
+  },
+  {
+   "id": 12442115642528865971,
+   "en": "Lethal Surcharge",
+   "ro": "Suprataxa letală"
+  },
+  {
+   "id": 12442226860753833863,
+   "en": "Shinobi's Gold",
+   "ro": "Aurul shinobi-ului"
+  },
+  {
+   "id": 12442358239105821823,
+   "en": "Golden Daybreak Staff",
+   "ro": "Bastonul Zorii de Aur"
+  },
+  {
+   "id": 12442377666406127137,
+   "en": "Shinobi's Gold Guard",
+   "ro": "Garda Aurului Shinobi"
+  },
+  {
+   "id": 12442458464674944950,
+   "en": "Shinobi's Gold Handle",
+   "ro": "Mânerul Aurului Shinobi"
+  },
+  {
+   "id": 12442613476735108210,
+   "en": "Golden Reach Guard",
+   "ro": "Garda Întinderii de Aur"
+  },
+  {
+   "id": 12443444308290776969,
+   "en": "No Cooldown on Abilities in exchange for {NumberTag} mon on activation",
+   "ro": "Fără timp de reîncărcare pentru Abilități în schimbul a {NumberTag} mon la activare"
+  },
+  {
+   "id": 12443474616465875406,
+   "en": "Arrownomics",
+   "ro": "Economia săgeților"
+  },
+  {
+   "id": 12443626016783832256,
+   "en": "Golden Reach Pommel",
+   "ro": "Măciulia Întinderii de Aur"
+  },
+  {
+   "id": 12443731336420062131,
+   "en": "Golden Breath Quiver",
+   "ro": "Tolba Suflului de Aur"
+  },
+  {
+   "id": 12444864080905182587,
+   "en": "Golden Daybreak",
+   "ro": "Zorii de Aur"
+  },
+  {
+   "id": 12444929146907956165,
+   "en": "Just like exhaling, its arrows release effortlessly.",
+   "ro": "Ca o răsuflare, săgețile sale pornesc fără niciun efort."
+  },
+  {
+   "id": 12445112205722223024,
+   "en": "+{NumberTag1}% Critical Chance in exchange for {NumberTag2} mon on Critical Strikes",
+   "ro": "+{NumberTag1}% Șansă de lovitură critică în schimbul a {NumberTag2} mon la Loviturile critice"
+  },
+  {
+   "id": 12445419325867292098,
+   "en": "Gold glimmers differently at dawn.",
+   "ro": "Aurul strălucește diferit în zori."
+  },
+  {
+   "id": 12445446722618570296,
+   "en": "Signed, sealed, delivered in gold.",
+   "ro": "Semnat, sigilat, livrat în aur."
+  },
+  {
+   "id": 12446890503775422845,
+   "en": "Golden Reach E-bu",
+   "ro": "E-bu al Întinderii de Aur"
+  },
+  {
+   "id": 12447043587278870470,
+   "en": "Arrows auto-refund on use in exchange for {NumberTag} mon",
+   "ro": "Săgețile se rambursează automat la utilizare în schimbul a {NumberTag} mon"
+  },
+  {
+   "id": 12447237720590717175,
+   "en": "Shinobi's Gold Saya",
+   "ro": "Teaca aurului shinobi"
+  },
+  {
+   "id": 12447718931611063449,
+   "en": "Golden Death",
+   "ro": "Moartea de Aur"
+  }
+ ]
+}

@@ -1,0 +1,841 @@
+{
+ "package": "SP_CriticalRole_en-US_General",
+ "data_id": "0000023017B57309",
+ "entries": [
+  {
+   "id": 12430059247940319339,
+   "en": "Builder",
+   "ro": "Constructorul"
+  },
+  {
+   "id": 12430194193198807850,
+   "en": "[Play as Naoe]",
+   "ro": "[Joacă drept Naoe]"
+  },
+  {
+   "id": 12430257722572941217,
+   "en": "Rufino breaks the guard of blocking enemies.",
+   "ro": "Rufino sparge garda inamicilor care blochează."
+  },
+  {
+   "id": 12430299271730073610,
+   "en": "A mid-level leader, this person is tasked with hiring and overseeing the killers in their employ.",
+   "ro": "Lider de nivel mediu, persoana aceasta se ocupă cu angajarea ucigașilor și cu supravegherea lor."
+  },
+  {
+   "id": 12430318103511409519,
+   "en": "The Architect and his men are killed, as well as Ermigo (the Scholar), who sacrificed his life to save Rufino.",
+   "ro": "Arhitectul și oamenii lui sunt uciși, la fel ca Ermigo (Savantul), care și-a sacrificat viața ca să-l salveze pe Rufino."
+  },
+  {
+   "id": 12430448215408238496,
+   "en": "Kill the reinforcement",
+   "ro": "Ucide întăritura"
+  },
+  {
+   "id": 12430471640587885020,
+   "en": "They are east of the Seta River",
+   "ro": "Sunt la est de râul Seta."
+  },
+  {
+   "id": 12430483911665653333,
+   "en": "Rufino",
+   "ro": "Rufino"
+  },
+  {
+   "id": 12430510327896458858,
+   "en": "They are in Kashiwabara Fortress",
+   "ro": "Sunt în Fortăreața Kashiwabara"
+  },
+  {
+   "id": 12430557255901528356,
+   "en": "They are in Omi",
+   "ro": "Sunt în Omi"
+  },
+  {
+   "id": 12430686248310623845,
+   "en": "The Trader",
+   "ro": "Negustorul"
+  },
+  {
+   "id": 12430698338043063288,
+   "en": "This letter was found on the Gaspar's body, hinting at another Templar operating independently in the area, known as \"N.C.\"",
+   "ro": "Scrisoarea a fost găsită pe corpul lui Gaspar și sugerează că mai e un Templier care acționează independent în zonă, cunoscut drept „N.C.”."
+  },
+  {
+   "id": 12430732304203484026,
+   "en": "[Play as Yasuke]",
+   "ro": "[Joacă drept Yasuke]"
+  },
+  {
+   "id": 12430756424688117134,
+   "en": "When an attempt at misdirection fails, the Scholar is revealed to be Ermigo, Rufino's long-time friend. While clearly still fond of Rufino, Ermigo is not at all repentant about the plot or the lives it has cost.",
+   "ro": "Când o încercare de a induce în eroare eșuează, se dezvăluie că Savantul este Ermigo, prietenul de multă vreme al lui Rufino. Deși e clar că mai ține la Rufino, Ermigo nu regretă deloc planul sau viețile pe care le-a costat."
+  },
+  {
+   "id": 12430765835417927347,
+   "en": "The evidence was destroyed, but Rufino discovered that some of the organization's hired killers had already been dispatched.",
+   "ro": "Dovezile au fost distruse, dar Rufino a aflat că unii dintre ucigașii angajați de organizație fuseseră deja trimiși să își facă treaba."
+  },
+  {
+   "id": 12430793398327307621,
+   "en": "Letter from N.C. to Gaspar",
+   "ro": "Scrisoare de la N.C. către Gaspar"
+  },
+  {
+   "id": 12431044266506441343,
+   "en": "The Builder",
+   "ro": "Constructorul"
+  },
+  {
+   "id": 12431112211544438722,
+   "en": "Assassinate the Stalker",
+   "ro": "Asasinează Urmăritorul"
+  },
+  {
+   "id": 12431319887338196516,
+   "en": "Guard",
+   "ro": "Gardă"
+  },
+  {
+   "id": 12431322972842948335,
+   "en": "They are in Omi",
+   "ro": "Sunt în Omi"
+  },
+  {
+   "id": 12431515620520907836,
+   "en": "Talk to Rufino",
+   "ro": "Vorbește cu Rufino"
+  },
+  {
+   "id": 12431551052011539013,
+   "en": "They are in Settsu",
+   "ro": "Ei sunt în Settsu"
+  },
+  {
+   "id": 12431612336402403518,
+   "en": "A friend of Tomiko's is a friend of ours.##Yasuke## ",
+   "ro": "Un prieten al Tomikei e și prietenul nostru.##Yasuke## "
+  },
+  {
+   "id": 12431768402990090504,
+   "en": "This is a decoded list of civilians endangered by the hired killers of a mysterious organization.",
+   "ro": "Asta e o listă decodată cu civilii amenințați de ucigașii plătiți ai unei organizații misterioase."
+  },
+  {
+   "id": 12432470521792044253,
+   "en": "This hired killer had a particularly cruel streak and toyed with his victims for his own amusement.\n\nIt comes as no surprise that he served under someone with a name like the Exterminator.",
+   "ro": "Acest ucigaș avea o cruzime deosebită și își chinuia victimele doar ca să se distreze.\n\nNu e de mirare că lucra pentru cineva cu un nume ca Exterminatorul."
+  },
+  {
+   "id": 12432629126772578343,
+   "en": "This is what it takes.##Yasuke##",
+   "ro": "Asta este ce trebuie făcut.##Yasuke##"
+  },
+  {
+   "id": 12432673698427734691,
+   "en": "My dear Gaspar,\n\nThe plan is proceeding. Your task is to gain control of the Seta River trade route. Turn them, coerce them, bribe them, or kill them, so long as our Order reigns when \"the objects\" are procured - a matter I shall personally oversee once our masked friend retakes control.\n\nMay the Father of Understanding guide you, my friend.\n~ N.C.",
+   "ro": "Dragă Gaspar,\n\nPlanul își urmează cursul. Sarcina ta este să pui mâna pe ruta comercială de pe râul Seta. Întoarce-i, constrânge-i, mituiește-i sau ucide-i, atâta timp cât Ordinul nostru stăpânește când \"obiectele\" vor fi procurate - lucru pe care o să-l supraveghez personal, odată ce prietenul nostru mascat își recapătă controlul.\n\nPărintele Înțelegerii să te ghideze, prietene.\n~ N.C."
+  },
+  {
+   "id": 12432759930739266677,
+   "en": "Exterminator",
+   "ro": "Exterminatorul"
+  },
+  {
+   "id": 12433085573917192490,
+   "en": "Collector",
+   "ro": "Colecționar"
+  },
+  {
+   "id": 12433102443859787465,
+   "en": "They are south of Yawata Plains",
+   "ro": "Sunt la sud de câmpiile Yawata."
+  },
+  {
+   "id": 12433234984974039740,
+   "en": "I don't know about him.##Naoe##",
+   "ro": "Nu știu nimic despre el.##Naoe##"
+  },
+  {
+   "id": 12433251361745006019,
+   "en": "They are in Settsu",
+   "ro": "Ei sunt în Settsu"
+  },
+  {
+   "id": 12433261645508010314,
+   "en": "One of what appears to be several fragments of paper, but the message is rendered unreadable by its strange code.",
+   "ro": "Unul dintre ce par a fi mai multe fragmente de hârtie, dar mesajul e ilizibil din cauza codului ciudat."
+  },
+  {
+   "id": 12433279599850816976,
+   "en": "This powerful lumberyard boss knows what it takes to get the tough jobs done.",
+   "ro": "Șeful ăsta puternic de la tăierea lemnului știe cum să ducă la capăt treburile grele."
+  },
+  {
+   "id": 12433410938589849047,
+   "en": "Stalker",
+   "ro": "Pândarul"
+  },
+  {
+   "id": 12433429903972806484,
+   "en": "A mid-level leader, this person is tasked with hiring and overseeing the killers in their employ.",
+   "ro": "Lider de nivel mediu, persoana aceasta se ocupă cu angajarea ucigașilor și cu supravegherea lor."
+  },
+  {
+   "id": 12433543282470766749,
+   "en": "Builder",
+   "ro": "Constructorul"
+  },
+  {
+   "id": 12433610056084722677,
+   "en": "(A mixture of swirls, shapes, and symbols, this mysterious code is unreadable without some kind of translated context.)",
+   "ro": "(Un amestec de spirale, forme și simboluri, acest cod misterios nu poate fi citit fără o explicație tradusă.)"
+  },
+  {
+   "id": 12433739775113117452,
+   "en": "Naoe and Yasuke are on the hunt for the Architect.",
+   "ro": "Naoe și Yasuke sunt pe urmele Arhitectului."
+  },
+  {
+   "id": 12433811074046232443,
+   "en": "Architect",
+   "ro": "Arhitectul"
+  },
+  {
+   "id": 12434066004638677214,
+   "en": "(A mixture of swirls, shapes, and symbols, this mysterious code is unreadable without some kind of translated context.)",
+   "ro": "(Un amestec de spirale, forme și simboluri, acest cod misterios nu poate fi citit fără o explicație tradusă.)"
+  },
+  {
+   "id": 12434226482647759496,
+   "en": "It's located in Settsu",
+   "ro": "E în Settsu"
+  },
+  {
+   "id": 12434315830065421378,
+   "en": "Critical Role Banner",
+   "ro": "Stindardul Critical Role"
+  },
+  {
+   "id": 12434474076860627130,
+   "en": "Ermigo",
+   "ro": "Ermigo"
+  },
+  {
+   "id": 12434566419466508245,
+   "en": "Assassinate the Exterminator",
+   "ro": "Asasinează Exterminatorul"
+  },
+  {
+   "id": 12434588359162147102,
+   "en": "Talk to the stranger",
+   "ro": "Vorbește cu necunoscutul"
+  },
+  {
+   "id": 12434780994141618440,
+   "en": "[Play as Yasuke]",
+   "ro": "[Joacă drept Yasuke]"
+  },
+  {
+   "id": 12434789360146537892,
+   "en": "It's a race against time to save the targeted civilians from harm at the hands of a mysterious organization.",
+   "ro": "E o cursă cu timpul ca să salvezi civilii vizați de la pericolul unei organizații misterioase."
+  },
+  {
+   "id": 12434969459559346689,
+   "en": "Scholar",
+   "ro": "Savantul"
+  },
+  {
+   "id": 12435036435054702072,
+   "en": "Gaspar,\n\nBrothers Duarte and Caro have failed. These islands are slipping through our fingers. It falls to you to take control of the Seta River - the Order needs it to secure passage for the members of the Black Cross we are mobilizing. Once they reach your shores, the tide will once again swing in our favor.\n\nMay the Father of Understanding guide you,\n~ M.",
+   "ro": "Gaspar,\n\nFrații Duarte și Caro au eșuat. Aceste insule ne scapă printre degete. Ție îți revine sarcina de a prelua controlul asupra râului Seta - Ordinul are nevoie de el ca să asigure trecerea membrilor Crucii Negre pe care îi mobilizăm. Odată ce ajung pe țărmurile voastre, valul o să se întoarcă din nou în favoarea noastră.\n\nFie ca Părintele Înțelegerii să te ghideze,\n~ M."
+  },
+  {
+   "id": 12435344110000997134,
+   "en": "Destroy the research",
+   "ro": "Distruge cercetările"
+  },
+  {
+   "id": 12435453303741025593,
+   "en": "They are along the Seta River",
+   "ro": "Sunt de-a lungul râului Seta"
+  },
+  {
+   "id": 12435916308279611794,
+   "en": "A bully and a thief, this hired killer likes to rob her marks before taking their lives.",
+   "ro": "Un tiran și un hoț, acest ucigaș plătit obișnuiește să jefuiască victimele înainte de a le lua viața."
+  },
+  {
+   "id": 12435951505453081730,
+   "en": "Hunting the Hunters",
+   "ro": "Vânătoarea vânătorilor"
+  },
+  {
+   "id": 12435952834873936723,
+   "en": "It's off the coast of Sakai",
+   "ro": "E în largul coastei de la Sakai"
+  },
+  {
+   "id": 12435959172045620153,
+   "en": "They are southeast of Takatsuki Castle",
+   "ro": "E la sud-est de Castelul Takatsuki"
+  },
+  {
+   "id": 12436045154571115188,
+   "en": "This Portuguese fighter, raised on the archipelago after being abandoned, is as charming as he is determined.",
+   "ro": "Acest luptător portughez, crescut pe arhipelag după ce a fost abandonat, este la fel de fermecător pe cât e de hotărât."
+  },
+  {
+   "id": 12436583621581035021,
+   "en": "Born in Portugal then abandoned on the streets of Hakata as a child, Rufino has long walked the path of an outsider. Years ago, he witnessed a horrific battle on Tomiko's family farmstead, leaving her family and his friends dead. The brutality of that night shook him to his core, driving him toward a mission of ending war, for good.\n\nDespite the darkness of his past, Rufino's friendly demeanor and natural charm helps him to forge connections wherever he goes.",
+   "ro": "Născut în Portugalia și abandonat pe străzile din Hakata când era copil, Rufino a trăit mult timp în afara lumii. Acum mulți ani, a fost martorul unei lupte groaznice la ferma familiei Tomiko, lăsându-i morți pe familia și prietenii săi. Brutalitatea acelei nopți l-a zguduit până în adâncul sufletului, împingându-l spre misiunea de a pune capăt războiului, pentru totdeauna.\n\nOricât de întunecat i-a fost trecutul, firea prietenoasă și farmecul lui Rufino îl ajută să lege relații oriunde ajunge."
+  },
+  {
+   "id": 12436613703708218833,
+   "en": "Take Aim",
+   "ro": "Ține ținta"
+  },
+  {
+   "id": 12436722715233083231,
+   "en": "A Critical Encounter",
+   "ro": "O întâlnire critică"
+  },
+  {
+   "id": 12436753571220183186,
+   "en": "Destabilize",
+   "ro": "Destabilizează"
+  },
+  {
+   "id": 12436978616774607519,
+   "en": "This is one of several hired killers who were sent by a secretive organization to target influential commonfolk.",
+   "ro": "Acesta e unul dintre mai mulți ucigași plătiți, trimiși de o organizație secretă să ia la țintă săteni influenți."
+  },
+  {
+   "id": 12437001519507519769,
+   "en": "[Play as Naoe]",
+   "ro": "[Joacă drept Naoe]"
+  },
+  {
+   "id": 12437406006671635092,
+   "en": "Contractor",
+   "ro": "Contractorul"
+  },
+  {
+   "id": 12437419575977936797,
+   "en": "Eliminate the threat",
+   "ro": "Elimină amenințarea"
+  },
+  {
+   "id": 12437479621648800629,
+   "en": "They are northeast of Seta Bridge",
+   "ro": "E la nord-est de Podul Seta"
+  },
+  {
+   "id": 12437859726396800729,
+   "en": "In the wake of revelations, sacrifices, and forgiveness, Rufino chose to ally with Naoe and Yasuke.",
+   "ro": "După revelații, sacrificii și iertare, Rufino a ales să se alieze cu Naoe și Yasuke."
+  },
+  {
+   "id": 12437919292244501281,
+   "en": "Clever and cunning, this woman knows exactly how to manipulate others for profit, blood, or both.",
+   "ro": "Deșteaptă și vicleană, această femeie știe exact cum să îi manipuleze pe ceilalți pentru profit, pentru sânge sau pentru ambele."
+  },
+  {
+   "id": 12437969347361259696,
+   "en": "This man was as ruthless as he was barbarous, and killed for equal parts gain and pleasure.\n\nHis death is like a fog lifting over a long-shadowed valley.",
+   "ro": "Era la fel de nemilos cât era de barbar și ucidea atât pentru bani, cât și pentru plăcere.\n\nMoartea lui e ca ceața care se ridică peste o vale umbrită."
+  },
+  {
+   "id": 12438149273498270028,
+   "en": "A mid-level leader, this person is tasked with hiring and overseeing the killers in their employ.",
+   "ro": "Lider de nivel mediu, persoana aceasta se ocupă cu angajarea ucigașilor și cu supravegherea lor."
+  },
+  {
+   "id": 12438216631684479172,
+   "en": "A Portuguese man, Gaspar, was local leader of the Templar, masterminding a plan to build a secret network of influence by killing civilians and replacing them with allies.\n\nWhile his death ends this particular plot, the Templar are relentless in their hunt for power.",
+   "ro": "Gaspar, un bărbat din Portugalia, era liderul local al Templierilor și punea la cale un plan de a construi o rețea secretă de influență, ucigând civili și înlocuindu-i cu aliați.\n\nDeși moartea lui pune capăt acestui complot, Templierii sunt neobosiți în goana lor după putere."
+  },
+  {
+   "id": 12438258370795162555,
+   "en": "Contractor,\n\nWhen you are done with the ferryman, bring his bloodied sash to me at the bamboo cutting camp as proof of death. You may do what you like with the corpse, but I might suggest leaving it as food for the fish.\n\n~ The Builder\n",
+   "ro": "Contractorule,\n\nCând termini cu bărcarul, adu-mi cordonul său însângerat la tabăra de tăiere a bambusului, drept dovadă a morții. Poți face cu cadavrul ce vrei, dar te-aș sfătui să-l lași ca hrană pentru pești.\n\n~ Constructorul\n"
+  },
+  {
+   "id": 12438361943429246085,
+   "en": "The Collector",
+   "ro": "Colecționarul"
+  },
+  {
+   "id": 12438381776566604583,
+   "en": "Critical Role",
+   "ro": "Critical Role"
+  },
+  {
+   "id": 12438430071031521995,
+   "en": "Scholar",
+   "ro": "Savantul"
+  },
+  {
+   "id": 12438452099163395452,
+   "en": "Exterminator's Encoded Message",
+   "ro": "Mesajul criptat al Exterminatorului"
+  },
+  {
+   "id": 12438485389292639685,
+   "en": "They are in the Ibu Highlands",
+   "ro": "Sunt în Înălțimile Ibu"
+  },
+  {
+   "id": 12438523299232204745,
+   "en": "Gaspar",
+   "ro": "Gaspar"
+  },
+  {
+   "id": 12438583396450285784,
+   "en": "This message, assembled and decoded by Rufino, points to a small island location as the meeting point of the Architect and their subordinates.",
+   "ro": "Acest mesaj, asamblat și decodat de Rufino, arată o mică insulă ca loc de întâlnire al Arhitectului și al subordonaților săi."
+  },
+  {
+   "id": 12438644925098873164,
+   "en": "Exterminator",
+   "ro": "Exterminatorul"
+  },
+  {
+   "id": 12438725653400331023,
+   "en": "One of what appears to be several fragments of paper, but the message is rendered unreadable by its strange code.",
+   "ro": "Unul dintre ce par a fi mai multe fragmente de hârtie, dar mesajul e ilizibil din cauza codului ciudat."
+  },
+  {
+   "id": 12438749111847359953,
+   "en": "This charismatic foreigner fights for peace.",
+   "ro": "Acest străin carismatic luptă pentru pace."
+  },
+  {
+   "id": 12438873544408821960,
+   "en": "Tormenter",
+   "ro": "Chinuitorul"
+  },
+  {
+   "id": 12438930296202698090,
+   "en": "Trader's Encoded Message",
+   "ro": "Mesajul criptat al Comerciantului"
+  },
+  {
+   "id": 12439092165041596904,
+   "en": "Rufino",
+   "ro": "Rufino"
+  },
+  {
+   "id": 12439097847645499385,
+   "en": "Letter from J. to Gaspar",
+   "ro": "Scrisoare de la J. către Gaspar"
+  },
+  {
+   "id": 12439130359455882842,
+   "en": "Collector",
+   "ro": "Colecționar"
+  },
+  {
+   "id": 12439313901346651248,
+   "en": "This hired killer has a particularly cruel streak, toying with his victims for his own amusement.",
+   "ro": "Acest ucigaș plătit are o cruzime deosebită, chinuindu-și victimele doar ca să se distreze."
+  },
+  {
+   "id": 12439375703366680055,
+   "en": "Rufino's Hit List",
+   "ro": "Lista de ținte a lui Rufino"
+  },
+  {
+   "id": 12439708803966290254,
+   "en": "This is an assignment from the Exterminator to the Tormentor, requiring him to bring proof of death to a meeting point in Settsu.",
+   "ro": "Aceasta e o misiune a Exterminatorului pentru Chinuitor, care trebuie să aducă dovada morții la un punct de întâlnire din Settsu."
+  },
+  {
+   "id": 12439742143794513416,
+   "en": "A bully and a thief, this hired killer liked to rob her marks before taking their lives.\n\nThis is a fittingly shady behavior for someone in the Trader's network.",
+   "ro": "Un comportament destul de dubios, potrivit pentru cineva din rețeaua Comerciantului.\n\nUn tiran și un hoț, acest ucigaș plătit obișnuia să-și jefuiască victimele înainte de a le lua viața."
+  },
+  {
+   "id": 12439831304962930377,
+   "en": "Tormentor",
+   "ro": "Chinuitorul"
+  },
+  {
+   "id": 12440017235591291488,
+   "en": "(A strange encoded document, translated by Rufino, detailing a list of civilian targets and the codenames of their would-be killers.)",
+   "ro": "(Un document codificat ciudat, tradus de Rufino, cu o listă de ținte civile și numele de cod ale ucigașilor care urmau să le elimine.)"
+  },
+  {
+   "id": 12440075274129917581,
+   "en": "This is one of several hired killers who were sent by a secretive organization to target influential commonfolk.",
+   "ro": "Acesta e unul dintre mai mulți ucigași plătiți, trimiși de o organizație secretă să ia la țintă săteni influenți."
+  },
+  {
+   "id": 12440124839255287253,
+   "en": "The Stalker",
+   "ro": "Pândarul"
+  },
+  {
+   "id": 12440185606442032662,
+   "en": "Rufino",
+   "ro": "Rufino"
+  },
+  {
+   "id": 12440218352874483164,
+   "en": "[Play as Naoe]",
+   "ro": "[Joacă drept Naoe]"
+  },
+  {
+   "id": 12440276882697675262,
+   "en": "This is an assignment from the Exterminator to the Stalker, requiring her to bring proof of death to Koriyama Camp.",
+   "ro": "Aceasta e o misiune a Exterminatorului pentru Pândar, care trebuie să aducă dovada morții la Tabăra Koriyama."
+  },
+  {
+   "id": 12440334516350808370,
+   "en": "Tormentor's Kill Assignment",
+   "ro": "Ordinul de asasinat al Chinuitorului"
+  },
+  {
+   "id": 12440509365089350344,
+   "en": "A Portuguese man, Gaspar, is local leader of the Templar, masterminding a plan to build a secret network of influence by killing civilians and replacing them with allies.",
+   "ro": "Gaspar, un bărbat din Portugalia, e liderul local al Templierilor și pune la cale un plan de a construi o rețea secretă de influență, ucigând civili și înlocuindu-i cu aliați."
+  },
+  {
+   "id": 12440543414328799296,
+   "en": "They are in Omi",
+   "ro": "Sunt în Omi"
+  },
+  {
+   "id": 12440608536912435907,
+   "en": "(A mixture of swirls, shapes, and symbols, this mysterious code is unreadable without some kind of translated context.)",
+   "ro": "(Un amestec de spirale, forme și simboluri, acest cod misterios nu poate fi citit fără o explicație tradusă.)"
+  },
+  {
+   "id": 12440688509078744878,
+   "en": "You're a traitor.",
+   "ro": "Ești un trădător."
+  },
+  {
+   "id": 12440750047914800683,
+   "en": "Preferring to watch and wait for and her prey, this hired killer was a silent threat... now silenced.\n\nShe served an overseer called the Trader.",
+   "ro": "Prefera să urmărească și să aștepte prada, ucigașa asta plătită era o amenințare tăcută... acum redusă la tăcere.\n\nLucrase pentru un supraveghetor numit Comerciantul."
+  },
+  {
+   "id": 12440777414288688271,
+   "en": "The codenamed killers and their overseers were taken down, one by one.",
+   "ro": "Ucigașii cu nume de cod și supraveghetorii lor au fost doborâți, unul câte unul."
+  },
+  {
+   "id": 12441143063868192368,
+   "en": "They are in northern Settsu",
+   "ro": "Sunt în nordul Settsu"
+  },
+  {
+   "id": 12441147308964531855,
+   "en": "Man Behind the Curtain",
+   "ro": "Omul din spatele cortinei"
+  },
+  {
+   "id": 12441157377966448026,
+   "en": "A high-level member, the person is responsible for analyzing intel and selecting prime civilian targets.",
+   "ro": "Un membru de rang înalt, persoana asta se ocupă de analizarea informațiilor și alegerea celor mai bune ținte civile."
+  },
+  {
+   "id": 12441207287040973784,
+   "en": "Contractor's Kill Assignment",
+   "ro": "Ordinul de asasinat al Contractorului"
+  },
+  {
+   "id": 12441677616310063789,
+   "en": "(Selected phrases, now correctly translated from the combined overseer's messages:)\n\nContinued meddling of that traitor Rufino\nMust meet and make plan\nEliminate him before further disrupt\nMust meet face to face\nIbu Highland\nKashiwabara\nFortress\nScholar will be there to answer for involvement\n\n~ The Architect",
+   "ro": "(Fragmente selectate, acum traduse corect din mesajele combinate ale supraveghetorilor:)\n\nTrădătorul Rufino se amestecă în continuare\nTrebuie să mă întâlnesc și să fac un plan\nÎl elimin înainte să mai facă necazuri\nTrebuie să ne întâlnim față în față\nÎnălțimile Ibu\nKashiwabara\nFortăreața\nSavantul va fi acolo ca să răspundă pentru implicare\n\n~ Arhitectul"
+  },
+  {
+   "id": 12441785397833398058,
+   "en": "Help Rufino",
+   "ro": "Ajută-l pe Rufino"
+  },
+  {
+   "id": 12441847943174459711,
+   "en": "Stalker's Kill Assignment",
+   "ro": "Ordinul de asasinat al Pândarului"
+  },
+  {
+   "id": 12442033648130042481,
+   "en": "Assassinate the Collector",
+   "ro": "Asasinează-l pe Colecționar"
+  },
+  {
+   "id": 12442045800317465633,
+   "en": "Assassinate the Tormentor",
+   "ro": "Asasinează-l pe Chinuitor"
+  },
+  {
+   "id": 12442087828417310293,
+   "en": "One of what appears to be several fragments of paper, but the message is rendered unreadable by its strange code.",
+   "ro": "Unul dintre ce par a fi mai multe fragmente de hârtie, dar mesajul e ilizibil din cauza codului ciudat."
+  },
+  {
+   "id": 12442308682265723336,
+   "en": "This is one of several hired killers who were sent by a secretive organization to target influential commonfolk.",
+   "ro": "Acesta e unul dintre mai mulți ucigași plătiți, trimiși de o organizație secretă să ia la țintă săteni influenți."
+  },
+  {
+   "id": 12442360469361623928,
+   "en": "They are south of Muggy Lands",
+   "ro": "Sunt la sud de Ținuturile umede și sufocante"
+  },
+  {
+   "id": 12443018065537874528,
+   "en": "They are in Koriyama Camp",
+   "ro": "Sunt în tabăra Koriyama"
+  },
+  {
+   "id": 12443093807857707276,
+   "en": "They are in a house on the banks of Lake Biwa",
+   "ro": "Sunt într-o casă pe malul Lacului Biwa"
+  },
+  {
+   "id": 12443120926392816983,
+   "en": "This is an assignment from the Trader to the Collector, requiring her to bring proof of death to a farmhouse on the edge of Lake Biwa.",
+   "ro": "Aceasta e o misiune de la Negustor către Colecționar, care trebuie să aducă dovada morții la o fermă de la marginea Lacului Biwa."
+  },
+  {
+   "id": 12443164616493374642,
+   "en": "Rufino shoots and fills the target's Bleed meter.",
+   "ro": "Rufino trage și umple bara de Sângerare a țintei."
+  },
+  {
+   "id": 12443184581170516439,
+   "en": "They are on the docks",
+   "ro": "Sunt pe chei"
+  },
+  {
+   "id": 12443213174216968953,
+   "en": "Preferring to watch and wait for and her prey, this hired killer is a silent threat.",
+   "ro": "Preferând să pândească și să aștepte prada, acest ucigaș plătit este o amenințare tăcută."
+  },
+  {
+   "id": 12443247731334986446,
+   "en": "[Play as Yasuke]",
+   "ro": "[Joacă drept Yasuke]"
+  },
+  {
+   "id": 12443262510018548252,
+   "en": "This letter was found on the Gaspar's body, hinting at a larger, looming Templar threat that is descending on the archipelago.",
+   "ro": "Această scrisoare a fost găsită pe corpul lui Gaspar, sugerând o amenințare templieră mai mare, care se apropie de arhipelag."
+  },
+  {
+   "id": 12443599638891609896,
+   "en": "Assassinate the Trader",
+   "ro": "Asasinează-l pe Comerciant"
+  },
+  {
+   "id": 12443693384734802254,
+   "en": "Rufino joins the fight and deals bleed attacks.",
+   "ro": "Rufino se alătură luptei și aplică atacuri de sângerare."
+  },
+  {
+   "id": 12443790227359294491,
+   "en": "Informant",
+   "ro": "Informatorul"
+  },
+  {
+   "id": 12443833456049962155,
+   "en": "This powerful lumberyard boss knew what it took to get the tough jobs done.\n\nBut, like the bamboo in her groves, she too fell to a slash of the blade.",
+   "ro": "Acest puternic șef al exploatării de lemn știa ce trebuie ca să termine sarcinile grele.\n\nDar, ca bambusul din crânguri, și ea a căzut sub o tăietură de lamă."
+  },
+  {
+   "id": 12443877802295854929,
+   "en": "Assassinate the Architect",
+   "ro": "Asasinează-l pe Arhitect"
+  },
+  {
+   "id": 12443890232603543206,
+   "en": "Quest complete! Customize your gear with Critical Role themed weapons in the Store.",
+   "ro": "Misiune încheiată! Personalizează-ți echipamentul cu arme tematice Critical Role din Magazin."
+  },
+  {
+   "id": 12444007558496074552,
+   "en": "Assembled Message",
+   "ro": "Mesaj asamblat"
+  },
+  {
+   "id": 12444240252035413899,
+   "en": "The Tormentor",
+   "ro": "Chinuitorul"
+  },
+  {
+   "id": 12444276574458686630,
+   "en": "This banner celebrates the spirit of adventure and begs the question, \"How do you want to do this?\"",
+   "ro": "Acest banner celebrează spiritul aventurii și ridică întrebarea: „Cum vrei să faci asta?”"
+  },
+  {
+   "id": 12444330802981937275,
+   "en": "Naoe and Yasuke offer to help Rufino in his mission to take down a sinister, secretive organization.",
+   "ro": "Naoe și Yasuke se oferă să-l ajute pe Rufino în misiunea sa de a doborî o organizație sinistră și secretă."
+  },
+  {
+   "id": 12444348705371942275,
+   "en": "Stalker,\n\nKill that meddling fisherwoman. Bring her hands to me at Koriyama Camp as proof. Let's see if they still reek of fish guts when they are no longer attached.\n\n~ The Exterminator",
+   "ro": "Pândarule,\n\nUcide pescărița aceea care se bagă unde nu trebuie. Adu-mi mâinile ei la Tabăra Koriyama drept dovadă. Să vedem dacă mai miros a măruntaie de pește când nu mai sunt atașate.\n\n~ Exterminatorul"
+  },
+  {
+   "id": 12444434184156967486,
+   "en": "(The overseers' message fragments have been combined into one document. While still encoded, Rufino has added a note in the margins, identifying the Architect's planned meeting point.)",
+   "ro": "(Fragmentele mesajelor supraveghetorilor au fost combinate într-un singur document. Deși încă sunt codificate, Rufino a adăugat o notiță pe margine, arătând unde plănuiește Arhitectul să se întâlnească.)"
+  },
+  {
+   "id": 12444469562784011960,
+   "en": "Collector,\n\nYour mark is that merchant on the move. Do what you want with his goods, but any mon you find is mine. Bring proof of death to my rural hideaway near the shores of Lake Biwa. Do not keep me waiting. \n\n~ The Trader",
+   "ro": "Colecționarule,\n\nȚinta ta este negustorul acela aflat în mișcare. Fă ce vrei cu marfa lui, dar orice bănuț găsești este al meu. Adu dovada morții la ascunzătoarea mea de la țară, lângă malul Lacului Biwa. Nu mă lăsa să aștept.\n\n~ Negustorul"
+  },
+  {
+   "id": 12444655201758895268,
+   "en": "You should have trusted me.",
+   "ro": "Ar fi trebuit să ai încredere în mine."
+  },
+  {
+   "id": 12444705558278310845,
+   "en": "They are in Yamashiro",
+   "ro": "E în Yamashiro"
+  },
+  {
+   "id": 12445181904766011237,
+   "en": "Trader",
+   "ro": "Comerciantul"
+  },
+  {
+   "id": 12445229821714227821,
+   "en": "This man is as ruthless as he is barbarous, killing for equal parts gain and pleasure.",
+   "ro": "Omul acesta e la fel de necruțător pe cât e de barbar, ucide deopotrivă pentru câștig și pentru plăcere."
+  },
+  {
+   "id": 12445276320935577341,
+   "en": "Tormentor,\n\nYour target is that insufferable kimono vendor. The more she begs for mercy, the more you make it hurt.  Bring proof of her death to our last meeting place in Settsu.\n\n~ The Exterminator",
+   "ro": "Chinuitorule,\n\nȚinta ta este acea vânzătoare de kimonouri insuportabilă. Cu cât cerșește mai mult milă, cu atât o faci să sufere mai tare. Adu dovada morții ei la ultimul nostru loc de întâlnire din Settsu.\n\n~ Exterminatorul"
+  },
+  {
+   "id": 12445386732598283881,
+   "en": "Stalker",
+   "ro": "Pândarul"
+  },
+  {
+   "id": 12445488634215064304,
+   "en": "They are east of the Seta Bridge",
+   "ro": "Sunt la est de Podul Seta"
+  },
+  {
+   "id": 12445488897562613668,
+   "en": "They are on a small island in Lake Biwa",
+   "ro": "Sunt pe o insuliță din Lacul Biwa"
+  },
+  {
+   "id": 12445656094850897512,
+   "en": "The evidence is on a large ship",
+   "ro": "Dovezile sunt pe o navă mare"
+  },
+  {
+   "id": 12445839616548042145,
+   "en": "Collector's Kill Assignment",
+   "ro": "Ordinul de asasinat al Colecționarului"
+  },
+  {
+   "id": 12446011220361561773,
+   "en": "They are within the farmstead grounds",
+   "ro": "Sunt în incinta fermei"
+  },
+  {
+   "id": 12446186594068504052,
+   "en": "Silver Lining",
+   "ro": "Un licăr de speranță"
+  },
+  {
+   "id": 12446298782552186685,
+   "en": "Architect",
+   "ro": "Arhitectul"
+  },
+  {
+   "id": 12446316265596621357,
+   "en": "Sent on their mission by a secretive organization seeking control, these hired killers aim to eliminate influential commoners.",
+   "ro": "Trimiși de o organizație secretă care vrea control, acești ucigași plătiți vizează oameni de rând influenți."
+  },
+  {
+   "id": 12446362424829598809,
+   "en": "The assembled message from the Architect to his overseers (now correctly decoded) points toward a meeting happening at Kashiwabara Fortress.",
+   "ro": "Mesajul asamblat de la Arhitect către supraveghetorii săi (acum decodificat corect) indică o întâlnire la Fortăreața Kashiwabara."
+  },
+  {
+   "id": 12446407389258959086,
+   "en": "They are in Omi",
+   "ro": "Sunt în Omi"
+  },
+  {
+   "id": 12446538827257321971,
+   "en": "They are opposite Oyamazaki Village",
+   "ro": "Sunt vizavi de satul Oyamazaki"
+  },
+  {
+   "id": 12446540427360118488,
+   "en": "Builder's Encoded Message",
+   "ro": "Mesajul criptat al Constructorului"
+  },
+  {
+   "id": 12446655927528292456,
+   "en": "When an attempt at misdirection fails, the Scholar was revealed to be Ermigo, Rufino's long-time friend. Despite their friendship, Ermigo was not at all repentant about the plot.\n\nIn his last moments, however, Ermigo sacrificed his own life to save Rufino's.",
+   "ro": "Când au încercat să-i păcălească, s-a aflat că Savantul era Ermigo, prietenul vechi al lui Rufino. În ciuda prieteniei lor, Ermigo nu-i părea deloc rău de complot.\n\nDar în ultimele clipe, Ermigo și-a dat viața ca să-l salveze pe Rufino."
+  },
+  {
+   "id": 12446896756723187084,
+   "en": "Seta River Killers",
+   "ro": "Ucigașii de pe râul Seta"
+  },
+  {
+   "id": 12447123584607957161,
+   "en": "This person is the preeminent leader of this secretive organization and mastermind of their sinister plans.",
+   "ro": "Această persoană e liderul suprem al organizației secrete și creierul din spatele planurilor ei sinistre."
+  },
+  {
+   "id": 12447131076616528978,
+   "en": "Your hands aren't clean.##Naoe##",
+   "ro": "Mâinile tale nu sunt curate.##Naoe##"
+  },
+  {
+   "id": 12447175448658117782,
+   "en": "The Exterminator",
+   "ro": "Exterminatorul"
+  },
+  {
+   "id": 12447184582263669379,
+   "en": "Clever and cunning, this woman knew exactly how to manipulate others for profit, blood, or both. \n\nThese lands will thrive without her greed-fueled influence.",
+   "ro": "Deșteaptă și șireată, această femeie știa exact cum să-i manipuleze pe alții pentru profit, sânge sau amândouă.\n\nAceste ținuturi vor prospera fără influența ei, hrănită de lăcomie."
+  },
+  {
+   "id": 12447204565929540592,
+   "en": "Kidney Shot",
+   "ro": "Lovitura în rinichi"
+  },
+  {
+   "id": 12447556114153010267,
+   "en": "This is an assignment from the Builder to the Contractor, requiring him to bring proof of death to the Bamboo Cutter's Camp.",
+   "ro": "Asta e o misiune de la Constructor pentru Contractor: trebuie să aducă dovada morții la Tabăra tăietorului de bambus."
+  },
+  {
+   "id": 12447629279052894645,
+   "en": "True Decoded Message",
+   "ro": "Mesajul descifrat real"
+  },
+  {
+   "id": 12447883631147134572,
+   "en": "Trader",
+   "ro": "Comerciantul"
+  },
+  {
+   "id": 12447925052024588882,
+   "en": "Assassinate the Builder",
+   "ro": "Asasinează-l pe Constructor"
+  }
+ ]
+}

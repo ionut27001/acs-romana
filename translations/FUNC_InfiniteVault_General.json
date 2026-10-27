@@ -1,0 +1,4141 @@
+{
+ "package": "FUNC_InfiniteVault_en-US_General",
+ "data_id": "0000024EED72E1A5",
+ "entries": [
+  {
+   "id": 12429959262654792108,
+   "en": "Power Dash deals delayed damage",
+   "ro": "Power Dash provoacă daune întârziate"
+  },
+  {
+   "id": 12430012475301795416,
+   "en": "+{NumberTag}% Critical Chance per hit with Light Quick Strike",
+   "ro": "+{NumberTag}% șansă de lovitură critică la fiecare lovitură cu Lovitura rapidă ușoară"
+  },
+  {
+   "id": 12430025696782291895,
+   "en": "Small, fierce, and always smoldering.",
+   "ro": "Mic, aprig și mereu mocnind."
+  },
+  {
+   "id": 12430053904924628372,
+   "en": "Bitter Frost Handle",
+   "ro": "Mânerul Gerului Amar"
+  },
+  {
+   "id": 12430069475534903105,
+   "en": "Increase Health by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește viața cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12430089360730500389,
+   "en": "+{NumberTag}% of an Adrenaline Chunk when hitting Poisoned enemies",
+   "ro": "+{NumberTag}% dintr-o bucată de adrenalină la lovirea inamicilor otrăviți"
+  },
+  {
+   "id": 12430103784425640999,
+   "en": "Drink every story drop and conquer Domains",
+   "ro": "Bea din fiecare fragment de poveste și cucerește domeniile"
+  },
+  {
+   "id": 12430171438669221212,
+   "en": "Attacks have minimal impact on you and enemies",
+   "ro": "Atacurile au un impact minim asupra ta și a inamicilor"
+  },
+  {
+   "id": 12430195200563608684,
+   "en": "Attacks have minimal impact on enemies\nEnemy attacks have minimal impact on you",
+   "ro": "Atacurile au un impact minim asupra inamicilor\nAtacurile inamicilor au un impact minim asupra ta"
+  },
+  {
+   "id": 12430229886540674962,
+   "en": "Excalibur",
+   "ro": "Excalibur"
+  },
+  {
+   "id": 12430247663978241187,
+   "en": "Do you want to build a snowman? Yeah, me neither. Good luck navigating through the endless snow and ancient ice. ",
+   "ro": "Vrei să construiești un om de zăpadă? Da, nici eu. Mult noroc navigând prin zăpada fără sfârșit și gheața veche. "
+  },
+  {
+   "id": 12430259396442315260,
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "id": 12430269976516074179,
+   "en": "[Exploit Tree]",
+   "ro": "[Arborele exploatărilor]"
+  },
+  {
+   "id": 12430273422727106751,
+   "en": "Ranged Weapons Mastery",
+   "ro": "Măiestria armelor de distanță"
+  },
+  {
+   "id": 12430325372333189701,
+   "en": "Vaulting Wave",
+   "ro": "Val de săritură"
+  },
+  {
+   "id": 12430378176778139610,
+   "en": "Domain Exploits",
+   "ro": "Exploatări ale domeniului"
+  },
+  {
+   "id": 12430386628480581780,
+   "en": "Start the Domain with the [BOLD_BEGIN]Bloodsucker[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Bloodsucker[BOLD_END] grants 25% Health on hit\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Pornește Domeniul cu binecuvântarea altarului MOD [BOLD_BEGIN]Sorbitorul de sânge[BOLD_END]\n\n[BOLD_BEGIN]Sorbitorul de sânge[BOLD_END] oferă 25% Sănătate la lovitură\n\n+{NumberTag}% durată a binecuvântărilor altarului MOD"
+  },
+  {
+   "id": 12430407292380975334,
+   "en": "Once a symbol of resilience, this armor now exists in a fractured state, trapped between two digital realities",
+   "ro": "Cândva un simbol al rezistenței, această armură e acum într-o stare fracturată, prinsă între două realități digitale"
+  },
+  {
+   "id": 12430436945429344859,
+   "en": "+{NumberTag}% Armor Piercing per Affliction on enemy",
+   "ro": "+{NumberTag}% Penetrare a armurii pentru fiecare afecțiune de pe inamic"
+  },
+  {
+   "id": 12430452451609117703,
+   "en": "Each strike tears through layers of simulated reality.",
+   "ro": "Fiecare lovitură străpunge straturi de realitate simulată."
+  },
+  {
+   "id": 12430479152272175247,
+   "en": "Endless Winter Blade",
+   "ro": "Lama iernii fără sfârșit"
+  },
+  {
+   "id": 12430486121406754609,
+   "en": "Mastery Points",
+   "ro": "Puncte de maestrie"
+  },
+  {
+   "id": 12430493263350847413,
+   "en": "Cold Whisper",
+   "ro": "Șoapta rece"
+  },
+  {
+   "id": 12430499114530832832,
+   "en": "Cold Hug",
+   "ro": "Îmbrățișarea rece"
+  },
+  {
+   "id": 12430517531095760918,
+   "en": "Hard Shutdown",
+   "ro": "Oprire forțată"
+  },
+  {
+   "id": 12430547106681311196,
+   "en": "Critical on Poisoned Enemies",
+   "ro": "Lovitură critică asupra inamicilor otrăviți"
+  },
+  {
+   "id": 12430552787243084585,
+   "en": "Guardian Angels",
+   "ro": "Îngerii păzitori"
+  },
+  {
+   "id": 12430582990309818125,
+   "en": "Graveyard Smash Pommel",
+   "ro": "Măciulie Zdrobitorul de cimitire"
+  },
+  {
+   "id": 12430598585788042106,
+   "en": "Adrenaline on Dazed Enemies",
+   "ro": "Adrenalină asupra inamicilor năuciți"
+  },
+  {
+   "id": 12430600912828277519,
+   "en": "Ashen Razor Guard",
+   "ro": "Garda lamei cenușii"
+  },
+  {
+   "id": 12430630927761664032,
+   "en": "Enemies inflict Bleed Buildup on hit",
+   "ro": "Inamicii provoacă Acumulare de sângerare la lovitură"
+  },
+  {
+   "id": 12430631607974396865,
+   "en": "Health Increase",
+   "ro": "Creștere a vieții"
+  },
+  {
+   "id": 12430639094259943896,
+   "en": "Relentless",
+   "ro": "Neobosit"
+  },
+  {
+   "id": 12430648718637277277,
+   "en": "+{NumberTag}% Armor Damage per Affliction on enemy",
+   "ro": "+{NumberTag}% Daune la armură per afecțiune de pe inamic"
+  },
+  {
+   "id": 12430650072699471449,
+   "en": "+{NumberTag}% Critical Damage for every 1% over capped Critical Chance",
+   "ro": "+{NumberTag}% Daune critice pentru fiecare 1% peste limita maximă a Șansei de lovitură critică"
+  },
+  {
+   "id": 12430662005294811832,
+   "en": "Warlock Style",
+   "ro": "Stilul vrăjitorului"
+  },
+  {
+   "id": 12430670225800251662,
+   "en": "Forest Sentinel E-bu",
+   "ro": "Paznicul pădurii E-bu"
+  },
+  {
+   "id": 12430672668784843205,
+   "en": "Domain can only be entered and completed by Naoe\nCannot swap to Yasuke",
+   "ro": "Domeniul poate fi intrat și completat doar de Naoe\nNu se poate trece la Yasuke"
+  },
+  {
+   "id": 12430678329312689374,
+   "en": "A corrupted echo of Excalibur, this weapon brings catastrophe to all enemies.",
+   "ro": "Un ecou corupt al Excaliburului, această armă aduce catastrofă tuturor inamicilor."
+  },
+  {
+   "id": 12430701049260671720,
+   "en": "Infection",
+   "ro": "Infecție"
+  },
+  {
+   "id": 12430704989604046659,
+   "en": "Fractured Caliburnus Handle",
+   "ro": "Mânerul fracturat al Caliburnus"
+  },
+  {
+   "id": 12430719861754277969,
+   "en": "Enemies leave a poison cloud on death",
+   "ro": "Inamicii lasă un nor de otravă la moarte"
+  },
+  {
+   "id": 12430795696127271073,
+   "en": "Burial Thunder Teppo",
+   "ro": "Teppō Tunetul înmormântării"
+  },
+  {
+   "id": 12430850123277785351,
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "id": 12430886610585587713,
+   "en": "Simply Evie Hood",
+   "ro": "Gluga simplă Evie"
+  },
+  {
+   "id": 12430897599555003049,
+   "en": "A dagger to repair the defects in your immediate surroundings.",
+   "ro": "Un pumnal care repară defectele din jurul tău."
+  },
+  {
+   "id": 12430897819426984067,
+   "en": "Cinderfall Handle",
+   "ro": "Mânerul Cenușii căzătoare"
+  },
+  {
+   "id": 12430910194395342259,
+   "en": "Enemies inflict Frost Buildup on hit",
+   "ro": "Inamicii aplică Acumulare de îngheț la lovitură"
+  },
+  {
+   "id": 12430928341696490306,
+   "en": "Ahoy! Avast! A monument of splintered hulls and broken masts, rising up from the Japanese equivalent of Davy Jones's Locker. Yo ho!",
+   "ro": "Ahoy! Avast! Un monument din carene sfărâmate și catarge rupte, ridicat din echivalentul japonez al Sicriului lui Davy Jones. Yo ho!"
+  },
+  {
+   "id": 12430949929649451794,
+   "en": "Domain contains additional Warrior Monks",
+   "ro": "Domeniul conține călugări războinici suplimentari"
+  },
+  {
+   "id": 12430953160447442044,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12431027111949309286,
+   "en": "Verdant Edge Saya",
+   "ro": "Teaca Tăișului Verde"
+  },
+  {
+   "id": 12431110014611221853,
+   "en": "Restore {NumberTag}% Health on Weakpoint attacks",
+   "ro": "Restabilește {NumberTag}% din Sănătate la atacurile asupra punctelor slabe"
+  },
+  {
+   "id": 12431128997500849396,
+   "en": "Verdant Stone Guard",
+   "ro": "Garda de piatră verde"
+  },
+  {
+   "id": 12431134997276524271,
+   "en": "Health for Damage Reduction",
+   "ro": "Viață pentru reducerea daunelor"
+  },
+  {
+   "id": 12431182052014576202,
+   "en": "Survive death and heal {NumberTag}% of your maximum Health, once per Domain",
+   "ro": "Supraviețuiești morții și te vindeci cu {NumberTag}% din Sănătatea maximă, o dată pe fiecare Domeniu"
+  },
+  {
+   "id": 12431204156280626109,
+   "en": "Domain closes instantly upon death",
+   "ro": "Domeniul se închide instant la moarte"
+  },
+  {
+   "id": 12431213460725795968,
+   "en": "Fire Arrow",
+   "ro": "Săgeată de foc"
+  },
+  {
+   "id": 12431258614036893639,
+   "en": "MODcoin Orbs appear in Domains, receive MODcoins when gathered\n\nNumber of MODcoin Orbs in Domains: [BOLD_BEGIN]{NumberTag1}[BOLD_END] – [BOLD_BEGIN]{NumberTag2}[BOLD_END] ",
+   "ro": "Sferele MODcoin apar în Domenii, iar atunci când sunt adunate primești MODcoin\n\nNumărul de Sfere MODcoin din Domenii: [BOLD_BEGIN]{NumberTag1}[BOLD_END] – [BOLD_BEGIN]{NumberTag2}[BOLD_END] "
+  },
+  {
+   "id": 12431273070104758310,
+   "en": "Shuriken Combo",
+   "ro": "Combo cu shuriken"
+  },
+  {
+   "id": 12431274947690735745,
+   "en": "Currencies",
+   "ro": "Monede"
+  },
+  {
+   "id": 12431308114750738633,
+   "en": "Lucid Memory Clothing",
+   "ro": "Îmbrăcăminte a memoriei lucide"
+  },
+  {
+   "id": 12431308891066142550,
+   "en": "Generate a new Domain",
+   "ro": "Generează un domeniu nou"
+  },
+  {
+   "id": 12431320697091474733,
+   "en": "Endless Winter",
+   "ro": "Iarnă fără sfârșit"
+  },
+  {
+   "id": 12431322171692238067,
+   "en": "For when you're ready to mash some monsters.",
+   "ro": "Pentru când ai chef să zdrobești niște monștri."
+  },
+  {
+   "id": 12431324171055666970,
+   "en": "Crescent Strike creates an explosion",
+   "ro": "Lovitura Crescent creează o explozie"
+  },
+  {
+   "id": 12431324613266110694,
+   "en": "Excalibur Handle",
+   "ro": "Mâner Excalibur"
+  },
+  {
+   "id": 12431331165197697846,
+   "en": "Army of One",
+   "ro": "Armată de unul singur"
+  },
+  {
+   "id": 12431353697342743980,
+   "en": "Lose Health on Critical Strike",
+   "ro": "Pierzi viață la lovitură critică"
+  },
+  {
+   "id": 12431362835787784071,
+   "en": "Icicle Reach Guard",
+   "ro": "Gardă a Întinderii de țurțuri"
+  },
+  {
+   "id": 12431368139839017557,
+   "en": "Cinderfall Saya",
+   "ro": "Teaca Căderii de cenușă"
+  },
+  {
+   "id": 12431387479788390582,
+   "en": "Impale leaves roots that slow enemies",
+   "ro": "Împalarea lasă rădăcini care încetinesc inamicii"
+  },
+  {
+   "id": 12431399182884237269,
+   "en": "Enemies recover {NumberTag}% Health on hit\nBosses recover {NumberTag2}% Health on hit",
+   "ro": "Inamicii își recuperează {NumberTag}% din Sănătate la lovitură\nBossii își recuperează {NumberTag2}% din Sănătate la lovitură"
+  },
+  {
+   "id": 12431449233242837476,
+   "en": "Critical Chance per Affliction",
+   "ro": "Șansă critică per afecțiune"
+  },
+  {
+   "id": 12431475536686808519,
+   "en": "Frost Affliction Duration",
+   "ro": "Durata afecțiunii de gheață"
+  },
+  {
+   "id": 12431476774903630713,
+   "en": "Gateway Status: OPEN\n\nTravel to the Gateway to enter the active Domain.",
+   "ro": "Stare Poartă: DESCHISĂ\n\nDeplasează-te la Poartă ca să intri în Domeniul activ."
+  },
+  {
+   "id": 12431540840369526745,
+   "en": "Tokens are required to open the Gateway to Domains.",
+   "ro": "Sunt necesare jetoane ca să deschizi Poarta către Domenii."
+  },
+  {
+   "id": 12431602609198945247,
+   "en": "Targeted Shard",
+   "ro": "Fragment țintit"
+  },
+  {
+   "id": 12431614486465757955,
+   "en": "Increase Affliction Build Up by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește Acumularea afecțiunilor cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12431643425901924190,
+   "en": "True Assassin",
+   "ro": "Adevăratul asasin"
+  },
+  {
+   "id": 12431648828295021832,
+   "en": "Hard Shutdown Decoration",
+   "ro": "Decorațiune de oprire forțată"
+  },
+  {
+   "id": 12431662615199459234,
+   "en": "Ranged Weapons Mastery",
+   "ro": "Măiestria armelor de distanță"
+  },
+  {
+   "id": 12431664539966024908,
+   "en": "Build up Static Energy when not moving and lose it when moving\nStatic Energy explodes after a short time\nExplosion damages you and enemies",
+   "ro": "Acumulezi Energie statică atunci când stai nemișcat și o pierzi când te miști\nEnergia statică explodează după puțin timp\nExplozia îți face daune și ție, și inamicilor"
+  },
+  {
+   "id": 12431664706265541447,
+   "en": "Health Segment on Brutal Assassination",
+   "ro": "Segment de viață la asasinat brutal"
+  },
+  {
+   "id": 12431711185798148879,
+   "en": "Melee hits and Tools inflict {NumberTag}% Fire Buildup\n+{NumberTag2}% damage with Fire affliction\nNon-Afflicted enemies take {NumberTag3}% reduced damage",
+   "ro": "Loviturile corp la corp și Uneltele provoacă {NumberTag}% Acumulare de foc\n+{NumberTag2}% daune cu afecțiunea de foc\nInamicii fără afecțiune primesc {NumberTag3}% mai puține daune"
+  },
+  {
+   "id": 12431712052414584178,
+   "en": "Workaround Chain",
+   "ro": "Lanț improvizat"
+  },
+  {
+   "id": 12431717169994173896,
+   "en": "Near Death Prowess",
+   "ro": "Măiestrie aproape de moarte"
+  },
+  {
+   "id": 12431717409288822654,
+   "en": "A weapon to turn your enemies into genetic memories.",
+   "ro": "O armă care transformă inamicii în amintiri genetice."
+  },
+  {
+   "id": 12431758453657974243,
+   "en": "[Forge]",
+   "ro": "[Forjă]"
+  },
+  {
+   "id": 12431772838329572112,
+   "en": "+{NumberTag}% Armor Damage when hitting Poisoned enemies",
+   "ro": "+{NumberTag}% daune asupra armurii când lovești inamici otrăviți"
+  },
+  {
+   "id": 12431782934518910412,
+   "en": "+{NumberTag}% damage with Teppo for every 1% of over-capped Reload Speed",
+   "ro": "+{NumberTag}% daune cu teppō pentru fiecare 1% de Viteză de reîncărcare peste limită"
+  },
+  {
+   "id": 12431784176146060307,
+   "en": "Ration on Entanglement",
+   "ro": "Rație la încurcare"
+  },
+  {
+   "id": 12431790994760743394,
+   "en": "Kaijin Hood",
+   "ro": "Gluga Kaijin"
+  },
+  {
+   "id": 12431801670320442333,
+   "en": "+{NumberTag}% damage with Katana or Long Katana attacks\nEnemies take {NumberTag2}% reduced damage from other weapon types",
+   "ro": "+{NumberTag}% daune cu katana sau Katana lungă\nInamicii primesc {NumberTag2}% mai puține daune de la celelalte tipuri de arme"
+  },
+  {
+   "id": 12431837765169093821,
+   "en": "Desynchronizer Pommel",
+   "ro": "Măciulia Desincronizatorului"
+  },
+  {
+   "id": 12431838681984272275,
+   "en": "Shrines appear in Domains, giving powerful bonuses on interact for 2 minutes\n\nNumber of Shrines in Domains: [BOLD_BEGIN]{NumberTag1}[BOLD_END] – [BOLD_BEGIN]{NumberTag2}[BOLD_END]",
+   "ro": "Altarele apar în Domenii și oferă bonusuri puternice la interacțiune timp de 2 minute\n\nNumărul de altare din Domenii: [BOLD_BEGIN]{NumberTag1}[BOLD_END] – [BOLD_BEGIN]{NumberTag2}[BOLD_END]"
+  },
+  {
+   "id": 12431851752822480395,
+   "en": "+{NumberTag}% Critical Chance when hitting Poisoned enemies",
+   "ro": "+{NumberTag}% Șansă de lovitură critică atunci când lovești inamici otrăviți"
+  },
+  {
+   "id": 12431903093350544857,
+   "en": "Increase the amount of MODcoins received at the end of Domains by {NumberTag}%",
+   "ro": "Crește cu {NumberTag}% numărul de MODcoins primiți la finalul Domeniilor"
+  },
+  {
+   "id": 12431919937536497715,
+   "en": "System Glitch Guard",
+   "ro": "Gardă a defecțiunii de sistem"
+  },
+  {
+   "id": 12431940785285773739,
+   "en": "Throwing Energy",
+   "ro": "Energie de aruncare"
+  },
+  {
+   "id": 12431976495644675164,
+   "en": "Spontaneous Combustion",
+   "ro": "Ardere spontană"
+  },
+  {
+   "id": 12431997680587366076,
+   "en": "Non-Afflicted enemies take less damage",
+   "ro": "Inamicii neafectați primesc mai puține daune"
+  },
+  {
+   "id": 12432022361183321514,
+   "en": "Heat Wave E-bu",
+   "ro": "Val de căldură E-bu"
+  },
+  {
+   "id": 12432096113003063277,
+   "en": "Increase Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12432099408554004049,
+   "en": "Domains",
+   "ro": "Domenii"
+  },
+  {
+   "id": 12432185974274058614,
+   "en": "Retreating Shot leaves roots that slow enemies",
+   "ro": "Lovitura din retragere lasă rădăcini care încetinesc inamicii"
+  },
+  {
+   "id": 12432236352831740898,
+   "en": "Patient Zero",
+   "ro": "Pacientul zero"
+  },
+  {
+   "id": 12432288946062692200,
+   "en": "Reduce all cooldowns by {NumberTag}% after breaking armor",
+   "ro": "Reduce toți timpii de recuperare cu {NumberTag}% după ce spargi armura"
+  },
+  {
+   "id": 12432306650992961706,
+   "en": "Damage Increase",
+   "ro": "Creștere a daunelor"
+  },
+  {
+   "id": 12432337698368333836,
+   "en": "Morbid Bloom Saya",
+   "ro": "Teaca Înfloririi morbide"
+  },
+  {
+   "id": 12432342351719248163,
+   "en": "Armor Piercing on Dazed Enemies",
+   "ro": "Penetrarea armurii asupra inamicilor amețiți"
+  },
+  {
+   "id": 12432365005988024045,
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "id": 12432378831706035958,
+   "en": "Freezer Burn Teppo",
+   "ro": "Teppō Arsura de gheață"
+  },
+  {
+   "id": 12432388241623687552,
+   "en": "Armor Damage per Affliction",
+   "ro": "Daune asupra armurii per afecțiune"
+  },
+  {
+   "id": 12432413287425826736,
+   "en": "Engravings – Long Katana",
+   "ro": "Gravuri – Katana lungă"
+  },
+  {
+   "id": 12432440931387810649,
+   "en": "Start the Domain with the [BOLD_BEGIN]Everyone's a Critic[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Everyone's a Critic[BOLD_END] grants +100% Critical Chance\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Începe Domeniul cu bonusul de altar MOD [BOLD_BEGIN]Toți sunt critici[BOLD_END]\n\n[BOLD_BEGIN]Toți sunt critici[BOLD_END] oferă +100% Șansă de lovitură critică\n\n+{NumberTag}% durată pentru bonusurile altarelor MOD"
+  },
+  {
+   "id": 12432470219762516075,
+   "en": "A blade forged in ash, still glowing with buried embers.",
+   "ro": "O lamă făurită în cenușă, care încă strălucește cu jăraticul îngropat în ea."
+  },
+  {
+   "id": 12432475204058826387,
+   "en": "Scorched Earth Shaft",
+   "ro": "Tija pământului pârjolit"
+  },
+  {
+   "id": 12432481838073167540,
+   "en": "Workaround Entanglement",
+   "ro": "Încurcare improvizată"
+  },
+  {
+   "id": 12432496597969452962,
+   "en": "Icicle Reach",
+   "ro": "Întinderea de țurțuri"
+  },
+  {
+   "id": 12432504117467144736,
+   "en": "Start Domain with Patient Zero boon",
+   "ro": "Începe Domeniul cu bonusul Pacientul zero"
+  },
+  {
+   "id": 12432506845832857333,
+   "en": "Increase Armor Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele asupra armurii cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12432527394343659173,
+   "en": "Dramatic yet ultimately simple, this is Evie's outfit of choice. (What’s this, Greenie, Assassin Christmas?)",
+   "ro": "Dramatic, dar până la urmă simplu, asta e ținuta preferată a Evie. (Ce e asta, Greenie, Crăciunul asasinului?)"
+  },
+  {
+   "id": 12432554709725239311,
+   "en": "Fiery Surprise",
+   "ro": "Surpriză înflăcărată"
+  },
+  {
+   "id": 12432572374624841190,
+   "en": "Heavy Combo Enders & Criticals create a Dazing burst",
+   "ro": "Finalizatorii grei din combo și loviturile critice provoacă o izbucnire care amețește"
+  },
+  {
+   "id": 12432575978479377057,
+   "en": "Generate a new Domain to discover the modifier",
+   "ro": "Generează un domeniu nou ca să descoperi modificatorul"
+  },
+  {
+   "id": 12432610854451044749,
+   "en": "Gain one Lightning Orb every {NumberTag} seconds\nOne Lightning Orb explodes when hit, dealing damage to nearby enemies",
+   "ro": "Câștigi o Sferă de fulger la fiecare {NumberTag} secunde\nO Sferă de fulger explodează când e lovită, provocând daune inamicilor din apropiere"
+  },
+  {
+   "id": 12432625368636166710,
+   "en": "Reduce the cost of opening a Domain by {NumberTag}%",
+   "ro": "Reduce costul deschiderii unui Domeniu cu {NumberTag}%"
+  },
+  {
+   "id": 12432645786517036575,
+   "en": "Start Domain with Everyone's a Critic boon",
+   "ro": "Începe Domeniul cu bonusul Toți sunt critici"
+  },
+  {
+   "id": 12432676595766576044,
+   "en": "+{NumberTag}% Critical Chance when hitting Dazed enemies",
+   "ro": "+{NumberTag}% Șansă de lovitură critică atunci când lovești inamici Amețiți"
+  },
+  {
+   "id": 12432686037583310814,
+   "en": "Assassin Tomahawk Blade",
+   "ro": "Lama tomahawkului de asasin"
+  },
+  {
+   "id": 12432722434853343191,
+   "en": "Pushback on surrounding enemies upon Bull Rush",
+   "ro": "Inamicii din jur sunt respinși la Atacul taurului"
+  },
+  {
+   "id": 12432751543877119349,
+   "en": "Flickering Kaen",
+   "ro": "Kaen pâlpâitor"
+  },
+  {
+   "id": 12432752434079626643,
+   "en": "Tempo Explosion",
+   "ro": "Explozie de ritm"
+  },
+  {
+   "id": 12432800352958529618,
+   "en": "Fire Whirl Blade",
+   "ro": "Lama vârtejului de foc"
+  },
+  {
+   "id": 12432803365590486963,
+   "en": "Unstable Anomalies knock you back",
+   "ro": "Anomaliile instabile te resping"
+  },
+  {
+   "id": 12432812107213916855,
+   "en": "Storm Watch",
+   "ro": "Straja furtunii"
+  },
+  {
+   "id": 12432865020975431065,
+   "en": "Domain can only be entered and completed by Yasuke\nCannot swap to Naoe",
+   "ro": "Domeniul poate fi accesat și terminat doar de Yasuke\nNu poți comuta la Naoe"
+  },
+  {
+   "id": 12432872791770105100,
+   "en": "Pushback on surrounding enemies on consecutive deflects",
+   "ro": "Inamicii din jur sunt respinși la deviările consecutive"
+  },
+  {
+   "id": 12432886190240411516,
+   "en": "+{NumberTag}% Frost Buildup with regular arrows",
+   "ro": "+{NumberTag}% Acumulare de îngheț cu săgețile obișnuite"
+  },
+  {
+   "id": 12432912260147716015,
+   "en": "Engravings – Kusarigama",
+   "ro": "Gravuri – Kusarigama"
+  },
+  {
+   "id": 12432926103544809867,
+   "en": "Excalibur Guard",
+   "ro": "Gardă Excalibur"
+  },
+  {
+   "id": 12432978434160989051,
+   "en": "+{NumberTag}% Critical Damage\nEnemies take {NumberTag2}% reduced damage from non-critical strikes",
+   "ro": "+{NumberTag}% Daune critice\nInamicii primesc {NumberTag2}% mai puține daune de la loviturile necritice"
+  },
+  {
+   "id": 12433031628310223012,
+   "en": "Hunger Games",
+   "ro": "Jocurile foametei"
+  },
+  {
+   "id": 12433038037291589872,
+   "en": "All enemies are armored, cannot pierce armor",
+   "ro": "Toți inamicii au armură, pe care nu o poți străpunge"
+  },
+  {
+   "id": 12433094143165910821,
+   "en": "Non-Afflicted enemies take less damage",
+   "ro": "Inamicii neafectați primesc mai puține daune"
+  },
+  {
+   "id": 12433108897364818674,
+   "en": "Affliction Manipulator",
+   "ro": "Manipulatorul afecțiunilor"
+  },
+  {
+   "id": 12433116295092617501,
+   "en": "Firestarter",
+   "ro": "Aprinzătorul de foc"
+  },
+  {
+   "id": 12433148261447464511,
+   "en": "Shadow Piercer drains Health on hit",
+   "ro": "Străpungătorul umbrelor absoarbe Sănătate la lovitură"
+  },
+  {
+   "id": 12433153328143878029,
+   "en": "Burnout",
+   "ro": "Epuizare"
+  },
+  {
+   "id": 12433197151353643101,
+   "en": "Bladed Weapons Mastery",
+   "ro": "Măiestria armelor cu lamă"
+  },
+  {
+   "id": 12433200880103131574,
+   "en": "Adrenaline on Burning Enemies",
+   "ro": "Adrenalină la inamicii în flăcări"
+  },
+  {
+   "id": 12433245403658577809,
+   "en": "Damage per Affliction",
+   "ro": "Daune pe afecțiune"
+  },
+  {
+   "id": 12433276408645184640,
+   "en": "Domain contains less enemies",
+   "ro": "Domeniul conține mai puțini inamici"
+  },
+  {
+   "id": 12433285373803515771,
+   "en": "+{NumberTag}% Critical Chance on next hit after sprinting",
+   "ro": "+{NumberTag}% Șansă de lovitură critică la următoarea lovitură după alergare"
+  },
+  {
+   "id": 12433315961125448492,
+   "en": "Animus Anomaly Hood",
+   "ro": "Glugă Anomalie Animus"
+  },
+  {
+   "id": 12433356060706423000,
+   "en": "Run Forge Program",
+   "ro": "Rulează programul de forjare"
+  },
+  {
+   "id": 12433365567793788051,
+   "en": "Affliction Build Up",
+   "ro": "Acumularea afecțiunilor"
+  },
+  {
+   "id": 12433372907419507844,
+   "en": "Domain contains only Guardian enemies",
+   "ro": "Domeniul conține doar inamici Gardieni"
+  },
+  {
+   "id": 12433382869388603650,
+   "en": "Cinderfall Guard",
+   "ro": "Gardă Cădere de cenușă"
+  },
+  {
+   "id": 12433398536599421049,
+   "en": "+{NumberTag}% damage with Fire Affliction",
+   "ro": "+{NumberTag}% daune cu afecțiunea de foc"
+  },
+  {
+   "id": 12433401342921597951,
+   "en": "Mercenary Helmet",
+   "ro": "Coif de mercenar"
+  },
+  {
+   "id": 12433420031410391343,
+   "en": "Nature herself seems to close in on this weapon's victim.",
+   "ro": "Parcă și natura se apropie de victima acestei arme."
+  },
+  {
+   "id": 12433459052295197753,
+   "en": "Tokens",
+   "ro": "Jetoane"
+  },
+  {
+   "id": 12433494287983298333,
+   "en": "Each shot tears a hole in continuity rather than flesh alone.",
+   "ro": "Fiecare împușcătură sfâșie o gaură în continuitate, nu doar în carne."
+  },
+  {
+   "id": 12433507408676155927,
+   "en": "You Are Already Dead",
+   "ro": "Ești deja mort"
+  },
+  {
+   "id": 12433524209047285179,
+   "en": "Trigger Frost Affliction on next hit after a Vault",
+   "ro": "Declanșează afecțiunea de îngheț la următoarea lovitură după un Seif"
+  },
+  {
+   "id": 12433544260137996127,
+   "en": "Sold by MOD",
+   "ro": "Vândut de MOD"
+  },
+  {
+   "id": 12433640552102362522,
+   "en": "Scorched Earth Pommel",
+   "ro": "Măciulie Pământul pârjolit"
+  },
+  {
+   "id": 12433642822886468002,
+   "en": "Attacks apply a random Affliction",
+   "ro": "Atacurile aplică o afecțiune aleatorie"
+  },
+  {
+   "id": 12433645902510054924,
+   "en": "Fire Whirl",
+   "ro": "Vârtejul de foc"
+  },
+  {
+   "id": 12433646762864676156,
+   "en": "Burning Showdown",
+   "ro": "Confruntarea în flăcări"
+  },
+  {
+   "id": 12433652340538851089,
+   "en": "A blade carved from ancient stone, awakened by the forest.",
+   "ro": "O lamă sculptată din piatră veche, trezită de pădure."
+  },
+  {
+   "id": 12433694592929564980,
+   "en": "Bug Fixer Handle",
+   "ro": "Mânerul reparatorului de erori"
+  },
+  {
+   "id": 12433759068438603063,
+   "en": "Cold Whisper Saya",
+   "ro": "Teaca Șoaptei reci"
+  },
+  {
+   "id": 12433766163413937087,
+   "en": "Heat Wave Blade",
+   "ro": "Lama Valului de căldură"
+  },
+  {
+   "id": 12433814584340403761,
+   "en": "Start the Domain with the [BOLD_BEGIN]Conduit[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Conduit[BOLD_END] deals energy damage around you\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Începe Domeniul cu bonusul de altar MOD [BOLD_BEGIN]Conductor[BOLD_END]\n\n[BOLD_BEGIN]Conductor[BOLD_END] provoacă daune de energie în jurul tău\n\n+{NumberTag}% durată pentru bonusurile altarelor MOD"
+  },
+  {
+   "id": 12433840562800265714,
+   "en": "Verdant Edge Blade",
+   "ro": "Lama Tăișului verde"
+  },
+  {
+   "id": 12433844009859673909,
+   "en": "Dodge deals {NumberTag}% Weapon damage around you",
+   "ro": "Ferește-te provoacă {NumberTag}% din daunele armei în jurul tău"
+  },
+  {
+   "id": 12433859062393187932,
+   "en": "High Posture hits reset Fire Affliction",
+   "ro": "Loviturile din Postură înaltă resetează afecțiunea de foc"
+  },
+  {
+   "id": 12433903198431672950,
+   "en": "A weapon that brings the heat to anyone who stands in your way.",
+   "ro": "O armă care aduce focul asupra oricui îți stă în cale."
+  },
+  {
+   "id": 12433933180314533163,
+   "en": "Disassembler Guard",
+   "ro": "Gardă Dezasamblator"
+  },
+  {
+   "id": 12433946975641636859,
+   "en": "On Fire",
+   "ro": "În flăcări"
+  },
+  {
+   "id": 12433977607034943002,
+   "en": "Crimson Horizon Bow",
+   "ro": "Arcul Orizontului carmin"
+  },
+  {
+   "id": 12434056979316922139,
+   "en": "Melee hits and Tools inflict {NumberTag}% Poison Buildup\n+{NumberTag2}% damage with Poison affliction\nNon-Afflicted enemies take {NumberTag3}% reduced damage",
+   "ro": "Loviturile corp la corp și Uneltele provoacă {NumberTag}% Acumulare de otravă\n+{NumberTag2}% daune cu afecțiunea de otravă\nInamicii fără afecțiune primesc {NumberTag3}% mai puține daune"
+  },
+  {
+   "id": 12434058483940756703,
+   "en": "Spontaneous Combustion Ammo Pouch",
+   "ro": "Tolbă de combustie spontană"
+  },
+  {
+   "id": 12434072073700530833,
+   "en": "Domain must be completed using Yasuke",
+   "ro": "Domeniul trebuie terminat folosind Yasuke"
+  },
+  {
+   "id": 12434083525322514428,
+   "en": "Gateway status: CLOSED\n\nComplete Corrupted Castles or Animus Anomalies to obtain [TX_VaultKey] Tokens and open a new Gateway.\n\n[TX_VaultKey] Tokens required: {NumberTag1} / {NumberTag2}",
+   "ro": "Starea porții: ÎNCHISĂ\n\nFinalizează Castelele corupte sau Anomaliile Animus ca să obții [TX_VaultKey] Jetoane și să deschizi o nouă Poartă.\n\nJetoane [TX_VaultKey] necesare: {NumberTag1} / {NumberTag2}"
+  },
+  {
+   "id": 12434091896517196568,
+   "en": "Holy Warriors",
+   "ro": "Războinicii sfinți"
+  },
+  {
+   "id": 12434092425474577905,
+   "en": "Static Shock",
+   "ro": "Șoc static"
+  },
+  {
+   "id": 12434095997661166292,
+   "en": "Game Difficulty",
+   "ro": "Dificultatea jocului"
+  },
+  {
+   "id": 12434101211197913272,
+   "en": "Randomized Strike",
+   "ro": "Lovitură aleatorie"
+  },
+  {
+   "id": 12434116312533340059,
+   "en": "Constructive Criticism",
+   "ro": "Critică constructivă"
+  },
+  {
+   "id": 12434146860475389727,
+   "en": "Consumables are disabled",
+   "ro": "Consumabilele sunt dezactivate"
+  },
+  {
+   "id": 12434154339674314920,
+   "en": "This outfit comes with a cheat code to make your Kunai more powerful.",
+   "ro": "Această ținută vine cu un cod de trișare ca să îți întărești kunaiul."
+  },
+  {
+   "id": 12434183629723218661,
+   "en": "+{NumberTag}% Armor Damage when hitting Fire-Afflicted enemies",
+   "ro": "+{NumberTag}% daune asupra armurii când lovești inamicii afectați de Foc"
+  },
+  {
+   "id": 12434191991414134265,
+   "en": "Head to the [TX_Gateway] Gateway and use [TX_VaultKey] Tokens to generate new Domains. \n\nThese Tokens can be found in [TX_AnimusQuest] Anomalies, [TX_GlitchedCastle] Corrupted Castles and in the Exchange using [TX_AnimusCurrency] Keys.\n\nEach Domain is procedurally unique, featuring different environments, enemies, and up to three gameplay modifiers to keep the challenge fresh every time. \n\nCompleting a Domain rewards [TX_ModCoin] MODcoin, a special currency that can be spent in the MOD Shop to purchase equipment or Exploits to help push the challenge even further. \n\nThe higher the difficulty you take on, the more [TX_ModCoin] MODcoins you’ll earn.",
+   "ro": "Mergi la Poarta [TX_Gateway] și folosește [TX_VaultKey] Jetoane ca să generezi Domenii noi.\n\nAceste Jetoane pot fi găsite în Anomaliile [TX_AnimusQuest] , în Castelele corupte [TX_GlitchedCastle] și la Schimb, folosind [TX_AnimusCurrency] Chei.\n\nFiecare Domeniu este generat procedural, unic, cu medii, inamici diferiți și până la trei modificatori de joc, ca provocarea să rămână proaspătă de fiecare dată.\n\nFinalizarea unui Domeniu îți aduce [TX_ModCoin] MODcoin, o monedă specială care poate fi cheltuită în Magazinul MOD pe echipament sau pe Exploit-uri, ca să îngreunezi și mai mult provocarea.\n\nCu cât alegi o dificultate mai mare, cu atât o să câștigi mai mulți [TX_ModCoin] MODcoin."
+  },
+  {
+   "id": 12434250550600624324,
+   "en": "MODcoin",
+   "ro": "MODcoin"
+  },
+  {
+   "id": 12434281108568834677,
+   "en": "Start the Domain with the [BOLD_BEGIN]Patient Zero[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Patient Zero[BOLD_END] causes all attacks apply a random Affliction\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Începe Domeniul cu binecuvântarea de la Altarul MOD [BOLD_BEGIN]Pacientul zero[BOLD_END]\n\n[BOLD_BEGIN]Pacientul zero[BOLD_END] face ca toate atacurile să aplice o Suferință aleatorie\n\n+{NumberTag}% durata binecuvântărilor de la Altarul MOD"
+  },
+  {
+   "id": 12434281237039333833,
+   "en": "Broken Spear of Leonidas Handle",
+   "ro": "Mânerul suliței sparte a lui Leonidas"
+  },
+  {
+   "id": 12434288397677276294,
+   "en": "Attacks push back enemies\nEnemy attacks push you back",
+   "ro": "Atacurile resping inamicii\nAtacurile inamicilor te resping înapoi"
+  },
+  {
+   "id": 12434291945478214952,
+   "en": "A flamboyant armor that blends extravagance and madness.",
+   "ro": "O armură extravagantă, la limita dintre fală și nebunie."
+  },
+  {
+   "id": 12434318865661931479,
+   "en": "Melee hits and Tools inflict {NumberTag}% Daze Buildup\n+{NumberTag2}% damage when hitting Dazed enemies\nNon-Afflicted enemies take {NumberTag3}% reduced damage",
+   "ro": "Loviturile corp la corp și Uneltele provoacă {NumberTag}% Acumulare de amețeală\n+{NumberTag2}% daune când lovești inamicii Amețiți\nInamicii fără Suferință primesc {NumberTag3}% mai puține daune"
+  },
+  {
+   "id": 12434351537878714009,
+   "en": "Enemies recover {NumberTag}% Health per second after not being hit for {NumberTag2} seconds\nBosses recover {NumberTag3}% Health per second after not being hit for {NumberTag4} seconds",
+   "ro": "Inamicii își recuperează {NumberTag}% din Sănătate pe secundă după ce nu au fost loviți timp de {NumberTag2} secunde\nBoșii își recuperează {NumberTag3}% din Sănătate pe secundă după ce nu au fost loviți timp de {NumberTag4} secunde"
+  },
+  {
+   "id": 12434422230542525674,
+   "en": "Start the Domain with the [BOLD_BEGIN]Overclocked[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Overclocked[BOLD_END] removes all Adrenaline costs and cooldowns\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Începe Domeniul cu binecuvântarea de la Altarul MOD [BOLD_BEGIN]Supratactat[BOLD_END]\n\n[BOLD_BEGIN]Supratactat[BOLD_END] elimină toate costurile de Adrenalină și timpii de reîncărcare\n\n+{NumberTag}% durata binecuvântărilor de la Altarul MOD"
+  },
+  {
+   "id": 12434424094508536654,
+   "en": "Combo Shards",
+   "ro": "Fragmente de combo"
+  },
+  {
+   "id": 12434428589915216313,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12434435034579350180,
+   "en": "Increase Ability Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele abilităților cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12434449550385618557,
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "id": 12434465339099645098,
+   "en": "Domain contains additional Warrior Monks",
+   "ro": "Domeniul conține călugări războinici suplimentari"
+  },
+  {
+   "id": 12434465916628834666,
+   "en": "Fire Whirl Chain",
+   "ro": "Lanțul vârtejului de foc"
+  },
+  {
+   "id": 12434480638556576542,
+   "en": "Abilities cost no Adrenaline but {NumberTag}% Cooldown Reduction",
+   "ro": "Abilitățile nu costă Adrenalină, dar cu {NumberTag}% reducere a timpului de reîncărcare"
+  },
+  {
+   "id": 12434491620374798950,
+   "en": "Domain closes instantly after a time limit",
+   "ro": "Domeniul se închide imediat ce expiră timpul"
+  },
+  {
+   "id": 12434521585617837084,
+   "en": "Domain contains only Guardian enemies",
+   "ro": "Domeniul conține doar inamici Gardieni"
+  },
+  {
+   "id": 12434540012323958226,
+   "en": "Modifiers",
+   "ro": "Modificatori"
+  },
+  {
+   "id": 12434577867348778099,
+   "en": "Fractured Caliburnus Guard",
+   "ro": "Gardă Caliburnus fracturată"
+  },
+  {
+   "id": 12434610747799148535,
+   "en": "Reduce all cooldowns by {NumberTag}% on Deflect",
+   "ro": "Reduce toți timpii de reîncărcare cu {NumberTag}% când parezi"
+  },
+  {
+   "id": 12434624631083988213,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12434638326125925016,
+   "en": "Increase Cooldown Reduction by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește reducerea timpului de reîncărcare cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12434663766962357225,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12434707152509261008,
+   "en": "Enemies around you take energy damage",
+   "ro": "Inamicii din jurul tău primesc daune de energie"
+  },
+  {
+   "id": 12434710063953413699,
+   "en": "Assassin Tomahawk Counterweight",
+   "ro": "Contragreutate pentru tomahawk de asasin"
+  },
+  {
+   "id": 12434717895858871960,
+   "en": "The Megalithic Domain",
+   "ro": "Domeniul megalitic"
+  },
+  {
+   "id": 12434718580243730235,
+   "en": "Kaijin Outfit",
+   "ro": "Ținuta Kaijin"
+  },
+  {
+   "id": 12434743829012575052,
+   "en": "Conduit",
+   "ro": "Conductor"
+  },
+  {
+   "id": 12434750123102624134,
+   "en": "Kaiju Helmet",
+   "ro": "Coiful Kaiju"
+  },
+  {
+   "id": 12434765749519375092,
+   "en": "All enemies recover health on hit",
+   "ro": "Toți inamicii își recuperează sănătate la lovitură"
+  },
+  {
+   "id": 12434768909530278716,
+   "en": "Firestarter Saya",
+   "ro": "Teaca Aprinzătorului"
+  },
+  {
+   "id": 12434791019341148777,
+   "en": "+{NumberTag}% damage with Abilities\nLose {NumberTag2}% of an Adrenaline Chunk per second",
+   "ro": "+{NumberTag}% daune cu abilitățile\nPierzi {NumberTag2}% dintr-o Bucată de adrenalină pe secundă"
+  },
+  {
+   "id": 12434811214656793812,
+   "en": "Start Domain with Bloodsucker boon",
+   "ro": "Începe domeniul cu binecuvântarea Sângerosului"
+  },
+  {
+   "id": 12434839230417818348,
+   "en": "Domain contains poison clouds\nPoison clouds apply Poison buildup to you",
+   "ro": "Domeniul conține nori de otravă\nNorii de otravă îți aplică acumulare de Otravă"
+  },
+  {
+   "id": 12434843991835466660,
+   "en": "Domain Boss has extra abilities",
+   "ro": "Șeful domeniului are abilități suplimentare"
+  },
+  {
+   "id": 12434844835593054339,
+   "en": "Disassembler",
+   "ro": "Dezasamblator"
+  },
+  {
+   "id": 12434873836764923010,
+   "en": "Domain contains additional Outlaws",
+   "ro": "Domeniul conține hoți suplimentari"
+  },
+  {
+   "id": 12434879689594555557,
+   "en": "{NumberTag}% chance to refund Adrenaline cost",
+   "ro": "{NumberTag}% șansă să recuperezi costul de Adrenalină"
+  },
+  {
+   "id": 12434880021552626639,
+   "en": "Graveyard Smash Head",
+   "ro": "Capul zdrobitor al cimitirului"
+  },
+  {
+   "id": 12434883434460059171,
+   "en": "Energized Damage",
+   "ro": "Daune energizate"
+  },
+  {
+   "id": 12434899148748578904,
+   "en": "+{NumberTag}% damage with Bow for every 1% of over-capped Arrow Nock Speed",
+   "ro": "+{NumberTag}% daune cu arcul pentru fiecare 1% din Viteza de încocare a săgeții peste limită"
+  },
+  {
+   "id": 12434904193550054342,
+   "en": "All enemies are armored, cannot break armor",
+   "ro": "Toți inamicii au armură, care nu poate fi distrusă"
+  },
+  {
+   "id": 12434943292554093950,
+   "en": "Kassandra took her job very seriously and showed it with this classic helm.",
+   "ro": "Kassandra s-a luat în serios cu meseria și o arată cu coiful ăsta clasic."
+  },
+  {
+   "id": 12434947088324792355,
+   "en": "Character Enhancement",
+   "ro": "Îmbunătățirea personajului"
+  },
+  {
+   "id": 12434956013437554019,
+   "en": "Exploit Tree",
+   "ro": "Arborele exploatărilor"
+  },
+  {
+   "id": 12434962558742409701,
+   "en": "Engravings – Any Weapon",
+   "ro": "Gravuri – Orice armă"
+  },
+  {
+   "id": 12434965325104481241,
+   "en": "All enemies are armored\nCannot pierce armor",
+   "ro": "Toți inamicii au armură\nArmura nu poate fi străpunsă"
+  },
+  {
+   "id": 12435010987483516651,
+   "en": "Shockwave",
+   "ro": "Undă de șoc"
+  },
+  {
+   "id": 12435016192919151943,
+   "en": "Ice Queen Bo Decoration",
+   "ro": "Decorațiune bō Regina de gheață"
+  },
+  {
+   "id": 12435028152667205441,
+   "en": "+{NumberTag}% chance to refill a Tool on Vault",
+   "ro": "+{NumberTag}% șansă să reumpli o Unealtă la Seif"
+  },
+  {
+   "id": 12435039596486627638,
+   "en": "Samurai Stand surrounds you with thorns for the duration",
+   "ro": "Postura samuraiului te înconjoară cu spini cât ține"
+  },
+  {
+   "id": 12435047904530755658,
+   "en": "{NumberTag}% chance to refill Ammo on use",
+   "ro": "{NumberTag}% șansă să reumpli Muniția la folosire"
+  },
+  {
+   "id": 12435048258695097933,
+   "en": "Enemies take less damage from non-Abilities",
+   "ro": "Inamicii primesc mai puține daune din alte atacuri decât abilitățile"
+  },
+  {
+   "id": 12435088755343689314,
+   "en": "Assassin Christmas",
+   "ro": "Crăciunul asasinului"
+  },
+  {
+   "id": 12435142288272546621,
+   "en": "Domain contains additional enemies",
+   "ro": "Domeniul conține inamici suplimentari"
+  },
+  {
+   "id": 12435161931860015423,
+   "en": "+{NumberTag}% damage with Tools or Teppo attacks\nEnemies take {NumberTag2}% reduced damage from other weapon types",
+   "ro": "+{NumberTag}% daune cu Uneltele sau atacurile cu Teppō\nInamicii primesc {NumberTag2}% mai puține daune de la celelalte tipuri de arme"
+  },
+  {
+   "id": 12435163258500615275,
+   "en": "System Glitch Blade",
+   "ro": "Lama defecțiunii de sistem"
+  },
+  {
+   "id": 12435184628676675857,
+   "en": "+{NumberTag} Health Segment removed on Brutal Assassination",
+   "ro": "+{NumberTag} segment de Sănătate eliminat la Asasinat brutal"
+  },
+  {
+   "id": 12435187297594476589,
+   "en": "[Talk]",
+   "ro": "[Vorbește]"
+  },
+  {
+   "id": 12435190030180935064,
+   "en": "Enemies become Enraged when in combat alone\nEnraged enemies deal {NumberTag}% increased damage and take {NumberTag2}% increased damage",
+   "ro": "Inamicii devin Furioși când sunt singuri în luptă\nInamicii Furioși dau cu {NumberTag}% mai multe daune și primesc cu {NumberTag2}% mai multe daune"
+  },
+  {
+   "id": 12435199472468144634,
+   "en": "Token",
+   "ro": "Jeton"
+  },
+  {
+   "id": 12435209013078112266,
+   "en": "Increase Critical Chance by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește șansa critică cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12435215592378645302,
+   "en": "Enemies become Enraged when nearby enemies are slain",
+   "ro": "Inamicii devin Furioși când inamicii din apropiere sunt uciși"
+  },
+  {
+   "id": 12435263075237773078,
+   "en": "Graveyard Smash",
+   "ro": "Lovitura cimitirului"
+  },
+  {
+   "id": 12435293096851310046,
+   "en": "+{NumberTag}% Health for every 1% over capped Damage Reduction",
+   "ro": "+{NumberTag}% Sănătate pentru fiecare 1% peste limita de Reducere a daunelor"
+  },
+  {
+   "id": 12435295493259129820,
+   "en": "[See Shop]",
+   "ro": "[Vezi magazinul]"
+  },
+  {
+   "id": 12435313888713987889,
+   "en": "+{NumberTag}% Armor Damage when hitting Frost-Afflicted enemies",
+   "ro": "+{NumberTag}% daune asupra armurii când lovești inamicii afectați de Îngheț"
+  },
+  {
+   "id": 12435357073435927832,
+   "en": "Glitched Toolkit Gear",
+   "ro": "Echipamentul trusei defectate"
+  },
+  {
+   "id": 12435427100381282115,
+   "en": "Broken Spear of Leonidas Blade",
+   "ro": "Lama Lăncii frânte a lui Leonidas"
+  },
+  {
+   "id": 12435448548372286212,
+   "en": "Firestarter Blade",
+   "ro": "Lama aprinzătorului de foc"
+  },
+  {
+   "id": 12435455797520404098,
+   "en": "Glitched Toolkit Hat",
+   "ro": "Pălăria trusei defectate"
+  },
+  {
+   "id": 12435499307807511582,
+   "en": "Engravings – Light Armor",
+   "ro": "Gravuri – Armură ușoară"
+  },
+  {
+   "id": 12435512268716279585,
+   "en": "Biohazard",
+   "ro": "Pericol biologic"
+  },
+  {
+   "id": 12435519929099704711,
+   "en": "Environmental Protection",
+   "ro": "Protecție împotriva mediului"
+  },
+  {
+   "id": 12435549182700045550,
+   "en": "Gratuity",
+   "ro": "Recompensă"
+  },
+  {
+   "id": 12435553588212891281,
+   "en": "Attacks restore 25% Health on hit",
+   "ro": "Atacurile restaurează 25% din Sănătate la lovitură"
+  },
+  {
+   "id": 12435572059911986143,
+   "en": "Forest Sentinel",
+   "ro": "Străjerul pădurii"
+  },
+  {
+   "id": 12435583136242871379,
+   "en": "Graveyard Smash Shaft",
+   "ro": "Tija loviturii din cimitir"
+  },
+  {
+   "id": 12435592122874541140,
+   "en": "AUGMENT",
+   "ro": "AUGMENTARE"
+  },
+  {
+   "id": 12435601680819033945,
+   "en": "Reduce Cooldowns on Critical Health",
+   "ro": "Reduce timpii de reîncărcare la sănătate critică"
+  },
+  {
+   "id": 12435638558005455844,
+   "en": "Carved from frost‑bitten wood, hardened by centuries of cold.",
+   "ro": "Sculptat din lemn degerat, întărit de secole de frig."
+  },
+  {
+   "id": 12435664944124054015,
+   "en": "Packet Loss",
+   "ro": "Pierdere de pachete"
+  },
+  {
+   "id": 12435665853387625073,
+   "en": "+{NumberTag}% of an Adrenaline Chunk on Entanglement",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină la Încâlceală"
+  },
+  {
+   "id": 12435669924404791668,
+   "en": "Enemies destroy {NumberTag} random consumables on hit",
+   "ro": "Inamicii distrug {NumberTag} consumabile aleatorii la lovitură"
+  },
+  {
+   "id": 12435676240159327747,
+   "en": "Lucid Memory Headwrap",
+   "ro": "Bandană cu memorie lucidă"
+  },
+  {
+   "id": 12435680610337466869,
+   "en": "Ability Damage for Cooldown Reduction",
+   "ro": "Daune de abilitate pentru reducerea timpului de reîncărcare"
+  },
+  {
+   "id": 12435691789238611775,
+   "en": "+{NumberTag1}% damage with Abilities but lose {NumberTag2}% Health on Ability use",
+   "ro": "+{NumberTag1}% daune cu abilitățile, dar pierzi {NumberTag2}% din Sănătate la folosirea unei abilități"
+  },
+  {
+   "id": 12435730931718543764,
+   "en": "Bug Fixer Guard",
+   "ro": "Gardă reparatorului de erori"
+  },
+  {
+   "id": 12435731778168618026,
+   "en": "Broken Spear of Leonidas Saya",
+   "ro": "Teaca Lăncii sparte a lui Leonidas"
+  },
+  {
+   "id": 12435745274463433059,
+   "en": "Momentum Burn",
+   "ro": "Arsura impulsului"
+  },
+  {
+   "id": 12435746738238838152,
+   "en": "Adrenaline Chunk on Entanglement",
+   "ro": "Bucată de adrenalină la încurcare"
+  },
+  {
+   "id": 12435760623811834849,
+   "en": "Spiky Windstep",
+   "ro": "Pas de vânt ghimpat"
+  },
+  {
+   "id": 12435765309165932074,
+   "en": "Adrenaline on Poisoned Enemies",
+   "ro": "Adrenalină la inamicii otrăviți"
+  },
+  {
+   "id": 12435817284749671327,
+   "en": "Naoe's Time to Shine",
+   "ro": "Clipa de strălucire a lui Naoe"
+  },
+  {
+   "id": 12435819188283741505,
+   "en": "Start Domain with Conduit boon",
+   "ro": "Începe domeniul cu binecuvântarea conductorului"
+  },
+  {
+   "id": 12435833386132203873,
+   "en": "Enemies become Enraged when in combat alone",
+   "ro": "Inamicii devin Furioși când sunt singuri în luptă"
+  },
+  {
+   "id": 12435860366882244530,
+   "en": "Fractured Caliburnus",
+   "ro": "Caliburnus fracturat"
+  },
+  {
+   "id": 12435915334779906606,
+   "en": "Lightning strikes around you",
+   "ro": "Fulgerele lovesc în jurul tău"
+  },
+  {
+   "id": 12435918352883615544,
+   "en": "Ice Queen Bo Staff",
+   "ro": "Baston bō Regina de gheață"
+  },
+  {
+   "id": 12435944991784461171,
+   "en": "Crushing Shockwave spreads Fire in the area",
+   "ro": "Unda de șoc zdrobitoare răspândește Foc în zonă"
+  },
+  {
+   "id": 12435971317480680253,
+   "en": "Icicle Reach Blade",
+   "ro": "Lama cu raza țurțurilor"
+  },
+  {
+   "id": 12435998327298845656,
+   "en": "Exploits Tree",
+   "ro": "Arborele exploatărilor"
+  },
+  {
+   "id": 12436020604520124018,
+   "en": "Fire Crash",
+   "ro": "Prăbușire de foc"
+  },
+  {
+   "id": 12436080088575155930,
+   "en": "+{NumberTag}% Armor Piercing when hitting Poisoned enemies",
+   "ro": "+{NumberTag}% Penetrare a armurii când lovești inamicii Otrăviți"
+  },
+  {
+   "id": 12436088792896926693,
+   "en": "Bonechill Entanglement",
+   "ro": "Încurcătura gerului până la os"
+  },
+  {
+   "id": 12436092825127335683,
+   "en": "Offensive Defence",
+   "ro": "Apărare ofensivă"
+  },
+  {
+   "id": 12436108270248011466,
+   "en": "{NumberTag}% chance to remove 1 Health Segment on hit\nEnemies take {NumberTag2}% reduced damage",
+   "ro": "{NumberTag}% șansă de a elimina 1 segment de sănătate la lovitură\nInamicii primesc {NumberTag2}% mai puține daune"
+  },
+  {
+   "id": 12436120355790749623,
+   "en": "Counter Attack surrounds you with thorns for {NumberTag} seconds",
+   "ro": "Contraatacul te înconjoară cu spini timp de {NumberTag} secunde"
+  },
+  {
+   "id": 12436130208021250529,
+   "en": "Restore {NumberTag}% Health on Vault",
+   "ro": "Restaurează {NumberTag}% din sănătate la trecerea peste obstacole"
+  },
+  {
+   "id": 12436200546355065434,
+   "en": "Ranged Weapons Mastery",
+   "ro": "Măiestria armelor de distanță"
+  },
+  {
+   "id": 12436217882791860534,
+   "en": "Random Arrow",
+   "ro": "Săgeată aleatorie"
+  },
+  {
+   "id": 12436218925181582150,
+   "en": "Gaia's Embrace Counterweight",
+   "ro": "Contragreutatea Îmbrățișării Gaiei"
+  },
+  {
+   "id": 12436249877758357167,
+   "en": "Cold Whisper Handle",
+   "ro": "Mânerul Șoaptei reci"
+  },
+  {
+   "id": 12436288307414815467,
+   "en": "The Whiteout Domain",
+   "ro": "Domeniul albului orbitor"
+  },
+  {
+   "id": 12436320412307074122,
+   "en": "Polar Silence Bow",
+   "ro": "Arcul Tăcerii polare"
+  },
+  {
+   "id": 12436335579729757505,
+   "en": "Engravings – Teppo",
+   "ro": "Gravuri – Teppō"
+  },
+  {
+   "id": 12436365272559397893,
+   "en": "Frostbite",
+   "ro": "Degerătură"
+  },
+  {
+   "id": 12436397235088777677,
+   "en": "Gaia's Embrace Chain",
+   "ro": "Lanțul Îmbrățișării Gaiei"
+  },
+  {
+   "id": 12436413779043877604,
+   "en": "Complete the previous Challenge Level",
+   "ro": "Finalizează nivelul de provocare anterior"
+  },
+  {
+   "id": 12436414372088979357,
+   "en": "Periodically trigger a chain of energy",
+   "ro": "Declanșează periodic un lanț de energie"
+  },
+  {
+   "id": 12436435417638841692,
+   "en": "Inferno",
+   "ro": "Infern"
+  },
+  {
+   "id": 12436441522731006210,
+   "en": "Adrenaline Drain",
+   "ro": "Drenarea adrenalinei"
+  },
+  {
+   "id": 12436448294740749427,
+   "en": "Gaia's Embrace Handle",
+   "ro": "Mânerul Îmbrățișării Gaiei"
+  },
+  {
+   "id": 12436450987146821045,
+   "en": "Empowered Strike",
+   "ro": "Lovitură întărită"
+  },
+  {
+   "id": 12436468558176504244,
+   "en": "Signal Breaker",
+   "ro": "Spărgătorul de semnal"
+  },
+  {
+   "id": 12436476206491763414,
+   "en": "IMPLEMENTED",
+   "ro": "IMPLEMENTAT"
+  },
+  {
+   "id": 12436533803324092083,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12436551538476693215,
+   "en": "Speedrun",
+   "ro": "Parcurgere rapidă"
+  },
+  {
+   "id": 12436594230523940653,
+   "en": "+{NumberTag}% Cooldown Reduction\n+{NumberTag2}% Adrenaline Gain\nEnemies take {NumberTag3}% reduced damage from non-Abilities",
+   "ro": "+{NumberTag}% Reducerea timpului de reîncărcare\n+{NumberTag2}% Creștere a adrenalinei\nInamicii primesc {NumberTag3}% mai puține daune din alte surse decât abilitățile"
+  },
+  {
+   "id": 12436611926369928065,
+   "en": "Consumables are disabled",
+   "ro": "Consumabilele sunt dezactivate"
+  },
+  {
+   "id": 12436615702387565452,
+   "en": "Restock Stations appear in Domains, refill all consumables on interact\n\nNumber of Restock Stations in Domains: [BOLD_BEGIN]{NumberTag1}[BOLD_END] – [BOLD_BEGIN]{NumberTag2}[BOLD_END] ",
+   "ro": "Stații de reaprovizionare apar în domenii și reumplu toate consumabilele la interacțiune\n\nNumărul de stații de reaprovizionare din domenii: [BOLD_BEGIN]{NumberTag1}[BOLD_END] – [BOLD_BEGIN]{NumberTag2}[BOLD_END] "
+  },
+  {
+   "id": 12436675681785654640,
+   "en": "Excalibur Blade",
+   "ro": "Lama Excalibur"
+  },
+  {
+   "id": 12436719490322366983,
+   "en": "Entangle",
+   "ro": "Încurcă"
+  },
+  {
+   "id": 12436741367582976386,
+   "en": "Cracked Stillness",
+   "ro": "Liniște fisurată"
+  },
+  {
+   "id": 12436741800737182733,
+   "en": "{NumberTag}",
+   "ro": "{NumberTag}"
+  },
+  {
+   "id": 12436753041455088420,
+   "en": "Adrenaline per Affliction",
+   "ro": "Adrenalină pentru fiecare afecțiune"
+  },
+  {
+   "id": 12436802325560829514,
+   "en": "Teppo Tempo creates an explosion",
+   "ro": "Teppō Tempo creează o explozie"
+  },
+  {
+   "id": 12436823764464011049,
+   "en": "Close Target",
+   "ro": "Ținta apropiată"
+  },
+  {
+   "id": 12436838019041350077,
+   "en": "Reduce all Cooldowns by {NumberTag}% on kill",
+   "ro": "Reduce toate timpurile de reîncărcare cu {NumberTag}% la fiecare ucidere"
+  },
+  {
+   "id": 12436847022990509253,
+   "en": "Whirlwind propels Ice Shards",
+   "ro": "Vârtejul propulsează așchii de gheață"
+  },
+  {
+   "id": 12436873445424441691,
+   "en": "Firebrand",
+   "ro": "Tăciune aprins"
+  },
+  {
+   "id": 12436878085236189083,
+   "en": "Enemies become Enraged when nearby enemies are slain\nEnraged enemies deal {NumberTag}% increased damage and take {NumberTag2}% increased damage",
+   "ro": "Inamicii devin furioși când inamicii din apropiere sunt uciși\nInamicii furioși provoacă {NumberTag}% mai multe daune și primesc {NumberTag2}% mai multe daune"
+  },
+  {
+   "id": 12436903171729770439,
+   "en": "Burnout Bo Staff",
+   "ro": "Baston bō Arsură totală"
+  },
+  {
+   "id": 12436923586518845306,
+   "en": "+{NumberTag1}% damage with Shuriken but reduce capacity by {NumberTag2}%",
+   "ro": "+{NumberTag1}% daune cu shuriken, dar capacitatea scade cu {NumberTag2}%"
+  },
+  {
+   "id": 12436960851941697228,
+   "en": "Restore {NumberTag}% Health on Ground Attack",
+   "ro": "Restabilește {NumberTag}% sănătate la atacul la sol"
+  },
+  {
+   "id": 12436964029043828396,
+   "en": "+{NumberTag}% Armor Piercing\nAll enemies are armored\nCannot break armor",
+   "ro": "+{NumberTag}% Penetrare a armurii\nToți inamicii au armură\nArmura nu poate fi spartă"
+  },
+  {
+   "id": 12436969521007796779,
+   "en": "Bloodsucker",
+   "ro": "Sorbitorul de sânge"
+  },
+  {
+   "id": 12437009221165896807,
+   "en": "Ratonhnhaké:ton's Fury",
+   "ro": "Furia lui Ratonhnhaké:ton"
+  },
+  {
+   "id": 12437014331095959130,
+   "en": "+{NumberTag}% of an Adrenaline Chunk on Vault",
+   "ro": "+{NumberTag}% dintr-o bucată de adrenalină la trecerea peste obstacole"
+  },
+  {
+   "id": 12437150307629024078,
+   "en": "+{NumberTag}% of an Adrenaline Chunk when hitting Fire-Afflicted enemies",
+   "ro": "+{NumberTag}% dintr-o bucată de adrenalină la lovirea inamicilor afectați de foc"
+  },
+  {
+   "id": 12437183357002319084,
+   "en": "Cinderfall Blade",
+   "ro": "Lama Cenușii Căzute"
+  },
+  {
+   "id": 12437193388927620908,
+   "en": "Bull Rush on Frozen enemies consumes the Affliction to remove {NumberTag} Health Segments",
+   "ro": "Atacul de taur asupra inamicilor înghețați consumă afecțiunea și elimină {NumberTag} segmente de sănătate"
+  },
+  {
+   "id": 12437206302913340649,
+   "en": "Gaia's Embrace Blade",
+   "ro": "Lama Îmbrățișării Gaiei"
+  },
+  {
+   "id": 12437221550734078094,
+   "en": "Cold Steel",
+   "ro": "Oțel rece"
+  },
+  {
+   "id": 12437236836005274488,
+   "en": "Rooting Blasting",
+   "ro": "Detonare înrădăcinată"
+  },
+  {
+   "id": 12437281304437044588,
+   "en": "Armor Damage on Poisoned Enemies",
+   "ro": "Daune asupra armurii inamicilor otrăviți"
+  },
+  {
+   "id": 12437316596220514009,
+   "en": "Verdant Stone",
+   "ro": "Piatra verde"
+  },
+  {
+   "id": 12437321990491388310,
+   "en": "Domain contains less enemies",
+   "ro": "Domeniul conține mai puțini inamici"
+  },
+  {
+   "id": 12437330614166390366,
+   "en": "Bitter Frost Saya",
+   "ro": "Teaca gerului amar"
+  },
+  {
+   "id": 12437335311028978632,
+   "en": "Forged by time, with a deadly purpose.",
+   "ro": "Forjată de timp, cu un scop mortal."
+  },
+  {
+   "id": 12437456550285249331,
+   "en": "Terra Obscura Bow",
+   "ro": "Arcul Terra Obscura"
+  },
+  {
+   "id": 12437473269208216872,
+   "en": "Fire Affliction Duration",
+   "ro": "Durata afecțiunii de foc"
+  },
+  {
+   "id": 12437479138936811354,
+   "en": "Signal Breaker Bow",
+   "ro": "Arcul frângătorului de semnale"
+  },
+  {
+   "id": 12437517912098180329,
+   "en": "Swift Lethality",
+   "ro": "Letalitate rapidă"
+  },
+  {
+   "id": 12437547498237106842,
+   "en": "Glacier Breaker Pommel",
+   "ro": "Măciulia Spărgătorului de ghețari"
+  },
+  {
+   "id": 12437607265464788777,
+   "en": "Savage Critic",
+   "ro": "Criticul sălbatic"
+  },
+  {
+   "id": 12437647165317629908,
+   "en": "System Glitch",
+   "ro": "Defecțiune de sistem"
+  },
+  {
+   "id": 12437656900967020694,
+   "en": "Elderwood Bo Decoration",
+   "ro": "Decorațiune bō „Lemn bătrân”"
+  },
+  {
+   "id": 12437664136247432753,
+   "en": "Verdant Edge Handle",
+   "ro": "Mânerul Tăișului verde"
+  },
+  {
+   "id": 12437683631802252579,
+   "en": "Synch Nexus Outfit",
+   "ro": "Ținuta Nexus Sincron"
+  },
+  {
+   "id": 12437698848193839909,
+   "en": "Periodically trigger a chain of electricity to nearby enemies",
+   "ro": "Declanșează periodic un lanț de electricitate către inamicii din apropiere"
+  },
+  {
+   "id": 12437752510783610427,
+   "en": "+{NumberTag}% Critical Damage per Affliction on enemy",
+   "ro": "+{NumberTag}% Daune critice pentru fiecare afecțiune a inamicului"
+  },
+  {
+   "id": 12437759114997410632,
+   "en": "Freezer Burn Ammo Pouch",
+   "ro": "Pungă de muniție Arsură de ger"
+  },
+  {
+   "id": 12437786958300694137,
+   "en": "Attacks push back enemies",
+   "ro": "Atacurile resping inamicii"
+  },
+  {
+   "id": 12437820995144971906,
+   "en": "Critical on Burning Enemies",
+   "ro": "Lovituri critice asupra inamicilor în flăcări"
+  },
+  {
+   "id": 12437831627740041763,
+   "en": "Posture Attack consumes Affliction to create an explosion",
+   "ro": "Atacul de postură consumă afecțiunea ca să creeze o explozie"
+  },
+  {
+   "id": 12437853346240385922,
+   "en": "A crushing weapon that can smash through even the thickest ice.",
+   "ro": "O armă zdrobitoare, capabilă să străpungă chiar și cea mai groasă gheață."
+  },
+  {
+   "id": 12437859646175829712,
+   "en": "Pushback on surrounding enemies when Vaulting",
+   "ro": "Respinge inamicii din jur la săritura peste obstacole"
+  },
+  {
+   "id": 12437890433199891416,
+   "en": "+{NumberTag}% damage with next Headshot on hit with Melee Attacks",
+   "ro": "+{NumberTag}% daune la următoarea lovitură în cap, după ce lovești cu atacuri corp la corp"
+  },
+  {
+   "id": 12437893133290093020,
+   "en": "An elegant warrior’s armor preserved in the deepest part of the Animus.",
+   "ro": "Armura unui războinic elegant, păstrată în cele mai adânci părți ale Animusului."
+  },
+  {
+   "id": 12437898109607703407,
+   "en": "Refill Tool on Vault",
+   "ro": "Reîncarcă uneltele din boltă"
+  },
+  {
+   "id": 12437906180175184652,
+   "en": "Weaklings",
+   "ro": "Slăbănogii"
+  },
+  {
+   "id": 12437952046925380243,
+   "en": "Engravings – Katana",
+   "ro": "Gravuri – Katana"
+  },
+  {
+   "id": 12437953031823402294,
+   "en": "Melee hits and Tools inflict {NumberTag}% Bleed Buildup\n+{NumberTag2}% damage with Bleed affliction\nNon-Afflicted enemies take {NumberTag3}% reduced damage",
+   "ro": "Loviturile corp la corp și uneltele provoacă {NumberTag}% Acumulare de sângerare\n+{NumberTag2}% daune cu afecțiunea de sângerare\nInamicii neafectați primesc {NumberTag3}% mai puține daune"
+  },
+  {
+   "id": 12437972999604015742,
+   "en": "+{NumberTag}% Critical Chance\nLose {NumberTag2}% Health on Critical Strike",
+   "ro": "+{NumberTag}% Șansă de lovitură critică\nPierzi {NumberTag2}% din sănătate la lovitura critică"
+  },
+  {
+   "id": 12438021071769440410,
+   "en": "Trigger Fire Affliction on hit with Eviscerate",
+   "ro": "Declanșează afecțiunea de foc la lovirea cu Eviscerează"
+  },
+  {
+   "id": 12438038353996321822,
+   "en": "Scorched Earth Head",
+   "ro": "Capul Pământului pârjolit"
+  },
+  {
+   "id": 12438082618224506025,
+   "en": "Windstep surrounds you with thorns for the duration",
+   "ro": "Pasul de vânt te înconjoară cu spini cât ține"
+  },
+  {
+   "id": 12438157696731948654,
+   "en": "Shattering Cold",
+   "ro": "Frig care sfărâmă"
+  },
+  {
+   "id": 12438174613229828171,
+   "en": "Domain contains poison clouds",
+   "ro": "Domeniul conține nori de otravă"
+  },
+  {
+   "id": 12438191752663955847,
+   "en": "Start the Domain with the [BOLD_BEGIN]Powerhouse[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Powerhouse[BOLD_END] causes all attacks to push back enemies\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Începe domeniul cu binecuvântarea altarului MOD [BOLD_BEGIN]Forță brută[BOLD_END]\n\n[BOLD_BEGIN]Forță brută[BOLD_END] face ca toate atacurile să respingă inamicii\n\n+{NumberTag}% durata binecuvântărilor altarului MOD"
+  },
+  {
+   "id": 12438212526690659711,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12438247827914953647,
+   "en": "Synch Nexus Headgear",
+   "ro": "Coiful Nexus Sincron"
+  },
+  {
+   "id": 12438261455443386688,
+   "en": "Gain 1 Lightning Orb every 30 seconds",
+   "ro": "Primești o sferă de fulger la fiecare 30 de secunde"
+  },
+  {
+   "id": 12438262051955427060,
+   "en": "{NumberTag}% chance to refill consumable on use",
+   "ro": "{NumberTag}% șansă de a reumple consumabilul la utilizare"
+  },
+  {
+   "id": 12438264133953459859,
+   "en": "Desynchronizer Blade",
+   "ro": "Lama desincronizatorului"
+  },
+  {
+   "id": 12438280136151048837,
+   "en": "Burial Thunder",
+   "ro": "Tunetul înmormântării"
+  },
+  {
+   "id": 12438280740006901818,
+   "en": "Endless Winter Guard",
+   "ro": "Garda iernii fără sfârșit"
+  },
+  {
+   "id": 12438291077926957924,
+   "en": "Engravings – Armor",
+   "ro": "Gravuri – Armură"
+  },
+  {
+   "id": 12438296515764277110,
+   "en": "+{NumberTag}% Armor Piercing when hitting Fire-Afflicted enemies",
+   "ro": "+{NumberTag}% Penetrare a armurii la lovirea inamicilor afectați de foc"
+  },
+  {
+   "id": 12438306185543035312,
+   "en": "Gain 1 Earth Shield every {NumberTag} seconds\nOne Earth Shield negates all Damage and Impact when hit",
+   "ro": "Primești un scut de pământ la fiecare {NumberTag} secunde\nUn scut de pământ anulează toate daunele și impactul la lovitură"
+  },
+  {
+   "id": 12438314685784725841,
+   "en": "Increase Critical Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele critice cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12438362963821860611,
+   "en": "Shimmering with cybernetics and powerful DNA, this armor turns the wearer into a living weapon.",
+   "ro": "Strălucind de cibernetică și ADN puternic, această armură transformă purtătorul într-o armă vie."
+  },
+  {
+   "id": 12438402935299929807,
+   "en": "You Are Already dead",
+   "ro": "Ești deja mort"
+  },
+  {
+   "id": 12438410560737513645,
+   "en": "Black Room Kosode",
+   "ro": "Kosode-ul Camerei negre"
+  },
+  {
+   "id": 12438461796889808628,
+   "en": "+{NumberTag}% damage with Melee for {NumberTag2} seconds on hit with Shuriken",
+   "ro": "+{NumberTag}% daune cu atacurile corp la corp timp de {NumberTag2} secunde după lovirea cu shuriken"
+  },
+  {
+   "id": 12438476867116916416,
+   "en": "Verdant Stone Handle",
+   "ro": "Mânerul Pietrei verzi"
+  },
+  {
+   "id": 12438492981506124698,
+   "en": "Enemies inflict {NumberTag}% Frost Buildup on hit",
+   "ro": "Inamicii provoacă {NumberTag}% Acumulare de îngheț la lovitură"
+  },
+  {
+   "id": 12438518299656554328,
+   "en": "Domain Exploits",
+   "ro": "Exploatări ale domeniului"
+  },
+  {
+   "id": 12438542460177513521,
+   "en": "Disassembler Blade",
+   "ro": "Lama dezasamblatorului"
+  },
+  {
+   "id": 12438545399787859111,
+   "en": "Fractured Caliburnus Blade",
+   "ro": "Lama fracturată a Caliburnusului"
+  },
+  {
+   "id": 12438661014908210027,
+   "en": "Workaround Handle",
+   "ro": "Mâner de soluție provizorie"
+  },
+  {
+   "id": 12438667642218132487,
+   "en": "Reduce Cooldowns on Deflect",
+   "ro": "Reduce timpii de reîncărcare la deviere"
+  },
+  {
+   "id": 12438692327435633390,
+   "en": "Reroll Domain",
+   "ro": "Regenerează domeniul"
+  },
+  {
+   "id": 12438713170098704091,
+   "en": "Harmful echoes appear while fighting Domain Daishos",
+   "ro": "Ecouri nocive apar în timpul luptei cu Daishos din domenii"
+  },
+  {
+   "id": 12438716907918963566,
+   "en": "Ice Queen",
+   "ro": "Regina de gheață"
+  },
+  {
+   "id": 12438716984017240031,
+   "en": "Kaiju Armor",
+   "ro": "Armura Kaiju"
+  },
+  {
+   "id": 12438720597370824713,
+   "en": "Abilities are disabled",
+   "ro": "Abilitățile sunt dezactivate"
+  },
+  {
+   "id": 12438722386134146473,
+   "en": "Calculated Abilities",
+   "ro": "Abilități calculate"
+  },
+  {
+   "id": 12438727930000382314,
+   "en": "Close Quarters drains Health on hit",
+   "ro": "Lupta de aproape îți drenează sănătatea la lovitură"
+  },
+  {
+   "id": 12438772984785926827,
+   "en": "Firestarter Guard",
+   "ro": "Garda Aprinzătorului de foc"
+  },
+  {
+   "id": 12438779888347467173,
+   "en": "Avenger",
+   "ro": "Răzbunătorul"
+  },
+  {
+   "id": 12438829930324366711,
+   "en": "Workaround Counterweight",
+   "ro": "Contragreutate de soluție provizorie"
+  },
+  {
+   "id": 12438844189693997605,
+   "en": "Main choice hub. \"Talk\" options will be only appear when the player has met certain conditions",
+   "ro": "Punctul principal de dialog. Opțiunile „Vorbește” apar doar dacă jucătorul îndeplinește anumite condiții"
+  },
+  {
+   "id": 12438942838053811683,
+   "en": "Grounded Medicine",
+   "ro": "Medicină pământeană"
+  },
+  {
+   "id": 12438967343185659589,
+   "en": "Gaia's Embrace Entanglement",
+   "ro": "Încurcătura Îmbrățișării Gaiei"
+  },
+  {
+   "id": 12438974724784970529,
+   "en": "Defensive Torrent",
+   "ro": "Torent defensiv"
+  },
+  {
+   "id": 12438975359407397528,
+   "en": "Armored to the Teeth",
+   "ro": "Înarmat până-n dinți"
+  },
+  {
+   "id": 12438976048498217218,
+   "en": "Forest Sentinel Blade",
+   "ro": "Lama Străjerului Pădurii"
+  },
+  {
+   "id": 12439022092646046251,
+   "en": "+{NumberTag}% Critical Chance on next hit after a Headshot",
+   "ro": "+{NumberTag}% Șansă de lovitură critică la următoarea lovitură după o lovitură în cap"
+  },
+  {
+   "id": 12439075571182993921,
+   "en": "+{NumberTag}% damage with Abilities for every 1% of over-capped Cooldown Reduction",
+   "ro": "+{NumberTag}% daune cu abilitățile pentru fiecare 1% de reducere a timpului de reîncărcare peste limită"
+  },
+  {
+   "id": 12439084131754775577,
+   "en": "Domain grants additional rewards on completion",
+   "ro": "Domeniul oferă recompense suplimentare la finalizare"
+  },
+  {
+   "id": 12439108605704332881,
+   "en": "Minimum Enemy Level",
+   "ro": "Nivelul minim al inamicilor"
+  },
+  {
+   "id": 12439128563392809217,
+   "en": "Bonechill Chain",
+   "ro": "Lanțul frigului din oase"
+  },
+  {
+   "id": 12439132198600581682,
+   "en": "Bug Fixer",
+   "ro": "Reparator de erori"
+  },
+  {
+   "id": 12439174583339189332,
+   "en": "Start Domain with Overclocked boon",
+   "ro": "Începe domeniul cu bonusul Overclocked"
+  },
+  {
+   "id": 12439196760072271102,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12439213714807936538,
+   "en": "Infinite Castles",
+   "ro": "Castele infinite"
+  },
+  {
+   "id": 12439243902719642044,
+   "en": "Affliction Required",
+   "ro": "Afecțiune necesară"
+  },
+  {
+   "id": 12439250127619453170,
+   "en": "+{NumberTag}% Critical Chance when hitting Frost-Afflicted enemies",
+   "ro": "+{NumberTag}% Șansă de lovitură critică la lovirea inamicilor afectați de îngheț"
+  },
+  {
+   "id": 12439252004455117561,
+   "en": "Builds up Static Energy when not moving",
+   "ro": "Acumulează Energie statică atunci când stai nemișcat."
+  },
+  {
+   "id": 12439268983601985837,
+   "en": "After generating a Domain, you can select a modifier and reroll it a set number of times\n\nNumber of Rerolls: [BOLD_BEGIN]{NumberTag}[BOLD_END]",
+   "ro": "După ce generezi un Domeniu, poți alege un modificator și îl poți rearunca de un număr fix de ori\n\nNumăr de rearuncări: [BOLD_BEGIN]{NumberTag}[BOLD_END]"
+  },
+  {
+   "id": 12439278224050598190,
+   "en": "Access Gateway",
+   "ro": "Poarta de acces"
+  },
+  {
+   "id": 12439294751520105367,
+   "en": "Bow Damage for Arrow Nock Speed",
+   "ro": "Daune cu arcul pentru Viteza de încocare a săgeții"
+  },
+  {
+   "id": 12439304543683059686,
+   "en": "{NumberTag}% chance to gain a Ration on kill, {NumberTag2}% on Boss hit\nCannot gain Health except from Rations\nLose {NumberTag3}% Health per second",
+   "ro": "{NumberTag}% șansă să câștigi o Rație când ucizi un inamic, {NumberTag2}% când lovești un șef\nNu poți primi Sănătate decât din Rații\nPierzi {NumberTag3}% Sănătate pe secundă"
+  },
+  {
+   "id": 12439320448925292844,
+   "en": "Spend them in Mastery Paths and Knowledge Trees to acquire new abilities and passives.",
+   "ro": "Cheltuiește-le în Căile Măiestriei și Arborii Cunoștințelor ca să obții abilități și pasive noi."
+  },
+  {
+   "id": 12439330319256351199,
+   "en": "This broken spear was passed down from Leonidas to his granddaughter Kassandra. As family heirlooms go, this one's pretty cool.",
+   "ro": "Lancea asta ruptă a trecut de la Leonidas la nepoata lui, Kassandra. Pentru o moștenire de familie, e destul de tare."
+  },
+  {
+   "id": 12439340129591836331,
+   "en": "Domain contains additional Samurai",
+   "ro": "Domeniul conține samurai suplimentari"
+  },
+  {
+   "id": 12439350792239606948,
+   "en": "Flammable Loop",
+   "ro": "Buclă inflamabilă"
+  },
+  {
+   "id": 12439360839583141081,
+   "en": "A cold blade promising that spring will never come.",
+   "ro": "O lamă rece care promite că primăvara nu o să mai vină niciodată."
+  },
+  {
+   "id": 12439389140770757209,
+   "en": "+{NumberTag}% damage with Tools or Bow attacks\nEnemies take {NumberTag2}% reduced damage from other weapon types",
+   "ro": "+{NumberTag}% daune cu unelte sau din atacuri cu arcul\nInamicii primesc cu {NumberTag2}% mai puține daune de la celelalte arme"
+  },
+  {
+   "id": 12439393832468236867,
+   "en": "Riposte drains Health on hit",
+   "ro": "Ripostă care drenează viața la lovitură"
+  },
+  {
+   "id": 12439402974585395671,
+   "en": "Like a Prayer",
+   "ro": "Ca o rugăciune"
+  },
+  {
+   "id": 12439447498072203926,
+   "en": "Challenge Level [NumberTag]",
+   "ro": "Nivel de provocare [NumberTag]"
+  },
+  {
+   "id": 12439491550556519630,
+   "en": "+{NumberTag}% of an Adrenaline Chunk when hitting Dazed enemies",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină la lovitura inamicilor Amețiți"
+  },
+  {
+   "id": 12439517954676814696,
+   "en": "Armor Piercing on Frozen Enemies",
+   "ro": "Străpungere a armurii asupra inamicilor înghețați"
+  },
+  {
+   "id": 12439542715557759879,
+   "en": "Bitter Frost Guard",
+   "ro": "Garda gerului amar"
+  },
+  {
+   "id": 12439551853739437709,
+   "en": "Workaround Blade",
+   "ro": "Lama soluției provizorii"
+  },
+  {
+   "id": 12439554951203168019,
+   "en": "Engravings – Tanto",
+   "ro": "Gravuri – Tantō"
+  },
+  {
+   "id": 12439582939019125586,
+   "en": "Forest Sentinel Guard",
+   "ro": "Garda străjerului pădurii"
+  },
+  {
+   "id": 12439590807698381814,
+   "en": "Critical Damage per Affliction",
+   "ro": "Daune critice pentru fiecare afecțiune"
+  },
+  {
+   "id": 12439594785365516608,
+   "en": "Purchase Exploits with [TX_ModCoin] MODcoins gained by completing a Domain. \n\nThese bonuses only work inside a Domain and are shared between Naoe and Yasuke.",
+   "ro": "Cumpără Exploatări cu [TX_ModCoin] MODcoins câștigate după ce termini un Domeniu.\n\nAceste bonusuri funcționează doar în interiorul unui Domeniu și sunt folosite atât de Naoe, cât și de Yasuke."
+  },
+  {
+   "id": 12439597779867302038,
+   "en": "Reduce Domain Cost",
+   "ro": "Reduce costul domeniului"
+  },
+  {
+   "id": 12439628200326401407,
+   "en": "{NumberTag}% chance to apply random Affliction on hit with Feral Outburst",
+   "ro": "{NumberTag}% șansă să aplice o Suferință aleatorie la lovitură cu Izbucnire sălbatică"
+  },
+  {
+   "id": 12439629452457779915,
+   "en": "Snake Bite leaves roots that slow enemies",
+   "ro": "Mușcătura de șarpe lasă rădăcini care încetinesc inamicii."
+  },
+  {
+   "id": 12439650023842994778,
+   "en": "Lose Health on Ability use",
+   "ro": "Pierzi viață la folosirea abilităților"
+  },
+  {
+   "id": 12439656073555382482,
+   "en": "Venomous",
+   "ro": "Otrăvitor"
+  },
+  {
+   "id": 12439668442927789950,
+   "en": "Fractured Caliburnus Saya",
+   "ro": "Teaca Caliburnusului fracturat"
+  },
+  {
+   "id": 12439684528408466149,
+   "en": "Powerhouse",
+   "ro": "Forță brută"
+  },
+  {
+   "id": 12439697657849319702,
+   "en": "Terra Obscura Quiver",
+   "ro": "Tolba Terra Obscura"
+  },
+  {
+   "id": 12439702107321782357,
+   "en": "Strength in Numbers",
+   "ro": "Forța numărului"
+  },
+  {
+   "id": 12439731938104474028,
+   "en": "Bladed Weapons Mastery",
+   "ro": "Măiestria armelor cu lamă"
+  },
+  {
+   "id": 12439736335059534707,
+   "en": "Enemy Damage",
+   "ro": "Daunele inamicului"
+  },
+  {
+   "id": 12439777537268896547,
+   "en": "Moneybags",
+   "ro": "Pungă cu bani"
+  },
+  {
+   "id": 12439822227521870906,
+   "en": "Reduce all cooldowns by {NumberTag}% on Parry",
+   "ro": "Reduce toate timpurile de reîncărcare cu {NumberTag}% la parare."
+  },
+  {
+   "id": 12439860096373291354,
+   "en": "Augment Exploits",
+   "ro": "Amplifică exploatările"
+  },
+  {
+   "id": 12439868495947738821,
+   "en": "Enemies thrown with Grab and Throw become conduits",
+   "ro": "Inamicii aruncați cu Apucă și aruncă devin conductori."
+  },
+  {
+   "id": 12439877148705395102,
+   "en": "Verdant Stone Blade",
+   "ro": "Lama din piatră verde"
+  },
+  {
+   "id": 12439919576624559976,
+   "en": "Start the Domain with the [BOLD_BEGIN]Immortal[BOLD_END] MOD Shrine boon\n\nCannot die while [BOLD_BEGIN]Immortal[BOLD_END] is active\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Domeniul începe cu binecuvântarea altarului MOD [BOLD_BEGIN]Nemuritor[BOLD_END]\n\nNu poți muri cât timp [BOLD_BEGIN]Nemuritor[BOLD_END] este activ\n\n+{NumberTag}% durată pentru binecuvântările altarelor MOD"
+  },
+  {
+   "id": 12439973188385388278,
+   "en": "Cold Whisper Blade",
+   "ro": "Lama șoaptei reci"
+  },
+  {
+   "id": 12439978769586527895,
+   "en": "Bonechill Handle",
+   "ro": "Mânerul frigului de os"
+  },
+  {
+   "id": 12440007391668792419,
+   "en": "Ashen Razor Blade",
+   "ro": "Lama cenușie de brici"
+  },
+  {
+   "id": 12440009237534734730,
+   "en": "A soft goodbye that can only be heard when the blood stops flowing.",
+   "ro": "Un adio blând, care poate fi auzit doar când sângele nu mai curge."
+  },
+  {
+   "id": 12440019846404999819,
+   "en": "+{NumberTag}% Cooldown Reduction when Health is critical",
+   "ro": "+{NumberTag}% Reducerea timpului de reîncărcare când Sănătatea este critică"
+  },
+  {
+   "id": 12440059536928754370,
+   "en": "Black Room Mask",
+   "ro": "Masca camerei negre"
+  },
+  {
+   "id": 12440059855168021504,
+   "en": "Chance to trigger a mystery gift on hit",
+   "ro": "Șansă de a declanșa un dar misterios la lovitură."
+  },
+  {
+   "id": 12440078862543136078,
+   "en": "Blunt Weapons Mastery",
+   "ro": "Măiestria armelor contondente"
+  },
+  {
+   "id": 12440104063560557615,
+   "en": "Excalibur Saya",
+   "ro": "Teaca Excalibur"
+  },
+  {
+   "id": 12440111691824523023,
+   "en": "Endless Winter Handle",
+   "ro": "Mânerul iernii fără sfârșit"
+  },
+  {
+   "id": 12440118178349958472,
+   "en": "Teppo Damage for Reload Speed",
+   "ro": "Teppō: daune pentru viteza de reîncărcare"
+  },
+  {
+   "id": 12440144993441942452,
+   "en": "Start Domain with Sticky Fingers boon",
+   "ro": "Începe Domeniul cu binecuvântarea Degete lipicioase."
+  },
+  {
+   "id": 12440145028132109516,
+   "en": "Animus Anomaly Gear",
+   "ro": "Echipament anomalie Animus"
+  },
+  {
+   "id": 12440204718833838885,
+   "en": "Engravings – Naginata",
+   "ro": "Gravuri – Naginata"
+  },
+  {
+   "id": 12440233157805846322,
+   "en": "Domain contains additional Samurai",
+   "ro": "Domeniul conține samurai suplimentari"
+  },
+  {
+   "id": 12440237941950387904,
+   "en": "Pushback on surrounding enemies when blocking consecutive hits",
+   "ro": "Respingi inamicii din jur când blochezi lovituri consecutive."
+  },
+  {
+   "id": 12440251632081457652,
+   "en": "Abilities require no Adrenaline and have no cooldown",
+   "ro": "Abilitățile nu necesită Adrenalină și nu au timp de reîncărcare."
+  },
+  {
+   "id": 12440282529718647211,
+   "en": "System Glitch Saya",
+   "ro": "Teaca defectului de sistem"
+  },
+  {
+   "id": 12440295545294276137,
+   "en": "Desynchronizer E-bu",
+   "ro": "E-bu desincronizator"
+  },
+  {
+   "id": 12440299222454124423,
+   "en": "Reduce Cooldowns on Armor Break",
+   "ro": "Reduce timpii de reîncărcare la spargerea armurii"
+  },
+  {
+   "id": 12440322054766302508,
+   "en": "System Crash Shaft",
+   "ro": "Toiagul prăbușirii de sistem"
+  },
+  {
+   "id": 12440326225824770129,
+   "en": "Chance to refill consumable on use",
+   "ro": "Șansă de a reumple consumabilul la utilizare."
+  },
+  {
+   "id": 12440342833421064772,
+   "en": "War Kick has no cooldown",
+   "ro": "Lovitura de război nu are timp de reîncărcare"
+  },
+  {
+   "id": 12440351166830389364,
+   "en": "The Blood is the Life",
+   "ro": "Sângele este viața"
+  },
+  {
+   "id": 12440351240162672232,
+   "en": "Refill Ration on Vault",
+   "ro": "Reumple rația la Boltă"
+  },
+  {
+   "id": 12440434142531241686,
+   "en": "Crimson Horizon",
+   "ro": "Orizont purpuriu"
+  },
+  {
+   "id": 12440460031671949472,
+   "en": "Pain and Gain",
+   "ro": "Durere și câștig"
+  },
+  {
+   "id": 12440470467532816086,
+   "en": "Affliction Required",
+   "ro": "Afecțiune necesară"
+  },
+  {
+   "id": 12440611551796415063,
+   "en": "Lightning Ram",
+   "ro": "Berbecul fulgerului"
+  },
+  {
+   "id": 12440631056439580132,
+   "en": "+{NumberTag}% of an Adrenaline Chunk on hit per Affliction on enemy",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină la lovitură pentru fiecare Suferință a inamicului"
+  },
+  {
+   "id": 12440666059017635353,
+   "en": "Non-Afflicted enemies take less damage",
+   "ro": "Inamicii neafectați primesc mai puține daune"
+  },
+  {
+   "id": 12440700635663935953,
+   "en": "Domain contains patches of fiery ground",
+   "ro": "Domeniul conține petice de teren în flăcări."
+  },
+  {
+   "id": 12440717275830443871,
+   "en": "Polar Silence",
+   "ro": "Tăcerea polară"
+  },
+  {
+   "id": 12440720310640846054,
+   "en": "Tool on Entanglement",
+   "ro": "Unealtă la înlănțuire"
+  },
+  {
+   "id": 12440767911596769087,
+   "en": "Gain 1 Earth Shield every 30 seconds",
+   "ro": "Primești un Scut de pământ la fiecare 30 de secunde."
+  },
+  {
+   "id": 12440782906117727560,
+   "en": "{NumberTag}% Fire Affliction duration",
+   "ro": "{NumberTag}% din durata afecțiunii de foc"
+  },
+  {
+   "id": 12440823524256959412,
+   "en": "Engravings – Kanabo",
+   "ro": "Gravuri – Kanabō"
+  },
+  {
+   "id": 12440823591497138602,
+   "en": "Fix Your Posture",
+   "ro": "Îndreaptă-ți postura"
+  },
+  {
+   "id": 12440826176037080127,
+   "en": "{NumberTag}% chance to refill a Ration on use",
+   "ro": "{NumberTag}% șansă să reumpli o Rație la utilizare."
+  },
+  {
+   "id": 12440831603470979827,
+   "en": "Broken Spear of Leonidas Guard",
+   "ro": "Garda lăncii sparte a lui Leonidas"
+  },
+  {
+   "id": 12440844245548986877,
+   "en": "Ration Issue",
+   "ro": "Problema rației"
+  },
+  {
+   "id": 12440918070982659273,
+   "en": "Packet Loss Ammo Pouch",
+   "ro": "Tolba de muniție cu pierdere de pachete"
+  },
+  {
+   "id": 12440918795525670526,
+   "en": "Enemies recover Health over time",
+   "ro": "Inamicii își recuperează viața în timp"
+  },
+  {
+   "id": 12440935131901285176,
+   "en": "Ashen Razor Saya",
+   "ro": "Teaca briciului cenușiu"
+  },
+  {
+   "id": 12440944650304346653,
+   "en": "True Assassin",
+   "ro": "Adevăratul asasin"
+  },
+  {
+   "id": 12440948431774467936,
+   "en": "Reduce Cooldowns on Dodge",
+   "ro": "Reduce timpii de reîncărcare la evitare"
+  },
+  {
+   "id": 12440978179406177080,
+   "en": "Forged in a place unseen by the surface world, this armor evokes the crushing power and majesty of the deep ocean.",
+   "ro": "Forjată într-un loc nevăzut de lumea de la suprafață, armura evocă puterea zdrobitoare și măreția adâncului oceanului."
+  },
+  {
+   "id": 12440978681333092983,
+   "en": "A brutal instrument that overwhelms systems, organic or not.",
+   "ro": "Un instrument brutal care copleșește sisteme, organice sau nu."
+  },
+  {
+   "id": 12441010765917244394,
+   "en": "Enemies leave a poison cloud on death\nPoison clouds apply Poison buildup to you",
+   "ro": "Inamicii lasă un nor de otravă la moarte\nNorii de otravă îți aplică acumulare de Otravă."
+  },
+  {
+   "id": 12441068156530150560,
+   "en": "Overclocked",
+   "ro": "Supratactat"
+  },
+  {
+   "id": 12441120869081015926,
+   "en": "Entanglement on Fire-Afflicted enemies spreads Fire in the area",
+   "ro": "Încâlceala asupra inamicilor afectați de Foc răspândește Foc în zonă."
+  },
+  {
+   "id": 12441137735065426744,
+   "en": "Adrenaline on Frozen Enemies",
+   "ro": "Adrenalină asupra inamicilor înghețați"
+  },
+  {
+   "id": 12441186847780838969,
+   "en": "Hits on frozen enemies break their armor",
+   "ro": "Loviturile asupra inamicilor înghețați le distrug armura."
+  },
+  {
+   "id": 12441218704521472771,
+   "en": "Domain contains additional enemies",
+   "ro": "Domeniul conține inamici suplimentari"
+  },
+  {
+   "id": 12441243653183620192,
+   "en": "{NumberTag}% chance to refill a Ration on Entanglement",
+   "ro": "{NumberTag}% șansă să reumpli o Rație la Încâlceală."
+  },
+  {
+   "id": 12441303668785393612,
+   "en": "Bow Damage for Bow Draw Speed",
+   "ro": "Daune cu arcul în schimbul vitezei de tragere"
+  },
+  {
+   "id": 12441320176509968218,
+   "en": "Engravings – Any Trinket",
+   "ro": "Gravuri – Orice podoabă"
+  },
+  {
+   "id": 12441353429726187458,
+   "en": "Augment Exploits",
+   "ro": "Amplifică exploatările"
+  },
+  {
+   "id": 12441399746279809447,
+   "en": "Enemies destroy random consumables on hit",
+   "ro": "Inamicii distrug consumabile la întâmplare la lovitură."
+  },
+  {
+   "id": 12441480418773178846,
+   "en": "A labyrinth of towering fortresses stacked beyond reason, where corridors fold into one another and horizons never repeat.",
+   "ro": "Un labirint de cetăți înalte, înghesuite una peste alta, unde coridoarele se încurcă unele în altele și orizonturile nu se repetă niciodată."
+  },
+  {
+   "id": 12441561263424876497,
+   "en": "+{NumberTag}% of an Adrenaline Chunk when hitting Frost-Afflicted enemies",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină la lovirea inamicilor afectați de Îngheț"
+  },
+  {
+   "id": 12441566641420587979,
+   "en": "Drawn from the forest’s unexplored shadow, never missing its mark.",
+   "ro": "Trasă din umbra neexplorată a pădurii, nu ratează niciodată ținta."
+  },
+  {
+   "id": 12441576867897735208,
+   "en": "Domain Boss has extra abilities",
+   "ro": "Șeful domeniului are abilități suplimentare"
+  },
+  {
+   "id": 12441584664789809420,
+   "en": "Abilities are disabled",
+   "ro": "Abilitățile sunt dezactivate"
+  },
+  {
+   "id": 12441590254234534989,
+   "en": "Heat Wave",
+   "ro": "Val de căldură"
+  },
+  {
+   "id": 12441711791277841844,
+   "en": "CURRENCIES",
+   "ro": "MONEDE"
+  },
+  {
+   "id": 12441733094773162119,
+   "en": "Weakpoint Attack propels an Ice Shard",
+   "ro": "Atacul asupra punctului slab aruncă un Ciob de gheață."
+  },
+  {
+   "id": 12441734160451847600,
+   "en": "It drags its victims through embers and ash.",
+   "ro": "Târăște victimele prin jar și cenușă."
+  },
+  {
+   "id": 12441750393325477669,
+   "en": "Engravings – Amulets",
+   "ro": "Gravuri – Amulete"
+  },
+  {
+   "id": 12441765372616442033,
+   "en": "Heat Wave Pommel",
+   "ro": "Măciulia valului de căldură"
+  },
+  {
+   "id": 12441777167603119531,
+   "en": "Consume all Adrenaline when full to empower next hit",
+   "ro": "Consumă toată Adrenalina când e plină, ca să întărească următoarea lovitură."
+  },
+  {
+   "id": 12441821649162817835,
+   "en": "+{NumberTag}% Armor Damage when hitting Dazed enemies",
+   "ro": "+{NumberTag}% Daune asupra armurii când lovești inamicii Amețiți"
+  },
+  {
+   "id": 12441840992174854809,
+   "en": "Silent Arrows apply a random Affliction",
+   "ro": "Săgețile silențioase aplică o Suferință la întâmplare"
+  },
+  {
+   "id": 12441867191177370572,
+   "en": "Armor Damage Increase",
+   "ro": "Creșterea daunelor asupra armurii"
+  },
+  {
+   "id": 12441874267884569378,
+   "en": "Morbid Bloom Guard",
+   "ro": "Garda înfloririi morbide"
+  },
+  {
+   "id": 12441893485687275276,
+   "en": "Morbid Bloom Blade",
+   "ro": "Lama înfloririi morbide"
+  },
+  {
+   "id": 12441907787812062896,
+   "en": "+{NumberTag}% Armor Piercing when hitting Dazed enemies",
+   "ro": "+{NumberTag}% Străpungere a armurii când lovești inamicii Amețiți"
+  },
+  {
+   "id": 12441970716388597804,
+   "en": "Enemies inflict {NumberTag}% Poison Buildup on hit",
+   "ro": "Inamicii provoacă {NumberTag}% Acumulare de otravă la lovitură"
+  },
+  {
+   "id": 12441977741129972276,
+   "en": "Armor Piercing on Poisoned Enemies",
+   "ro": "Penetrarea armurii asupra inamicilor otrăviți"
+  },
+  {
+   "id": 12441983433365887214,
+   "en": "Ashen Razor Handle",
+   "ro": "Mânerul briciului cenușiu"
+  },
+  {
+   "id": 12441993525104657025,
+   "en": "Yasuke's Time to Shine",
+   "ro": "Momentul de strălucire al lui Yasuke"
+  },
+  {
+   "id": 12442002455043545620,
+   "en": "Acrobatic Freeze",
+   "ro": "Îngheț acrobatic"
+  },
+  {
+   "id": 12442010533291157814,
+   "en": "+{NumberTag}% Adrenaline Gain\nLose {NumberTag2}% Health on Ability use",
+   "ro": "+{NumberTag}% câștig de adrenalină\nPierzi {NumberTag2}% din Sănătate la folosirea abilității"
+  },
+  {
+   "id": 12442028941277959301,
+   "en": "Fiery Chain",
+   "ro": "Lanțul de foc"
+  },
+  {
+   "id": 12442032139150147514,
+   "en": "Sharing the Freeze",
+   "ro": "Împărtășirea înghețului"
+  },
+  {
+   "id": 12442055250469849764,
+   "en": "Forest Sentinel Pommel",
+   "ro": "Măciulia străjerului pădurii"
+  },
+  {
+   "id": 12442064508786193359,
+   "en": "Heavy with soot, hardened by fire and ruin.",
+   "ro": "Plin de funingine, întărit de foc și de ruină."
+  },
+  {
+   "id": 12442099304925271027,
+   "en": "Enemies inflict Poison Buildup on hit",
+   "ro": "Inamicii provoacă Acumulare de otravă la lovitură"
+  },
+  {
+   "id": 12442143088596765812,
+   "en": "Health on kill, cannot heal from rations",
+   "ro": "Sănătate la ucidere, dar nu poți să te vindeci din rații"
+  },
+  {
+   "id": 12442193405298463663,
+   "en": "+{NumberTag}% Health on kill, +{NumberTag2}% Health on Boss hit\nCannot gain Health from Rations\nLose {NumberTag3}% Health per second",
+   "ro": "+{NumberTag}% Sănătate la ucidere, +{NumberTag2}% Sănătate la lovitura asupra bossului\nNu poți câștiga Sănătate din Rații\nPierzi {NumberTag3}% Sănătate pe secundă"
+  },
+  {
+   "id": 12442194708052943946,
+   "en": "Re-Consumable",
+   "ro": "Refolosibil"
+  },
+  {
+   "id": 12442196364261159644,
+   "en": "Immortal",
+   "ro": "Nemuritor"
+  },
+  {
+   "id": 12442224003955045612,
+   "en": "Evie's Talent",
+   "ro": "Talentul Evie"
+  },
+  {
+   "id": 12442244756918706897,
+   "en": "Verdant Edge ",
+   "ro": "Tăișul verde "
+  },
+  {
+   "id": 12442264110170742712,
+   "en": "So cold, it's hot.",
+   "ro": "Atât de rece, încât e fierbinte."
+  },
+  {
+   "id": 12442286861880986555,
+   "en": "Trigger Frost Affliction on hit with Spine Breaker",
+   "ro": "Declanșează Suferința de îngheț la lovitură cu Frângătorul de șira spinării"
+  },
+  {
+   "id": 12442291941885219359,
+   "en": "Verdant Edge Guard",
+   "ro": "Garda tăișului verde"
+  },
+  {
+   "id": 12442319209602695467,
+   "en": "{NumberTag}% chance for Heavy Posture attacks to spread Fire in the area",
+   "ro": "{NumberTag}% șansă ca atacurile în Postură Grea să răspândească Foc în zonă"
+  },
+  {
+   "id": 12442325492776609188,
+   "en": "[Exit]",
+   "ro": "[Ieșire]"
+  },
+  {
+   "id": 12442341729132203865,
+   "en": "Famine",
+   "ro": "Foamete"
+  },
+  {
+   "id": 12442407047912376439,
+   "en": "Delayed Damage",
+   "ro": "Daune întârziate"
+  },
+  {
+   "id": 12442421221994082132,
+   "en": "Increase Kunai Capacity by 50%",
+   "ro": "Mărește capacitatea kunaiurilor cu 50%"
+  },
+  {
+   "id": 12442422685317487323,
+   "en": "The Shipbreaker Domain",
+   "ro": "Domeniul Dărâmătorului de nave"
+  },
+  {
+   "id": 12442461366167185809,
+   "en": "Remove 1 Health Segment on next hit after Perfect Parry",
+   "ro": "Elimină un Segment de sănătate la următoarea lovitură după o Parare perfectă"
+  },
+  {
+   "id": 12442462227791192406,
+   "en": "Ranged Weapons Mastery",
+   "ro": "Măiestria armelor de distanță"
+  },
+  {
+   "id": 12442491250086531572,
+   "en": "Fire Whirl Counterweight",
+   "ro": "Contragreutatea Vârtejului de foc"
+  },
+  {
+   "id": 12442502263536786005,
+   "en": "Armor Piercing per Affliction",
+   "ro": "Penetrarea armurii per afecțiune"
+  },
+  {
+   "id": 12442532689491144169,
+   "en": "Enemies inflict {NumberTag}% Fire Buildup on hit",
+   "ro": "Inamicii provoacă {NumberTag}% Acumulare de foc la lovitură"
+  },
+  {
+   "id": 12442538495432920329,
+   "en": "Freezer Burn",
+   "ro": "Arsură de îngheț"
+  },
+  {
+   "id": 12442545351886854361,
+   "en": "Imagine if Eivor could relive her saga all over again with this legendary Isu sword in hand. That would be a plus!",
+   "ro": "Imaginează-ți că Eivor și-ar putea retrăi saga, cu sabia legendară Isu în mână. Ar fi un plus!"
+  },
+  {
+   "id": 12442556754043132556,
+   "en": "Bonechill Counterweight",
+   "ro": "Contragreutatea Frigului până la os"
+  },
+  {
+   "id": 12442565478928874115,
+   "en": "Its roar disturbs the tranquility of the dead.",
+   "ro": "Răcnetul lui tulbură liniștea morților."
+  },
+  {
+   "id": 12442568420508132750,
+   "en": "You Only Live Once",
+   "ro": "Trăiești o singură dată"
+  },
+  {
+   "id": 12442582556966880172,
+   "en": "Rush Assassinate",
+   "ro": "Asasinat rapid"
+  },
+  {
+   "id": 12442612827661874140,
+   "en": "Shadow Piercer performs an Assassination but adds +{NumberTag}% cooldown",
+   "ro": "Străpungătorul umbrelor execută un Asasinat, dar adaugă +{NumberTag}% timp de reîncărcare"
+  },
+  {
+   "id": 12442687619583641016,
+   "en": "+{NumberTag}% Armor Piercing when hitting Frost-Afflicted enemies",
+   "ro": "+{NumberTag}% Străpungere a armurii când lovești inamicii afectați de Îngheț"
+  },
+  {
+   "id": 12442704798019148134,
+   "en": "Fire Whirl Handle",
+   "ro": "Mânerul Vârtejului de foc"
+  },
+  {
+   "id": 12442724396994864679,
+   "en": "Start Domain with Powerhouse boon",
+   "ro": "Începe Domeniul cu binecuvântarea Puterii"
+  },
+  {
+   "id": 12442732601803243069,
+   "en": "Weakening Kunai",
+   "ro": "Kunai slăbitor"
+  },
+  {
+   "id": 12442762875352918413,
+   "en": "Glacier Breaker Head",
+   "ro": "Vârful Spărgătorului de ghețari"
+  },
+  {
+   "id": 12442844181824710389,
+   "en": "Its chain bites deep, moments before an icy death.",
+   "ro": "Lanțurile lui mușcă adânc, chiar înainte de o moarte înghețată."
+  },
+  {
+   "id": 12442888003686957525,
+   "en": "Spartan Classic",
+   "ro": "Clasicul spartan"
+  },
+  {
+   "id": 12442918351225173194,
+   "en": "Skeleton Crew",
+   "ro": "Echipajul scheletic"
+  },
+  {
+   "id": 12442942673515305518,
+   "en": "Knockback",
+   "ro": "Recul"
+  },
+  {
+   "id": 12442974458849145835,
+   "en": "Domain contains additional Outlaws",
+   "ro": "Domeniul conține hoți suplimentari"
+  },
+  {
+   "id": 12442983654020592704,
+   "en": "Icicle Reach E-bu",
+   "ro": "Raza Țurțurului – E-bu"
+  },
+  {
+   "id": 12442995954807326879,
+   "en": "Lightning strikes around you",
+   "ro": "Fulgerele lovesc în jurul tău"
+  },
+  {
+   "id": 12443016835060788244,
+   "en": "Thorn Stand",
+   "ro": "Postul spinului"
+  },
+  {
+   "id": 12443024668114623768,
+   "en": "Desynchronizer Guard",
+   "ro": "Garda desincronizatorului"
+  },
+  {
+   "id": 12443050578928616396,
+   "en": "Its arrows fly against a sky that has already burned.",
+   "ro": "Săgețile lui zboară spre un cer care a ars deja."
+  },
+  {
+   "id": 12443068010237688822,
+   "en": "Fire Affliction Duration",
+   "ro": "Durata afecțiunii de foc"
+  },
+  {
+   "id": 12443086895941474737,
+   "en": "Attacks push back their targets",
+   "ro": "Atacurile împing înapoi țintele"
+  },
+  {
+   "id": 12443111489948487152,
+   "en": "Bitter Frost",
+   "ro": "Ger amar"
+  },
+  {
+   "id": 12443120064814973713,
+   "en": "Domain grants +{NumberTag}% rewards on completion",
+   "ro": "Domeniul oferă +{NumberTag}% recompense la finalizare"
+  },
+  {
+   "id": 12443142305545771628,
+   "en": "+{NumberTag}% damage with Posture attacks\nEnemies take {NumberTag2}% reduced damage from non-postured attacks",
+   "ro": "+{NumberTag}% daune cu atacurile în Postură\nInamicii primesc {NumberTag2}% mai puține daune de la atacurile fără postură"
+  },
+  {
+   "id": 12443191407409134256,
+   "en": "DOMAIN",
+   "ro": "DOMENIU"
+  },
+  {
+   "id": 12443195152104568091,
+   "en": "Elderwood ",
+   "ro": "Lemn de soc "
+  },
+  {
+   "id": 12443202239817350041,
+   "en": "Chance to Refill Ammo on Use",
+   "ro": "Șansă de reumplere a muniției la folosire"
+  },
+  {
+   "id": 12443202696208348989,
+   "en": "Bitter Frost Blade",
+   "ro": "Lama Gerului amar"
+  },
+  {
+   "id": 12443219681920642973,
+   "en": "Burial Thunder Ammo Pouch",
+   "ro": "Tolba de muniție Tunetul înmormântării"
+  },
+  {
+   "id": 12443277163689602253,
+   "en": "Cold Whisper Guard",
+   "ro": "Garda Șoaptei reci"
+  },
+  {
+   "id": 12443302021692336574,
+   "en": "Lose Adrenaline over time",
+   "ro": "Pierzi adrenalină în timp"
+  },
+  {
+   "id": 12443311123720424795,
+   "en": "Domains",
+   "ro": "Domenii"
+  },
+  {
+   "id": 12443314403226592376,
+   "en": "Bonechill",
+   "ro": "Frigul până la os"
+  },
+  {
+   "id": 12443316794343821898,
+   "en": "Daisho-sho-OW!",
+   "ro": "Daisho-sho-OW!"
+  },
+  {
+   "id": 12443326761481791189,
+   "en": "Domain contains patches of fiery ground\nFiery ground applies Fire buildup to you",
+   "ro": "Domeniul are porțiuni de teren în flăcări\nTerenul în flăcări îți aplică Acumulare de foc"
+  },
+  {
+   "id": 12443347523393451898,
+   "en": "Domain contains patches of frosty ground\nFrosty ground applies Frost buildup to you",
+   "ro": "Domeniul are porțiuni de teren înghețat\nTerenul înghețat îți aplică Acumulare de îngheț"
+  },
+  {
+   "id": 12443422277025993540,
+   "en": "Firestarter Handle",
+   "ro": "Mânerul aprinzătorului"
+  },
+  {
+   "id": 12443463650259440037,
+   "en": "It pulls and cuts from a place that should not exist.",
+   "ro": "Trage și taie dintr-un loc care n-ar trebui să existe."
+  },
+  {
+   "id": 12443468857110831089,
+   "en": "Shadow Barrage spreads Fire in the area",
+   "ro": "Baraj de umbre răspândește Foc în zonă"
+  },
+  {
+   "id": 12443475594117593475,
+   "en": "Gateway",
+   "ro": "Poartă"
+  },
+  {
+   "id": 12443476418736091311,
+   "en": "Armor Piercing on Burning Enemies",
+   "ro": "Penetrarea armurii asupra inamicilor în flăcări"
+  },
+  {
+   "id": 12443487326396017729,
+   "en": "Glacier Breaker",
+   "ro": "Spărgătorul de ghețari"
+  },
+  {
+   "id": 12443493145198292493,
+   "en": "Morbid Bloom Handle",
+   "ro": "Mânerul înfloririi morbide"
+  },
+  {
+   "id": 12443497027898243604,
+   "en": "Bug Fixer Blade",
+   "ro": "Lama reparatorului de erori"
+  },
+  {
+   "id": 12443522750815839661,
+   "en": "You cannot die",
+   "ro": "Nu poți muri"
+  },
+  {
+   "id": 12443558904653010420,
+   "en": "A weapon for guarding long-forgotten grounds.",
+   "ro": "O armă făcută să apere ținuturi uitate de mult."
+  },
+  {
+   "id": 12443616224810406315,
+   "en": "Critical on Dazed Enemies",
+   "ro": "Lovitură critică asupra inamicilor năuciți"
+  },
+  {
+   "id": 12443619071163070643,
+   "en": "The hunt ends without sound, without struggle.",
+   "ro": "Vânătoarea se încheie fără sunet, fără luptă."
+  },
+  {
+   "id": 12443652000742671414,
+   "en": "Endless Winter Saya",
+   "ro": "Teaca iernii fără sfârșit"
+  },
+  {
+   "id": 12443655067496078388,
+   "en": "Broken Spear of Leonidas",
+   "ro": "Lancea frântă a lui Leonidas"
+  },
+  {
+   "id": 12443713420197199839,
+   "en": "Enemy Health",
+   "ro": "Viața inamicilor"
+  },
+  {
+   "id": 12443723706747726807,
+   "en": "There’s no such thing as reality inside this Domain, so watch your step. It’s a long way down. ",
+   "ro": "Nu e realitate în Domeniul ăsta, așa că ai grijă pe unde calci. E un drum lung până jos. "
+  },
+  {
+   "id": 12443738914330202770,
+   "en": "Engravings – Bo",
+   "ro": "Gravuri – bō"
+  },
+  {
+   "id": 12443759962842276111,
+   "en": "Reach Weapons Mastery",
+   "ro": "Măiestria armelor cu rază lungă"
+  },
+  {
+   "id": 12443791298950446798,
+   "en": "Harder, Better, Faster, Stronger",
+   "ro": "Mai tare, mai bun, mai rapid, mai puternic"
+  },
+  {
+   "id": 12443845773462509112,
+   "en": "Start Domain with Immortal boon",
+   "ro": "Începe Domeniul cu binecuvântarea Nemuririi"
+  },
+  {
+   "id": 12443849230698910333,
+   "en": "Life and death are entwined along its heavy edge.",
+   "ro": "Viața și moartea se împletesc pe marginea ei periculoasă."
+  },
+  {
+   "id": 12443908835797659729,
+   "en": "Stormbringer",
+   "ro": "Aducătorul furtunii"
+  },
+  {
+   "id": 12443956156716722585,
+   "en": "A ruinous expanse where life lies shattered and the land itself bears the scars of ancient calamity. Or, if you work for a living, a Monday. ",
+   "ro": "O întindere ruinată, unde viața e zdrobită și pământul poartă urmele unei catastrofe vechi. Sau, dacă muncești pentru pâine, un luni. "
+  },
+  {
+   "id": 12444124828179396728,
+   "en": "Frost Arrow",
+   "ro": "Săgeata de gheață"
+  },
+  {
+   "id": 12444153832697604740,
+   "en": "Cinderfall",
+   "ro": "Căderea cenușii"
+  },
+  {
+   "id": 12444174287720626974,
+   "en": "Polar Silence Quiver",
+   "ro": "Tolba Tăcerii polare"
+  },
+  {
+   "id": 12444178975098735495,
+   "en": "+{NumberTag}% damage with Bow for every 1% of over-capped Bow Draw Speed",
+   "ro": "+{NumberTag}% daune cu arcul pentru fiecare 1% de Viteză de tragere a arcului peste limită"
+  },
+  {
+   "id": 12444182718948084482,
+   "en": "Leave Domain",
+   "ro": "Părăsește domeniul"
+  },
+  {
+   "id": 12444208986828726833,
+   "en": "Critical on Frozen Enemies",
+   "ro": "Lovituri critice asupra inamicilor înghețați"
+  },
+  {
+   "id": 12444232426864246149,
+   "en": "Elderwood Bo Staff",
+   "ro": "Bastonul bō din lemn de soc"
+  },
+  {
+   "id": 12444233304143689430,
+   "en": "System Crash Head",
+   "ro": "Vârful prăbușirii sistemului"
+  },
+  {
+   "id": 12444244148560058358,
+   "en": "Melee hits and Tools inflict {NumberTag}% Frost Buildup\n+{NumberTag2}% damage when hitting Frost-Afflicted enemies\nNon-Afflicted enemies take {NumberTag3}% reduced damage",
+   "ro": "Loviturile corp la corp și Uneltele provoacă {NumberTag}% Acumulare de îngheț\n+{NumberTag2}% daune când lovești inamicii afectați de îngheț\nInamicii neafectați primesc {NumberTag3}% daune mai mici"
+  },
+  {
+   "id": 12444250197396656547,
+   "en": "Generate a new Domain to discover the next location",
+   "ro": "Generează un Domeniu nou ca să descoperi următoarea locație"
+  },
+  {
+   "id": 12444264783609744021,
+   "en": "Headshots on Frozen enemies remove a Health Segment",
+   "ro": "Loviturile în cap asupra inamicilor înghețați elimină un Segment de sănătate"
+  },
+  {
+   "id": 12444294313538388723,
+   "en": "Signal Breaker Quiver",
+   "ro": "Tolbă Signal Breaker"
+  },
+  {
+   "id": 12444316724255299209,
+   "en": "Enemies inflict {NumberTag}% Bleed Buildup on hit",
+   "ro": "Inamicii provoacă {NumberTag}% Acumulare de sângerare la lovitură"
+  },
+  {
+   "id": 12444332794499559469,
+   "en": "Reach Weapons Mastery",
+   "ro": "Măiestria armelor cu rază lungă"
+  },
+  {
+   "id": 12444376682928397348,
+   "en": "Ground Drain",
+   "ro": "Drenajul solului"
+  },
+  {
+   "id": 12444398379537630944,
+   "en": "Assassin Tomahawk Entanglement",
+   "ro": "Încâlcirea tomahawk-ului asasinului"
+  },
+  {
+   "id": 12444431995898962212,
+   "en": "Engravings – Any Head",
+   "ro": "Gravuri – orice coif"
+  },
+  {
+   "id": 12444434180744746292,
+   "en": "Engravings – Helmets",
+   "ro": "Gravuri – Coifuri"
+  },
+  {
+   "id": 12444483471032868511,
+   "en": "+{NumberTag}% damage with Kusarigama or Naginata attacks\nEnemies take {NumberTag2}% reduced damage from other weapon types",
+   "ro": "+{NumberTag}% daune cu atacurile kusarigama sau naginata\nInamicii primesc {NumberTag2}% mai puține daune de la celelalte tipuri de arme"
+  },
+  {
+   "id": 12444507207070343575,
+   "en": "MODcoin Orbs",
+   "ro": "Sfere MODcoin"
+  },
+  {
+   "id": 12444581250797643625,
+   "en": "Bladed Weapons Mastery",
+   "ro": "Măiestria armelor cu lamă"
+  },
+  {
+   "id": 12444595870139553436,
+   "en": "The Broken Sky Domain",
+   "ro": "Domeniul Cerului Frânt"
+  },
+  {
+   "id": 12444613422093875132,
+   "en": "Restock Station",
+   "ro": "Stație de reaprovizionare"
+  },
+  {
+   "id": 12444617596442728934,
+   "en": "Engravings – Bow",
+   "ro": "Gravuri – Arc"
+  },
+  {
+   "id": 12444637399095365624,
+   "en": "Blunt Weapons Mastery",
+   "ro": "Măiestria armelor contondente"
+  },
+  {
+   "id": 12444650871545569226,
+   "en": "Reroll Modifier",
+   "ro": "Regenerează modificatorul"
+  },
+  {
+   "id": 12444657965396406263,
+   "en": "Fractured Constellation",
+   "ro": "Constelație fracturată"
+  },
+  {
+   "id": 12444658192925961767,
+   "en": "Combo Ender deals bonus delayed damage",
+   "ro": "Finalizatorul de combinații provoacă și daune bonus întârziate"
+  },
+  {
+   "id": 12444677247253710848,
+   "en": "Ground Attack on Frozen enemies propels an Ice Shard",
+   "ro": "Atacul la sol asupra inamicilor înghețați lansează o așchie de gheață"
+  },
+  {
+   "id": 12444688990666511040,
+   "en": "Non-Afflicted enemies take less damage",
+   "ro": "Inamicii neafectați primesc mai puține daune"
+  },
+  {
+   "id": 12444704559884505240,
+   "en": "Shattering Shoulder",
+   "ro": "Umăr zdrobitor"
+  },
+  {
+   "id": 12444717201769920428,
+   "en": "Enter Domain",
+   "ro": "Intră în domeniu"
+  },
+  {
+   "id": 12444727955314710051,
+   "en": "Everyone's a Critic",
+   "ro": "Toți sunt critici"
+  },
+  {
+   "id": 12444738834216566457,
+   "en": "Gaia's Embrace",
+   "ro": "Îmbrățișarea Gaiei"
+  },
+  {
+   "id": 12444744753459085308,
+   "en": "System Crash Pommel",
+   "ro": "Măciulia prăbușirii de sistem"
+  },
+  {
+   "id": 12444765696012204384,
+   "en": "Lucky Refund",
+   "ro": "Rambursare norocoasă"
+  },
+  {
+   "id": 12444776866352637216,
+   "en": "Linked Critical",
+   "ro": "Critic înlănțuit"
+  },
+  {
+   "id": 12444810397363245824,
+   "en": "Armor Damage on Burning Enemies",
+   "ro": "Daune asupra armurii la inamicii în flăcări"
+  },
+  {
+   "id": 12444831364605394800,
+   "en": "Find the Gap",
+   "ro": "Găsește breșa"
+  },
+  {
+   "id": 12444836174733805810,
+   "en": "Bonechill Blade",
+   "ro": "Lama frigului până la os"
+  },
+  {
+   "id": 12444879170755612380,
+   "en": "Scorched Earth",
+   "ro": "Pământ pârjolit"
+  },
+  {
+   "id": 12444916235508165883,
+   "en": "Spontaneous Combustion Teppo",
+   "ro": "Teppō al combustiei spontane"
+  },
+  {
+   "id": 12444992816434403607,
+   "en": "Domain closes instantly upon death",
+   "ro": "Domeniul se închide instant la moarte"
+  },
+  {
+   "id": 12445005316278725316,
+   "en": "Ashen Razor",
+   "ro": "Briciul cenușiu"
+  },
+  {
+   "id": 12445011183701976575,
+   "en": "Gotta Go Fast",
+   "ro": "Trebuie să fug repede"
+  },
+  {
+   "id": 12445027521372365969,
+   "en": "Samurai Showdown attacks spread Fire in the area",
+   "ro": "Atacurile Duelului de samurai răspândesc foc în zonă"
+  },
+  {
+   "id": 12445072894197412691,
+   "en": "Headshot Inspiration",
+   "ro": "Inspirație din lovituri în cap"
+  },
+  {
+   "id": 12445121840921972769,
+   "en": "Reduce Cooldowns on Ration Use",
+   "ro": "Reduce timpii de reîncărcare la folosirea rațiilor"
+  },
+  {
+   "id": 12445145532971738736,
+   "en": "Shattering Shot",
+   "ro": "Lovitură zdrobitoare"
+  },
+  {
+   "id": 12445161889692335360,
+   "en": "Escape Strike deals bonus delayed damage",
+   "ro": "Lovitura de evadare provoacă daune întârziate suplimentare"
+  },
+  {
+   "id": 12445171447924026485,
+   "en": "Ability Damage Increase",
+   "ro": "Creștere a daunelor abilităților"
+  },
+  {
+   "id": 12445181746962301848,
+   "en": "+{NumberTag}% Vulnerable Damage per Adrenaline Chunk filled",
+   "ro": "+{NumberTag}% Daune vulnerabile pe fiecare bucată de adrenalină umplută"
+  },
+  {
+   "id": 12445192229418443705,
+   "en": "After generating a Domain with [TX_VaultKey]Token, you can reroll location and modifiers for free one time",
+   "ro": "După ce creezi un Domeniu cu [TX_VaultKey]Jeton, poți reface gratuit, o dată, locația și modificatorii"
+  },
+  {
+   "id": 12445239118979978825,
+   "en": "Best Defense",
+   "ro": "Cea mai bună apărare"
+  },
+  {
+   "id": 12445247411756852412,
+   "en": "The Red Moon Domain",
+   "ro": "Domeniul Lunii Roșii"
+  },
+  {
+   "id": 12445296236136493253,
+   "en": "One With the Wave",
+   "ro": "Una cu valul"
+  },
+  {
+   "id": 12445317784914249345,
+   "en": "Fire Whirl Entanglement",
+   "ro": "Încâlcirea vârtejului de foc"
+  },
+  {
+   "id": 12445445161016081131,
+   "en": "Reduce all Cooldowns on kill",
+   "ro": "Reduce toți timpii de reîncărcare la eliminare"
+  },
+  {
+   "id": 12445459060435650345,
+   "en": "System Glitch Handle",
+   "ro": "Mânerul defectării sistemului"
+  },
+  {
+   "id": 12445480346094730240,
+   "en": "Cooldown Reduction",
+   "ro": "Reducerea timpului de reîncărcare"
+  },
+  {
+   "id": 12445524778204809997,
+   "en": "It separates the living from the dead beneath a blood red sky.",
+   "ro": "Desparte viii de morți sub un cer roșu-sânge."
+  },
+  {
+   "id": 12445578456792236131,
+   "en": "+{NumberTag}% Fire Buildup with regular arrows",
+   "ro": "+{NumberTag}% Acumulare de foc cu săgeți obișnuite"
+  },
+  {
+   "id": 12445606282700761516,
+   "en": "A weapon wielded by Ratonhnhaké:ton, sometimes known as \"Connor\" but NEVER \"Connor Kenway.\" Fight me. –MOD",
+   "ro": "O armă purtată de Ratonhnhaké:ton, cunoscut uneori drept „Connor”, dar NICIODATĂ „Connor Kenway”. Bate-te cu mine. –MOD"
+  },
+  {
+   "id": 12445631127368271623,
+   "en": "Far Drain",
+   "ro": "Drenaj de la distanță"
+  },
+  {
+   "id": 12445637955231118669,
+   "en": "Packet Loss Teppo",
+   "ro": "Teppō al pierderii de pachete"
+  },
+  {
+   "id": 12445642172788735298,
+   "en": "Disassembler Saya",
+   "ro": "Teaca dezasamblatorului"
+  },
+  {
+   "id": 12445691004362153499,
+   "en": "Crimson Horizon Quiver",
+   "ro": "Tolba orizontului purpuriu"
+  },
+  {
+   "id": 12445721402166850528,
+   "en": "Affliction Required",
+   "ro": "Afecțiune necesară"
+  },
+  {
+   "id": 12445737064698933813,
+   "en": "Enemies hit with Kunai are vulnerable",
+   "ro": "Inamicii loviți cu kunai sunt vulnerabili"
+  },
+  {
+   "id": 12445791753316249478,
+   "en": "Fading Perfection",
+   "ro": "Perfecțiune trecătoare"
+  },
+  {
+   "id": 12445833346891895923,
+   "en": "+{NumberTag}% Damage per Affliction on enemy",
+   "ro": "+{NumberTag}% daune pentru fiecare afecțiune a inamicului"
+  },
+  {
+   "id": 12445836422271523900,
+   "en": "Chanbara",
+   "ro": "Chanbara"
+  },
+  {
+   "id": 12445838136239146158,
+   "en": "+{NumberTag}% Critical Chance when hitting Fire-Afflicted enemies",
+   "ro": "+{NumberTag}% Șansă de lovitură critică atunci când lovești inamici afectați de foc"
+  },
+  {
+   "id": 12445887122903953565,
+   "en": "Enemies take less damage from non-postured attacks",
+   "ro": "Inamicii iau mai puține daune de la atacurile fără postură"
+  },
+  {
+   "id": 12445888217003238807,
+   "en": "Each blow promises widespread destruction.",
+   "ro": "Fiecare lovitură promite distrugere pe scară largă."
+  },
+  {
+   "id": 12445902576348750415,
+   "en": "Reality cracks with every impact, destabilizing anything it touches.",
+   "ro": "Realitatea se fisurează cu fiecare impact și destabilizează tot ce atinge."
+  },
+  {
+   "id": 12445904037722317727,
+   "en": "Ability Spam",
+   "ro": "Abuz de abilități"
+  },
+  {
+   "id": 12445921850800268460,
+   "en": "Domain contains unstable Anomalies \nUnstable Anomalies create shockwaves that knock you back",
+   "ro": "Domeniul conține Anomalii instabile\nAnomaliile instabile creează unde de șoc care te împing înapoi"
+  },
+  {
+   "id": 12445924294424483509,
+   "en": "+{NumberTag}% Critical Chance per Affliction on enemy",
+   "ro": "+{NumberTag}% Șansă de lovitură critică pentru fiecare afecțiune a inamicului"
+  },
+  {
+   "id": 12445954144567525375,
+   "en": "Blood Strike",
+   "ro": "Lovitură sângerândă"
+  },
+  {
+   "id": 12445955952567491999,
+   "en": "Non-Afflicted enemies take less damage",
+   "ro": "Inamicii neafectați primesc mai puține daune"
+  },
+  {
+   "id": 12445994964146672578,
+   "en": "This weapon rapidly brings the heat.",
+   "ro": "Arma asta încinge repede lucrurile."
+  },
+  {
+   "id": 12446007232938879131,
+   "en": "Ability Lockdown",
+   "ro": "Blocarea abilităților"
+  },
+  {
+   "id": 12446008001852498128,
+   "en": "Concordance Helmet",
+   "ro": "Coiful Concordanței"
+  },
+  {
+   "id": 12446052991056343897,
+   "en": "Affliction Required",
+   "ro": "Afecțiune necesară"
+  },
+  {
+   "id": 12446056564001706752,
+   "en": "Start the Domain with the [BOLD_BEGIN]Sticky Fingers[BOLD_END] MOD Shrine boon\n\n[BOLD_BEGIN]Sticky Fingers[BOLD_END] grants Mon on hit\n\n+{NumberTag}% duration of MOD Shrine boons",
+   "ro": "Începe Domeniul cu [BOLD_BEGIN]Degete lipicioase[BOLD_END] binecuvântarea Altarului MOD\n\n[BOLD_BEGIN]Degete lipicioase[BOLD_END] acordă Mon la lovitură\n\n+{NumberTag}% durată a binecuvântărilor Altarului MOD"
+  },
+  {
+   "id": 12446062185805855900,
+   "en": "Affliction Required",
+   "ro": "Afecțiune necesară"
+  },
+  {
+   "id": 12446120903889641981,
+   "en": "Domain contains patches of frosty ground",
+   "ro": "Domeniul conține porțiuni de sol înghețat"
+  },
+  {
+   "id": 12446136259906505989,
+   "en": "Ration on kill, can only heal from rations",
+   "ro": "Rație la eliminare, te poți vindeca doar din rații"
+  },
+  {
+   "id": 12446136523815599043,
+   "en": "Desynchronizer",
+   "ro": "Desincronizator"
+  },
+  {
+   "id": 12446146187626577030,
+   "en": "Critical Chance Increase",
+   "ro": "Creștere a șansei de lovitură critică"
+  },
+  {
+   "id": 12446157575218367416,
+   "en": "This weapon brings a cold that cuts to the bone.",
+   "ro": "Arma aduce un frig care taie până la os."
+  },
+  {
+   "id": 12446186790523170775,
+   "en": "Restore {NumberTag}% Health on Entanglement",
+   "ro": "Restabilește {NumberTag}% din sănătate la încâlcire"
+  },
+  {
+   "id": 12446191330296272121,
+   "en": "Reduce all cooldowns by {NumberTag}% when Health is critical",
+   "ro": "Reduce toate timpii de reîncărcare cu {NumberTag}% când Sănătatea este critică"
+  },
+  {
+   "id": 12446203215891860299,
+   "en": "Electric Arc",
+   "ro": "Arc electric"
+  },
+  {
+   "id": 12446212320038910105,
+   "en": "A labyrinth of unearthed chambers and ancient stones where death lurks around every corner.",
+   "ro": "Un labirint de încăperi scoase la lumină și pietre vechi, unde moartea pândește după fiecare colț."
+  },
+  {
+   "id": 12446215675343918413,
+   "en": "Reduce Cooldowns on Critical Strike",
+   "ro": "Reduce timpii de reîncărcare la lovitură critică"
+  },
+  {
+   "id": 12446216345145344986,
+   "en": "Reduce all cooldowns by {NumberTag}% after using a ration",
+   "ro": "Reduce toate timpii de reîncărcare cu {NumberTag}% după folosirea unei rații"
+  },
+  {
+   "id": 12446216379452093574,
+   "en": "Arthur's Powers",
+   "ro": "Puterile lui Arthur"
+  },
+  {
+   "id": 12446232990073363387,
+   "en": "Concordance Armor",
+   "ro": "Armura Concordanței"
+  },
+  {
+   "id": 12446244480374050411,
+   "en": "+100% Critical chance",
+   "ro": "+100% șansă de lovitură critică"
+  },
+  {
+   "id": 12446267744370817446,
+   "en": "Enemies inflict Fire Buildup on hit",
+   "ro": "Inamicii provoacă Acumulare de foc la lovitură"
+  },
+  {
+   "id": 12446281248300608688,
+   "en": "Reduce all cooldowns by {NumberTag}% on Critical Strike",
+   "ro": "Reduce toate timpii de reîncărcare cu {NumberTag}% la lovitură critică"
+  },
+  {
+   "id": 12446362750324243687,
+   "en": "Enjoy your MODcoins! :)",
+   "ro": "Bucură-te de MODcoins! :)"
+  },
+  {
+   "id": 12446373353490742824,
+   "en": "Echo of the Hatou",
+   "ro": "Ecoul Hatou"
+  },
+  {
+   "id": 12446401226653248026,
+   "en": "Assassin Tomahawk Handle",
+   "ro": "Mânerul tomahawk-ului asasinului"
+  },
+  {
+   "id": 12446419680738917885,
+   "en": "Hate Everlasting",
+   "ro": "Ură veșnică"
+  },
+  {
+   "id": 12446449109364090489,
+   "en": "Reduce all cooldowns by {NumberTag}% on Dodge",
+   "ro": "Reduce toate timpii de reîncărcare cu {NumberTag}% la Ferește-te"
+  },
+  {
+   "id": 12446467178045214490,
+   "en": "Critical Damage for Critical Chance",
+   "ro": "Daune critice pentru șansă critică"
+  },
+  {
+   "id": 12446469054303114088,
+   "en": "Morbid Bloom",
+   "ro": "Înflorire morbidă"
+  },
+  {
+   "id": 12446470305186316831,
+   "en": "MOD's Shop",
+   "ro": "Magazinul MOD"
+  },
+  {
+   "id": 12446470826079648572,
+   "en": "Heat Wave Guard",
+   "ro": "Garda valului de căldură"
+  },
+  {
+   "id": 12446474820451606788,
+   "en": "Emerge victorious from one of MOD's challenges",
+   "ro": "Câștigă una dintre provocările MOD"
+  },
+  {
+   "id": 12446547396801821132,
+   "en": "Restore Health on Vault",
+   "ro": "Restabilește viața la trecerea peste obstacole"
+  },
+  {
+   "id": 12446549884438232329,
+   "en": "Reroll Modifier",
+   "ro": "Regenerează modificatorul"
+  },
+  {
+   "id": 12446554865434617584,
+   "en": "{NumberTag}% chance to refill a Tool on Entanglement",
+   "ro": "{NumberTag}% șansă să reumple o Unealtă la înlănțuire"
+  },
+  {
+   "id": 12446653258755378603,
+   "en": "Thieves Guild",
+   "ro": "Breasla hoților"
+  },
+  {
+   "id": 12446663062355061198,
+   "en": "Domain closes instantly after {NumberTag} minutes",
+   "ro": "Domeniul se închide instant după {NumberTag} minute"
+  },
+  {
+   "id": 12446689651845392302,
+   "en": "Restore Health on Entanglement",
+   "ro": "Restabilește viața la înlănțuire"
+  },
+  {
+   "id": 12446704819505438566,
+   "en": "Terra Obscura",
+   "ro": "Terra Obscura"
+  },
+  {
+   "id": 12446739045886792757,
+   "en": "+{NumberTag}% damage with Tanto or Long Katana attacks\nEnemies take {NumberTag2}% reduced damage from other weapon types",
+   "ro": "+{NumberTag}% daune cu tantō sau katana lungă\nInamicii iau {NumberTag2}% mai puține daune de la celelalte tipuri de arme"
+  },
+  {
+   "id": 12446753426333501762,
+   "en": "Armor Damage on Frozen Enemies",
+   "ro": "Daune asupra armurii la inamicii înghețați"
+  },
+  {
+   "id": 12446772329832146128,
+   "en": "Crowbound Fragment",
+   "ro": "Fragment legat de corb"
+  },
+  {
+   "id": 12446774128476639158,
+   "en": "Polished by time, lasting for generations.",
+   "ro": "Lustruită de timp, ține din generație în generație."
+  },
+  {
+   "id": 12446842543284652416,
+   "en": "MOD's exclusive currency for her shop. Complete Domains to earn more. ",
+   "ro": "Moneda exclusivă a MOD pentru magazinul ei. Completează Domenii ca să câștigi mai multe. "
+  },
+  {
+   "id": 12446843966897358527,
+   "en": "Whether in the past, present or future, we work in the dark to serve the light. ",
+   "ro": "Fie că e vorba de trecut, prezent sau viitor, lucrăm în umbră ca să servim lumina. "
+  },
+  {
+   "id": 12446865603856558205,
+   "en": "Explosive Crescent",
+   "ro": "Semilună explozivă"
+  },
+  {
+   "id": 12446877839666085209,
+   "en": "Each strike hits like a dangerous winter hazard.",
+   "ro": "Fiecare lovitură e la fel de periculoasă ca un pericol de iarnă."
+  },
+  {
+   "id": 12446878450012571436,
+   "en": "On successful attacks, {NumberTag}% chance to trigger a [BOLD_BEGIN]Mystery Gift[BOLD_END].\n\n[BOLD_BEGIN]Mystery Gift[BOLD_END] include Afflictions, Mon, Resources, Pushback, Critical Chance, Health, Adrenaline and Shrines.",
+   "ro": "La atacurile reușite, {NumberTag}% șansă să declanșeze un [BOLD_BEGIN]Dar misterios[BOLD_END].\n\n[BOLD_BEGIN]Daruri misterioase[BOLD_END] includ Afecțiuni, Mon, Resurse, Respingere, Șansă de lovitură critică, Sănătate, Adrenalină și Altare."
+  },
+  {
+   "id": 12446893452355179096,
+   "en": "Engravings – Headgear",
+   "ro": "Gravuri – Coifuri"
+  },
+  {
+   "id": 12446918514086066674,
+   "en": "Enemies take less damage from non-critical strikes",
+   "ro": "Inamicii iau mai puține daune de la loviturile care nu sunt critice"
+  },
+  {
+   "id": 12446919391298413244,
+   "en": "Engravings – Trinkets",
+   "ro": "Gravuri – Talismane"
+  },
+  {
+   "id": 12446939422610766357,
+   "en": "Trigger Fire Affliction on hit with Explosive Surprise",
+   "ro": "Declanșează afecțiunea de foc la lovitură cu Surpriză explozivă"
+  },
+  {
+   "id": 12446942769211832455,
+   "en": "Reduce Cooldowns on Parry",
+   "ro": "Reduce timpul de reîncărcare la parare"
+  },
+  {
+   "id": 12446956422200798815,
+   "en": "+{NumberTag}%",
+   "ro": "+{NumberTag}%"
+  },
+  {
+   "id": 12447004524741582498,
+   "en": "Workaround",
+   "ro": "Soluție ocolitoare"
+  },
+  {
+   "id": 12447005736434292514,
+   "en": "Its arrows travel through broken frequencies, striking where sight cannot follow.",
+   "ro": "Săgețile sale străbat frecvențe rupte, lovind acolo unde privirea nu poate ajunge."
+  },
+  {
+   "id": 12447047923639246978,
+   "en": "Ration explodes on use instead of healing",
+   "ro": "Rația explodează la folosire, în loc să vindece"
+  },
+  {
+   "id": 12447081268460156057,
+   "en": "Disassembler Handle",
+   "ro": "Mânerul dezasamblatorului"
+  },
+  {
+   "id": 12447090670175909313,
+   "en": "Assassin Tomahawk",
+   "ro": "Tomahawk-ul asasinului"
+  },
+  {
+   "id": 12447113614411640968,
+   "en": "Bladed Weapons Mastery",
+   "ro": "Măiestria armelor cu lamă"
+  },
+  {
+   "id": 12447118490435042588,
+   "en": "Sticky Fingers",
+   "ro": "Degete lipicioase"
+  },
+  {
+   "id": 12447164979901481596,
+   "en": "MOD Shrines",
+   "ro": "Altare MOD"
+  },
+  {
+   "id": 12447171106691695391,
+   "en": "Bug Fixer Saya",
+   "ro": "Teaca reparatorului de erori"
+  },
+  {
+   "id": 12447186014879816451,
+   "en": "MOD's Domain",
+   "ro": "Domeniul MOD"
+  },
+  {
+   "id": 12447189537247974978,
+   "en": "Adrenaline Chunk on Vault",
+   "ro": "Bucată de adrenalină la trecerea peste obstacole"
+  },
+  {
+   "id": 12447235111409325053,
+   "en": "Attacks grant Mon on hit",
+   "ro": "Atacurile acordă Mon la lovire"
+  },
+  {
+   "id": 12447236115803192323,
+   "en": "DOMAIN COMPLETED",
+   "ro": "DOMENIU FINALIZAT"
+  },
+  {
+   "id": 12447255101186613232,
+   "en": "Rooting Release",
+   "ro": "Eliberare din înrădăcinare"
+  },
+  {
+   "id": 12447286771260200852,
+   "en": "Bubble Deflect",
+   "ro": "Deviere de bulă"
+  },
+  {
+   "id": 12447300254467606804,
+   "en": "+{NumberTag}% Critical Chance after each Link Attack",
+   "ro": "+{NumberTag}% șansă de lovitură critică după fiecare atac combinat"
+  },
+  {
+   "id": 12447300920829453543,
+   "en": "Armor Damage on Dazed Enemies",
+   "ro": "Daune asupra armurii la inamicii amețiți"
+  },
+  {
+   "id": 12447309369013034871,
+   "en": "Affliction Burst",
+   "ro": "Explozie de afecțiune"
+  },
+  {
+   "id": 12447313306915228743,
+   "en": "Mega Drain",
+   "ro": "Drenaj mega"
+  },
+  {
+   "id": 12447367947342604763,
+   "en": "This armor is the result of two or more bloodlines intersecting in the same time and space.",
+   "ro": "Armura e rezultatul a două sau mai multor linii de sânge care s-au întâlnit în același loc și în același timp."
+  },
+  {
+   "id": 12447406118405377993,
+   "en": "+{NumberTag}% damage with Bo or Kanabo attacks\nEnemies take {NumberTag2}% reduced damage from other weapon types",
+   "ro": "+{NumberTag}% daune cu atacurile cu bō sau kanabō\nInamicii iau {NumberTag2}% mai puține daune de la celelalte tipuri de arme"
+  },
+  {
+   "id": 12447458654669440863,
+   "en": "Domain Gateway",
+   "ro": "Poarta domeniului"
+  },
+  {
+   "id": 12447483603558505612,
+   "en": "Assassin Tomahawk Chain",
+   "ro": "Lanțul tomahawk-ului asasinului"
+  },
+  {
+   "id": 12447503351843382318,
+   "en": "Armed Robbery",
+   "ro": "Jaf armat"
+  },
+  {
+   "id": 12447514688638263691,
+   "en": "Cheat Death",
+   "ro": "Păcălește moartea"
+  },
+  {
+   "id": 12447516213912587523,
+   "en": "+{NumberTag}% Fire Affliction duration",
+   "ro": "+{NumberTag}% durată a afecțiunii de foc"
+  },
+  {
+   "id": 12447542107568607724,
+   "en": "Posture Attack consumes Affliction to gain +{NumberTag}% damage for {NumberTag2} seconds",
+   "ro": "Atacul asupra posturii consumă Suferința și îți dă +{NumberTag}% daune timp de {NumberTag2} secunde"
+  },
+  {
+   "id": 12447567138192263171,
+   "en": "+{NumberTag}% Frost Affliction duration",
+   "ro": "+{NumberTag}% durată a afecțiunii de gheață"
+  },
+  {
+   "id": 12447605767036472218,
+   "en": "Chance to Refill Ration on Use",
+   "ro": "Șansă de a reumple Rația la utilizare"
+  },
+  {
+   "id": 12447639227716556234,
+   "en": "+{NumberTag}% chance to refill a Ration on Vault",
+   "ro": "+{NumberTag}% șansă de a reumple o Rație la Seif"
+  },
+  {
+   "id": 12447665719497777641,
+   "en": "Sparkly Vampires",
+   "ro": "Vampiri strălucitori"
+  },
+  {
+   "id": 12447681629830094767,
+   "en": "Character Enhancement",
+   "ro": "Îmbunătățirea personajului"
+  },
+  {
+   "id": 12447688633042688173,
+   "en": "Icicle Reach Pommel",
+   "ro": "Măciulia întinderii de țurțure"
+  },
+  {
+   "id": 12447694012738739021,
+   "en": "Harmful echoes appears while fighting Daishos",
+   "ro": "Ecouri nocive apar în timpul luptelor cu Daishō"
+  },
+  {
+   "id": 12447713427902478130,
+   "en": "Glacier Breaker Shaft",
+   "ro": "Tija Glacier Breaker"
+  },
+  {
+   "id": 12447728130356838863,
+   "en": "System Crash",
+   "ro": "Blocare de sistem"
+  },
+  {
+   "id": 12447746952454640433,
+   "en": "Heated Throw",
+   "ro": "Aruncare încinsă"
+  },
+  {
+   "id": 12447758896396169316,
+   "en": "Burnout Bo Decoration",
+   "ro": "Ornamentul bō al epuizării"
+  },
+  {
+   "id": 12447802539752551411,
+   "en": "Domain must be completed using Naoe",
+   "ro": "Domeniul trebuie finalizat cu Naoe"
+  },
+  {
+   "id": 12447842610661461142,
+   "en": "Reverse engineer your enemies into their component parts.",
+   "ro": "Descompune-ți inamicii în piesele lor componente."
+  },
+  {
+   "id": 12447848944035215735,
+   "en": "Hard Shutdown Bo Staff",
+   "ro": "Bastonul bō al opririi forțate"
+  },
+  {
+   "id": 12447880373703966201,
+   "en": "Damage with Fire Affliction",
+   "ro": "Daune cu afecțiune de foc"
+  },
+  {
+   "id": 12447884312221303215,
+   "en": "Remove 1 Health Segment on next hit after {NumberTag} successful Dodges",
+   "ro": "Elimină 1 segment de Sănătate la următoarea lovitură după {NumberTag} eschivări reușite"
+  },
+  {
+   "id": 12447912490041965955,
+   "en": "Verdant Stone Saya",
+   "ro": "Teaca pietrei verzi"
+  },
+  {
+   "id": 12447925766839289780,
+   "en": "Buffed Shuriken",
+   "ro": "Shuriken îmbunătățit"
+  },
+  {
+   "id": 12447932039670613197,
+   "en": "Critical Damage Increase",
+   "ro": "Creștere a daunelor critice"
+  }
+ ]
+}

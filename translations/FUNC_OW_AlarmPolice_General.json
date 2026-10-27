@@ -1,0 +1,46 @@
+{
+ "package": "FUNC_OW_AlarmPolice_en-US_General",
+ "data_id": "00000230C7861EE8",
+ "entries": [
+  {
+   "id": 12430089066643735985,
+   "en": "You attracted attention from the Military. Wait until the season ends for them to stop searching for you, use [TX_Scouts] Scouts to clear your Wanted status from the World menu, or switch characters to avoid detection.",
+   "ro": "Ai atras atenția armatei. Așteaptă până se termină sezonul ca să nu mai te caute, folosește [TX_Scouts] Cercetași din meniul Lume ca să-ți ștergi statutul de Urmărit sau schimbă personajul ca să scapi de detectare."
+  },
+  {
+   "id": 12432800754470384700,
+   "en": "Killing in Temples and Shrines",
+   "ro": "Ucidere în temple și altare"
+  },
+  {
+   "id": 12433682970040717526,
+   "en": "Killing while visiting Temples or Shrines will generate a lot of attention. Generating too much will get you noticed and you will become Wanted.",
+   "ro": "Uciderile din timpul vizitării Templelor sau Altarelor atrag multă atenție. Dacă se adună prea multă, o să fii observat și o să devii Urmărit."
+  },
+  {
+   "id": 12436644361414714100,
+   "en": "Killing Military",
+   "ro": "Uciderea militarilor"
+  },
+  {
+   "id": 12438859028521919445,
+   "en": "Killing Military enemies outside of their bases will attract attention.\nAttracting too much will get you noticed and you will become Wanted.",
+   "ro": "Uciderea militarilor în afara bazelor lor atrage atenția.\nDacă atragi prea multă, o să fii observat și o să devii Urmărit."
+  },
+  {
+   "id": 12440858829595081781,
+   "en": "You are now Wanted",
+   "ro": "Ești acum urmărit"
+  },
+  {
+   "id": 12442391257170366292,
+   "en": "Causing Mayhem",
+   "ro": "Provoci haos"
+  },
+  {
+   "id": 12443831997793823438,
+   "en": "Creating chaos, like killing soldiers outside of their bases or causing trouble in [TX_Temple] Temples and [TX_Shinto] Shrines, will attract unwanted attention.\n\nDoing so will make you easy to notice and will eventually result in you becoming Wanted.",
+   "ro": "Creezi haos, de exemplu ucizi soldați în afara bazelor sau faci probleme în [TX_Temple] Temple și [TX_Shinto] Altare, și atragi atenție nedorită.\n\nAșa devii ușor de observat și, în cele din urmă, ajungi Urmărit."
+  }
+ ]
+}

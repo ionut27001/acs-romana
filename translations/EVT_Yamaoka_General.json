@@ -1,0 +1,376 @@
+{
+ "package": "EVT_Yamaoka_en-US_General",
+ "data_id": "0000021BC735E133",
+ "entries": [
+  {
+   "id": 12430065482859587260,
+   "en": "The gate must be an exit, but some energy has sealed it shut. Perhaps there is a way to remove it?",
+   "ro": "Poarta trebuie să fie o ieșire, dar o energie a sigilat-o. Poate există vreo cale s-o înlături?"
+  },
+  {
+   "id": 12430193113883330152,
+   "en": "The drawing was of a lone tree by the water",
+   "ro": "Desenul arăta un copac singur lângă apă"
+  },
+  {
+   "id": 12430532199482294015,
+   "en": "A Fisherman's Diary",
+   "ro": "Jurnalul unui pescar"
+  },
+  {
+   "id": 12430774229755415620,
+   "en": "The Oni is weaker here. Time to strike back!",
+   "ro": "Oni-ul e mai slab aici. E momentul să contraatacăm!"
+  },
+  {
+   "id": 12430891511259489824,
+   "en": "The Oni behind the disappearances in Akashi has been vanquished.\n\nIt is too much to hope he was killed. Rather, it is likely he returned to the nightmare realm from which he came, waiting to hunt once more...",
+   "ro": "Oni-ul din spatele disparițiilor din Akashi a fost învins.\n\nAr fi prea frumos să fi fost ucis. Mai degrabă, probabil s-a întors în tărâmul coșmarului din care a venit și așteaptă să vâneze din nou..."
+  },
+  {
+   "id": 12431635429140966372,
+   "en": "Dead by Daylight Banner",
+   "ro": "Stindardul Dead by Daylight"
+  },
+  {
+   "id": 12431754617256987417,
+   "en": "[Play as Yasuke]",
+   "ro": "[Joacă drept Yasuke]"
+  },
+  {
+   "id": 12432120084460672550,
+   "en": "Vanquish the Oni",
+   "ro": "Înfrângerea oni-ului"
+  },
+  {
+   "id": 12432169474719899951,
+   "en": "Cannot Get Out",
+   "ro": "Nu poți ieși"
+  },
+  {
+   "id": 12433371735185637120,
+   "en": "The Overlap",
+   "ro": "Suprapunerea"
+  },
+  {
+   "id": 12433758875244822409,
+   "en": "Talk to Tomiko",
+   "ro": "Vorbește cu Tomiko"
+  },
+  {
+   "id": 12433796036032101734,
+   "en": "The Oni is a formidable foe. Remain hidden to avoid his attention.",
+   "ro": "Oni-ul e un adversar de temut. Rămâi ascuns ca să nu-i atragi atenția."
+  },
+  {
+   "id": 12433989718173198019,
+   "en": "Juro’s mouth was already spilling black when we reached him.\n\nHis fear-crazed eyes regarded the statue he had pulled ashore, as though it were a demon. He was soon dead, but well before that, Taro and I began to feel unwell. We decided we must destroy it.\n\nIt is indestructible. Impervious to flame, unyielding to hammer blows. We buried it under oak wood and charcoal, yet a full day in that furnace yielded no effect upon it.\n\nFinally, several of the men dragged it to the seaward tree, for Taro and I could hardly walk.\n\nNone shall approach the place from this time forward.",
+   "ro": "Gura lui Juro era deja plină de negru când am ajuns la el.\n\nOchii lui înspăimântați priveau statuia pe care o trăsese la mal, de parcă ar fi fost un demon. A murit curând, dar cu mult înainte, Taro și cu mine am început să ne simțim rău. Am hotărât că trebuie s-o distrugem.\n\nEste indestructibilă. Nu o atinge flacăra și nu o clintesc loviturile de ciocan. A fost îngropată sub lemn de stejar și cărbune, dar o zi întreagă în cuptorul acela nu i-a făcut nimic.\n\nÎnsfârșit, câțiva dintre oameni au târât-o până la copacul de la mal, pentru că Taro și cu mine abia mai puteam merge.\n\nDe acum înainte, nimeni nu trebuie să se apropie de locul ăsta."
+  },
+  {
+   "id": 12434387508500793413,
+   "en": "Unusual events have been recorded across the region, warranting the League's investigation.",
+   "ro": "Au fost înregistrate evenimente neobișnuite în toată regiunea, așa că Liga a pornit o anchetă."
+  },
+  {
+   "id": 12434725942763805511,
+   "en": "The Oni is hunting you. Stay hidden to lose him.",
+   "ro": "Oni-ul te vânează. Rămâi ascuns ca să-l pierzi."
+  },
+  {
+   "id": 12435078724985919925,
+   "en": "The Oni",
+   "ro": "Oni-ul"
+  },
+  {
+   "id": 12435443042045948262,
+   "en": "+{NumberTag}% Damage Reduction after losing {NumberTag1}% Health in {NumberTag2} seconds",
+   "ro": "+{NumberTag}% Reducere a daunelor după ce pierzi {NumberTag1}% din Sănătate în {NumberTag2} secunde"
+  },
+  {
+   "id": 12435631680466402876,
+   "en": "The Oni is Hunting",
+   "ro": "Oni-ul vânează"
+  },
+  {
+   "id": 12435881150719923828,
+   "en": "The villagers buried the statue",
+   "ro": "Sătenii au îngropat statuia"
+  },
+  {
+   "id": 12435973233513428915,
+   "en": "The banner boasts colors from another realm, and an equally mysterious sigil...",
+   "ro": "Stindardul are culori dintr-o altă lume și un sigiliu la fel de misterios..."
+  },
+  {
+   "id": 12436001827638750856,
+   "en": "She is at the Hideout",
+   "ro": "Ea e la ascunzătoare"
+  },
+  {
+   "id": 12436069449589227633,
+   "en": "Back to Reality",
+   "ro": "Înapoi la realitate"
+  },
+  {
+   "id": 12436273285145394588,
+   "en": "This strange token is no longer dangerous, but you can still feel a sliver of its old power emanating from within.",
+   "ro": "Talismanul ăsta ciudat nu mai e periculos, dar simți încă o fărâmă din vechea lui putere, care vine din interior."
+  },
+  {
+   "id": 12436382746317629696,
+   "en": "Stay alert and you can anticipate the Oni's movements.",
+   "ro": "Rămâi atent și o să poți anticipa mișcările Oni-ului."
+  },
+  {
+   "id": 12436574054624840845,
+   "en": "Tomiko is concerned about one of the League's allies. Perhaps this is connected to some recent disappearances.",
+   "ro": "Tomiko e îngrijorată pentru unul dintre aliații Ligii. Poate că are legătură cu disparițiile recente."
+  },
+  {
+   "id": 12436663892749224356,
+   "en": "Dig",
+   "ro": "Sapă"
+  },
+  {
+   "id": 12437131220466745014,
+   "en": "Report to Tomiko",
+   "ro": "Raportează lui Tomiko"
+  },
+  {
+   "id": 12437193376542899100,
+   "en": "Quest complete! Customize Naoe and Yasuke with Dead by Daylight themed cosmetics in the Store.",
+   "ro": "Misiune încheiată! Personalizează-i pe Naoe și Yasuke cu cosmetice pe tema Dead by Daylight, în Magazin."
+  },
+  {
+   "id": 12437228163881360925,
+   "en": "[Dig]",
+   "ro": "[Sapă]"
+  },
+  {
+   "id": 12437230427869704869,
+   "en": "Tomiko is currently involved in another quest. Complete the quest before progressing.",
+   "ro": "Tomiko e ocupată cu altă misiune. Termină-o întâi, apoi progresezi."
+  },
+  {
+   "id": 12437567376640452471,
+   "en": "They last traveled east of Kakogawa Estuary",
+   "ro": "Ultima dată au fost văzuți la est de estuarul Kakogawa"
+  },
+  {
+   "id": 12437682783496828868,
+   "en": "Energy Hotspots",
+   "ro": "Punctele fierbinți de energie"
+  },
+  {
+   "id": 12437914894405917795,
+   "en": "The Oni seems impervious to attacks.",
+   "ro": "Oni-ul pare imun la atacuri."
+  },
+  {
+   "id": 12437991697981457323,
+   "en": "The energy sealing the gate must come from somewhere. Observe your surroundings to reveal the way forward.",
+   "ro": "Energia care sigilează poarta trebuie să vină de undeva. Uită-te bine în jur ca să vezi cum mergi mai departe."
+  },
+  {
+   "id": 12438006608409666464,
+   "en": "Featured Events",
+   "ro": "Evenimente recomandate"
+  },
+  {
+   "id": 12438153299681699502,
+   "en": "Tomiko will want to hear news of the missing villagers and League scout's fates.",
+   "ro": "Tomiko o să vrea să audă vești despre sătenii dispăruți și despre ce s-a întâmplat cu cercetașii Ligii."
+  },
+  {
+   "id": 12438381114708971490,
+   "en": "Search the dead body",
+   "ro": "Caută cadavrul"
+  },
+  {
+   "id": 12438555096953262830,
+   "en": "Cleanse the totems",
+   "ro": "Purifică totemurile"
+  },
+  {
+   "id": 12438623600794965025,
+   "en": "None of this is real. I have to wake up. Why can’t I wake up?\n \nI found a red gate. I swear I saw daylight beyond it, but it’s locked. Five seals hold it shut, each tied to a totem.\n \nI tried everything, but only a mantra worked. When I chanted it, the totem started to crack. But in the panic, I stumbled on my words and something awoke.\n \nA monster. I ran, I fought, I bled. Nothing stopped it. I tried everything: shuriken, kunai, even a katana strike.\n \nIf you find this, know that the totems can be destroyed. That must be the way out. I will try again to destroy the one in front of the gate. \n \nPlease, prove me right.",
+   "ro": "Nimic din toate astea nu e real. Trebuie să mă trezesc. De ce nu pot să mă trezesc?\n \nAm găsit o poartă roșie. Jur că am văzut lumina zilei dincolo de ea, dar e încuiată. Cinci sigilii o țin închisă, fiecare legat de câte un totem.\n \nAm încercat tot, dar doar o mantră a funcționat. Când am rostit-o, totemul a început să crape. Dar, în panică, m-am încurcat în cuvinte și ceva s-a trezit.\n \nUn monstru. Am fugit, am luptat, am sângerat. Nimic nu l-a oprit. Am încercat tot: shuriken, kunai, chiar și o lovitură de katana.\n \nDacă găsești asta, să știi că totemele pot fi distruse. Asta trebuie să fie ieșirea. O să încerc din nou să distrug cel din fața porții.\n \nTe rog, dovedește că am dreptate."
+  },
+  {
+   "id": 12438897747798795959,
+   "en": "The diary of an Akashi fisherman. It tells of a strange statue pulled from nearby waters.",
+   "ro": "Jurnalul unui pescar din Akashi. Povestește despre o statuie ciudată scoasă din apele din apropiere."
+  },
+  {
+   "id": 12439140580492793234,
+   "en": "This drawing depicts a red cross in front of a lone tree by a dock, with a menacing demon lurking nearby.",
+   "ro": "Desenul arată o cruce roșie în fața unui copac singuratic, lângă un doc, și un demon amenințător pe undeva prin apropiere."
+  },
+  {
+   "id": 12439549986204820273,
+   "en": "The statue has trapped Naoe and Yasuke in a strange realm of nightmares. And they are not alone.",
+   "ro": "Statuia i-a prins pe Naoe și Yasuke într-o lume ciudată a coșmarurilor. Și nu sunt singuri."
+  },
+  {
+   "id": 12440355126374565649,
+   "en": "Vanished...",
+   "ro": "Dispăruți..."
+  },
+  {
+   "id": 12440699975497281002,
+   "en": "Entity's Touch",
+   "ro": "Atingerea entității"
+  },
+  {
+   "id": 12440926843794620101,
+   "en": "Though written accounts have been lost, it is very well known to the people of the region that Renjiro Yamaoka had, in all respects, discharged his duty with honor and outstanding skill.\n\nYet a true accounting of his exploits in service to his master has been corrupted by the legions of lesser men who profited from the hysteria wrought by his son Kazan. Though a thousand mouths have spoken words claiming their veracity, it is my aim to make the truest telling of the tale of Kazan Yamaoka. \n\nDespite a tenuous calm that had settled in many populated parts, petty chaos continued to ravage the countryside in the region surrounding the Yamaoka lands. Thieves went unpunished and wastrels masqueraded as samurai, killing for pleasure. The old samurai, Renjiro Yamaoka, lamented the fall of his noble class. It angered him not only that the land was unsafe, but that his age prevented him from taking up his katana to defend the honor of the samurai and bring about peace.\n\nThis anger was shared by, and burned even more intensely in the heart of, his son Kazan, who longed to prove himself to his father. He wanted to restore the standing of the samurai, tarnished by the worthless men for whom honor meant nothing. \n\nIt is unknown if any outrage in particular spurred Kazan to action, but a day came when he took up his father’s sword and set out to make the world right in his eyes. One after another, many men fell beneath his blade. As his toll grew, so did his viciousness. His killings took on an aspect of macabre cruelty and humiliation, as if he intended a greater warning to others with each subsequent outrage. Rumors of an avenging Oni stalking the land spread amongst the country folk.\n\nAs the rain pelted his gore-encrusted armor one night, a lone samurai stepped out into his path. Kazan could see this was no imposter. Here was a true samurai. He called out to the stranger, “You are not my enemy. The honor of the samurai is a duty we share.” His words seemed to assuage the stranger, as his stance softened slightly, but he quickly regained his resolve and raised his katana with intent. “You share no honor of mine.” He replied, somewhat shakily to Kazan’s ear. They engaged. And though for a time Kazan felt he may indeed have more trouble than expected, he ultimately prevailed. \n\nYet the downed samurai would not relent. He could not stand, but still he raised his sword and spat blood. Kazan pushed the sword away and bent to remove the samurai’s helmet, intending to deliver a killing blow, only to recognize the face of his own father. It was then that the elderly samurai delivered a killing blow to himself, with a look of savage disgust. \n\nKazan, rent to his core with shame and fury, roared to the sky over the corpse of his disapproving father. When at last his breath was exhausted, he opened his blood-reddened eyes, and they were no longer the eyes of Kazan Yamaoka. \n\nBefore he could get to his feet, half a dozen harvesting forks pierced his heart. Accompanied by the searing pain, he heard the shouts of the men of his own village. Men he grew up with, worked the fields with, drank sake with; they were the ones to honor his father by taking his life and ending Kazan’s merciless campaign of blood.\n\nSoon, those closest to the warm stench of slaughter began to choke on a black mist far fouler than a hundred rotting corpses. Despite the frenzy, the mob’s carnage gave way to the thickening smoke, and they receded to reveal that Kazan was gone, seemingly dispersed into the wind along with the black fumes.\n\nThese are events to which I cannot attest but which conform most consistently to the accounts of the ones purporting to know. The similarities I offer as my best efforts of corroboration. None may know what truly transpired.\n\nTalk of him still mingles on the sake-loosened tongues of farm-folk in many quarters. Some claim Kazan has since been disfigured by rage and unearthly malevolence. None have seen him and lived it seems, for each account is preceded by “I heard...” None can be trusted. \n\nBe wary upon your travels,\n\nH.L.",
+   "ro": "Deși relatările scrise s-au pierdut, oamenii din regiune știu bine că Renjiro Yamaoka și-a făcut datoria cu onoare și cu o măiestrie remarcabilă.\n\nTotuși, adevărata poveste a isprăvilor lui în slujba stăpânului său a fost deformată de legiunile de oameni de nimic care au profitat de isteria stârnită de fiul său, Kazan. Deși o mie de guri pretind că spun adevărul, eu vreau să scriu cea mai sinceră poveste despre Kazan Yamaoka.\n\nDeși se așezase o liniște fragilă în multe zone populate, haosul mărunt continua să pustiască ținutul din jurul domeniului Yamaoka. Hoții rămâneau nepedepsiți, iar nevrednicii se dădeau drept samurai, ucigând pentru plăcere. Bătrânul samurai, Renjiro Yamaoka, deplângea căderea clasei sale nobile. Îl supăra nu doar că ținutul nu era sigur, ci și faptul că vârsta îl împiedica să-și ridice katana ca să apere onoarea samuraiilor și să aducă pacea.\n\nAceeași furie o împărtășea, și mai arzătoare în inima lui, fiul său Kazan, care tânjea să se dovedească în fața tatălui său. Voia să restabilească prestigiul samuraiilor, pătat de oamenii de nimic pentru care onoarea nu însemna nimic.\n\nNu se știe dacă vreo nedreptate anume l-a împins pe Kazan la acțiune, dar a venit o zi când și-a luat sabia tatălui și a pornit să îndrepte lumea, așa cum o vedea el. Unul după altul, mulți bărbați au căzut sub lama lui. Pe măsură ce numărul victimelor creștea, creștea și cruzimea lui. Uciderile lui deveneau tot mai macabre și mai umilitoare, parcă voia să transmită, cu fiecare nouă faptă, un avertisment mai mare celorlalți. Zvonurile despre un Oni răzbunător care bântuia ținutul s-au răspândit printre săteni.\n\nNoaptea, pe când ploaia îi bătea armura plină de sânge închegat, un samurai singuratic a ieșit în calea lui. Kazan și-a dat seama că nu era un impostor. Era un samurai adevărat. L-a strigat pe străin: „Tu nu ești dușmanul meu. Onoarea samuraiului e o datorie pe care o împărtășim.” Cuvintele lui păreau să-l liniștească pe străin, pentru că poziția i s-a îmblânzit ușor, dar și-a recăpătat repede hotărârea și și-a ridicat katana cu intenție. „Tu nu ai nicio onoare de împărtășit cu mine”, a răspuns el, cu o voce oarecum tremurată, după cum i s-a părut lui Kazan. Au început lupta. Și deși pentru o vreme Kazan a simțit că s-ar putea să aibă mai multe necazuri decât se aștepta, până la urmă a câștigat.\n\nDar samuraiul doborât nu s-a dat bătut. Nu se putea ridica, dar tot și-a ridicat sabia și a scuipat sânge. Kazan i-a împins sabia într-o parte și s-a aplecat ca să-i scoată coiful samuraiului, cu intenția de a da lovitura fatală, doar ca să recunoască fața propriului tată. Atunci bătrânul samurai și-a dat singur lovitura fatală, cu o privire de scârbă sălbatică.\n\nKazan, sfâșiat până în adânc de rușine și furie, a urlat spre cer, deasupra cadavrului tatălui său care îl dezaproba. Când, în sfârșit, i s-a terminat respirația, și-a deschis ochii înroșiți de sânge, iar aceștia nu mai erau ochii lui Kazan Yamaoka.\n\nÎnainte să se poată ridica în picioare, șase furci de cules i-au străpuns inima. Pe lângă durerea arzătoare, a auzit strigătele oamenilor din satul său. Oameni cu care crescuse, lucrase pe câmp, bause sake; ei au fost cei care au cinstit numele tatălui său luându-i viața și punând capăt sângeroasei campanii nemiloase a lui Kazan.\n\nÎn curând, cei mai apropiați de mirosul cald al măcelului au început să se sufoce într-un nor negru, mult mai greu decât o sută de cadavre în putrefacție. În ciuda freneziei, măcelul mulțimii s-a risipit odată cu fumul gros, iar oamenii s-au retras, dezvăluind că Kazan dispăruse, aparent împrăștiat în vânt împreună cu fumul negru.\n\nAcestea sunt evenimente pe care nu le pot confirma, dar care se potrivesc cel mai bine cu relatările celor care pretind că știu. Asemănările dintre ele sunt cea mai bună dovadă pe care o pot oferi. Nimeni nu poate ști ce s-a întâmplat de fapt.\n\nDespre el se mai vorbește încă, amestecat cu limbile dezlegate de sake ale țăranilor din multe colțuri. Unii spun că Kazan a fost desfigurat de furie și de o răutate nepământeană. Se pare că nimeni nu l-a văzut și a scăpat cu viață, căci fiecare relatare începe cu „Am auzit...”. Nu se poate ține cont de niciuna.\n\nAi grijă pe drumuri,\n\nH.L."
+  },
+  {
+   "id": 12440940591414996040,
+   "en": "Kazan Yamaoka",
+   "ro": "Kazan Yamaoka"
+  },
+  {
+   "id": 12441010623936632889,
+   "en": "A Mysterious Drawing",
+   "ro": "Un desen misterios"
+  },
+  {
+   "id": 12441088126852934331,
+   "en": "A fearsome Oni, responsible for the disappearances in Akashi.",
+   "ro": "Un Oni temut, responsabil pentru disparițiile din Akashi."
+  },
+  {
+   "id": 12441195922742240925,
+   "en": "Investigate the missing villagers",
+   "ro": "Investighează sătenii dispăruți"
+  },
+  {
+   "id": 12441466783072256274,
+   "en": "Vision of the Realms",
+   "ro": "Viziunea tărâmurilor"
+  },
+  {
+   "id": 12441488695102537519,
+   "en": "Unusual disappearances have been reported in a small fishing village – one of the League's own scouts among them.",
+   "ro": "Au fost raportate dispariții ciudate într-un sat mic de pescari. Printre dispăruți e și un cercetaș al Ligii."
+  },
+  {
+   "id": 12441840716545647838,
+   "en": "Dead by Daylight",
+   "ro": "Dead by Daylight"
+  },
+  {
+   "id": 12442332197629008978,
+   "en": "Cleanse",
+   "ro": "Purifică"
+  },
+  {
+   "id": 12442394303935948221,
+   "en": "Investigate the missing villagers",
+   "ro": "Investighează sătenii dispăruți"
+  },
+  {
+   "id": 12442785205418248470,
+   "en": "[Fight as Naoe]",
+   "ro": "[Luptă ca Naoe]"
+  },
+  {
+   "id": 12443282001440207565,
+   "en": "The Oni",
+   "ro": "Oni-ul"
+  },
+  {
+   "id": 12443748259773480263,
+   "en": "They reported missing villagers in Akashi",
+   "ro": "Au raportat sătenii dispăruți din Akashi"
+  },
+  {
+   "id": 12444099617063826907,
+   "en": "Anticipate Threats",
+   "ro": "Anticipează pericolele"
+  },
+  {
+   "id": 12445546213472670958,
+   "en": "Damage Reduction on High Damage Taken",
+   "ro": "Reducere a daunelor mari primite"
+  },
+  {
+   "id": 12445569004156285353,
+   "en": "A scout was sent to Harima",
+   "ro": "Un cercetaș a fost trimis în Harima"
+  },
+  {
+   "id": 12445599590565637891,
+   "en": "The gate is open!",
+   "ro": "Poarta e deschisă!"
+  },
+  {
+   "id": 12446447122390280168,
+   "en": "[Leave]",
+   "ro": "[Pleacă]"
+  },
+  {
+   "id": 12446462814398463584,
+   "en": "Tomiko is busy",
+   "ro": "Tomiko este ocupată"
+  },
+  {
+   "id": 12446573673184734838,
+   "en": "Escape the nightmare",
+   "ro": "Scapă din coșmar"
+  },
+  {
+   "id": 12446577164260163375,
+   "en": "[Play as Naoe]",
+   "ro": "[Joacă drept Naoe]"
+  },
+  {
+   "id": 12446692998520564530,
+   "en": "A book written by H.L., originally translated from Portuguese. It tells of a samurai, Kazan Yamaoka, who became a monstrous Oni after being overwhelmed by rage.",
+   "ro": "O carte scrisă de H.L., tradusă inițial din portugheză. Povestește despre un samurai, Kazan Yamaoka, care a devenit un Oni monstruos după ce s-a lăsat cuprins de furie."
+  },
+  {
+   "id": 12446736334281447672,
+   "en": "[Fight as Yasuke]",
+   "ro": "[Luptă ca Yasuke]"
+  },
+  {
+   "id": 12446866447299239308,
+   "en": "Unknown Entity",
+   "ro": "Entitate necunoscută"
+  },
+  {
+   "id": 12446911479357141322,
+   "en": "The glowing statues will alert the Oni, but only if they see you.",
+   "ro": "Statuile strălucitoare îl vor alerta pe Oni, dar doar dacă te văd."
+  },
+  {
+   "id": 12447058537422026924,
+   "en": "The tome mentioned an Oni samurai",
+   "ro": "Tomul menționa un samurai Oni"
+  },
+  {
+   "id": 12447064441895822503,
+   "en": "The final report from an ally trapped in the nighmare world. They were trying to cleanse the area's totems when they were killed.",
+   "ro": "Raportul final al unui aliat prins în lumea coșmarului. Încerca să curețe totemele din zonă când a fost ucis."
+  },
+  {
+   "id": 12447733381460752035,
+   "en": "Tale of the Oni Samurai",
+   "ro": "Povestea samuraiului oni"
+  },
+  {
+   "id": 12447755681864156499,
+   "en": "The villagers hid something. Maybe one of the clues can help you locate it.",
+   "ro": "Sătenii au ascuns ceva. Poate că unul dintre indicii te ajută să-l găsești."
+  },
+  {
+   "id": 12447803590784687995,
+   "en": "Tomiko is busy with another task",
+   "ro": "Tomiko e ocupată cu altă sarcină"
+  }
+ ]
+}

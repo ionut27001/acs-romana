@@ -1,0 +1,231 @@
+{
+ "package": "MTX_Kintsugi_en-US_General",
+ "data_id": "0000021C83BA8D60",
+ "entries": [
+  {
+   "id": 12430407859263363703,
+   "en": "Porcelain Teacup",
+   "ro": "Ceașcă de porțelan"
+  },
+  {
+   "id": 12430495759016683551,
+   "en": "Adrenaline on Successive Hits",
+   "ro": "Adrenalină la lovituri consecutive"
+  },
+  {
+   "id": 12430930064855604654,
+   "en": "Kintsugi",
+   "ro": "Kintsugi"
+  },
+  {
+   "id": 12431353699738188627,
+   "en": "Sharpened Ceramic Katana Handle",
+   "ro": "Mânerul katanei ceramice ascuțite"
+  },
+  {
+   "id": 12431470102628871015,
+   "en": "Recovered Gear Set",
+   "ro": "Set de echipament recuperat"
+  },
+  {
+   "id": 12431479187344680017,
+   "en": "+{NumberTag}% Damage for {NumberTag2} seconds after a Block or Parry",
+   "ro": "+{NumberTag}% Daune timp de {NumberTag2} secunde după o Blocare sau Parare"
+  },
+  {
+   "id": 12431507720186117434,
+   "en": "Health When Full Adrenaline",
+   "ro": "Viață la adrenalină completă"
+  },
+  {
+   "id": 12431794079617028857,
+   "en": "Kasa of Resilience",
+   "ro": "Kasa rezistenței"
+  },
+  {
+   "id": 12432334516608189676,
+   "en": "Samurai Stand on Damage Taken",
+   "ro": "Samurai stabil la primirea daunelor"
+  },
+  {
+   "id": 12432815833274836627,
+   "en": "Resilience Gear Set",
+   "ro": "Set de echipament al rezistenței"
+  },
+  {
+   "id": 12433025805273077142,
+   "en": "Elegant Ceramic Long Katana Blade",
+   "ro": "Lama katanei lungi ceramice elegante"
+  },
+  {
+   "id": 12433750182555990457,
+   "en": "Slow Motion on Armor Break",
+   "ro": "Ralenti la spargerea armurii"
+  },
+  {
+   "id": 12433933212317997642,
+   "en": "Kintsugi Weapon Pack",
+   "ro": "Pachetul de arme Kintsugi"
+  },
+  {
+   "id": 12434057753167729973,
+   "en": "This delicate weapon turns fragility into strength.",
+   "ro": "Această armă delicată transformă fragilitatea în forță."
+  },
+  {
+   "id": 12435800792322321250,
+   "en": "Health on Posture",
+   "ro": "Viață la postură"
+  },
+  {
+   "id": 12436796194989470586,
+   "en": "Sharpened Ceramic Katana",
+   "ro": "Katana ceramică ascuțită"
+  },
+  {
+   "id": 12437610528111111684,
+   "en": "Daze on Consecutive Hits",
+   "ro": "Amețeală la lovituri consecutive"
+  },
+  {
+   "id": 12438080157204740919,
+   "en": "Sharpened Ceramic Katana Saya",
+   "ro": "Teaca katanei ceramice ascuțite"
+  },
+  {
+   "id": 12438170243061512672,
+   "en": "With their sharp ceramic blades and ornate scabbards, these delicate weapons turn fragility into strength.",
+   "ro": "Cu lamele lor ceramice ascuțite și tecile ornamentate, aceste arme delicate transformă fragilitatea în forță."
+  },
+  {
+   "id": 12438274233657757034,
+   "en": "Heal over time in combat when Adrenaline is full",
+   "ro": "Vindecă treptat în luptă, când adrenalina e completă"
+  },
+  {
+   "id": 12438533094297752950,
+   "en": "Yasuke Kintsugi Pack",
+   "ro": "Pachetul Kintsugi al lui Yasuke"
+  },
+  {
+   "id": 12439035781315807184,
+   "en": "Resilience Armor",
+   "ro": "Armura rezistenței"
+  },
+  {
+   "id": 12439145268652520914,
+   "en": "Recovered Hood",
+   "ro": "Glugă recuperată"
+  },
+  {
+   "id": 12439518272204935096,
+   "en": "Slow down time for {NumberTag} seconds after Armor Break",
+   "ro": "Încetinește timpul {NumberTag} secunde după Spargerea armurii"
+  },
+  {
+   "id": 12440835777412098862,
+   "en": "Trigger Samurai Stand after losing {NumberTag}% Health in {NumberTag2} seconds",
+   "ro": "Activează Postura samuraiului după ce pierzi {NumberTag}% din Sănătate în {NumberTag2} secunde"
+  },
+  {
+   "id": 12441089581266636564,
+   "en": "Naoe Kintsugi Pack",
+   "ro": "Pachetul Kintsugi al Naoei"
+  },
+  {
+   "id": 12441577616574160294,
+   "en": "Accept the marks of the past with this pack inspired by the art and philosophy of kintsugi, or golden repair.",
+   "ro": "Acceptă semnele trecutului cu acest pachet inspirat de arta și filosofia kintsugi, adică reparația cu aur."
+  },
+  {
+   "id": 12441722313673517719,
+   "en": "Shattered Mount",
+   "ro": "Montură sfărâmată"
+  },
+  {
+   "id": 12441888792100563358,
+   "en": "This Shattered Mount has seen many battlefields and grown robust over time.",
+   "ro": "Această Montură sfărâmată a văzut multe câmpuri de luptă și s-a întărit în timp."
+  },
+  {
+   "id": 12442222681921465138,
+   "en": "Elegant Ceramic Long Katana Guard",
+   "ro": "Garda katanei lungi ceramice elegante"
+  },
+  {
+   "id": 12442630346989324040,
+   "en": "Display your inner resilience with this golden lacquer-refurbished outfit.",
+   "ro": "Arată-ți tăria interioară cu acest costum restaurat cu lac auriu."
+  },
+  {
+   "id": 12443003188717356645,
+   "en": "Elegant Ceramic Long Katana",
+   "ro": "Katana lungă ceramică elegantă"
+  },
+  {
+   "id": 12443051741279682617,
+   "en": "Grow stronger with this golden lacquer-refurbished outfit.",
+   "ro": "Devino mai puternic purtând această ținută restaurată cu lac auriu, în stilul kintsugi."
+  },
+  {
+   "id": 12443125837284429502,
+   "en": "Restore {NumberTag}% Health on Posture Attack",
+   "ro": "Restabilește {NumberTag}% Sănătate la un atac de postură"
+  },
+  {
+   "id": 12443268104547218409,
+   "en": "Elegant Ceramic Long Katana Wakizachi",
+   "ro": "Wakizachi al katanei lungi ceramice elegante"
+  },
+  {
+   "id": 12443486728311713546,
+   "en": "Elegant Ceramic Long Katana Handle",
+   "ro": "Mânerul katanei lungi ceramice elegante"
+  },
+  {
+   "id": 12443762036216725691,
+   "en": "Recovered Armor",
+   "ro": "Armură recuperată"
+  },
+  {
+   "id": 12444414893255988778,
+   "en": "+{NumberTag}% of an Adrenaline Chunk after {NumberTag2} consecutive hits",
+   "ro": "+{NumberTag}% dintr-o Bucată de adrenalină după {NumberTag2} lovituri consecutive"
+  },
+  {
+   "id": 12444452581463952290,
+   "en": "Kintsugi Dual Pack",
+   "ro": "Pachetul dublu Kintsugi"
+  },
+  {
+   "id": 12444777737717804768,
+   "en": "Armor set inspired by the art and philosophy of kintsugi, or golden repair.",
+   "ro": "Set de armură inspirat din arta și filosofia kintsugi, adică reparația cu aur."
+  },
+  {
+   "id": 12445813285228850056,
+   "en": "Elegant Ceramic Long Katana Saya",
+   "ro": "Teaca katanei lungi ceramice elegante"
+  },
+  {
+   "id": 12446198180610382135,
+   "en": "Sharpened Ceramic Katana Blade",
+   "ro": "Lama katanei ceramice ascuțite"
+  },
+  {
+   "id": 12446328779059110295,
+   "en": "Sharpened Ceramic Katana Guard",
+   "ro": "Garda katanei ceramice ascuțite"
+  },
+  {
+   "id": 12447181764507963166,
+   "en": "Damage after Block or Parry",
+   "ro": "Daune după blocaj sau parare"
+  },
+  {
+   "id": 12447502706936048099,
+   "en": "Inflict {NumberTag}% Daze Buildup after {NumberTag2} consecutive hits",
+   "ro": "Provoacă {NumberTag}% Acumulare de Amețeală după {NumberTag2} lovituri consecutive"
+  }
+ ]
+}

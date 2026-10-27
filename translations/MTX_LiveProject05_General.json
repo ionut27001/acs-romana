@@ -1,0 +1,86 @@
+{
+ "package": "MTX_LiveProject05_en-US_General",
+ "data_id": "00000233D7D6420B",
+ "entries": [
+  {
+   "id": 12432099833711351526,
+   "en": "Break the cycles of collapse.",
+   "ro": "Rupe ciclurile prăbușirii."
+  },
+  {
+   "id": 12432404577207423065,
+   "en": "Phantom Affliction",
+   "ro": "Afecțiune fantomatică"
+  },
+  {
+   "id": 12432430851985399813,
+   "en": "Insurgent Robes",
+   "ro": "Veșminte ale insurgentului"
+  },
+  {
+   "id": 12433769811909200439,
+   "en": "Anomalous Criticals",
+   "ro": "Lovituri critice anomale"
+  },
+  {
+   "id": 12436622202569311632,
+   "en": "Refuse to let Ego take control.",
+   "ro": "Refuză să lași Ego-ul să preia controlul."
+  },
+  {
+   "id": 12438972548102395300,
+   "en": "Posture Attacks have a {NumberTag}% chance to hit twice",
+   "ro": "Atacurile de postură au o șansă de {NumberTag}% să lovească de două ori"
+  },
+  {
+   "id": 12439527361586940712,
+   "en": "+{NumberTag}% critical chance against Animus Anomalies",
+   "ro": "+{NumberTag}% șansă de lovitură critică împotriva Anomaliilor Animus"
+  },
+  {
+   "id": 12440434032916742374,
+   "en": "Disruptive Pulse",
+   "ro": "Puls perturbator"
+  },
+  {
+   "id": 12442601396374972164,
+   "en": "Mutiny Staff",
+   "ro": "Bastonul revoltei"
+  },
+  {
+   "id": 12444289666599449458,
+   "en": "Defiance",
+   "ro": "Sfidare"
+  },
+  {
+   "id": 12445353900990771309,
+   "en": "Be on the right side of this bo.",
+   "ro": "Fii de partea cea bună a acestui bō."
+  },
+  {
+   "id": 12445580393453492137,
+   "en": "Rebellion Talisman",
+   "ro": "Talismanul rebeliunii"
+  },
+  {
+   "id": 12446307198335263023,
+   "en": "Insurgent Hood",
+   "ro": "Glugă a insurgentului"
+  },
+  {
+   "id": 12446958472265907177,
+   "en": "{NumberTag}% chance to trigger a random Affliction on hit with tools",
+   "ro": "{NumberTag}% șansă să declanșeze o Suferință aleatorie la lovirea cu unelte"
+  },
+  {
+   "id": 12447100639279496081,
+   "en": "{NumberTag}% chance to disrupt enemies with Perfect Flow Attacks",
+   "ro": "{NumberTag}% șansă să dezorganizeze inamicii cu atacuri Flux perfect"
+  },
+  {
+   "id": 12447302441765616960,
+   "en": "Posture Echoes",
+   "ro": "Ecourile posturii"
+  }
+ ]
+}

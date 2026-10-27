@@ -1,0 +1,121 @@
+{
+ "package": "PP_HideoutUpdate01_en-US_General",
+ "data_id": "00000237A15A7999",
+ "entries": [
+  {
+   "id": 12430394463507536390,
+   "en": "Tool caches now also refill [BOLD_BEGIN]{NumberTag}[BOLD_END] rations.",
+   "ro": "Cutiile cu unelte reumplu acum și [BOLD_BEGIN]{NumberTag}[BOLD_END] rații."
+  },
+  {
+   "id": 12430604214612608101,
+   "en": "Rations now also restore [BOLD_BEGIN]{NumberTag}[BOLD_END] Adrenaline Chunks.",
+   "ro": "Rațiile îți dau acum și [BOLD_BEGIN]{NumberTag}[BOLD_END] bucăți de adrenalină."
+  },
+  {
+   "id": 12432027945088831154,
+   "en": "[TX_Scouts] Scouts can reveal [TX_Kakurega] Kakurega and [TX_RHPWhite] Viewpoints.",
+   "ro": "[TX_Scouts] Cercetașii pot descoperi [TX_Kakurega] Kakurega și [TX_RHPWhite] Puncte de belvedere."
+  },
+  {
+   "id": 12432057950055067043,
+   "en": "Contracts reward [BOLD_BEGIN]{NumberTag}%[BOLD_END] more Crafting Resources and Mon.",
+   "ro": "Contractele oferă [BOLD_BEGIN]{NumberTag}%[BOLD_END] mai multe resurse de crafting și Mon."
+  },
+  {
+   "id": 12432161762884951970,
+   "en": "Stealth Ally cooldown is reduced by [BOLD_BEGIN]{NumberTag}%[BOLD_END].",
+   "ro": "Timpul de reîncărcare al Aliatului furiș este redus cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]."
+  },
+  {
+   "id": 12433114793432569602,
+   "en": "Rations have [BOLD_BEGIN]{NumberTag}%[BOLD_END] chance to not be consumed on use.",
+   "ro": "Rațiile au [BOLD_BEGIN]{NumberTag}%[BOLD_END] șansă să nu se consume când le folosești."
+  },
+  {
+   "id": 12435115327731309731,
+   "en": "[TX_Scouts] Scouts smuggle [BOLD_BEGIN]{NumberTag}%[BOLD_END] more resources from [TX_Stockpiles] Stockpiles.",
+   "ro": "[TX_Scouts] Cercetași contrabandează [BOLD_BEGIN]{NumberTag}%[BOLD_END] mai multe resurse din [TX_Stockpiles] depozite."
+  },
+  {
+   "id": 12435168869065161791,
+   "en": "Meditate to shift time to the next 6 o'clock by holding [CT_ToD].",
+   "ro": "Meditează ca să sari la următoarea ora 6, ținând apăsat [CT_ToD]."
+  },
+  {
+   "id": 12435941504310162842,
+   "en": "Experience gained is now increased by [BOLD_BEGIN]{NumberTag}%[BOLD_END].",
+   "ro": "Experiența câștigată e acum mărită cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]."
+  },
+  {
+   "id": 12436369883009631344,
+   "en": "Available Scouts can bring back Gold at season's end",
+   "ro": "Cercetașii disponibili pot aduce înapoi Aur la sfârșitul sezonului"
+  },
+  {
+   "id": 12436505617315135564,
+   "en": "All Assassination now grants a bonus experience based on your Current Health Segment Removal.",
+   "ro": "Toate Asasinatele dau acum experiență bonus, în funcție de câte segmente de viață curente elimini."
+  },
+  {
+   "id": 12436917944251104701,
+   "en": "Call a Fight Ally to replenish [BOLD_BEGIN]{NumberTag}%[BOLD_END] Health and [BOLD_BEGIN]{NumberTag2}[BOLD_END] Adrenaline Chunks.",
+   "ro": "Cheamă un Aliat de luptă ca să refaci [BOLD_BEGIN]{NumberTag}%[BOLD_END] Sănătate și [BOLD_BEGIN]{NumberTag2}[BOLD_END] bucăți de adrenalină."
+  },
+  {
+   "id": 12437118619661956169,
+   "en": "All effects of Shrine Boons are increased by [BOLD_BEGIN]{NumberTag}%[BOLD_END].",
+   "ro": "Toate efectele Binecuvântărilor altarului sunt mărite cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]."
+  },
+  {
+   "id": 12439152269483659288,
+   "en": "Ammo caches now also refill [BOLD_BEGIN]{NumberTag}[BOLD_END] rations.",
+   "ro": "Depozitele de muniție reumplu acum și [BOLD_BEGIN]{NumberTag}[BOLD_END] rații."
+  },
+  {
+   "id": 12439760486560150922,
+   "en": "Tagging [TX_Stockpiles] Stockpiles has [BOLD_BEGIN]{NumberTag}%[BOLD_END] chance to not use a [TX_Scouts] Scout.",
+   "ro": "Marcarea [TX_Stockpiles] depozite are [BOLD_BEGIN]{NumberTag}%[BOLD_END] șansă să nu folosească un [TX_Scouts] Cercetaș."
+  },
+  {
+   "id": 12440095319299543981,
+   "en": "Reduce Quality Enhance costs at the Forge by {NumberTag}%",
+   "ro": "Scade costul îmbunătățirii calității la Forjă cu {NumberTag}%"
+  },
+  {
+   "id": 12440601939350857430,
+   "en": "Epic items have {NumberTag}% chance to be looted at Mythic quality when at level {NumberTag2} or above",
+   "ro": "Itemele epice au {NumberTag}% șansă să fie găsite la calitatea Mitică, începând de la nivelul {NumberTag2} sau mai mare"
+  },
+  {
+   "id": 12440667161174263798,
+   "en": "Duration of Shrine Boons are increased by [BOLD_BEGIN]{NumberTag} minutes[BOLD_END].",
+   "ro": "Durata binecuvântărilor de altar crește cu [BOLD_BEGIN]{NumberTag} minute[BOLD_END]."
+  },
+  {
+   "id": 12442273908456553701,
+   "en": "Stockpiles have [BOLD_BEGIN]{NumberTag}%[BOLD_END] chance to reward 1 Gold.",
+   "ro": "Depozitele au [BOLD_BEGIN]{NumberTag}%[BOLD_END] șansă să ofere 1 Aur."
+  },
+  {
+   "id": 12442989351511946129,
+   "en": "Epic and Legendary Weapons, Armor, and Trinkets can be enhanced to new qualities.",
+   "ro": "Armele, armurile și Mărunțișurile epice și legendare pot fi îmbunătățite la noi calități."
+  },
+  {
+   "id": 12445426149962826523,
+   "en": "Helping civilians now replenishes [BOLD_BEGIN]{NumberTag}[BOLD_END] [TX_Scouts] Scouts.",
+   "ro": "Ajutarea civililor acum completează [BOLD_BEGIN]{NumberTag}[BOLD_END] [TX_Scouts] Cercetași."
+  },
+  {
+   "id": 12447088220730298875,
+   "en": "Replenishing [TX_Scouts] Scouts in a [TX_Kakurega] Kakurega now costs [BOLD_BEGIN]{NumberTag}%[BOLD_END] less [TX_Mon] Mon.",
+   "ro": "Completarea a [TX_Scouts] Cercetași într-un Kakurega [TX_Kakurega] costă acum [BOLD_BEGIN]{NumberTag}%[BOLD_END] mai puțin [TX_Mon] Mon."
+  },
+  {
+   "id": 12447617076241450245,
+   "en": "[TX_Scouts] Scouts will reveal the whole province if all its [TX_RHPWhite] Viewpoints are synchronized.",
+   "ro": "[TX_Scouts] Cercetași o să dezvăluie întreaga provincie dacă toate cele [TX_RHPWhite] Puncte de belvedere sunt sincronizate."
+  }
+ ]
+}

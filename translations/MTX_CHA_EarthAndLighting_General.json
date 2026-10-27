@@ -1,0 +1,251 @@
+{
+ "package": "MTX_CHA_EarthAndLighting_en-US_General",
+ "data_id": "00000243EC7DBB03",
+ "entries": [
+  {
+   "id": 12430196962317487885,
+   "en": "Headband of Raitaro",
+   "ro": "Bandana lui Raitaro"
+  },
+  {
+   "id": 12430204744347084300,
+   "en": "Storm & Shrine Naoe Pack",
+   "ro": "Pachetul Naoe furtună și altar"
+  },
+  {
+   "id": 12430496860190855833,
+   "en": "This guise is the only remnant of the son of thunder's time on earth.",
+   "ro": "Această înfățișare e singura urmă a timpului petrecut pe pământ de fiul tunetului."
+  },
+  {
+   "id": 12431038700319488004,
+   "en": "On perfect dodge, dodge attack triggers lightning strikes on up to 3 enemies",
+   "ro": "La o ferire perfectă, atacul de ferire declanșează lovituri de fulger asupra a până la 3 inamici"
+  },
+  {
+   "id": 12431538424487944749,
+   "en": "Earth Shields",
+   "ro": "Scuturi de pământ"
+  },
+  {
+   "id": 12431910298419301471,
+   "en": "Ground Attacks push back surrounding enemies",
+   "ro": "Atacurile la sol resping inamicii din jur"
+  },
+  {
+   "id": 12432269990911146768,
+   "en": "Create an earth shield on Armor Break",
+   "ro": "Creează un scut de pământ la Spargerea armurii"
+  },
+  {
+   "id": 12432512550143368708,
+   "en": "Ground Attacks create a lightning orb",
+   "ro": "Atacurile la sol creează o sferă de fulger"
+  },
+  {
+   "id": 12433506810019485106,
+   "en": "Harness elements of the natural world in your arsenal.",
+   "ro": "Include în arsenalul tău elemente ale lumii naturale."
+  },
+  {
+   "id": 12433946969965394762,
+   "en": "Robes of Raitaro",
+   "ro": "Veșmintele lui Raitaro"
+  },
+  {
+   "id": 12434115164397437721,
+   "en": "Spinning Landslide",
+   "ro": "Alunecare de teren rotitoare"
+  },
+  {
+   "id": 12434224395991343878,
+   "en": "Earth and heaven meet in this blend inspired by elemental folklore.",
+   "ro": "Pământul și cerul se unesc în acest amestec inspirat de folclorul elementelor."
+  },
+  {
+   "id": 12434608008957390270,
+   "en": "Grounding Bulwark",
+   "ro": "Bastionul de împământare"
+  },
+  {
+   "id": 12434707938936668409,
+   "en": "Thundering",
+   "ro": "Tunet"
+  },
+  {
+   "id": 12434969269106681607,
+   "en": "Earth and heaven meet in this blend inspired by elemental folklore.",
+   "ro": "Pământul și cerul se unesc în acest amestec inspirat de folclorul elementelor."
+  },
+  {
+   "id": 12435017464749642652,
+   "en": "Slugging Rampage triggers a landslide, pulling enemies toward you",
+   "ro": "Furia de lovituri declanșează o alunecare de teren, trăgând inamicii spre tine"
+  },
+  {
+   "id": 12435301934642327556,
+   "en": "Arc Surge",
+   "ro": "Supratensiune în arc"
+  },
+  {
+   "id": 12435783889276778569,
+   "en": "Storm & Shrine Yasuke Gear Set",
+   "ro": "Set de echipament Furtună și Altar al lui Yasuke"
+  },
+  {
+   "id": 12436404842720130892,
+   "en": "Did Raijin imbue a storm in this blade himself?",
+   "ro": "Oare chiar Raijin a învăluit lama asta într-o furtună?"
+  },
+  {
+   "id": 12436463130697286964,
+   "en": "Create a lightning orb after Armor Break",
+   "ro": "Creează o sferă de fulger după Spargerea armurii"
+  },
+  {
+   "id": 12436733154195468050,
+   "en": "Raijin's Cloud",
+   "ro": "Norul lui Raijin"
+  },
+  {
+   "id": 12437223504138374035,
+   "en": "Storm & Shrine Dual Pack",
+   "ro": "Pachetul dublu furtună și altar"
+  },
+  {
+   "id": 12437671955595023895,
+   "en": "Protection of Komainu",
+   "ro": "Protecția lui Komainu"
+  },
+  {
+   "id": 12437983031231596372,
+   "en": "Komainu Jaw",
+   "ro": "Fălcile lui Komainu"
+  },
+  {
+   "id": 12438532929437711048,
+   "en": "Grounded",
+   "ro": "Împământat"
+  },
+  {
+   "id": 12438597562336016433,
+   "en": "Storm & Shrine",
+   "ro": "Furtună și altar"
+  },
+  {
+   "id": 12438676768144447085,
+   "en": "Raijin's Cloud",
+   "ro": "Norul lui Raijin"
+  },
+  {
+   "id": 12439333305089316179,
+   "en": "Ground Attacks cause a burst of lightning",
+   "ro": "Atacurile de la sol provoacă o rafală de fulger"
+  },
+  {
+   "id": 12439658756059028366,
+   "en": "Trigger lightning strikes on up to 3 enemies while using Whirlwind",
+   "ro": "Declanșează lovituri de fulger asupra a până la 3 inamici în timp ce folosești Vârtejul"
+  },
+  {
+   "id": 12439764254384482364,
+   "en": "The Striker",
+   "ro": "Lovitorul"
+  },
+  {
+   "id": 12440244415808864104,
+   "en": "This ancient pillar found new life in hands capable of rewriting its terrifying tale.",
+   "ro": "Acest stâlp străvechi a prins viață din nou în mâini capabile să rescrie povestea lui înfricoșătoare."
+  },
+  {
+   "id": 12440248579053437822,
+   "en": "Spark a storm in the heart of the enemy.",
+   "ro": "Aprinde o furtună în inima dușmanului."
+  },
+  {
+   "id": 12440524389920172227,
+   "en": "Terror of the Temples",
+   "ro": "Teroarea templelor"
+  },
+  {
+   "id": 12441029316820543943,
+   "en": "Pulsing Orbs",
+   "ro": "Sfere pulsatorii"
+  },
+  {
+   "id": 12441519934797522803,
+   "en": "If you see a tree struck by lightning, know that Raiju passed by.",
+   "ro": "Dacă vezi un copac lovit de trăsnet, să știi că pe acolo a trecut Raiju."
+  },
+  {
+   "id": 12441547265018167560,
+   "en": "Don this guardian's armor and protect sacred ground.",
+   "ro": "Îmbracă armura acestui gardian și apără pământul sacru."
+  },
+  {
+   "id": 12441610062047175975,
+   "en": "Lightning's Fury",
+   "ro": "Furia fulgerului"
+  },
+  {
+   "id": 12441654524627944703,
+   "en": "Bite your foes, then let the earth swallow them.",
+   "ro": "Mușcă-ți dușmanii, apoi lasă pământul să îi înghită."
+  },
+  {
+   "id": 12443103409396903418,
+   "en": "Cyclone Blast triggers a landslide, pulling enemies towards you",
+   "ro": "Explozia ciclonului declanșează o alunecare de teren, trăgând inamicii spre tine"
+  },
+  {
+   "id": 12443421875913066380,
+   "en": "Ground Attacks create an Earth Shield",
+   "ro": "Atacurile de la sol creează un Scut de pământ"
+  },
+  {
+   "id": 12443933964378282399,
+   "en": "Storm & Shrine Yasuke Pack",
+   "ro": "Pachetul Yasuke furtună și altar"
+  },
+  {
+   "id": 12444086914939427304,
+   "en": "Seismic Draw",
+   "ro": "Sacare seismică"
+  },
+  {
+   "id": 12444406231382441992,
+   "en": "Storm & Shrine Gear Pack",
+   "ro": "Pachetul de echipament furtună și altar"
+  },
+  {
+   "id": 12444462291900740965,
+   "en": "Mask of Komainu",
+   "ro": "Masca lui Komainu"
+  },
+  {
+   "id": 12444831734124654718,
+   "en": "Raiju",
+   "ro": "Raiju"
+  },
+  {
+   "id": 12445171069576750577,
+   "en": "Make Space",
+   "ro": "Fă loc"
+  },
+  {
+   "id": 12446410542986516842,
+   "en": "Earth and heaven meet in this blend inspired by elemental folklore.",
+   "ro": "Pământul și cerul se unesc în acest amestec inspirat de folclorul elementelor."
+  },
+  {
+   "id": 12446451214104190196,
+   "en": "Struck Ebony",
+   "ro": "Ebanos lovit"
+  },
+  {
+   "id": 12446685192315156620,
+   "en": "Storm & Shrine Weapon Pack",
+   "ro": "Pachetul de arme furtună și altar"
+  }
+ ]
+}

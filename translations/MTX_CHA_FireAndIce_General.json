@@ -1,0 +1,201 @@
+{
+ "package": "MTX_CHA_FireAndIce_en-US_General",
+ "data_id": "00000243EC7DBB25",
+ "entries": [
+  {
+   "id": 12430631005317427212,
+   "en": "Temper of Elements",
+   "ro": "Temperamentul elementelor"
+  },
+  {
+   "id": 12432393475177305975,
+   "en": "Burn at both ends when there's nothing left to lose.",
+   "ro": "Arzi lumânarea la ambele capete când nu mai ai nimic de pierdut."
+  },
+  {
+   "id": 12432829065694162096,
+   "en": "Eye of the Snowstorm",
+   "ro": "Ochiul furtunii de zăpadă"
+  },
+  {
+   "id": 12433439144684158813,
+   "en": "Shiver of the Mountain",
+   "ro": "Fiorul muntelui"
+  },
+  {
+   "id": 12433625073049647184,
+   "en": "Affliction effects received are reduced by {NumberTag}%",
+   "ro": "Efectele de Suferință primite sunt reduse cu {NumberTag}%"
+  },
+  {
+   "id": 12433839540718540347,
+   "en": "Spread Fire Affliction on Deflect but become afflicted with Fire",
+   "ro": "Răspândește Suferința de Foc când Parezi, dar și tu devii afectat de Foc."
+  },
+  {
+   "id": 12434631960679057050,
+   "en": "This set harnesses the power of the elements. But can you tame them?",
+   "ro": "Acest set valorifică puterea elementelor. Dar reușești să le stăpânești?"
+  },
+  {
+   "id": 12434962733721938996,
+   "en": "Temper of Elements Yasuke Pack",
+   "ro": "Pachetul Temperamentul elementelor – Yasuke"
+  },
+  {
+   "id": 12435073751026239408,
+   "en": "Its bite outlasts winter. It never leaves.",
+   "ro": "Mușcătura lui întrece iarna. Nu pleacă niciodată."
+  },
+  {
+   "id": 12435124558818721731,
+   "en": "This set harnesses the power of the elements. But can you tame them?",
+   "ro": "Acest set valorifică puterea elementelor. Dar reușești să le stăpânești?"
+  },
+  {
+   "id": 12435698827624727219,
+   "en": "In this, Naoe's burning rage takes corporeal form.",
+   "ro": "Aici, furia arzătoare a lui Naoe prinde trup."
+  },
+  {
+   "id": 12436074675149699520,
+   "en": "Eye of the Snowstorm",
+   "ro": "Ochiul furtunii de zăpadă"
+  },
+  {
+   "id": 12438075590939328047,
+   "en": "Affliction Resistance",
+   "ro": "Rezistență la afecțiuni"
+  },
+  {
+   "id": 12438455384956829035,
+   "en": "Lit Fuse",
+   "ro": "Fitil aprins"
+  },
+  {
+   "id": 12438990699312094544,
+   "en": "Temper of Elements Yasuke Gear Set",
+   "ro": "Set de echipament Temperamentul elementelor pentru Yasuke"
+  },
+  {
+   "id": 12439052187482063035,
+   "en": "Ashes of the Pyre",
+   "ro": "Cenușa rugului"
+  },
+  {
+   "id": 12439155092079624139,
+   "en": "Propels an Ice Shard on Parry but become afflicted with Frost",
+   "ro": "Lansează o așchie de gheață la Parare, dar și tu devii afectat de Îngheț."
+  },
+  {
+   "id": 12440393154401989833,
+   "en": "Vengeance",
+   "ro": "Răzbunare"
+  },
+  {
+   "id": 12440833648392600192,
+   "en": "Temper of Elements Weapon Pack",
+   "ro": "Pachetul Temperamentul elementelor – arme"
+  },
+  {
+   "id": 12441651722772026482,
+   "en": "Locked and Loaded",
+   "ro": "Încărcat și pregătit"
+  },
+  {
+   "id": 12442059555903626445,
+   "en": "Whether you run hot or cold, you'll always win with these in hand.",
+   "ro": "Fie că ești în foc sau în gheață, cu acestea în mâini o să câștigi mereu."
+  },
+  {
+   "id": 12443948867037322112,
+   "en": "Ticking Bomb",
+   "ro": "Bombă cu ceas"
+  },
+  {
+   "id": 12443973665563691322,
+   "en": "Frost Saw",
+   "ro": "Ferăstrău de gheață"
+  },
+  {
+   "id": 12444320769688075450,
+   "en": "Temper of Elements Dual Pack",
+   "ro": "Pachetul Temperamentul elementelor – dublu"
+  },
+  {
+   "id": 12444518293357516035,
+   "en": "Hurricane",
+   "ro": "Uragan"
+  },
+  {
+   "id": 12444617280918717567,
+   "en": "Frigid Peak Helmet",
+   "ro": "Coiful Vârfului geros"
+  },
+  {
+   "id": 12444664009866302334,
+   "en": "Hot and cold streams meet in Hurricane's vortex – a token of his spiraling speed.",
+   "ro": "Fluxuri fierbinți și reci se întâlnesc în vârtejul lui Uragan, semn al vitezei sale amețitoare."
+  },
+  {
+   "id": 12445340594646558408,
+   "en": "+{NumberTag}% damage reduction while afflicted",
+   "ro": "+{NumberTag}% reducere a daunelor cât timp ești afectat"
+  },
+  {
+   "id": 12445342206302706683,
+   "en": "Affliction Shield",
+   "ro": "Scutul afecțiunii"
+  },
+  {
+   "id": 12445843823829089898,
+   "en": "Posture Attack on Fire-Afflicted enemies spreads fire in the area",
+   "ro": "Atacul de postură asupra inamicilor afectați de Foc răspândește focul în zonă"
+  },
+  {
+   "id": 12446051397938725439,
+   "en": "Temper of Elements Naoe Gear Set",
+   "ro": "Set de echipament Temperamentul elementelor pentru Naoe"
+  },
+  {
+   "id": 12446346071869008374,
+   "en": "Posture Attack on Frost-Afflicted enemies propels an Ice Shard",
+   "ro": "Atacul de postură asupra inamicilor afectați de Îngheț lansează o așchie de gheață"
+  },
+  {
+   "id": 12446356165577048450,
+   "en": "This set harnesses the power of the elements. But can you tame them?",
+   "ro": "Acest set valorifică puterea elementelor. Dar reușești să le stăpânești?"
+  },
+  {
+   "id": 12447006865565301519,
+   "en": "Frosty Parry",
+   "ro": "Parare gerată"
+  },
+  {
+   "id": 12447582738489518788,
+   "en": "More than a folk tale, he's a whispering wind bringing desolation and frozen wastelands in his wandering.",
+   "ro": "Mai mult decât o legendă, e un vânt șoptitor care aduce pustiire și ținuturi înghețate oriunde se duce."
+  },
+  {
+   "id": 12447589364299862288,
+   "en": "Icy Aftershock",
+   "ro": "Replica înghețată"
+  },
+  {
+   "id": 12447640365750308851,
+   "en": "+{NumberTag}% damage while afflicted",
+   "ro": "+{NumberTag}% daune cât timp ești afectat"
+  },
+  {
+   "id": 12447809071922570732,
+   "en": "Molten Mask",
+   "ro": "Mască incandescentă"
+  },
+  {
+   "id": 12447873297858682606,
+   "en": "Temper of Elements Naoe Pack",
+   "ro": "Pachetul Temperamentul elementelor – Naoe"
+  }
+ ]
+}

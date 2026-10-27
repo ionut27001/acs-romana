@@ -1,0 +1,471 @@
+{
+ "package": "FUNC_NGPlus_en-US_General",
+ "data_id": "0000023017B573E6",
+ "entries": [
+  {
+   "id": 12430515516471547813,
+   "en": "The explosion from Explosive Surprise now knocks down anyone caught in the blast and afflicts them with Daze",
+   "ro": "Explozia din Surpriză explozivă acum doboară pe oricine e prins în ea și îi aplică Amețeală"
+  },
+  {
+   "id": 12430519258000246191,
+   "en": "Damage on Afflicted Enemies",
+   "ro": "Daune asupra inamicilor afectați"
+  },
+  {
+   "id": 12430762658299647975,
+   "en": "Damage Reduction from Melee Hits",
+   "ro": "Reducerea daunelor de la lovituri corp la corp"
+  },
+  {
+   "id": 12431003422085676466,
+   "en": "Slugging Rampage now lasts longer and has [BOLD_BEGIN]{NumberTag}%[BOLD_END] increased reach",
+   "ro": "Dezlănțuirea lovitorului durează acum mai mult și are [BOLD_BEGIN]{NumberTag}%[BOLD_END] rază de acțiune mărită"
+  },
+  {
+   "id": 12431039285911422785,
+   "en": "Increase damage on next hit after a kill by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la următoarea lovitură după o ucidere cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12431299804550418637,
+   "en": "You currently have no eligible save file to start [TX_NG+] New Game+ with.\n\nProgress in the story and complete the main game to\ncreate an eligible save file and enable [TX_NG+] New Game+.",
+   "ro": "Nu ai în prezent niciun fișier de salvare eligibil cu care să începi [TX_NG+] Joc nou+.\n\nProgresează în poveste și termină jocul principal ca să\ncreezi un fișier de salvare eligibil și să activezi [TX_NG+] Joc nou+."
+  },
+  {
+   "id": 12431471792674137071,
+   "en": "Damage on Next Hit After Kill",
+   "ro": "Daune la următoarea lovitură după ucidere"
+  },
+  {
+   "id": 12431604469999432444,
+   "en": "Increase damage on Afflicted enemies by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele asupra inamicilor afectați cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12431659497120514609,
+   "en": "This save file has completed the main game and is eligible to start [TX_NG+] New Game+.",
+   "ro": "Acest fișier de salvare a terminat jocul principal și poate porni [TX_NG+] Joc nou+."
+  },
+  {
+   "id": 12431716952755628099,
+   "en": "Increase Bleed buildup with Serrated Arrows by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește acumularea de Sângerare prin Săgeți zimțate cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12431820903852949763,
+   "en": "With New Game+, you can start your new playthrough from the beginning of the game or you can skip the Prologue and start directly in the open world.",
+   "ro": "Cu Joc nou+, poți începe o nouă partidă de la începutul jocului sau poți sări peste Prolog și porni direct în lumea deschisă."
+  },
+  {
+   "id": 12431823761625043415,
+   "en": "Slugging Rampage now lasts even longer and has [BOLD_BEGIN]{NumberTag}%[BOLD_END] increased reach",
+   "ro": "Dezlănțuirea lovitorului durează acum și mai mult și are [BOLD_BEGIN]{NumberTag}%[BOLD_END] rază de acțiune mărită"
+  },
+  {
+   "id": 12432188945327170714,
+   "en": "Increase damage on next hit after a Parry by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la următoarea lovitură după o parare cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12432554662371751142,
+   "en": "Increase Daze buildup with Concussion Bullets by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] acumularea de Amețeală prin Gloanțe cu comoție"
+  },
+  {
+   "id": 12432556438653204092,
+   "en": "Increase damage reduction from melee hits by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește reducerea daunelor de la lovituri corp la corp cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12432713054776899469,
+   "en": "Damage when Hitting Multiple Enemies",
+   "ro": "Daune la lovirea mai multor inamici"
+  },
+  {
+   "id": 12433170624509570142,
+   "en": "Naoe removes [BOLD_BEGIN]{NumberTag}[BOLD_END] additional Health Segments with Grab Assassinations",
+   "ro": "Naoe elimină [BOLD_BEGIN]{NumberTag}[BOLD_END] segmente de Sănătate în plus la Asasinatele prin apucare"
+  },
+  {
+   "id": 12433430627422936931,
+   "en": "Increase damage when hitting multiple enemies by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la lovirea mai multor inamici cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12434072740941284107,
+   "en": "Are you sure you want to load this save for your [TX_NG+] New Game+?\n\nStarting a [TX_NG+] New Game+ playthrough will automatically create a manual save from the selected save file, saving your main game progress.\n\n[Color_Negative_Begin][BOLD_BEGIN]This save cannot be overwritten.[BOLD_END][Color_Negative_End]",
+   "ro": "Sigur vrei să încarci fișierul de salvare pentru [TX_NG+] Joc nou+?\n\nPornirea unei partide [TX_NG+] Joc nou+ creează automat o salvare manuală din fișierul selectat, păstrând progresul din jocul principal.\n\n[Color_Negative_Begin][BOLD_BEGIN]Această salvare nu poate fi suprascrisă.[BOLD_END][Color_Negative_End]"
+  },
+  {
+   "id": 12434227497286009163,
+   "en": "Staggering Blast now automatically applies the Daze affliction, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Explozia năucitoare aplică acum automat afecțiunea Amețeală, care durează încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12434484645702540234,
+   "en": "Damage with Consecutive Hits",
+   "ro": "Daune cu lovituri consecutive"
+  },
+  {
+   "id": 12434511861050249444,
+   "en": "Increase damage on next hit after breaking armor by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la următoarea lovitură după spargerea armurii cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12435172009248407291,
+   "en": "Damage on Next Hit After Ability",
+   "ro": "Daune la următoarea lovitură după o abilitate"
+  },
+  {
+   "id": 12435186524497297725,
+   "en": "Teppo Tempo now makes the enemy Vulnerable, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Teppō Ritmul face acum inamicul vulnerabil, iar efectul durează încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12435305266244446223,
+   "en": "Damage on Afflicted Enemies",
+   "ro": "Daune asupra inamicilor afectați"
+  },
+  {
+   "id": 12435350471649335313,
+   "en": "Damage on Next Hit After Parry",
+   "ro": "Daune la următoarea lovitură după o parare"
+  },
+  {
+   "id": 12435940865371585810,
+   "en": "Increase damage on next hit after using an ability by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la următoarea lovitură după folosirea unei abilități cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12436241729780690285,
+   "en": "Whisper of Gold Scabbard",
+   "ro": "Teaca Șoaptei de Aur"
+  },
+  {
+   "id": 12436558489983516468,
+   "en": "Complete New Game+",
+   "ro": "Finalizează New Game+"
+  },
+  {
+   "id": 12436665848564250210,
+   "en": "Dragon's Gold Blade",
+   "ro": "Lama Aurului Dragonului"
+  },
+  {
+   "id": 12437035784545133528,
+   "en": "Increase Bleed buildup with Shrapnel Bullets by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] acumularea de Sângerare prin Gloanțe cu șrapnel"
+  },
+  {
+   "id": 12437085749797406768,
+   "en": "Increase Link Attack damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] daunele Atacului combinat"
+  },
+  {
+   "id": 12437120643287321101,
+   "en": "Dragon's Gold",
+   "ro": "Aurul Dragonului"
+  },
+  {
+   "id": 12437688309144220606,
+   "en": "Tools auto-refund on use in exchange for {NumberTag} mon",
+   "ro": "Uneltele se recuperează automat la folosire, contra {NumberTag} mon"
+  },
+  {
+   "id": 12437910583107536253,
+   "en": "Tidal Wave can now be chained 3 times in a row and Vulnerable lasts an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Valul de maree poate fi înlănțuit acum de 3 ori la rând, iar vulnerabilitatea durează încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12438143247874780585,
+   "en": "Increase damage with combo enders by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele finalizatoarelor de combinație cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12438208958716548558,
+   "en": "Increase damage with combo enders by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele finalizatoarelor de combinație cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12438229887944851563,
+   "en": "Weapons, Armor, and Trinkets can be upgraded to [BOLD_BEGIN]level {NumberTag}[BOLD_END].",
+   "ro": "Armele, Armurile și Mărunțișurile pot fi îmbunătățite până la [BOLD_BEGIN]nivelul {NumberTag}[BOLD_END]."
+  },
+  {
+   "id": 12438345192441037744,
+   "en": "Increase damage on next hit after a kill by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la următoarea lovitură după o ucidere cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12438376249799663307,
+   "en": "Whisper of Gold Guard",
+   "ro": "Garda Șoaptei de Aur"
+  },
+  {
+   "id": 12438752659724814867,
+   "en": "Complete New Game+",
+   "ro": "Finalizează New Game+"
+  },
+  {
+   "id": 12439048273268135021,
+   "en": "Damage on Next Hit After Kill",
+   "ro": "Daune la următoarea lovitură după ucidere"
+  },
+  {
+   "id": 12439153384940311235,
+   "en": "Increase damage on next hit after hitting an enemy with a tool by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] daunele următoarei lovituri după ce lovești un inamic cu o unealtă"
+  },
+  {
+   "id": 12439184892449761073,
+   "en": "Damage During Night",
+   "ro": "Daune în timpul nopții"
+  },
+  {
+   "id": 12439187027333743907,
+   "en": "Damage Reduction from Ranged Hits",
+   "ro": "Reducerea daunelor de la lovituri la distanță"
+  },
+  {
+   "id": 12439412327496928309,
+   "en": "Gain [BOLD_BEGIN]{NumberTag}%[BOLD_END] Adrenaline when detected",
+   "ro": "Câștigi [BOLD_BEGIN]{NumberTag}%[BOLD_END] Adrenalină când ești detectat"
+  },
+  {
+   "id": 12439443757376235858,
+   "en": "Whisper of Gold Handle",
+   "ro": "Mânerul Șoaptei de Aur"
+  },
+  {
+   "id": 12439637077401289315,
+   "en": "Tidal Wave can now be chained 2 times in a row and Vulnerable lasts an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Valul de maree poate fi înlănțuit acum de 2 ori la rând, iar vulnerabilitatea durează încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12439705308612090912,
+   "en": "Increase damage reduction from ranged hits by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește reducerea daunelor primite de la lovituri la distanță cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12439883632912756340,
+   "en": "Damage with Combo Enders",
+   "ro": "Daune cu finalizatoare de combinație"
+  },
+  {
+   "id": 12440088820062225886,
+   "en": "Increase damage when hitting multiple enemies by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la lovirea mai multor inamici cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12440418216642789647,
+   "en": "Damage on Next Hit After Ability",
+   "ro": "Daune la următoarea lovitură după o abilitate"
+  },
+  {
+   "id": 12440601368844556212,
+   "en": "Despite its name, this long katana delivers more scream than whisper.",
+   "ro": "În ciuda numelui, această katana lungă scoate mai mult un strigăt decât o șoaptă."
+  },
+  {
+   "id": 12440629585724347996,
+   "en": "[TX_NG+] New Game+ allows you to restart the game from the beginning while keeping most of your progression.\n\nYou'll need to complete the game first, then use the save files from that game to initiate New Game+.\n\nYour Resources, Abilities, Weapons, Gear and Upgrades, as well as items acquired from the Store or through Ubisoft Connect, will carry over into your new playthrough.",
+   "ro": "[TX_NG+] Joc nou+ îți permite să reiei jocul de la început, păstrând cea mai mare parte a progresului.\n\nTrebuie mai întâi să termini jocul, apoi să folosești fișierele de salvare din acel joc ca să pornești Joc nou+.\n\nResursele, abilitățile, armele, echipamentul și îmbunătățirile, precum și obiectele achiziționate din Magazin sau prin Ubisoft Connect, se transferă în noua ta partidă."
+  },
+  {
+   "id": 12440860535597022173,
+   "en": "Damage on Next Hit After Dodge",
+   "ro": "Daune la următoarea lovitură după o ferire"
+  },
+  {
+   "id": 12441076353091144881,
+   "en": "From Start",
+   "ro": "De la început"
+  },
+  {
+   "id": 12441379364972891098,
+   "en": "May this blade bring you protection and prosperity both.",
+   "ro": "Lama asta să-ți aducă și protecție, și prosperitate."
+  },
+  {
+   "id": 12441434294245050035,
+   "en": "Skip Prologue",
+   "ro": "Sari peste prolog"
+  },
+  {
+   "id": 12441477050467124400,
+   "en": "Damage with Consecutive Hits",
+   "ro": "Daune cu lovituri consecutive"
+  },
+  {
+   "id": 12441852571087287738,
+   "en": "New Game+",
+   "ro": "Joc nou+"
+  },
+  {
+   "id": 12441917263224358453,
+   "en": "Paid Consumption",
+   "ro": "Consum plătit"
+  },
+  {
+   "id": 12441997486397518214,
+   "en": "Increase damage on afflicted enemies by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele asupra inamicilor afectați cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12442196680308760443,
+   "en": "Dragon's Gold Guard",
+   "ro": "Garda Aurului Dragonului"
+  },
+  {
+   "id": 12442621725770383549,
+   "en": "Damage on Next Hit After Hitting With Tool",
+   "ro": "Daune la următoarea lovitură după lovirea cu o unealtă"
+  },
+  {
+   "id": 12443293052882797180,
+   "en": "Increase damage with consecutive hits by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la lovituri consecutive cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12443345952540271468,
+   "en": "Damage on Next Hit After Breaking Armor",
+   "ro": "Daune la următoarea lovitură după spargerea armurii"
+  },
+  {
+   "id": 12443724884925512867,
+   "en": "[TX_NG+] New Game+ allows you to restart the game from the beginning while keeping most of your progression.\n\nYour resources, abilities, weapons, gear and upgrades, as well as items acquired from the Store or through Ubisoft Connect, will carry over into your new playthrough.\n\n[Color_Negative_Begin][BOLD_BEGIN]WARNING: Your autosave files will gradually be overwritten with new ones as you play the game. Make sure you have a manual save of your progression. You can always find previous save files in the Load menu.[BOLD_END][Color_Negative_End]",
+   "ro": "[TX_NG+] Joc nou+ îți permite să reiei jocul de la început, păstrând cea mai mare parte a progresului.\n\nResursele, abilitățile, armele, echipamentul și îmbunătățirile, precum și obiectele achiziționate din Magazin sau prin Ubisoft Connect, se transferă în noua ta partidă.\n\n[Color_Negative_Begin][BOLD_BEGIN]ATENȚIE: Fișierele de salvare automată vor fi treptat suprascrise cu altele noi pe măsură ce joci. Asigură-te că ai o salvare manuală a progresului. Salvările anterioare le poți găsi oricând în meniul Încarcă.[BOLD_END][Color_Negative_End]"
+  },
+  {
+   "id": 12444482909931060652,
+   "en": "Increase damage with consecutive hits by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele la lovituri consecutive cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12444726918606951881,
+   "en": "Start New Game+",
+   "ro": "Pornește New Game+"
+  },
+  {
+   "id": 12444727776728479822,
+   "en": "Crushing Shockwave now afflicts enemies with Daze, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Unda de șoc zdrobitoare aplică acum Amețeală inamicilor, efectul durând încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12444744697339426473,
+   "en": "+{NumberTag1}% Ability Damage in exchange for {NumberTag2} mon on activation",
+   "ro": "+{NumberTag1}% Daune de abilitate, contra {NumberTag2} mon la activare"
+  },
+  {
+   "id": 12445048662693522250,
+   "en": "New Game+",
+   "ro": "Joc nou+"
+  },
+  {
+   "id": 12445085968340248315,
+   "en": "Increase damage during the night by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele în timpul nopții cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12445231379521143250,
+   "en": "After getting up, the enemy is afflicted by Daze, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "După ce se ridică, inamicul e afectat de Amețeală, efectul durând încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12445368961694345532,
+   "en": "Unlock a new Bullet type that makes the target Vulnerable, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds. Press [CT_ToolWidgetLeft] while aiming to select them.",
+   "ro": "Deblochează un nou tip de glonț care face ținta vulnerabilă, efectul durând încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde. Apasă [CT_ToolWidgetLeft] când ținti, ca să le selectezi."
+  },
+  {
+   "id": 12445385023782370277,
+   "en": "Increase Poison buildup with Poison Arrows by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește acumularea de Otravă prin Săgeți otrăvite cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12445403254351468286,
+   "en": "Adrenaline when Detected",
+   "ro": "Adrenalină când ești detectat"
+  },
+  {
+   "id": 12445418877679659365,
+   "en": "Whisper of Gold Blade",
+   "ro": "Lama Șoaptei de Aur"
+  },
+  {
+   "id": 12445642945875534876,
+   "en": "Damage When Hitting Multiple Enemies",
+   "ro": "Daune când lovești mai mulți inamici"
+  },
+  {
+   "id": 12445712143202090300,
+   "en": "Whisper of Gold Wakizashi",
+   "ro": "Wakizashi Șoaptei de Aur"
+  },
+  {
+   "id": 12445785587427704170,
+   "en": "Feral Outburst's final strike makes the target Vulnerable, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Lovitura finală a Izbucnirii sălbatice face ținta vulnerabilă, efectul durând încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12445931723458970139,
+   "en": "Pay to Win",
+   "ro": "Plătești ca să câștigi"
+  },
+  {
+   "id": 12446041647771138744,
+   "en": "Whisper of Gold",
+   "ro": "Șoapta de Aur"
+  },
+  {
+   "id": 12446050100180948420,
+   "en": "Dragon's Gold Handle",
+   "ro": "Mânerul Aurului Dragonului"
+  },
+  {
+   "id": 12446208926046726127,
+   "en": "New Game+",
+   "ro": "Joc nou+"
+  },
+  {
+   "id": 12446525743267385422,
+   "en": "Increase damage on next hit after using an Ability by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] daunele următoarei lovituri după folosirea unei Abilități"
+  },
+  {
+   "id": 12446565121387178197,
+   "en": "You have unlocked [TX_NG+] New Game+.\n\nGo to the Animus Memories menu to learn more about [TX_NG+] New Game+.\n\nStart a new game and carry over your progression into your new playthrough.",
+   "ro": "Ai deblocat [TX_NG+] Joc nou+.\n\nMergi în meniul Amintirile Animus ca să afli mai multe despre [TX_NG+] Joc nou+.\n\nPornește un joc nou și transferă progresul în noua ta partidă."
+  },
+  {
+   "id": 12446619506236297492,
+   "en": "Damage with Combo Enders",
+   "ro": "Daune cu finalizatoare de combinație"
+  },
+  {
+   "id": 12446876960974822808,
+   "en": "Dragon's Gold Saya",
+   "ro": "Teaca aurului dragonului"
+  },
+  {
+   "id": 12447103752101286093,
+   "en": "Game Cleared",
+   "ro": "Joc terminat"
+  },
+  {
+   "id": 12447333431854410305,
+   "en": "Impenetrable Defense now makes attackers Vulnerable, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "Apărarea impenetrabilă face acum atacatorii Vulnerabili, efectul durând încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  },
+  {
+   "id": 12447544145988619731,
+   "en": "Increase damage on next hit after a Dodge by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] daunele următoarei lovituri după o ferire"
+  },
+  {
+   "id": 12447709658668498147,
+   "en": "On perfectly timed dodges, Dodge Attacks make enemies Vulnerable, lasting an extra [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds",
+   "ro": "La feririle perfect cronometrate, atacurile de ferire fac inamicii Vulnerabili, efectul durând încă [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde"
+  }
+ ]
+}

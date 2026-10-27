@@ -1,0 +1,856 @@
+{
+ "package": "EXP_Awaji_Mandatory_en-US_General",
+ "data_id": "000002278BAC4067",
+ "entries": [
+  {
+   "id": 12430011867437961788,
+   "en": "Seize an enemy and rotate and launch them at the closest target, pushing enemies back and dealing [BOLD_BEGIN]{NumberTag}%[BOLD_END] ability damage.",
+   "ro": "Prinde un inamic, rotește-l și aruncă-l spre cea mai apropiată țintă, împingând inamicii înapoi și provocând [BOLD_BEGIN]{NumberTag}%[BOLD_END] din daunele abilității."
+  },
+  {
+   "id": 12430065838614117849,
+   "en": "During Windstep, increases the next attack's damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END] when switching to a different target.",
+   "ro": "În timpul Pasului de vânt, mărește daunele următorului atac cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] când schimbi ținta."
+  },
+  {
+   "id": 12430553102141535062,
+   "en": "Neutral Posture",
+   "ro": "Postură neutră"
+  },
+  {
+   "id": 12430611645084571457,
+   "en": "Travel to a new distinctive region - the island of Awaji - a place of mysterious beauty. Reclaim a lost treasure while avoiding the traps and ambushes of deadly new foes. Feel the tension of being hunted by a new faction, threatening the mysterious island of Awaji. Master the Bo, a new weapon type for Naoe, unlock new skills, gear, abilities, and get over 10 hours of additional content.",
+   "ro": "Călătorește într-o regiune nouă, insula Awaji, un loc de o frumusețe misterioasă. Recuperează un tezaur pierdut, ferindu-te de capcanele și ambuscadele unor dușmani noi și periculoși. Simte cum te urmărește o facțiune nouă, care amenință misterioasa insulă Awaji. Stăpânește bō, un tip nou de armă pentru Naoe, deblochează abilități, echipament și talente noi și primești peste 10 ore de conținut suplimentar."
+  },
+  {
+   "id": 12430620395723177264,
+   "en": "AWAJI ISLAND",
+   "ro": "INSULA AWAJI"
+  },
+  {
+   "id": 12430648225069660941,
+   "en": "Bo Master Meiran",
+   "ro": "Maestrul bō Meiran"
+  },
+  {
+   "id": 12430713639577931307,
+   "en": "Shockwave on Melee Damage",
+   "ro": "Undă de șoc la daune corp la corp"
+  },
+  {
+   "id": 12430884345239964362,
+   "en": "[Icon_Lock] This option cannot be changed during cinematics.",
+   "ro": "[Icon_Lock] Această opțiune nu poate fi schimbată în timpul cinematicelor."
+  },
+  {
+   "id": 12430934139761744260,
+   "en": "Bo of Wisdom",
+   "ro": "Bō al Înțelepciunii"
+  },
+  {
+   "id": 12431072643592979908,
+   "en": "Upgrade the Bo in your inventory using [TX_Ironsand] Ironsand and [TX_Mon] Mon.\n\nThe maximum upgrade level is limited to the lowest level between your character level and the Forge's upgrade capability.",
+   "ro": "Îmbunătățește bōul din inventar folosind [TX_Ironsand] Nisip de fier și [TX_Mon] Mon.\n\nNivelul maxim de îmbunătățire e limitat de cel mai mic dintre nivelul personajului tău și capacitatea de îmbunătățire a Forjei."
+  },
+  {
+   "id": 12431134143846330567,
+   "en": "Posture Damage",
+   "ro": "Daune de postură"
+  },
+  {
+   "id": 12431529594975329504,
+   "en": "Graceful Decoration",
+   "ro": "Decorație elegantă"
+  },
+  {
+   "id": 12431686473907680784,
+   "en": "Increase damage by [BOLD_BEGIN]{NumberTag2}%[BOLD_END] if not hit by enemies for [BOLD_BEGIN]{NumberTag1}[BOLD_END] seconds.",
+   "ro": "Crește daunele cu [BOLD_BEGIN]{NumberTag2}%[BOLD_END] dacă nu ești lovit de inamici timp de [BOLD_BEGIN]{NumberTag1}[BOLD_END] secunde."
+  },
+  {
+   "id": 12431767046039774454,
+   "en": "An ink painting of a dramatic landscape, made at the behest of Bo Master Meiran.",
+   "ro": "O pictură în cerneală cu un peisaj dramatic, făcută la cererea maestrului bō Meiran."
+  },
+  {
+   "id": 12432023849568835097,
+   "en": "16 years young, this smart pup is a friend to many and loved by all.",
+   "ro": "Are 16 ani și e un cățeluș isteț, prieten cu mulți și iubit de toți."
+  },
+  {
+   "id": 12432174660912488525,
+   "en": "Salvage your unneeded Bo to obtain [TX_Ironsand] Ironsand.",
+   "ro": "Recuperează bōul pe care nu îl mai folosești ca să obții [TX_Ironsand] Nisip de fier."
+  },
+  {
+   "id": 12432359492050081602,
+   "en": "Common Bo",
+   "ro": "Bō obișnuit"
+  },
+  {
+   "id": 12432364796387748552,
+   "en": "New Expansion!",
+   "ro": "Extindere nouă!"
+  },
+  {
+   "id": 12432388232482842023,
+   "en": "Flurry of Blows always breaks armor. The final strike makes the target Vulnerable.",
+   "ro": "Ploaia de lovituri sparge întotdeauna armura. Lovitura finală face ținta Vulnerabilă."
+  },
+  {
+   "id": 12432434226473962209,
+   "en": "TBD",
+   "ro": "ÎN CURS DE STABILIRE"
+  },
+  {
+   "id": 12432473182159708856,
+   "en": "Robust Bo of Wisdom",
+   "ro": "Bō robust al Înțelepciunii"
+  },
+  {
+   "id": 12432834802776488322,
+   "en": "Bo users can assassinate enemies from afar. After your first stealth assassination, you can assassinate another enemy if they are in range. Unlock the skill in your Assassination Mastery Path!",
+   "ro": "Cu bōul poți executa asasinate de la distanță. După primul asasinat furiș, poți asasina un alt inamic dacă e în raza de acțiune. Deblochează abilitatea din Calea măiestriei pentru Asasinat!"
+  },
+  {
+   "id": 12432963382015535877,
+   "en": "Warrior's Bo of Clarity",
+   "ro": "Bō-ul războinicului al Clarității"
+  },
+  {
+   "id": 12432964086995174662,
+   "en": "Although simple in form, the bo staff is a weapon that offers unparalleled versatiliy in combat. Adjusting one's posture unlocks a wealth of opportunities to master one's foes, from rapid incapacitation of a single target to wide-ranging crowd control.",
+   "ro": "Deși e simplu ca formă, bōul este o armă cu o versatilitate fără egal în luptă. Schimbarea posturii îți deschide multe posibilități de a-ți domina adversarii, de la incapacitarea rapidă a unei singure ținte până la controlul mulțimii pe arii largi."
+  },
+  {
+   "id": 12432972627781282242,
+   "en": "Examine",
+   "ro": "Examinează"
+  },
+  {
+   "id": 12433028546825172982,
+   "en": "Embark on a complete new adventure as Naoe & Yasuke and travel to the mysterious Island of Awaji beyond Osaka Bay.",
+   "ro": "Pornește într-o aventură complet nouă ca Naoe și Yasuke și călătorește spre misterioasa insulă Awaji, dincolo de Golful Osaka."
+  },
+  {
+   "id": 12433030380057192098,
+   "en": "Naoe's Bo",
+   "ro": "Bō-ul lui Naoe"
+  },
+  {
+   "id": 12433089971352645951,
+   "en": "Increase Posture Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele de postură cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12433209164141224144,
+   "en": "This Anomaly can be found in Awaji",
+   "ro": "Anomalia asta se găsește în Awaji."
+  },
+  {
+   "id": 12433301669694651353,
+   "en": "Guaranteed critical hit after switching targets",
+   "ro": "Lovitură critică garantată după schimbarea țintei"
+  },
+  {
+   "id": 12433523525627949607,
+   "en": "Increase Posture Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele de postură cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12433781427476503941,
+   "en": "Bo",
+   "ro": "bō"
+  },
+  {
+   "id": 12433832904179095737,
+   "en": "{NumberTag}% chance of a shockwave when taking melee damage",
+   "ro": "{NumberTag}% șansă de undă de șoc când primești daune corp la corp"
+  },
+  {
+   "id": 12434131289924975967,
+   "en": "Increase Armor Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele asupra armurii cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12434273675201643387,
+   "en": "Armor Breaker",
+   "ro": "Spărgătorul armurii"
+  },
+  {
+   "id": 12434290399763156295,
+   "en": "Increase Perfect Flow damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele Fluxului perfect cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12434294905701804819,
+   "en": "Meiran's Painting",
+   "ro": "Pictura lui Meiran"
+  },
+  {
+   "id": 12434455298666153067,
+   "en": "Bo Disciple Outfit",
+   "ro": "Ținuta discipolului bō"
+  },
+  {
+   "id": 12434657603899750478,
+   "en": "Hold [CT_Attack] or [CT_AlternateAttack] to enter Neutral Posture. Release [CT_Attack] or [CT_AlternateAttack] to trigger a powerful jab, pushing the enemy back.",
+   "ro": "Ține apăsat [CT_Attack] sau [CT_AlternateAttack] ca să intri în Postură neutră. Eliberează [CT_Attack] sau [CT_AlternateAttack] ca să declanșezi o împunsătură puternică, ce împinge inamicul înapoi."
+  },
+  {
+   "id": 12434662461218288595,
+   "en": "Graceful Bo of Bewilderment",
+   "ro": "Bō grațios al Uimirii"
+  },
+  {
+   "id": 12434669896414150057,
+   "en": "Perfect Flow attacks generate [BOLD_BEGIN]{NumberTag}%[BOLD_END] additional Adrenaline.",
+   "ro": "Atacurile în Flux perfect generează [BOLD_BEGIN]{NumberTag}%[BOLD_END] Adrenalină suplimentară."
+  },
+  {
+   "id": 12434776924968371867,
+   "en": "Bo Mastery",
+   "ro": "Măiestria bō"
+  },
+  {
+   "id": 12434868666892013756,
+   "en": "Doublet",
+   "ro": "Vestă"
+  },
+  {
+   "id": 12434925433647771564,
+   "en": "Weaker enemy attacks no longer interrupt Naoe when holding [CT_Attack] or [CT_AlternateAttack] while using the Bo.",
+   "ro": "Atacurile inamicilor mai slabi nu mai întrerup acțiunea lui Naoe când ții apăsat [CT_Attack] sau [CT_AlternateAttack] în timp ce folosești bōul."
+  },
+  {
+   "id": 12434947040427209453,
+   "en": "Parrying an attack or killing an enemy extends the duration of Windstep by [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds, up to {NumberTag2} times.",
+   "ro": "Parada unui atac sau uciderea unui inamic prelungește durata Pasului de vânt cu [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde, de până la {NumberTag2} ori."
+  },
+  {
+   "id": 12434976947197616559,
+   "en": "Claws of Awaji has been [BOLD_BEGIN]released[BOLD_END].\n\nJoin Naoe and Yasuke as they investigate a new threat on the mysterious island of Awaji.\n\nVisit the store page for more information.",
+   "ro": "Expansiunea Claws of Awaji a fost [BOLD_BEGIN]lansată[BOLD_END].\n\nAlătură-te lui Naoe și lui Yasuke pe măsură ce investighează o amenințare nouă pe misterioasa insulă Awaji.\n\nVizitează pagina din magazin pentru mai multe informații."
+  },
+  {
+   "id": 12435072261608840220,
+   "en": "Claws of Awaji",
+   "ro": "Claws of Awaji"
+  },
+  {
+   "id": 12435386835141284678,
+   "en": "Bo of Clarity",
+   "ro": "Bō al Clarității"
+  },
+  {
+   "id": 12435402239890080059,
+   "en": "Olive",
+   "ro": "Măsliniu"
+  },
+  {
+   "id": 12435433958577515956,
+   "en": "Critical Hit when Switching Targets",
+   "ro": "Lovitură critică la schimbarea țintelor"
+  },
+  {
+   "id": 12436022353418580838,
+   "en": "Obtained after defeating the Bandits at Makinoodera Temple",
+   "ro": "Obținut după ce îi înfrângi pe Bandiții de la Templul Makinoodera"
+  },
+  {
+   "id": 12436098981511185448,
+   "en": "Hard Landing",
+   "ro": "Aterizare dură"
+  },
+  {
+   "id": 12436287821005523554,
+   "en": "Stunning Bo of Bewilderment",
+   "ro": "Bō uluitor al Uimirii"
+  },
+  {
+   "id": 12436564013652319954,
+   "en": "Go to Awaji",
+   "ro": "Mergi la Awaji"
+  },
+  {
+   "id": 12436722615285605210,
+   "en": "Magnificent Bo of Destruction",
+   "ro": "Bō magnific al Distrugerii"
+  },
+  {
+   "id": 12436840090824783001,
+   "en": "Hardened",
+   "ro": "Întărit"
+  },
+  {
+   "id": 12436983743864112350,
+   "en": "High Posture",
+   "ro": "Postură înaltă"
+  },
+  {
+   "id": 12437027969284049284,
+   "en": "Bo Postures",
+   "ro": "Posturile bō"
+  },
+  {
+   "id": 12437184301983798767,
+   "en": "Mastered Posture",
+   "ro": "Postură stăpânită"
+  },
+  {
+   "id": 12437305290217087476,
+   "en": "Bo Posture Effects",
+   "ro": "Efectele posturilor bō"
+  },
+  {
+   "id": 12437341695919568889,
+   "en": "Graceful Bo of Destruction",
+   "ro": "Bō grațios al Distrugerii"
+  },
+  {
+   "id": 12437355362253162825,
+   "en": "Increase damage by [BOLD_BEGIN]{NumberTag2}%[BOLD_END] if not hit by enemies for [BOLD_BEGIN]{NumberTag1}[BOLD_END] seconds.",
+   "ro": "Crește daunele cu [BOLD_BEGIN]{NumberTag2}%[BOLD_END] dacă nu ești lovit de inamici timp de [BOLD_BEGIN]{NumberTag1}[BOLD_END] secunde."
+  },
+  {
+   "id": 12437411662836183161,
+   "en": "Bo Passive",
+   "ro": "Pasiv bō"
+  },
+  {
+   "id": 12437443009306428038,
+   "en": "Flurry of Blows",
+   "ro": "Ploaie de lovituri"
+  },
+  {
+   "id": 12437619589502688167,
+   "en": "Bo Abilities",
+   "ro": "Abilități bō"
+  },
+  {
+   "id": 12437772983661445710,
+   "en": "Warrior's Bo of Wisdom",
+   "ro": "Bō-ul războinicului al Înțelepciunii"
+  },
+  {
+   "id": 12437795818249024928,
+   "en": "Graceful Bo of Clarity",
+   "ro": "Bō grațios al Clarității"
+  },
+  {
+   "id": 12437933565293273074,
+   "en": "Bo of Dread",
+   "ro": "Bō al Groazei"
+  },
+  {
+   "id": 12437994878292946328,
+   "en": "Robust Bo of Dread",
+   "ro": "Bō robust al Groazei"
+  },
+  {
+   "id": 12438028453091132906,
+   "en": "Landscape Sumi-e",
+   "ro": "Sumi-e peisagistic"
+  },
+  {
+   "id": 12438109385442908713,
+   "en": "Epic Bo",
+   "ro": "Bō epic"
+  },
+  {
+   "id": 12438198741038728429,
+   "en": "Increase Armor Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele asupra armurii cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12438320802005777920,
+   "en": "Increase Posture Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele de postură cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12438339893223826935,
+   "en": "Claws of Awaji",
+   "ro": "Claws of Awaji"
+  },
+  {
+   "id": 12438401022334847275,
+   "en": "Hold [CT_Attack]/[CT_AlternateAttack] and then press  [CT_BoUp]/ [CT_BoDown] to [BOLD_BEGIN]switch postures[BOLD_END]. Each posture has a dedicated effect.",
+   "ro": "Ține apăsat [CT_Attack]/[CT_AlternateAttack] și apoi apasă [CT_BoUp]/ [CT_BoDown] ca să [BOLD_BEGIN]schimbi posturile[BOLD_END]. Fiecare postură are un efect propriu."
+  },
+  {
+   "id": 12438482349538236936,
+   "en": "The world is full of wonders. Find a good spot and start drawing the landscape by looking at your target while holding [CT_Observe].",
+   "ro": "Lumea e plină de minuni. Găsește un loc potrivit și începe să desenezi peisajul, uitându-te la el cât timp ții apăsat [CT_Observe]."
+  },
+  {
+   "id": 12438587608972047091,
+   "en": "While exploring Awaji, Naoe and Yasuke will stumble upon breathtaking landscapes they may wish to draw.\n\nPay attention to [TX_SumiE] on your compass or in the world – they will appear when a landmark is close by.\n\nFollow the trail that leads to a vantage point. Once reached, Naoe and Yasuke can draw by looking at the landscape while holding [CT_Observe].\n\nUpon completion, you will earn a painting to display in the Hideout.",
+   "ro": "În timp ce explorează Awaji, Naoe și Yasuke vor da peste peisaje care taie respirația și pe care ar putea dori să le deseneze.\n\nAtenție la [TX_SumiE] de pe busola ta sau din lume – vor apărea când un reper e aproape.\n\nUrmează traseul care duce la un punct de observație. Odată ajunși acolo, Naoe și Yasuke pot desena uitându-se la peisaj cât timp țin apăsat [CT_Observe].\n\nLa final, o să primești o pictură pe care s-o expui în Ascunzătoare."
+  },
+  {
+   "id": 12438697622422318829,
+   "en": "Bo of Bewilderment",
+   "ro": "Bō al Uimirii"
+  },
+  {
+   "id": 12438790163294118144,
+   "en": "Thanks for purchasing Claws of Awaji! Finish the Main Story to access this new content.",
+   "ro": "Mulțumim că ai cumpărat Claws of Awaji! Termină Povestea principală ca să accesezi conținutul nou."
+  },
+  {
+   "id": 12438828039944281212,
+   "en": "Thank you for buying Assassin's Creed Shadows and Claws of Awaji. Before you can start the expansion, you must first [BOLD_BEGIN]complete the personal journeys of Naoe, Yasuke, and Junjiro[BOLD_END].",
+   "ro": "Mulțumim că ai cumpărat Assassin's Creed Shadows și Claws of Awaji. Înainte să poți începe extinderea, trebuie mai întâi să [BOLD_BEGIN]finalizezi călătoriile personale ale lui Naoe, Yasuke și Junjiro[BOLD_END]."
+  },
+  {
+   "id": 12439021193596485492,
+   "en": "Each of the Bo's posture types (High, Neutral, Low) have different effects on enemies.",
+   "ro": "Fiecare tip de postură a bōului (înaltă, neutră, joasă) are efecte diferite asupra inamicilor."
+  },
+  {
+   "id": 12439035414211656236,
+   "en": "Staff",
+   "ro": "Personal"
+  },
+  {
+   "id": 12439314185155401097,
+   "en": "Legendary Bo",
+   "ro": "Bō legendar"
+  },
+  {
+   "id": 12439356799905368013,
+   "en": "Decoration",
+   "ro": "Decorație"
+  },
+  {
+   "id": 12439405260831047211,
+   "en": "Join Naoe and Yasuke as they investigate a new threat on the mysterious island of Awaji.",
+   "ro": "Alătură-te lui Naoe și Yasuke pe măsură ce investighează o amenințare nouă de pe misterioasa insulă Awaji."
+  },
+  {
+   "id": 12439421734334303206,
+   "en": "Momentum",
+   "ro": "Impuls"
+  },
+  {
+   "id": 12439429007092361992,
+   "en": "Landscape Sumi-e ",
+   "ro": "Sumi-e peisagistic "
+  },
+  {
+   "id": 12439471048210995703,
+   "en": "Bo Chain Assassination",
+   "ro": "Asasinat în lanț cu bō"
+  },
+  {
+   "id": 12439507972498078265,
+   "en": "Increase Flurry of Blows damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele Ploii de lovituri cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12439860279315433140,
+   "en": "Increase Armor Damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele asupra armurii cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12440019413348528573,
+   "en": "Uncommon Bo",
+   "ro": "Bō neobișnuit"
+  },
+  {
+   "id": 12440087048358325507,
+   "en": "Stunning Bo of Dread",
+   "ro": "Bō uluitor al Groazei"
+  },
+  {
+   "id": 12440204102310354329,
+   "en": "Magnificent Decoration",
+   "ro": "Decorație magnifică"
+  },
+  {
+   "id": 12440275702089885050,
+   "en": "This cat possesses surprisingly spectacular parkour skills.",
+   "ro": "Pisica asta are abilități de parkour surprinzător de spectaculoase."
+  },
+  {
+   "id": 12440369559004604165,
+   "en": "Enhance Bo in your inventory for a cost in [TX_Masterwork] Gold, [TX_Ironsand] Ironsand, and [TX_Mon] Mon.\n \nEpic and Legendary Bo can be enhanced to Mythic and Artifact quality, respectively.\n\nOnce the new quality is obtained, each Bo can be further enhanced 8 more times to unlock their full potential.",
+   "ro": "Îmbunătățește bōul din inventar cu un cost de [TX_Masterwork] Aur, [TX_Ironsand] Nisip de fier și [TX_Mon] Mon.\n \nBō-urile Epice și Legendare pot fi îmbunătățite la calitatea Mitică, respectiv Artefact.\n\nOdată ce ai obținut noua calitate, fiecare bō poate fi îmbunătățit de încă 8 ori ca să-și atingă întregul potențial."
+  },
+  {
+   "id": 12440496688878677827,
+   "en": "Increase Flurry of Blows damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele Ploii de lovituri cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12440712034122980712,
+   "en": "Unleash 5 strikes, each dealing [BOLD_BEGIN]{NumberTag}%[BOLD_END] Ability damage.",
+   "ro": "Dezlănțuie 5 lovituri, fiecare cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] daune de Abilitate."
+  },
+  {
+   "id": 12440718507844375076,
+   "en": "Landing a High Posture Attack during an enemy attack triggers a Weakpoint Attack.",
+   "ro": "Dacă lovești cu un Atac de postură înaltă în timpul atacului unui inamic, declanșezi un atac asupra punctului slab."
+  },
+  {
+   "id": 12440761125463898729,
+   "en": "Grab and Throw",
+   "ro": "Apucă și aruncă"
+  },
+  {
+   "id": 12440799218894404862,
+   "en": "Increase Perfect Flow damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele Fluxului perfect cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12441056088502356978,
+   "en": "Bo Ability",
+   "ro": "Abilitate de bō"
+  },
+  {
+   "id": 12441067272685611787,
+   "en": "Press [CT_Attack] or [CT_AlternateAttack] at the right moment when a strike lands to restore [BOLD_BEGIN]{NumberTag}%[BOLD_END] Health.",
+   "ro": "Apasă [CT_Attack] sau [CT_AlternateAttack] la momentul potrivit, când o lovitură reușește, ca să recuperezi [BOLD_BEGIN]{NumberTag}%[BOLD_END] Sănătate."
+  },
+  {
+   "id": 12441258686718488874,
+   "en": "Stunning Bo of Clarity",
+   "ro": "Bō uluitor al Limpezimii"
+  },
+  {
+   "id": 12441284346477480958,
+   "en": "From Neutral Posture, press [CT_BoUp] to enter High Posture. Release [CT_Attack] or [CT_AlternateAttack] to trigger a head strike, staggering attacking enemies.",
+   "ro": "Din Postură neutră, apasă [CT_BoUp] ca să intri în Postură înaltă. Eliberează [CT_Attack] sau [CT_AlternateAttack] ca să declanșezi o lovitură în cap, care dezechilibrează inamicii care atacă."
+  },
+  {
+   "id": 12441403244047712191,
+   "en": "Warrior's Decoration",
+   "ro": "Decorație de războinic"
+  },
+  {
+   "id": 12441429814228811936,
+   "en": "Curry",
+   "ro": "Curry"
+  },
+  {
+   "id": 12441436665592340537,
+   "en": "Go to Store",
+   "ro": "Mergi la magazin"
+  },
+  {
+   "id": 12441526069603566386,
+   "en": "Stunning Bo of Destruction",
+   "ro": "Bō uluitor al Distrugerii"
+  },
+  {
+   "id": 12441707484988029493,
+   "en": "Bo Posture Attacks now retain their full effects on large and armored enemies.",
+   "ro": "Atacurile de postură ale bōului păstrează acum toate efectele asupra inamicilor mari și blindați."
+  },
+  {
+   "id": 12441896462270723675,
+   "en": "While using a Bo, Naoe can assassinate up to three surrounding enemies in rapid succession.",
+   "ro": "Când folosește un bō, Naoe poate asasina până la trei inamici din jur, în succesiune rapidă."
+  },
+  {
+   "id": 12441945578033925997,
+   "en": "Hardened",
+   "ro": "Întărit"
+  },
+  {
+   "id": 12442075626532231213,
+   "en": "Reinvigorating Strikes",
+   "ro": "Lovituri revigorante"
+  },
+  {
+   "id": 12442153529535478491,
+   "en": "BO",
+   "ro": "Bō"
+  },
+  {
+   "id": 12442164179746829238,
+   "en": "Warrior's Bo of Destruction",
+   "ro": "Bō-ul războinicului al Distrugerii"
+  },
+  {
+   "id": 12442310863835959835,
+   "en": "Robust Bo of Bewilderment",
+   "ro": "Bō robust al Uimirii"
+  },
+  {
+   "id": 12442362634767256322,
+   "en": "Warrior's Bo of Dread",
+   "ro": "Bō-ul războinicului al Groazei"
+  },
+  {
+   "id": 12442570454568253464,
+   "en": "Low Posture",
+   "ro": "Postură joasă"
+  },
+  {
+   "id": 12442620087627969033,
+   "en": "Claws of Awaji - Assassin's Creed® Shadows",
+   "ro": "Claws of Awaji - Assassin's Creed® Shadows"
+  },
+  {
+   "id": 12442864602108015977,
+   "en": "Increase damage during Windstep by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele în timpul Pasului de vânt cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12442867696673655954,
+   "en": "Robust Bo of Clarity",
+   "ro": "Bō robust al Clarității"
+  },
+  {
+   "id": 12442873601242299457,
+   "en": "You have now unlocked the Claws of Awaji expansion.\n\nWhen you are ready to start your new adventure, [BOLD_BEGIN]talk to Hanzo's contact at the Hideout[BOLD_END] in Settsu.",
+   "ro": "Ai deblocat acum extinderea Ghearelor din Awaji.\n\nCând ești pregătit să pornești noua aventură, [BOLD_BEGIN]vorbește cu contactul lui Hanzo de la Ascunzătoare[BOLD_END] din Settsu."
+  },
+  {
+   "id": 12442936782821740352,
+   "en": "Graceful Bo of Wisdom",
+   "ro": "Bō grațios al Înțelepciunii"
+  },
+  {
+   "id": 12442999714441234802,
+   "en": "Robust Decoration",
+   "ro": "Decorație robustă"
+  },
+  {
+   "id": 12443034916169410495,
+   "en": "New Expansion!",
+   "ro": "Extindere nouă!"
+  },
+  {
+   "id": 12443237090302127619,
+   "en": "Increase Bo damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END] ",
+   "ro": "Crește daunele provocate de bō cu [BOLD_BEGIN]{NumberTag}%[BOLD_END] "
+  },
+  {
+   "id": 12443244846339992826,
+   "en": "Unseizable",
+   "ro": "Imposibil de prins"
+  },
+  {
+   "id": 12443277821896281335,
+   "en": "Magnificent Bo of Wisdom",
+   "ro": "Bō măreț al înțelepciunii"
+  },
+  {
+   "id": 12443280470200891055,
+   "en": "Chain Assassination",
+   "ro": "Asasinat în lanț"
+  },
+  {
+   "id": 12443577002255478137,
+   "en": "Perfect Flow",
+   "ro": "Flux perfect"
+  },
+  {
+   "id": 12443735904745068766,
+   "en": "Increase Grab and Throw knockdown duration by [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds.",
+   "ro": "Crește durata de doborâre din Apucă și aruncă cu [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde."
+  },
+  {
+   "id": 12443882975327468292,
+   "en": "From Neutral Posture, press [CT_BoDown] to enter Low Posture.\nRelease [CT_Attack] or [CT_AlternateAttack] to trigger an ankle swipe, knocking down regular enemies.",
+   "ro": "Din poziția neutră, apasă [CT_BoDown] ca să intri în postură joasă.\nEliberează [CT_Attack] sau [CT_AlternateAttack] ca să declanșezi o lovitură la glezne, care doboară inamicii obișnuiți."
+  },
+  {
+   "id": 12443887834379250687,
+   "en": "Artifact Bo",
+   "ro": "Bō artefact"
+  },
+  {
+   "id": 12444177696767966766,
+   "en": "Counterstrike",
+   "ro": "Contraatac"
+  },
+  {
+   "id": 12444201967564915938,
+   "en": "Whistle\nCall Mount (Hold)",
+   "ro": "Fluieră\nÎncalecă (ține apăsat)"
+  },
+  {
+   "id": 12444248097321848359,
+   "en": "Increase damage during Windstep by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Crește daunele în timpul Pasului de vânt cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12444277417756283868,
+   "en": "Stunning Decoration",
+   "ro": "Decorație uluitoare"
+  },
+  {
+   "id": 12444298256029369823,
+   "en": "Pressing [CT_Attack] or [CT_AlternateAttack] at the right moment during combo enders will also break the enemy's guard.",
+   "ro": "Apăsarea lui [CT_Attack] sau [CT_AlternateAttack] la momentul potrivit în finalul combinațiilor o să spargă și garda inamicului."
+  },
+  {
+   "id": 12444353833930723589,
+   "en": "Armor Breaker",
+   "ro": "Spărgătorul armurii"
+  },
+  {
+   "id": 12444410731815398762,
+   "en": "Bo Disciple Headband",
+   "ro": "Bandană de discipol al bō-ului"
+  },
+  {
+   "id": 12444463071359007514,
+   "en": "Robust Bo of Destruction",
+   "ro": "Bō robust al distrugerii"
+  },
+  {
+   "id": 12444843081152327521,
+   "en": "Rare Bo",
+   "ro": "Bō rar"
+  },
+  {
+   "id": 12444867444026046168,
+   "en": "Windstep",
+   "ro": "Pas de vânt"
+  },
+  {
+   "id": 12444946829426264106,
+   "en": "Graceful Bo of Dread",
+   "ro": "Bō grațios al groazei"
+  },
+  {
+   "id": 12444955743027669065,
+   "en": "Magnificent Bo of Dread",
+   "ro": "Bō măreț al groazei"
+  },
+  {
+   "id": 12445054621517251460,
+   "en": "Grab and Throw always breaks armor.",
+   "ro": "Apucă și aruncă sparg întotdeauna armura."
+  },
+  {
+   "id": 12445267096403416192,
+   "en": "For many years, there have been tales of a monk, a master of the bo, wandering the countryside aiding the victims of war and corruption. This monk asked for nothing in return save the chance to educate the poor and vulnerable in the ways of self-defense.\n\nMeiran sees the bo as a great equalizer, as deadly as the costly katana of the samurai but available to all. Now, as age brings his wandering days to an end, he has chosen to continue his mission and bring the art of the bo to all who will listen.",
+   "ro": "De mulți ani se vorbește despre un călugăr, maestru al bō-ului, care străbătea țara ajutându-i pe victimele războiului și ale corupției. Acest călugăr nu cerea nimic în schimb, decât șansa de a-i învăța pe cei săraci și vulnerabili arta autoapărării.\n\nMeiran vede bō-ul ca pe un mare egalizator, la fel de mortal ca scumpa katana a samuraiului, dar accesibil tuturor. Acum, când vârsta îi pune capăt zilelor de rătăcire, a ales să-și continue misiunea și să aducă arta bō-ului tuturor celor care vor să asculte."
+  },
+  {
+   "id": 12445396090384414281,
+   "en": "Each new path points towards a new destination.",
+   "ro": "Fiecare drum nou duce la o destinație nouă."
+  },
+  {
+   "id": 12445442497174950452,
+   "en": "Warrior's Bo of Bewilderment",
+   "ro": "Bō al războinicului de uimire"
+  },
+  {
+   "id": 12445514847115174592,
+   "en": "In order to learn, one must first accept one's ignorance.",
+   "ro": "Ca să înveți, trebuie mai întâi să recunoști că nu știi."
+  },
+  {
+   "id": 12445549556318569259,
+   "en": "Greatly extend the reach, speed and impact of Naoe's attacks for [BOLD_BEGIN]{NumberTag}[BOLD_END] seconds.",
+   "ro": "Mărește mult aria, viteza și impactul atacurilor lui Naoe timp de [BOLD_BEGIN]{NumberTag}[BOLD_END] secunde."
+  },
+  {
+   "id": 12445560177711173602,
+   "en": "Magnificent Bo of Bewilderment",
+   "ro": "Bō măreț al uimirii"
+  },
+  {
+   "id": 12445796127407081647,
+   "en": "Engrave an additional perk on your Bo for [TX_Mon] Mon based on the level of the item and the quality of the perk.\n\nEngravings can be obtained by killing Targets, opening [TX_GearChest] Gear Chests or purchasing them from [TX_GearVendors] Gear Vendors. Legendary Engravings are obtained by finding Legendary Items in the world. They require a level 3 Forge to be engraved.",
+   "ro": "Gravează o însușire suplimentară pe bō-ul tău, pentru [TX_Mon] Mon, în funcție de nivelul obiectului și de calitatea însușirii.\n\nGravurile pot fi obținute ucigând ținte, deschizând [TX_GearChest] lăzi cu echipament sau cumpărându-le de la [TX_GearVendors] vânzători de echipament. Gravurile legendare se găsesc în lume, printre obiectele legendare. Ca să fie gravate, au nevoie de o forjă de nivelul 3."
+  },
+  {
+   "id": 12446289241326490666,
+   "en": "Claws of Awaji",
+   "ro": "Claws of Awaji"
+  },
+  {
+   "id": 12446329268335832456,
+   "en": "Guard Break",
+   "ro": "Spargere a gardei"
+  },
+  {
+   "id": 12446407641519313704,
+   "en": "Switching Postures",
+   "ro": "Schimbarea posturilor"
+  },
+  {
+   "id": 12446519625553024096,
+   "en": "Increase damage by [BOLD_BEGIN]{NumberTag2}%[BOLD_END] if not hit by enemies for [BOLD_BEGIN]{NumberTag1}[BOLD_END] seconds.",
+   "ro": "Crește daunele cu [BOLD_BEGIN]{NumberTag2}%[BOLD_END] dacă nu ești lovit de inamici timp de [BOLD_BEGIN]{NumberTag1}[BOLD_END] secunde."
+  },
+  {
+   "id": 12446663088046766554,
+   "en": "Stunning Bo of Wisdom",
+   "ro": "Bō uluitor al înțelepciunii"
+  },
+  {
+   "id": 12446920042378570962,
+   "en": "While holding [CT_Attack] or [CT_AlternateAttack] to charge a Bo Posture, you may press [CT_BoDown] or [CT_BoUp] to adjust the posture's height.",
+   "ro": "Cât ții apăsat [CT_Attack] sau [CT_AlternateAttack] ca să încarci o postură cu bō, poți apăsa [CT_BoDown] sau [CT_BoUp] ca să ajustezi înălțimea posturii."
+  },
+  {
+   "id": 12446984188140860591,
+   "en": "Bo Master Meiran",
+   "ro": "Maestrul bō Meiran"
+  },
+  {
+   "id": 12447100802788574841,
+   "en": "Adrenaline Generation",
+   "ro": "Generare de adrenalină"
+  },
+  {
+   "id": 12447130468706363445,
+   "en": "Armor Breaker",
+   "ro": "Spărgătorul armurii"
+  },
+  {
+   "id": 12447138287596073787,
+   "en": "Gizmo",
+   "ro": "Gadget"
+  },
+  {
+   "id": 12447230451662423485,
+   "en": "Bo of Destruction",
+   "ro": "Bō al distrugerii"
+  },
+  {
+   "id": 12447279875614852585,
+   "en": "Increase Grab and Throw damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END]",
+   "ro": "Mărește daunele de la Apucă și aruncă cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]"
+  },
+  {
+   "id": 12447455431638969588,
+   "en": "Mythic Bo",
+   "ro": "Bō mitic"
+  },
+  {
+   "id": 12447525251418825295,
+   "en": "Fanum may be the GOAT, but Curry's the one with hooves. Troupe-approved.",
+   "ro": "Fanum poate fi GOAT-ul, dar Curry e cel cu copite. Aprobat de trupă."
+  },
+  {
+   "id": 12447573402213038699,
+   "en": "After each attack, press [CT_Attack] or [CT_AlternateAttack] at the right moment to increase the damage of the next attack by [BOLD_BEGIN]{NumberTag}%[BOLD_END].",
+   "ro": "După fiecare atac, apasă [CT_Attack] sau [CT_AlternateAttack] la momentul potrivit ca să crești daunele următorului atac cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]."
+  },
+  {
+   "id": 12447693322603868514,
+   "en": "Magnificent Bo of Clarity",
+   "ro": "Bō măreț al limpezimii"
+  },
+  {
+   "id": 12447811928937256661,
+   "en": "Increase Grab and Throw damage by [BOLD_BEGIN]{NumberTag}%[BOLD_END].",
+   "ro": "Mărește daunele de la Apucă și aruncă cu [BOLD_BEGIN]{NumberTag}%[BOLD_END]."
+  },
+  {
+   "id": 12447934965841486421,
+   "en": "Tactical Shift",
+   "ro": "Schimbare tactică"
+  }
+ ]
+}
